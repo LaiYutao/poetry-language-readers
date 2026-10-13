@@ -49,23 +49,23 @@
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0.md",
-      "bytes": 100114,
-      "sha256": "55d79e8cc6cd1ab537dce1ecc2848c3f57e02a04d8351692f079ce885952d96b"
+      "bytes": 100139,
+      "sha256": "528d9fe265804e29e3becbff886ede29ea41ace09fbfe05347597fe132e0793b"
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0.pdf",
-      "bytes": 710633,
-      "sha256": "f9271062425fe961066abe39e9580e95f244efc4c5cf63e34fda12ddf38ff3d7"
+      "bytes": 710694,
+      "sha256": "b540441d65b3cdb7b8a7a381ffc12ce6e5719ce87b255f93f8885501ac15ef43"
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.1.md",
-      "bytes": 220380,
-      "sha256": "05a5124a36bae9a47db8812616b1fe02caa5e0198ed07e45fdc4d9b76f4c7f38"
+      "bytes": 221746,
+      "sha256": "a206eba4711e4bc4c571d1ee0ef9761a606337296f5ea528b124562030c1fa82"
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.1.pdf",
-      "bytes": 3002913,
-      "sha256": "6cdad02cfc04cefe41b8943cce566132caeee2b6e819d5eef3029cb63f660383"
+      "bytes": 3006479,
+      "sha256": "13ac5bba9806697d5e8925fab4dbfc7e8ad665e7c59d24a9d40a52fedfadebb9"
     },
     {
       "path": "publications/de/rilke-selected/content.json",
@@ -84,13 +84,13 @@
     },
     {
       "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2.md",
-      "bytes": 117779,
-      "sha256": "c1dbaf10cca1e00cdd8e09cd54d5e039fe1fa7bfb70a7b4b326ca88db4eac2bc"
+      "bytes": 117804,
+      "sha256": "ddce3460412bc05a90a548795b2b0a10e96cc930a02f9e5bbcfba69eac881e1d"
     },
     {
       "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2.pdf",
-      "bytes": 615765,
-      "sha256": "7aa289c8aaafdc067879048906f1e04f7a0b88c5d682e3e0a8f5419a59a7ea85"
+      "bytes": 615799,
+      "sha256": "220fa0846abad0a393d4989a51c13fd1fbabfa8af88185e8b4c6345c8c5797d5"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/content.json",
@@ -109,13 +109,13 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2.md",
-      "bytes": 133958,
-      "sha256": "e45363004b15957016e7f4deb912245238af123daeeaf50870609eaf848058a2"
+      "bytes": 133983,
+      "sha256": "0ddc1ffa6b14bcd90f5cf3d4779c1cd3f124c5770bd81f5d17886499370f89e2"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2.pdf",
-      "bytes": 673795,
-      "sha256": "ea53e320c1502619857e9678e08e433736e049ca1c22fcaae5346890d11df0b5"
+      "bytes": 673829,
+      "sha256": "a21b6a998545ee851554fedbd57db37ac0bcf2b6a692fdbda04afa1fd060beb1"
     },
     {
       "path": "plans/布莱希特20首选篇与底本建议.md",
@@ -139,23 +139,23 @@
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0_网页语音版.html",
-      "bytes": 23025967,
-      "sha256": "6deb2162bdccb9f5a235647bfed02869ddbe3a10ceea60df4b48b488450ea694"
+      "bytes": 23038227,
+      "sha256": "5c41b2f5a6cd5d113ea80f45ae1c40eeaabeba71f57b903c6fdec1332ec510e0"
     },
     {
       "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2_网页语音版.html",
-      "bytes": 36490264,
-      "sha256": "102fdc96eb8ea49ace398d7e488ab2e329f5bb2530529a2b76b89c0fa1893af1"
+      "bytes": 36496943,
+      "sha256": "a77efc1cfbeeb38328e253a160815aa58e7ecb421f8bf06079cbc6f4d4d9fd4d"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2_网页语音版.html",
-      "bytes": 40176033,
-      "sha256": "c094174cf444b9b8086c36cc2e8b909f97507e179afcef36638769c8067a8d0d"
+      "bytes": 40182666,
+      "sha256": "b493edbda9f422da5a8cddd145386ae12a0b8ca50d6cda00a05c6957794ec2ca"
     },
     {
       "path": "README.md",
       "bytes": 4984,
-      "sha256": "e16133ca87e3c59d34554d0e682185af8a1572949f597a7a8608505751d52435"
+      "sha256": "46b35ac74d8b44dd17dbbe0b01a453bddf85f9d6e7a8700f557604eec955dae1"
     },
     {
       "path": "docs/逐词读本编纂指南.md",
@@ -163,7 +163,7 @@
       "sha256": "b7932e835d4018b30978b56f1e7888f6d61a10d7656803a846abca7e165dc2ee"
     }
   ],
-  "updated": "2026-10-13",
+  "updated": "2026-10-14",
   "web_audio_readers": [
     {
       "name": "策兰《呼吸结晶》21首",
