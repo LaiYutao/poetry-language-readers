@@ -69,8 +69,8 @@
     },
     {
       "path": "publications/de/rilke-selected/content.json",
-      "bytes": 152539,
-      "sha256": "e65db7b17d342efd19382a78ed732576c98bb5a1eae82c672b1d22efcbe9bb8d"
+      "bytes": 152536,
+      "sha256": "72cd7c5bd223cac7a32769a67a584667a86c738067bfaccf703d9ae7cbab2643"
     },
     {
       "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.1.md",
@@ -84,13 +84,13 @@
     },
     {
       "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2.md",
-      "bytes": 114167,
-      "sha256": "d955ea66e0dc7653e63f9dce8baa81442413dd814ae6034cfc00003ef81cb243"
+      "bytes": 114164,
+      "sha256": "cb333634ab6f357ca72185733aed2b4468f0f95a906fa2c391789e86e0816724"
     },
     {
       "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2.pdf",
-      "bytes": 612917,
-      "sha256": "99e4cf79bd0693798706b53b3d429f6cd4cff3bcb55ae2f74e279ca72bf088c4"
+      "bytes": 612912,
+      "sha256": "64f5030fa0569dd08d37c4f5195fca9dbef55229b8ef77ee0a03ba3846bd97be"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/content.json",
