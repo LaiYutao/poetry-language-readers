@@ -69,8 +69,8 @@
     },
     {
       "path": "publications/de/rilke-selected/content.json",
-      "bytes": 152536,
-      "sha256": "72cd7c5bd223cac7a32769a67a584667a86c738067bfaccf703d9ae7cbab2643"
+      "bytes": 152440,
+      "sha256": "c8adbc8a0b003cac3e76555ca3cc758ba9e3c1d61a52bd02c7710bd3a2ed608d"
     },
     {
       "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.1.md",
@@ -84,18 +84,18 @@
     },
     {
       "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2.md",
-      "bytes": 114164,
-      "sha256": "cb333634ab6f357ca72185733aed2b4468f0f95a906fa2c391789e86e0816724"
+      "bytes": 114068,
+      "sha256": "ebb131102d5ad0e9d257036600622a3680f36a6bbcece836b03e301cb700eb0f"
     },
     {
       "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2.pdf",
-      "bytes": 612912,
-      "sha256": "64f5030fa0569dd08d37c4f5195fca9dbef55229b8ef77ee0a03ba3846bd97be"
+      "bytes": 612865,
+      "sha256": "b8ac560bb827add3f001f2140ba6f1d9ee142be6d2da0a275c2737cffdb23714"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/content.json",
-      "bytes": 172839,
-      "sha256": "bd095c291929f2df766a370b56a4979019295cfef07f6496829099834f005186"
+      "bytes": 172818,
+      "sha256": "6e380ed5860d32076356e1a651a53fefe1dbde59d90dacd2d32ea289a90e5309"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选20首逐词译注读本_v0.1.md",
@@ -109,13 +109,13 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2.md",
-      "bytes": 127129,
-      "sha256": "f6762d7c832a999328b8ef1d57ea0462a69806108729bc6ba21b0e79208c6e7d"
+      "bytes": 127108,
+      "sha256": "caad254c2cfca1afd5c296ac368c48bed1d64e265f8f3e82366d21682ac2ea6b"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2.pdf",
-      "bytes": 671687,
-      "sha256": "49502c6de4c9d1c90e5d96369cb4e9cd9ebc4fdd24d1a58ed75612d4860136a2"
+      "bytes": 671891,
+      "sha256": "8871beadd4fe77bc2b0b853d4be38627d645452168b21789d15a2292ea0842a9"
     },
     {
       "path": "plans/布莱希特20首选篇与底本建议.md",
