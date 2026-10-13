@@ -72,28 +72,28 @@
     },
     {
       "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.1.md",
-      "bytes": 107360,
-      "sha256": "ed1c66189f23c2677855f688e44e54a4124aef1223228772e55a1870d04460fd"
+      "bytes": 107984,
+      "sha256": "56a9c4acec3f1e270de99fbaa4dc4e0c2c01d832378f693952c1d49852f73c39"
     },
     {
       "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.1.pdf",
-      "bytes": 604511,
-      "sha256": "4eca361e1d88ee850ac53f700a964e2f6a6b70fd8008afa4fd17b31a5289903b"
+      "bytes": 610345,
+      "sha256": "e4a65a6f105d7b25977fe0ab737ba65610f6ebd6d7bbf41b425204fa6f75a2a4"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/content.json",
-      "bytes": 144895,
-      "sha256": "debc2e38f7642b89d2adb7f8b3150d34490942a01380aa3511de18e7bdc92821"
+      "bytes": 144905,
+      "sha256": "1b4cc63d3b58b6be7cb1bea38959358509f89cead8945f0bba7e47cc193e6d13"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选20首逐词译注读本_v0.1.md",
-      "bytes": 104290,
-      "sha256": "a81bc6c53d92f56d82b9953a6e80a86b378746ebbcc2d940c7e3bd10d97319e6"
+      "bytes": 104986,
+      "sha256": "f7ea70e762cacebb28f99d22832ca4ecf87bf907d80c9ac0c77a0cdae582a3f7"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选20首逐词译注读本_v0.1.pdf",
-      "bytes": 608074,
-      "sha256": "6f7bab2f5fddf3b08e727466d7cc67ffb6c7aa0ef01dc41977a446b3e4124af6"
+      "bytes": 612302,
+      "sha256": "78381cdceb00e8b8cb58aa14d173d382ddd752995de3ee189a19e14583b7a0f8"
     }
   ]
 }
