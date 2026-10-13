@@ -21,7 +21,7 @@
       "name": "特拉克尔诗选20首逐词译注读本",
       "version": "0.1",
       "status": "trial",
-      "pdf_pages": 45
+      "pdf_pages": 44
     }
   ],
   "files": [
@@ -78,7 +78,7 @@
     {
       "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.1.pdf",
       "bytes": 604511,
-      "sha256": "acb36555210d125d18e197350d93cb727ffde1b3af428ea2e9032c38f1d101f2"
+      "sha256": "4eca361e1d88ee850ac53f700a964e2f6a6b70fd8008afa4fd17b31a5289903b"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/content.json",
@@ -92,8 +92,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选20首逐词译注读本_v0.1.pdf",
-      "bytes": 609241,
-      "sha256": "20f2d80821473bc8a71733dd205e49d8396bb0031f5ad29a86d7ef5b7adf701d"
+      "bytes": 608074,
+      "sha256": "6f7bab2f5fddf3b08e727466d7cc67ffb6c7aa0ef01dc41977a446b3e4124af6"
     }
   ]
 }

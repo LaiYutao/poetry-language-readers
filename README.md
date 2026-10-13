@@ -10,7 +10,7 @@ Letter Lai 的多语言诗歌逐词读本与语法阅读手册资料库。
 |---|---|---|
 | 德语 · 策兰《呼吸结晶》21 首 | [PDF · v2.0 · 50 页](publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0.pdf) · [Markdown](publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0.md) | [PDF · v2.1 · 89 页](publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.1.pdf) · [Markdown](publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.1.md) |
 | 德语 · 里尔克诗选20首 | [PDF · 试编 v0.1 · 45页](publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.1.pdf) · [Markdown](publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.1.md) | 复用现有德语手册 v2.1 |
-| 德语 · 特拉克尔诗选20首 | [PDF · 试编 v0.1 · 45页](publications/de/trakl-gedichte-1913/特拉克尔诗选20首逐词译注读本_v0.1.pdf) · [Markdown](publications/de/trakl-gedichte-1913/特拉克尔诗选20首逐词译注读本_v0.1.md) | 复用现有德语手册 v2.1 |
+| 德语 · 特拉克尔诗选20首 | [PDF · 试编 v0.1 · 44页](publications/de/trakl-gedichte-1913/特拉克尔诗选20首逐词译注读本_v0.1.pdf) · [Markdown](publications/de/trakl-gedichte-1913/特拉克尔诗选20首逐词译注读本_v0.1.md) | 复用现有德语手册 v2.1 |
 
 两册试编均含20首完整原文、逐词词注、独立白话译文、句法关系、说明与来源；已做初校和排版检查，尚未经过 Letter Lai 逐首审订。里尔克用低饱和棕橙，特拉克尔用深蓝。
 
