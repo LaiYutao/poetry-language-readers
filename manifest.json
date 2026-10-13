@@ -94,8 +94,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/content.json",
-      "bytes": 172818,
-      "sha256": "6e380ed5860d32076356e1a651a53fefe1dbde59d90dacd2d32ea289a90e5309"
+      "bytes": 172846,
+      "sha256": "f5048a584b0ffd6c2ca3322b6645b7d604d46d4c6cc9d3a9f7d8a8c0511e9d18"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选20首逐词译注读本_v0.1.md",
@@ -109,13 +109,13 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2.md",
-      "bytes": 127108,
-      "sha256": "caad254c2cfca1afd5c296ac368c48bed1d64e265f8f3e82366d21682ac2ea6b"
+      "bytes": 127136,
+      "sha256": "b756429142acb41a90f789fecd07c146544bf2d7f2f1840a1d0023310eb069d9"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2.pdf",
-      "bytes": 671891,
-      "sha256": "8871beadd4fe77bc2b0b853d4be38627d645452168b21789d15a2292ea0842a9"
+      "bytes": 671962,
+      "sha256": "dd96422f0fbdbaecb8bbeafc4f8671b71a7401afd41dfbc161e6a6565f16f80a"
     },
     {
       "path": "plans/布莱希特20首选篇与底本建议.md",
