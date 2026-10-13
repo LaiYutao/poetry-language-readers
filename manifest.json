@@ -10,9 +10,31 @@
       "name": "策兰《呼吸结晶》德语语法阅读手册",
       "version": "2.1",
       "pdf_pages": 89
+    },
+    {
+      "name": "里尔克诗选20首逐词译注读本",
+      "version": "0.1",
+      "status": "trial",
+      "pdf_pages": 45
+    },
+    {
+      "name": "特拉克尔诗选20首逐词译注读本",
+      "version": "0.1",
+      "status": "trial",
+      "pdf_pages": 45
     }
   ],
   "files": [
+    {
+      "path": "plans/布莱希特20首选篇与底本建议.md",
+      "bytes": 8506,
+      "sha256": "46c9161e057b5aa4b081470386308e85f1d9fd605736ba87690626cbf8fbbf8d"
+    },
+    {
+      "path": "plans/策兰续编20首选篇与底本建议.md",
+      "bytes": 6552,
+      "sha256": "f8782eb14515ca5ac4b0a0d2f58a8d85ad14d38e9a0a9e3336e3c68c58679ed0"
+    },
     {
       "path": "publications/de/celan-atemkristall/assets/德语语法速查原图1.jpg",
       "bytes": 875162,
@@ -42,6 +64,36 @@
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.1.pdf",
       "bytes": 3002913,
       "sha256": "6cdad02cfc04cefe41b8943cce566132caeee2b6e819d5eef3029cb63f660383"
+    },
+    {
+      "path": "publications/de/rilke-selected/content.json",
+      "bytes": 149117,
+      "sha256": "bc696742740b2ed29ec307b240631dd7784bbdc72f669c13c3a16111dc1de285"
+    },
+    {
+      "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.1.md",
+      "bytes": 107360,
+      "sha256": "ed1c66189f23c2677855f688e44e54a4124aef1223228772e55a1870d04460fd"
+    },
+    {
+      "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.1.pdf",
+      "bytes": 604511,
+      "sha256": "acb36555210d125d18e197350d93cb727ffde1b3af428ea2e9032c38f1d101f2"
+    },
+    {
+      "path": "publications/de/trakl-gedichte-1913/content.json",
+      "bytes": 144895,
+      "sha256": "debc2e38f7642b89d2adb7f8b3150d34490942a01380aa3511de18e7bdc92821"
+    },
+    {
+      "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选20首逐词译注读本_v0.1.md",
+      "bytes": 104290,
+      "sha256": "a81bc6c53d92f56d82b9953a6e80a86b378746ebbcc2d940c7e3bd10d97319e6"
+    },
+    {
+      "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选20首逐词译注读本_v0.1.pdf",
+      "bytes": 609241,
+      "sha256": "20f2d80821473bc8a71733dd205e49d8396bb0031f5ad29a86d7ef5b7adf701d"
     }
   ]
 }
