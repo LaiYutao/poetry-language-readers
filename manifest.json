@@ -14,27 +14,29 @@
     {
       "name": "里尔克诗选20首逐词译注读本",
       "version": "0.1",
-      "status": "trial",
+      "status": "superseded-trial",
       "pdf_pages": 45
     },
     {
       "name": "特拉克尔诗选20首逐词译注读本",
       "version": "0.1",
-      "status": "trial",
+      "status": "superseded-trial",
       "pdf_pages": 44
+    },
+    {
+      "name": "里尔克诗选20首逐词译注读本",
+      "version": "0.2",
+      "status": "trial",
+      "pdf_pages": 45
+    },
+    {
+      "name": "特拉克尔诗选23首逐词译注读本",
+      "version": "0.2",
+      "status": "trial",
+      "pdf_pages": 50
     }
   ],
   "files": [
-    {
-      "path": "plans/布莱希特20首选篇与底本建议.md",
-      "bytes": 8506,
-      "sha256": "46c9161e057b5aa4b081470386308e85f1d9fd605736ba87690626cbf8fbbf8d"
-    },
-    {
-      "path": "plans/策兰续编20首选篇与底本建议.md",
-      "bytes": 6552,
-      "sha256": "f8782eb14515ca5ac4b0a0d2f58a8d85ad14d38e9a0a9e3336e3c68c58679ed0"
-    },
     {
       "path": "publications/de/celan-atemkristall/assets/德语语法速查原图1.jpg",
       "bytes": 875162,
@@ -67,8 +69,8 @@
     },
     {
       "path": "publications/de/rilke-selected/content.json",
-      "bytes": 149117,
-      "sha256": "bc696742740b2ed29ec307b240631dd7784bbdc72f669c13c3a16111dc1de285"
+      "bytes": 152575,
+      "sha256": "6b4cc2fab044f1ede32df377d26933f4915ed35d655efbd1b7fc2794a831621d"
     },
     {
       "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.1.md",
@@ -81,9 +83,19 @@
       "sha256": "e4a65a6f105d7b25977fe0ab737ba65610f6ebd6d7bbf41b425204fa6f75a2a4"
     },
     {
+      "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2.md",
+      "bytes": 114203,
+      "sha256": "f6660209a0e43b094e6fc43f149f15d40f8ed779e4911ace89df216d239d0fcf"
+    },
+    {
+      "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2.pdf",
+      "bytes": 613103,
+      "sha256": "0f382611af1df7ee470c3ec733e3dcfe0b687f4b6843d38748bf527e95455801"
+    },
+    {
       "path": "publications/de/trakl-gedichte-1913/content.json",
-      "bytes": 144905,
-      "sha256": "1b4cc63d3b58b6be7cb1bea38959358509f89cead8945f0bba7e47cc193e6d13"
+      "bytes": 172839,
+      "sha256": "bd095c291929f2df766a370b56a4979019295cfef07f6496829099834f005186"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选20首逐词译注读本_v0.1.md",
@@ -94,6 +106,36 @@
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选20首逐词译注读本_v0.1.pdf",
       "bytes": 612302,
       "sha256": "78381cdceb00e8b8cb58aa14d173d382ddd752995de3ee189a19e14583b7a0f8"
+    },
+    {
+      "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2.md",
+      "bytes": 127129,
+      "sha256": "f6762d7c832a999328b8ef1d57ea0462a69806108729bc6ba21b0e79208c6e7d"
+    },
+    {
+      "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2.pdf",
+      "bytes": 671687,
+      "sha256": "49502c6de4c9d1c90e5d96369cb4e9cd9ebc4fdd24d1a58ed75612d4860136a2"
+    },
+    {
+      "path": "plans/布莱希特20首选篇与底本建议.md",
+      "bytes": 9475,
+      "sha256": "feb52363e6ad51ddc6d1063a312750b9ef5d253c3e0b00e2a0ecbb40e125c957"
+    },
+    {
+      "path": "plans/时间的玫瑰短诗补选核查.md",
+      "bytes": 6496,
+      "sha256": "1b2dddbcce007d704b77270eecc9d98fe84ecdb9f166d16ce280b8d6916feddb"
+    },
+    {
+      "path": "plans/策兰续编20首选篇与底本建议.md",
+      "bytes": 6552,
+      "sha256": "f8782eb14515ca5ac4b0a0d2f58a8d85ad14d38e9a0a9e3336e3c68c58679ed0"
+    },
+    {
+      "path": "plans/策兰续编21首选篇与底本建议.md",
+      "bytes": 12116,
+      "sha256": "3bf6f2c3063b4d4d64d1657d32d9fbf6c3b6bca9801ecab021fbade82518913f"
     }
   ]
 }
