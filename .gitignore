@@ -1,0 +1,11 @@
+# 本机文件与临时资料
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+work/
+tmp/
+# 正式 Markdown、PDF 和 assets 均应提交
