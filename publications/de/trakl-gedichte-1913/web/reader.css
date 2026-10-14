@@ -17,6 +17,13 @@ header[data-layout="compact"] .reader-nav{display:contents}
 header[data-hide-hint="true"] #playback[data-idle="true"]{display:none}
 header[data-hide-hint="true"] .reader-nav{justify-content:flex-start;padding-left:var(--hint-hidden-offset,0px);padding-right:0}
 header[data-layout="compact"] #playback{flex:0 0 100%;min-width:0;flex-wrap:wrap;white-space:normal;text-align:center;justify-content:center;gap:6px 10px}
+#play-toggle{display:inline-flex;align-items:center;justify-content:center;flex:0 0 28px;width:28px;height:28px;padding:0;border:0;border-radius:4px;background:transparent;color:#355570;cursor:pointer}
+#play-toggle svg{display:block;width:14px;height:14px;fill:currentColor}
+#play-toggle .pause-icon{display:none}
+#play-toggle[data-playing="true"] .play-icon{display:none}
+#play-toggle[data-playing="true"] .pause-icon{display:block}
+#play-toggle:hover{background:#35557010}
+#play-toggle:focus-visible{outline:2px solid currentColor;outline-offset:2px}
 #help .pdf-download{color:inherit;text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px}#help .pdf-download:hover{color:#355570}#help .pdf-download:focus-visible{outline:2px solid #89798d;outline-offset:3px}
 
 .page-loading{display:block;padding:24px;color:#687a76;font-size:13px}.page-error{padding:24px;font-size:14px}

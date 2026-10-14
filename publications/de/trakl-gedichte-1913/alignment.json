@@ -7,7 +7,7 @@
   "markdown_sha256": "330336958ff663553c2ad97135d3fe27359fdb8643a960483fec639d1bcd9f63",
   "pages": 51,
   "recordings": 23,
-  "runtime_sha256": "c50e06cfa70548f1bbea06c0e93332f7cb0fad9600630f021bdaff20cc6e8c57",
+  "runtime_sha256": "716fdc2fe9495261734c193b76b1cf7355217d9b26da4c81df0ad6eeadecb7ba",
   "web_assets": {
     "web/audio/01.mp3": "fbd1f0f1782b9c0d5a0ca27edce6a2467cf3660edcc871417cf425b3174ee05d",
     "web/audio/02.mp3": "5ca5bdd9511f476b1ae7d3f5009c8df3ef28b6eeda944e97b9dd79ca50294625",
@@ -85,8 +85,8 @@
     "web/pages/049.html": "99ad1d40564191c083ba86cb479bce24dc99a4cf32a98e471f116977adc84b09",
     "web/pages/050.html": "8f8584f3a6013cb6c8a162c92109f6ef6264336413cc0d64acc118bfa8f96fda",
     "web/pages/051.html": "34b97467dd52669ce18bd3b7c4a60942402c58cfc154db788a63e477c236d4ee",
-    "web/reader.css": "4904b7bfb981138113abf153c4747791f6d8c801d37b53244683b42e9ed80c8f",
-    "特拉克尔诗选23首逐词译注读本_v0.2_网页语音版.html": "686cbd03d4d49611db54b1ef6845348ab147f23fc1d61ff3ae0f11a95b4ab359"
+    "web/reader.css": "19aa585849c339f3ae9a2319bdddc28f937631e073cf64a3cfef7e016e98857d",
+    "特拉克尔诗选23首逐词译注读本_v0.2_网页语音版.html": "d62a11f8fe566d381923c55fb119d6b958ef81ce160dd5725317a2f00ee06955"
   },
   "checks": {
     "poems": 23,
