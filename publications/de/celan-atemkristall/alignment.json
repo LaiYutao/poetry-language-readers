@@ -7,7 +7,7 @@
   "markdown_sha256": "463863c639c1862616a64f1ab249cc5deb9f1494c1e386f4075c72f4b84c6d54",
   "pages": 51,
   "recordings": 21,
-  "runtime_sha256": "716fdc2fe9495261734c193b76b1cf7355217d9b26da4c81df0ad6eeadecb7ba",
+  "runtime_sha256": "11088a6505891d55c3ec21532b1a4ca1fa00ca51641cc2f47042cec97b641036",
   "web_assets": {
     "web/audio/01.mp3": "34ebde44ec7d493fdb7fd44a5548f9a663d2d129b45959d91462537b83d3df98",
     "web/audio/02.mp3": "894f55b4a995df26a9b3943f16f56213089e622b394ab41486c858f479f1c710",
@@ -83,8 +83,8 @@
     "web/pages/049.html": "9b0601cc28899ca0d460afc5504d87649f6581d7f431bfec670263e94c2f2946",
     "web/pages/050.html": "39f2f57513028608099d70c2c274ce2bd7ef9e232e6e407b5c3d729687188edd",
     "web/pages/051.html": "26fca0dc3c01d8cfc28518b7dacd5ea02217906e2d30ee477656ae0f8fa26353",
-    "web/reader.css": "e019bb3ddd551acc5530a3c18df31df1d68e66f63249d0a2393561c9eb39460e",
-    "策兰《呼吸结晶》21首逐词译注读本_v2.0_网页语音版.html": "ed45f228f17148abe61aeca9c3853193b509b471d8db42ca251be46461978b95"
+    "web/reader.css": "d9149718a3e53ab40a9f891532844912c0f0330da7b4821a86398f045885e3dc",
+    "策兰《呼吸结晶》21首逐词译注读本_v2.0_网页语音版.html": "e49271f454d64843ee957ba3d94e93dc979bb3b1018e52aeb137aad92073b20e"
   },
   "checks": {
     "poems": 21,
