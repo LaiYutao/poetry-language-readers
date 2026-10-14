@@ -115,7 +115,7 @@
     {
       "path": "publications/de/celan-atemkristall/alignment.json",
       "bytes": 7895,
-      "sha256": "5423ae2fee4dce84304115ca112cdb4bb48696c99415d342c5ccb59911c943e7"
+      "sha256": "a71774defc2bb9f0ae4f77287dc5dbf43c6ba518dccf4095fa5d345210c8e91a"
     },
     {
       "path": "publications/de/celan-atemkristall/assets/德语语法速查原图1.jpg",
@@ -504,8 +504,8 @@
     },
     {
       "path": "publications/de/celan-atemkristall/web/reader.css",
-      "bytes": 4184,
-      "sha256": "6500c6981401e7a4f60dd1506b3d4bc182815cddfa84bfdf00a8e15f437d08fb"
+      "bytes": 4286,
+      "sha256": "0e2df7e846bd28182c5097b9d9e1462c00c9677e8f726f6041a8229278ad0360"
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0.md",
@@ -520,7 +520,7 @@
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0_网页语音版.html",
       "bytes": 355009,
-      "sha256": "4f0f4fdb3529c43699c57ce63f822e3197ce5b6000b2a8236287708903e5cc31"
+      "sha256": "7d42033284e785223c6c13556a2b131a4fafefdbf66b8527560074f407c35024"
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.1.md",
@@ -535,7 +535,7 @@
     {
       "path": "publications/de/rilke-selected/alignment.json",
       "bytes": 7306,
-      "sha256": "b359a4937711ffdc013c27e8ce7d975de97ee33522d7965245f914d10b678ef3"
+      "sha256": "98b92e2833d547815d7a6c9206e5365811cec000a4109b4fb288384321e06b04"
     },
     {
       "path": "publications/de/rilke-selected/content.json",
@@ -884,8 +884,8 @@
     },
     {
       "path": "publications/de/rilke-selected/web/reader.css",
-      "bytes": 4184,
-      "sha256": "cb4f2c35732af9529c8166e7fbe27f3babd2c0c4b6618ed6c43d97099d8a6bc7"
+      "bytes": 4286,
+      "sha256": "fb3f5c7df71433822fdf1bce785de5028cd3982b7787aa479d90d98ae57e5588"
     },
     {
       "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.1.md",
@@ -910,12 +910,12 @@
     {
       "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2_网页语音版.html",
       "bytes": 360553,
-      "sha256": "6d78232f160985cdfd6a2fe1479cf397e9dca6af227470ee2f90ed61c034acd7"
+      "sha256": "a9d990735fcb2a7f3c9ac914a1a12b9e7a9d17d889feae95d0ec5f7df27a6e58"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/alignment.json",
       "bytes": 8061,
-      "sha256": "b0ea6c064569107f498e6b85c5cc94aa7422c00f883fc66cb7f2efe4c4ccc054"
+      "sha256": "b1960c550988f67549df00a6098ebc76f0c9bc3c3331ad55e3ba30f4a2834a4a"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/content.json",
@@ -1304,8 +1304,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/reader.css",
-      "bytes": 4184,
-      "sha256": "e96e6984b2dcc6d8ce9e33422818c638ac38e957f5e04c5857689fc1e6821c85"
+      "bytes": 4286,
+      "sha256": "4fccf4297d865d87bf88825a054d3b73ff1d4434867d6865794fd47c332c30d1"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选20首逐词译注读本_v0.1.md",
@@ -1330,7 +1330,7 @@
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2_网页语音版.html",
       "bytes": 367225,
-      "sha256": "d24201f66ef358dc94c84f157f57cb2d2cdedc774a994e7d06d74537d2617b0b"
+      "sha256": "34f0b52f6b1fcaf1a236730dce3b7ff07cf2192444554648b5bcefab647cb5fe"
     },
     {
       "path": "tools/check_publications.py",
