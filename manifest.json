@@ -49,8 +49,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5648,
-      "sha256": "cf914ba7074d09b822814adb0279b427ecc17a3a5cd67c7e523e82f005c3d84d"
+      "bytes": 5633,
+      "sha256": "5a7ed3a67fddfa592eb29b9ada2cca2c3a846b0774ab495987f75eee66810d9f"
     },
     {
       "path": "SOURCES.md",
@@ -64,8 +64,8 @@
     },
     {
       "path": "assets/reader.js",
-      "bytes": 5465,
-      "sha256": "bf835906fafca6ad923d4a57cc057491dfa17b5196c87ee5598d0dcd856f5a65"
+      "bytes": 7526,
+      "sha256": "849461b5289b977ced502c07169f4e4dd99e1766fe83de2f670260539c6b0910"
     },
     {
       "path": "copyright.html",
@@ -115,7 +115,7 @@
     {
       "path": "publications/de/celan-atemkristall/alignment.json",
       "bytes": 7895,
-      "sha256": "a71774defc2bb9f0ae4f77287dc5dbf43c6ba518dccf4095fa5d345210c8e91a"
+      "sha256": "b4d688e9c8d3e8bcfc8b7d7b449538239c6260f2894843b32d7c6f12a1bdd0a2"
     },
     {
       "path": "publications/de/celan-atemkristall/assets/德语语法速查原图1.jpg",
@@ -504,8 +504,8 @@
     },
     {
       "path": "publications/de/celan-atemkristall/web/reader.css",
-      "bytes": 4286,
-      "sha256": "0e2df7e846bd28182c5097b9d9e1462c00c9677e8f726f6041a8229278ad0360"
+      "bytes": 4607,
+      "sha256": "e8fc81ac16a3a5ac8612b5173649ae0fe2721194d291f0af60fe74fc58c476dd"
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0.md",
@@ -519,8 +519,8 @@
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0_网页语音版.html",
-      "bytes": 355009,
-      "sha256": "7d42033284e785223c6c13556a2b131a4fafefdbf66b8527560074f407c35024"
+      "bytes": 355026,
+      "sha256": "1cbdc2f2fa327ec0dd5f8dc13757be6c50f1379397a89bfb61e3a502aff7b380"
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.1.md",
@@ -535,7 +535,7 @@
     {
       "path": "publications/de/rilke-selected/alignment.json",
       "bytes": 7306,
-      "sha256": "98b92e2833d547815d7a6c9206e5365811cec000a4109b4fb288384321e06b04"
+      "sha256": "18d392305e5d463aeb40044ca88aa91e5c6512b34454b1b6445132bc1f055a42"
     },
     {
       "path": "publications/de/rilke-selected/content.json",
@@ -884,8 +884,8 @@
     },
     {
       "path": "publications/de/rilke-selected/web/reader.css",
-      "bytes": 4286,
-      "sha256": "fb3f5c7df71433822fdf1bce785de5028cd3982b7787aa479d90d98ae57e5588"
+      "bytes": 4607,
+      "sha256": "44c034d85c8117d3415cb3b2e3560080a00a84567b9258a89a6dac8ac563fbb9"
     },
     {
       "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.1.md",
@@ -909,13 +909,13 @@
     },
     {
       "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2_网页语音版.html",
-      "bytes": 360553,
-      "sha256": "a9d990735fcb2a7f3c9ac914a1a12b9e7a9d17d889feae95d0ec5f7df27a6e58"
+      "bytes": 360570,
+      "sha256": "df0ab5ec5af6e0822eb69ea7e7daf4c5ff3352129e930616a365807b899ab548"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/alignment.json",
       "bytes": 8061,
-      "sha256": "b1960c550988f67549df00a6098ebc76f0c9bc3c3331ad55e3ba30f4a2834a4a"
+      "sha256": "6ad0165b73710ed58758fee36ee011946d16cd99ecc6d74b3ba726eef162b1f8"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/content.json",
@@ -1304,8 +1304,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/reader.css",
-      "bytes": 4286,
-      "sha256": "4fccf4297d865d87bf88825a054d3b73ff1d4434867d6865794fd47c332c30d1"
+      "bytes": 4607,
+      "sha256": "e5247620be202c8b1de388a90b186229301fd69b8aa8732edad5e67b898b3b7f"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选20首逐词译注读本_v0.1.md",
@@ -1329,8 +1329,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2_网页语音版.html",
-      "bytes": 367225,
-      "sha256": "34f0b52f6b1fcaf1a236730dce3b7ff07cf2192444554648b5bcefab647cb5fe"
+      "bytes": 367242,
+      "sha256": "4d361ea2f547e0cd602f7b524400d83bf58f76e02807324ee82244145a328154"
     },
     {
       "path": "tools/check_publications.py",

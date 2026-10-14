@@ -7,7 +7,7 @@
   "markdown_sha256": "2b8946b77f3c6b57101f4afca66eb3fb66382de6fb5214af3eb5db7e7ddf315b",
   "pages": 46,
   "recordings": 20,
-  "runtime_sha256": "bf835906fafca6ad923d4a57cc057491dfa17b5196c87ee5598d0dcd856f5a65",
+  "runtime_sha256": "849461b5289b977ced502c07169f4e4dd99e1766fe83de2f670260539c6b0910",
   "web_assets": {
     "web/audio/01.mp3": "7ae3615dd10e3a6f62e5c58d4fef0e4b3ea500c32da790b47bd9b7daabf6fb16",
     "web/audio/02.mp3": "bc92b6461549f6c583926a24f43a842c5a6eb746250b2d2efc8585fa90b72999",
@@ -77,8 +77,8 @@
     "web/pages/044.html": "7ccabce8005b66c222bc09d01356a95515b5d1b28fcd8f57450afe5be47249b4",
     "web/pages/045.html": "eb4d9f1f9927cd601eeff18f3c02d5f009d7528175f54a7c82e1684ab107c34f",
     "web/pages/046.html": "1ec1b682c3a06a81dba075815f4f8c5b1fa4da3ed87502ec5e7345e6fa06b0c4",
-    "web/reader.css": "fb3f5c7df71433822fdf1bce785de5028cd3982b7787aa479d90d98ae57e5588",
-    "里尔克诗选20首逐词译注读本_v0.2_网页语音版.html": "a9d990735fcb2a7f3c9ac914a1a12b9e7a9d17d889feae95d0ec5f7df27a6e58"
+    "web/reader.css": "44c034d85c8117d3415cb3b2e3560080a00a84567b9258a89a6dac8ac563fbb9",
+    "里尔克诗选20首逐词译注读本_v0.2_网页语音版.html": "df0ab5ec5af6e0822eb69ea7e7daf4c5ff3352129e930616a365807b899ab548"
   },
   "checks": {
     "poems": 20,

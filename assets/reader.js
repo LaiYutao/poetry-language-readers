@@ -1,3 +1,38 @@
+// Choose the two-row layout from the actual one-row content width.
+// Measurements and the final state are applied in the same frame.
+const readerHeader=document.querySelector('header');
+const readerNav=readerHeader.querySelector('.reader-nav');
+let headerLayoutQueued=false;
+function fitReaderHeader(){
+ headerLayoutQueued=false;
+ readerHeader.dataset.layout='wide';
+ readerHeader.dataset.hideHint='false';
+ const navStyle=getComputedStyle(readerNav);
+ const children=[...readerNav.children].filter(e=>getComputedStyle(e).display!=='none');
+ const needed=children.reduce((sum,e)=>sum+e.getBoundingClientRect().width,0)
+  +parseFloat(navStyle.columnGap)*(children.length-1)
+  +parseFloat(navStyle.paddingLeft)+parseFloat(navStyle.paddingRight);
+ const overflows=needed>readerNav.getBoundingClientRect().width+.5;
+ const idle=document.getElementById('playback').dataset.idle==='true';
+ readerHeader.dataset.hideHint=String(overflows&&idle);
+ readerHeader.dataset.layout=overflows&&!idle?'compact':'wide';
+ document.documentElement.style.scrollPaddingTop=(readerHeader.getBoundingClientRect().height+8)+'px';
+}
+function scheduleHeaderLayout(){
+ if(!headerLayoutQueued){headerLayoutQueued=true;requestAnimationFrame(fitReaderHeader)}
+}
+window.addEventListener('resize',scheduleHeaderLayout);
+new MutationObserver(scheduleHeaderLayout).observe(document.getElementById('status'),{childList:true,subtree:true,characterData:true});
+const headerPlayback=document.getElementById('playback');
+new MutationObserver(scheduleHeaderLayout).observe(headerPlayback,{attributes:true,attributeFilter:['data-idle']});
+const headerTimeline=document.getElementById('timeline');
+let timelineHidden=headerTimeline.hidden;
+new MutationObserver(()=>{
+ if(timelineHidden!==headerTimeline.hidden){timelineHidden=headerTimeline.hidden;scheduleHeaderLayout()}
+}).observe(headerTimeline,{attributes:true,attributeFilter:['hidden']});
+document.fonts.ready.then(scheduleHeaderLayout);
+fitReaderHeader();
+
 // Only trusted, locally generated book assets are inserted into the page.
 const bookAssets=JSON.parse(document.getElementById('book-assets').textContent);
 async function fetchBookAsset(url){
@@ -75,11 +110,12 @@ function progress(value,duration){
 }
 function update(){
  if(!current)return;
+ if(document.getElementById('playback').dataset.idle==='true')document.getElementById('playback').dataset.idle='false';
  const duration=Number.isFinite(audio.duration)?audio.duration:0;
  timeline.hidden=false;seek.disabled=duration<=0;seek.max=duration;
  if(!dragging){seek.value=audio.currentTime;progress(audio.currentTime,duration)}
  const label=stopped?'已停止':audio.ended?'播放完毕':audio.paused?'已暂停':'正在播放';
- const message=`${label} · ${media[current].reader}`;
+ const message=label;
  if(status.textContent!==message)status.textContent=message;
  document.querySelectorAll('[data-action="play"]').forEach(b=>b.dataset.playing=String(b.dataset.poem===current&&!audio.paused&&!stopped));
 }
