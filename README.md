@@ -12,21 +12,19 @@ Letter Lai 的多语言诗歌逐词读本与语法阅读手册资料库。
 
 | 读本 | 版本 | PDF | Markdown | 网页语音版 |
 |---|---|---|---|---|
-| 策兰《呼吸结晶》21首 | v2.0 | [50 页](publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0.pdf) | [正文](publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0.md) | [下载 HTML](publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0_网页语音版.html) |
-| 里尔克诗选20首 | v0.2 | [45 页](publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2.pdf) | [正文](publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2.md) | [下载 HTML](publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2_网页语音版.html) |
-| 特拉克尔诗选23首 | v0.2 | [50 页](publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2.pdf) | [正文](publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2.md) | [下载 HTML](publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2_网页语音版.html) |
+| 策兰《呼吸结晶》21首 | v2.0 | [50 页](publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0.pdf) | [正文](publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0.md) | [在线阅读](https://laiyutao.github.io/poetry-language-readers/publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0_网页语音版.html) |
+| 里尔克诗选20首 | v0.2 | [45 页](publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2.pdf) | [正文](publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2.md) | [在线阅读](https://laiyutao.github.io/poetry-language-readers/publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2_网页语音版.html) |
+| 特拉克尔诗选23首 | v0.2 | [50 页](publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2.pdf) | [正文](publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2.md) | [在线阅读](https://laiyutao.github.io/poetry-language-readers/publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2_网页语音版.html) |
 
 PDF 保留原文、逐词引线、语法辅助色、白话译文、句法说明与分页；Markdown 适合搜索和编辑。确定的名词复数在逐词注释中以辅助色“·复”提示；单数不标，白话译文不机械添加复数表达。白话译文与逐词注释各有侧重，具体译法仍可继续校订。
 
 ## 网页语音版怎么用
 
-可直接打开[在线读本目录](https://laiyutao.github.io/poetry-language-readers/)，选择诗人后在网页中阅读、播放。离线使用方法：
+可直接打开[在线读本目录](https://laiyutao.github.io/poetry-language-readers/)，选择诗人后在网页中阅读、播放。离线阅读使用上表的普通 PDF，不再提供单文件离线 HTML 或语音 PDF。
 
-1. 打开上表的 HTML 文件，在 GitHub 文件页选择 **Download raw file**，把完整文件下载到电脑。
-2. 用浏览器打开下载的 `.html` 文件，即可按原读本版式边读边听。GitHub 文件页本身不直接运行这个播放器。
-3. 点击每首首页的“播放”开始收听，再点可暂停；“停止”回到开头。顶部时间左侧的进度条可点击、拖动跳转，滚动页面不会打断播放。
+点击每首首页的“播放”开始收听，再点可暂停；“停止”回到开头。顶部进度条可点击、拖动跳转，滚动页面不会打断播放。书页按需加载，音频在点击播放时加载。“来源”打开原录音页面；朗读者在诗歌首页、播放状态及书末收听索引中署名。
 
-文字、矢量书页和录音均内置，不依赖旁边的音频文件；离线也能播放。“来源”按钮需联网，打开原录音页面。朗读者在诗歌首页、播放状态及书末收听索引中署名。
+Markdown 与 PDF 从同一份审核后的主稿生成，网页正文从该 PDF 转换。每册 `alignment.json` 记录主稿和输出文件的校验值，发布前检查内容一致性。详见[三格式同步与网页发布说明](docs/三格式同步与网页发布说明.md)。
 
 | 读本 | 已收录录音 | 说明 |
 |---|---|---|
@@ -52,7 +50,7 @@ PDF 保留原文、逐词引线、语法辅助色、白话译文、句法说明�
 
 ## 项目组织
 
-当前成稿放在 `publications/de/<作者-作品>/`，方法与模板分别放在 `docs/` 和 `templates/`。`manifest.json` 记录文件校验值；两册试编的 `content.json` 与本次文字成稿同步。仓库不含全部排版程序、字体与底本材料，不提供一键重建 PDF 的命令。
+当前成稿放在 `publications/de/<作者-作品>/`，方法与模板分别放在 `docs/` 和 `templates/`。`manifest.json` 记录文件校验值；三册的 `content.json` 与本次文字成稿同步。仓库不含全部排版程序、字体与底本材料，不提供一键重建 PDF 的命令。
 
 后续方向包括布莱希特、策兰其他诗集，以及英语、法语和西班牙语读本；同语言新读本不默认重编语法手册。当前入口仅列最新版成稿，不把校对清单混入阅读文件。
 
