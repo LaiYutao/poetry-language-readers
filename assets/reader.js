@@ -105,6 +105,7 @@ requestAnimationFrame(()=>requestAnimationFrame(()=>{
 }));
 
 const media=JSON.parse(document.getElementById('recordings').textContent),audio=document.getElementById('audio'),status=document.getElementById('status'),seek=document.getElementById('seek'),clock=document.getElementById('clock'),timeline=document.getElementById('timeline');
+const playToggle=document.getElementById('play-toggle');
 let current=null,stopped=false,dragging=false;
 const time=x=>`${Math.floor(x/60)}:${String(Math.floor(x%60)).padStart(2,'0')}`;
 function progress(value,duration){
@@ -119,6 +120,10 @@ function update(){
  timeline.hidden=false;seek.disabled=duration<=0;seek.max=duration;
  if(!dragging){seek.value=audio.currentTime;progress(audio.currentTime,duration)}
  const label=stopped?'已停止':audio.ended?'播放完毕':audio.paused?'已暂停':'正在播放';
+ const playing=!audio.paused&&!audio.ended&&!stopped;
+ playToggle.dataset.playing=String(playing);
+ playToggle.setAttribute('aria-label',playing?'暂停':'播放');
+ playToggle.title=playing?'暂停':'播放';
  const message=label;
  if(status.textContent!==message)status.textContent=message;
  document.querySelectorAll('[data-action="play"]').forEach(b=>b.dataset.playing=String(b.dataset.poem===current&&!audio.paused&&!stopped));
@@ -140,6 +145,7 @@ async function play(n){
  try{await audio.play()}
  catch(e){status.textContent='未能播放，请检查网络后重试。';console.error(e)}
 }
+playToggle.addEventListener('click',()=>{if(current)play(current)});
 document.addEventListener('click',event=>{
  const b=event.target.closest('[data-action]');if(!b)return;
  if(b.dataset.action==='play')play(b.dataset.poem);
