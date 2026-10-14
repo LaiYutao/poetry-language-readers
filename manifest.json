@@ -58,6 +58,26 @@
       "sha256": "ad2715684f1cd58e76c1671238b413ee846d82c8c22f77d820f7191cc3e9bdda"
     },
     {
+      "path": "assets/branding/favicon-32.png",
+      "bytes": 656,
+      "sha256": "92c3951a7f294f1af0166b8daf664968a8930f93a5e89b3cb70186100d3d893b"
+    },
+    {
+      "path": "assets/branding/favicon-64.png",
+      "bytes": 1497,
+      "sha256": "ec2ab90f171b7beca5edc2a284a89c56c7053d21c1075d10d52a6ad7e08f159f"
+    },
+    {
+      "path": "assets/branding/favicon.ico",
+      "bytes": 3609,
+      "sha256": "fae7fce59a7ba3cb7a807b394604fd7bfc38d97743855ac53c526d71da3080aa"
+    },
+    {
+      "path": "assets/branding/favicon.svg",
+      "bytes": 7974,
+      "sha256": "18a8935ac1b50868d9079aa43d0c86d405b513961848203f5882ec3e7b7530d5"
+    },
+    {
       "path": "assets/branding/lyrik.svg",
       "bytes": 7957,
       "sha256": "be5f539d5d442f23ca8feee34ee7a5c1e280614b9f1da6b82afa273b162eeae1"
@@ -69,8 +89,8 @@
     },
     {
       "path": "copyright.html",
-      "bytes": 4363,
-      "sha256": "bd09ab8dc68cba21236254107886a237283ed2c6285177678491753fdad27025"
+      "bytes": 4651,
+      "sha256": "136984c43cb45d0d264963ff6168206db02c1bd6eb710392a1968e2857fc1f28"
     },
     {
       "path": "docs/Lyrik字标设计说明.md",
@@ -89,8 +109,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 22063,
-      "sha256": "0dca9d26b266ded5259cef80624b619757cd3339fafdf9573eeaa6c770da1ddc"
+      "bytes": 22351,
+      "sha256": "56b338f3093c9a277b75153bc6e78e8cefecab9876b9041be6e3e9399d4ab068"
     },
     {
       "path": "plans/布莱希特20首选篇与底本建议.md",
@@ -115,7 +135,7 @@
     {
       "path": "publications/de/celan-atemkristall/alignment.json",
       "bytes": 7895,
-      "sha256": "678493fd70afe48af5d85c89e04e30dd6a682d2955bf1e3921d57dac918a1d20"
+      "sha256": "4262031e6ae8cbe2f9000f3b6c0433d13580ab56ad2c15122115b0a9e3752b48"
     },
     {
       "path": "publications/de/celan-atemkristall/assets/德语语法速查原图1.jpg",
@@ -519,8 +539,8 @@
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0_网页语音版.html",
-      "bytes": 355274,
-      "sha256": "68db922b21c97f076a537bd298d5743dd92c3cd2d03e5f87e1758bff05959b72"
+      "bytes": 355530,
+      "sha256": "d2b813ecbb1c67d0fe053d93d1c6611a8f6ffe7d6bbe0f8013c85d74099917ae"
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.1.md",
@@ -535,7 +555,7 @@
     {
       "path": "publications/de/rilke-selected/alignment.json",
       "bytes": 7306,
-      "sha256": "dcdd3506e5ab98e9b80282182918fcee26aacfc4dadda3d4872385a2f4108f5f"
+      "sha256": "aa27afad9e8b0a5b107d0e87e79b5e152428cc2bfaae0c376291a153b1f0c949"
     },
     {
       "path": "publications/de/rilke-selected/content.json",
@@ -909,13 +929,13 @@
     },
     {
       "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2_网页语音版.html",
-      "bytes": 360818,
-      "sha256": "20a2cc8380b02299f1238eccc4bcef5a4e182568687d2353637815bb0752694d"
+      "bytes": 361074,
+      "sha256": "d59caecbc936e35dd253f901d9e80645e913f36eb123735508a4170add206b18"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/alignment.json",
       "bytes": 8061,
-      "sha256": "76ee1f10087d3474978796a87b7e4cdd148277bf3195deda274a33ddb3d6f6d2"
+      "sha256": "70d8e710390d629ed8e62367528fe951bf83d258828563934697473630fe8f25"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/content.json",
@@ -1329,8 +1349,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2_网页语音版.html",
-      "bytes": 367490,
-      "sha256": "d62a11f8fe566d381923c55fb119d6b958ef81ce160dd5725317a2f00ee06955"
+      "bytes": 367746,
+      "sha256": "e3f9cd24ae3b83deec72aeaf98012e3b56192bc44219910c0b5bb974b3f9335d"
     },
     {
       "path": "tools/check_publications.py",
