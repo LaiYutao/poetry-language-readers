@@ -194,6 +194,11 @@
     },
     {
       "path": "index.html",
+      "bytes": 20915,
+      "sha256": "435e992450788cd51d06e7179d40e8f72b27e151f523a24bf15fe330436addc1"
+    },
+    {
+      "path": "letter-lai.html",
       "bytes": 24952,
       "sha256": "09e7b731834cf688f44e59479be7def00dd86267af2b74f8d714f2a6b8369c84"
     },
