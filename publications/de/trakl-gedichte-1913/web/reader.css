@@ -13,8 +13,9 @@ header{justify-content:flex-start;gap:18px}
 .reader-nav>a,header select,#playback{flex-shrink:0}.reader-nav>a,#playback{white-space:nowrap}#playback{flex-wrap:nowrap}
 header[data-layout="compact"]{flex-wrap:wrap;align-items:center;justify-content:flex-start;gap:7px 10px}
 header[data-layout="compact"] .reader-nav{display:contents}
-.reader-nav>a,header select{transform:translateY(1.5px)}
+.reader-nav>a,header select,header:not([data-layout="compact"]) #playback{transform:translateY(1.5px)}
 header[data-hide-hint="true"] #playback[data-idle="true"]{display:none}
+header[data-hide-hint="true"] .reader-nav{justify-content:center;padding-right:0}
 header[data-layout="compact"] #playback{flex:0 0 100%;min-width:0;flex-wrap:wrap;white-space:normal;text-align:center;justify-content:center;gap:6px 10px}
 #help .pdf-download{color:inherit;text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px}#help .pdf-download:hover{color:#355570}#help .pdf-download:focus-visible{outline:2px solid #89798d;outline-offset:3px}
 
