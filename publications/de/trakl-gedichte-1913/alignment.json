@@ -1,10 +1,10 @@
 {
   "format": "modular-web-v2",
-  "content_sha256": "868311b01f637da3fbb9ba7fa11bfab576c98073ba396577bc8db63373e67a76",
+  "content_sha256": "4e3c6b2fc7100bb971a4e1671ffdaccb7312799a5d643287bf4fc8dc8aaa6b18",
   "pdf": "特拉克尔诗选23首逐词译注读本_v0.2.pdf",
-  "pdf_sha256": "126edb0aab8cc26082a62898e1705f9335081aa1245295b78d2c0e41392bf8e1",
+  "pdf_sha256": "6037648c6829b57bc9210d4e5d7536ededbf3e9eabae67d5836c1453f537cbd7",
   "markdown": "特拉克尔诗选23首逐词译注读本_v0.2.md",
-  "markdown_sha256": "330336958ff663553c2ad97135d3fe27359fdb8643a960483fec639d1bcd9f63",
+  "markdown_sha256": "7bf530586285a4cd0a5229ee598f9626877b1e99155ee8255214a25066fe437d",
   "pages": 51,
   "recordings": 23,
   "runtime_sha256": "cdb6f86f0f6f08b07ac2836fa027fb9dbe74b6843b603ccb545bbffcc37a316d",
@@ -78,7 +78,7 @@
     "web/pages/042.html": "3fb1076df2356fe676706220ee797418aa0ca80e24e11e7e6a03ecafb350f21b",
     "web/pages/043.html": "d22359f7b494fbe1a00e7fb7ec14bbb55234dc8dd921dd790b1d77f40e4d6e7e",
     "web/pages/044.html": "a74460fc8ea045309a65ae744c865f5face16c2b1186f1e6bc91830321fafe8b",
-    "web/pages/045.html": "db8fcc730a3db3d932fa89a4d0724341a117bba6946de8ecdc0d2bc36417b286",
+    "web/pages/045.html": "f3f1a15c797de19dee0731c9cf8d0da32a376d6fe994a7de8eb2e2eb1b4b61bb",
     "web/pages/046.html": "4f9a64544778deeaf0dc3a4c77baeeb114b45cd488c2ccebd9c38b2d81967606",
     "web/pages/047.html": "751d7856ea1301ac2e5240704ea2390c95675fe93c493e7dd8fe03f411100588",
     "web/pages/048.html": "35bbfe3104bae327ca970097493d8b8e8077edc9ce1a7e5271644c10583a9a0b",
@@ -86,7 +86,7 @@
     "web/pages/050.html": "8f8584f3a6013cb6c8a162c92109f6ef6264336413cc0d64acc118bfa8f96fda",
     "web/pages/051.html": "34b97467dd52669ce18bd3b7c4a60942402c58cfc154db788a63e477c236d4ee",
     "web/reader.css": "90ca232ff479dfc146b12feb457778f8340f740c7816028985c83bd33b8134d4",
-    "特拉克尔诗选23首逐词译注读本_v0.2_网页语音版.html": "7a1050fc0cccc4dbb40ab3d8da1dced218ca2080e8254066539b4bbc61c3e6a6"
+    "特拉克尔诗选23首逐词译注读本_v0.2_网页语音版.html": "ca200e54ccf75cb040debe520fd0c23081dcb1faad5d98b83cc11bd2bcd1286f"
   },
   "checks": {
     "poems": 23,
