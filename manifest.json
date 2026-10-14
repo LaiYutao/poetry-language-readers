@@ -530,12 +530,12 @@
     {
       "path": "publications/de/rilke-selected/alignment.json",
       "bytes": 7209,
-      "sha256": "35dea44438895b02d9694fb1ab503e6e0d4c086565f117a7cd8d1a13b48696b9"
+      "sha256": "a844b12503a3cf3ae918a88e60de372abdd3d45f39438859eba0a6a7ce62111b"
     },
     {
       "path": "publications/de/rilke-selected/content.json",
-      "bytes": 154289,
-      "sha256": "d1735bf7cfadc292fd220584b9cbbf3afb47a694efb0101cf1f19f990984a372"
+      "bytes": 154301,
+      "sha256": "f682610034956f4034e6fe995a79283fe7845842d25fdacbcbdc61736b39d118"
     },
     {
       "path": "publications/de/rilke-selected/web/audio/01.mp3",
@@ -639,8 +639,8 @@
     },
     {
       "path": "publications/de/rilke-selected/web/glyphs.svg",
-      "bytes": 10608742,
-      "sha256": "4a01012fc52053ae64b69e284488e88c1e749f6db2c1a6e103e4cefb9e845416"
+      "bytes": 10604040,
+      "sha256": "51cfc267f7eaebf1145078d2eddc16c83f582d49ca6fb0bc97ce1617e09e4ba5"
     },
     {
       "path": "publications/de/rilke-selected/web/pages/001.html",
@@ -754,8 +754,8 @@
     },
     {
       "path": "publications/de/rilke-selected/web/pages/023.html",
-      "bytes": 91045,
-      "sha256": "9cbc6d309d206832f836a93056db3d794d84b794b424741d655cfc19f9932518"
+      "bytes": 91506,
+      "sha256": "4f9ee25c7eaa3b563a9350fea81415fd2281e12dd98d230148f307c68f716bbd"
     },
     {
       "path": "publications/de/rilke-selected/web/pages/024.html",
@@ -889,18 +889,18 @@
     },
     {
       "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2.md",
-      "bytes": 118889,
-      "sha256": "1addfbb5ea8fb45315ece2204ffd85825a96b532a15f0d212c0c6471b468c223"
+      "bytes": 118901,
+      "sha256": "2b8946b77f3c6b57101f4afca66eb3fb66382de6fb5214af3eb5db7e7ddf315b"
     },
     {
       "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2.pdf",
-      "bytes": 620890,
-      "sha256": "d41acfb50549180c45c725cf1bffd33e14274114e94eeb33f3c67135ce50af82"
+      "bytes": 620899,
+      "sha256": "d24b6d36ad1b71a1e75d192bccbb0d2fd3772d260b42d6be55f2df1a7502375d"
     },
     {
       "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2_网页语音版.html",
       "bytes": 23408,
-      "sha256": "c784d1609e36edbd479d4cc67cda9600c5040b4bb79d41c8c8a12d28df312d8a"
+      "sha256": "966360f84ddb99f50008f0c06e3ce1965fee7f7382ca095beda2c74aca9eb665"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/alignment.json",
