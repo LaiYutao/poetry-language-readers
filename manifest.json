@@ -138,6 +138,21 @@
       "sha256": "abd51aef2942c32cf8222569fe094e4798bdf642466da52b2f56d06a3289d966"
     },
     {
+      "path": "assets/fonts/home-title-fangsong.woff2",
+      "bytes": 2720,
+      "sha256": "00d7257d4839c5ce97cf0b44778cd42a32bdc61f746ad61c302496e1f616a38a"
+    },
+    {
+      "path": "assets/fonts/home-title-hand.woff2",
+      "bytes": 2244,
+      "sha256": "56ef651fe707128cdce05e43e92368792a5f365873762c0082fbec406aeae21a"
+    },
+    {
+      "path": "assets/fonts/home-title-hei.woff2",
+      "bytes": 904,
+      "sha256": "819388a4d16c9e3bbba9dab98d53a11f71817cbead0b056939a1faba90af26f9"
+    },
+    {
       "path": "assets/fonts/reader-fonts-34187998f8997079.css",
       "bytes": 1280,
       "sha256": "34187998f89970790594348279bded2f3ef4736553a2b2d1a4b4e18c93af3c4e"
@@ -146,6 +161,11 @@
       "path": "assets/fonts/reader-fonts-d1f97c38eadcbd71.css",
       "bytes": 1280,
       "sha256": "d1f97c38eadcbd71f59d34ec48cf77c7fa7ebe40de8f6481a78adf95fdb351c0"
+    },
+    {
+      "path": "assets/home-title-letter-lai.svg",
+      "bytes": 38983,
+      "sha256": "e65c4ccf019b8c476431bf7ce4ed62a42f46386b90ead5b4f1fed617ce9e2ffc"
     },
     {
       "path": "assets/reader.js",
@@ -174,8 +194,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 22363,
-      "sha256": "951868a804d2bd21b824d310a62effb2c741256557a7c1083411ba82d05fb932"
+      "bytes": 24952,
+      "sha256": "09e7b731834cf688f44e59479be7def00dd86267af2b74f8d714f2a6b8369c84"
     },
     {
       "path": "plans/布莱希特20首选篇与底本建议.md",
