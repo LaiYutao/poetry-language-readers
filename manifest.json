@@ -135,7 +135,7 @@
     {
       "path": "publications/de/celan-atemkristall/alignment.json",
       "bytes": 7895,
-      "sha256": "ffb5ea5e9d34893823a8854158cb2a8c6c25e15779f566ab8b482d90e8f2f615"
+      "sha256": "56a93709e5e5cd5c78088a0c41dd315fb76a69f54302310b30b0b9acc5959f1d"
     },
     {
       "path": "publications/de/celan-atemkristall/assets/德语语法速查原图1.jpg",
@@ -499,18 +499,18 @@
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/047.html",
-      "bytes": 225794,
-      "sha256": "803d3f2353334aeb578f58351c903115f9efca2d768e8ea8287cd83607fa8ec4"
+      "bytes": 225798,
+      "sha256": "66faba4c95abb432313b9ea6d897c26dc28b1d61d7b52efb079cce2a8ddacf6d"
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/048.html",
-      "bytes": 185284,
-      "sha256": "c1911b1d87d4f758461af7a5acb782dad4f714ed41c6984cbc9ae110a52041e1"
+      "bytes": 185349,
+      "sha256": "4387aed63e9c3c34c24691e03f9279c06ab7f160960c8fb5716aa9dfd4352827"
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/049.html",
-      "bytes": 208605,
-      "sha256": "9b0601cc28899ca0d460afc5504d87649f6581d7f431bfec670263e94c2f2946"
+      "bytes": 208540,
+      "sha256": "bd3a8d8fffbb4471984b25c418f382d8f2323d1808614a401db33b7c194cc01c"
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/050.html",
@@ -534,13 +534,13 @@
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0.pdf",
-      "bytes": 714047,
-      "sha256": "ff1e37f626621b3cfb434ff36e613a3b41543c43722fa1507dff55e10bf8413d"
+      "bytes": 714058,
+      "sha256": "e86290c63620452c47d6e43389a4eea25082658c6166b94d7cc813d6fb6252cd"
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0_网页语音版.html",
       "bytes": 355530,
-      "sha256": "12ddf5ce3b1c6226ce6e5683a9c654c4b5ed06f2f3563d432c4c20e5c1c8450e"
+      "sha256": "38b9edbf4adaaa1780ed7ab025dab2f50d8880b667baef34a45a99ef4dee4e29"
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.1.md",
