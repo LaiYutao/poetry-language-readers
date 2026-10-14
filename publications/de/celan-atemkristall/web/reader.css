@@ -29,3 +29,5 @@ header[data-layout="compact"] #playback{flex:0 0 100%;min-width:0;flex-wrap:wrap
 #help .pdf-download{color:inherit;text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px}#help .pdf-download:hover{color:#2a7775}#help .pdf-download:focus-visible{outline:2px solid #8b7d99;outline-offset:3px}
 
 .page-loading{display:block;padding:24px;color:#687a76;font-size:13px}.page-error{padding:24px;font-size:14px}
+
+.sheet-vector text{user-select:text;-webkit-user-select:text;cursor:text}.sheet-vector text::selection,.sheet-vector tspan::selection{background:#d9e6ee}

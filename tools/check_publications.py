@@ -19,6 +19,19 @@ for folder in ['celan-atemkristall','rilke-selected','trakl-gedichte-1913']:
         for paragraph in p['translation'].split('\n'):
             assert norm(paragraph) in markdown,f'{folder}: poem {p["n"]} translation differs'
     assert data['checks']['web_pages_derived_from_current_pdf']
+    if data['format']=='modular-web-v3-text':
+        for name,expected in data['shared_fonts'].items():
+            assert digest(root/name)==expected,f'{folder}: font changed {name}'
+        checks=data['text_validation']['pages']
+        assert len(checks)==data['pages'] and all(p['character_check'] for p in checks)
+        for page in sorted((dest/'web/text-pages').glob('*.html')):
+            markup=page.read_text();svg=ET.fromstring(markup[:markup.index('</svg>')+6])
+            assert list(svg.iter('{http://www.w3.org/2000/svg}text')),f'{folder}/{page.name}: no actual text'
+            assert not list(svg.iter('{http://www.w3.org/2000/svg}use')),f'{folder}/{page.name}: old glyph reference'
+            for span in svg.iter('{http://www.w3.org/2000/svg}tspan'):
+                family=span.get('font-family');weight=span.get('font-weight')
+                if family=='ReaderSongLight':assert weight=='300'
+                if family=='ReaderSongUI':assert weight=='400'
     if data['format'] == 'modular-web-v2':
         shared = ET.parse(dest/'web/glyphs-common.svg').getroot()
         shared_ids = {e.get('id') for e in shared.iter() if e.get('id')}
