@@ -14,6 +14,10 @@ function fitReaderHeader(){
   +parseFloat(navStyle.paddingLeft)+parseFloat(navStyle.paddingRight);
  const overflows=needed>readerNav.getBoundingClientRect().width+.5;
  const idle=document.getElementById('playback').dataset.idle==='true';
+ const controls=children.filter(e=>e.id!=='playback');
+ const controlsWidth=controls.reduce((sum,e)=>sum+e.getBoundingClientRect().width,0)
+  +parseFloat(navStyle.columnGap)*(controls.length-1);
+ readerNav.style.setProperty('--hint-hidden-offset',Math.max(0,readerNav.getBoundingClientRect().width-controlsWidth)*.45+'px');
  readerHeader.dataset.hideHint=String(overflows&&idle);
  readerHeader.dataset.layout=overflows&&!idle?'compact':'wide';
  document.documentElement.style.scrollPaddingTop=(readerHeader.getBoundingClientRect().height+8)+'px';
