@@ -19,7 +19,7 @@
 </g>
 
 </defs>
-<g>
+<circle cx="31.103515" cy="17" r="30.5" fill="#fff" /><g transform="translate(31.103515 17) scale(0.84) translate(-31.103515 -17)" color="#000"><g>
 <g fill="currentColor" fill-opacity="1">
 <use xlink:href="#lyrik-glyph-0-0" transform="translate(0 24.899305) skewX(-8) scale(1 1.2) translate(0 -24.899305)" x="-0.000000000000000888" y="24.899305" />
 <use xlink:href="#lyrik-glyph-0-1" transform="translate(0.6 0) translate(15.488235 24.899305) scale(0.93) translate(-15.488235 -24.899305)" x="15.488235" y="24.899305" />
@@ -28,4 +28,4 @@
 <use xlink:href="#lyrik-glyph-0-4" transform="translate(15.488235 24.899305) skewX(-7) scale(0.93) translate(-15.488235 -24.899305)" x="46.200255" y="24.899305" />
 </g>
 </g>
-</svg>
+</g></svg>
