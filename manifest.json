@@ -519,13 +519,13 @@
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.1.md",
-      "bytes": 241320,
-      "sha256": "4e63b969ce84e8ffa4915eeb2cac530a87670033a8de247a251cc856bd75ad11"
+      "bytes": 247113,
+      "sha256": "adf5d9d605055add432316319479ecaa4a2d73cfd4cc52d90f9fb195bd58b053"
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.1.pdf",
-      "bytes": 3047629,
-      "sha256": "356dece18c84eb1ce3188bbdca00ec05fcecf5ae5431ec76d65f58f41a39e762"
+      "bytes": 3055311,
+      "sha256": "0c064c4f365b38bb0eb388f09fad73c870b8bfe8856967ce4af8d1379b1bf92a"
     },
     {
       "path": "publications/de/rilke-selected/alignment.json",
