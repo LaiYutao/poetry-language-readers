@@ -20,7 +20,7 @@ function fitReaderHeader(){
  const controlsWidth=controls.reduce((sum,e)=>sum+e.getBoundingClientRect().width,0)
   +parseFloat(navStyle.columnGap)*(controls.length-1);
  const navWidth=readerNav.getBoundingClientRect().width;
- const hiddenOffset=Math.max(0,navWidth-controlsWidth)*.45;
+ const hiddenOffset=Math.max(0,navWidth-controlsWidth)*.4;
  const idleNeeded=controlsWidth+parseFloat(navStyle.columnGap)+idleHintWidth+parseFloat(navStyle.paddingRight);
  const idleOffset=idleNeeded>navWidth+.5?hiddenOffset:
   navStyle.justifyContent==='center'?Math.max(0,(navWidth-idleNeeded)/2):0;
@@ -117,6 +117,14 @@ const media=JSON.parse(document.getElementById('recordings').textContent),audio=
 const playToggle=document.getElementById('play-toggle');
 const idlePlaybackMessage=status.textContent;
 let current=null,stopped=false,dragging=false;
+function updatePageButtons(){
+ document.querySelectorAll('[data-action="play"]').forEach(b=>{
+  const playing=b.dataset.poem===current&&!audio.paused&&!audio.ended&&!stopped;
+  b.dataset.playing=String(playing);
+  const label=(playing?'暂停第':'播放第')+b.dataset.poem+'首';
+  b.setAttribute('aria-label',label);b.title=label;
+ });
+}
 const time=x=>`${Math.floor(x/60)}:${String(Math.floor(x%60)).padStart(2,'0')}`;
 function progress(value,duration){
  seek.style.setProperty('--progress',`${duration?100*value/duration:0}%`);
@@ -129,7 +137,7 @@ function update(){
   timeline.hidden=true;
   if(document.getElementById('playback').dataset.idle!=='true')document.getElementById('playback').dataset.idle='true';
   if(status.textContent!==idlePlaybackMessage)status.textContent=idlePlaybackMessage;
-  document.querySelectorAll('[data-action="play"]').forEach(b=>b.dataset.playing='false');
+  updatePageButtons();
   return;
  }
  if(document.getElementById('playback').dataset.idle==='true')document.getElementById('playback').dataset.idle='false';
@@ -143,7 +151,7 @@ function update(){
  playToggle.title=playing?'暂停':'播放';
  const message=label;
  if(status.textContent!==message)status.textContent=message;
- document.querySelectorAll('[data-action="play"]').forEach(b=>b.dataset.playing=String(b.dataset.poem===current&&!audio.paused&&!stopped));
+ updatePageButtons();
 }
 seek.addEventListener('pointerdown',()=>{dragging=true});
 function finishSeek(){dragging=false;update()}
