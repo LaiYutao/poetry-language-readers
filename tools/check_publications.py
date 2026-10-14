@@ -1,6 +1,7 @@
 """Verify published reader snapshots. Run: python3 tools/check_publications.py"""
 from pathlib import Path
 import hashlib, html, json, re, unicodedata
+import xml.etree.ElementTree as ET
 root=Path(__file__).resolve().parents[1]
 def digest(p):return hashlib.sha256(p.read_bytes()).hexdigest()
 def norm(s):return re.sub(r'\s+','',unicodedata.normalize('NFKC',s))
@@ -18,4 +19,16 @@ for folder in ['celan-atemkristall','rilke-selected','trakl-gedichte-1913']:
         for paragraph in p['translation'].split('\n'):
             assert norm(paragraph) in markdown,f'{folder}: poem {p["n"]} translation differs'
     assert data['checks']['web_pages_derived_from_current_pdf']
+    if data['format'] == 'modular-web-v2':
+        shared = ET.parse(dest/'web/glyphs-common.svg').getroot()
+        shared_ids = {e.get('id') for e in shared.iter() if e.get('id')}
+        for page in sorted((dest/'web/pages').glob('*.html')):
+            markup = page.read_text()
+            svg = ET.fromstring(markup[:markup.index('</svg>')+6])
+            local_ids = {e.get('id') for e in svg.iter() if e.get('id')}
+            assert not shared_ids & local_ids, f'{folder}/{page.name}: duplicate shared ID'
+            for element in svg.iter():
+                for attr, value in element.attrib.items():
+                    if attr.endswith('href') and value.startswith('#'):
+                        assert value[1:] in shared_ids | local_ids, f'{folder}/{page.name}: missing {value}'
     print(folder+': OK ('+str(len(poems))+' poems)')
