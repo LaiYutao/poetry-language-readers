@@ -19,7 +19,8 @@ async function loadBookPage(section){
  const work=(async()=>{
   try{
    const number=Number(section.id.slice(5));
-   const [,text]=await Promise.all([loadGlyphs(),fetchBookAsset(bookAssets.pages[number-1])]);
+   const needsCommon=!bookAssets.commonPages||bookAssets.commonPages[number-1];
+   const [,text]=await Promise.all([needsCommon?loadGlyphs():null,fetchBookAsset(bookAssets.pages[number-1])]);
    section.innerHTML=text;section.dataset.loaded='true';section.setAttribute('aria-busy','false');
    if(typeof update==='function')update();
   }catch(error){
@@ -31,10 +32,26 @@ async function loadBookPage(section){
  })();
  pendingPages.set(section.id,work);return work;
 }
+// Keep speculative work small on phones; visible/target pages go first.
+const nearbyPages=new Set();
+let activePages=0;
+function pumpPages(){
+ const candidates=[...nearbyPages].sort((a,b)=>Math.abs(a.getBoundingClientRect().top)-Math.abs(b.getBoundingClientRect().top));
+ for(const section of candidates){
+  if(activePages>=2)break;
+  nearbyPages.delete(section);
+  if(section.dataset.loaded==='true'||pendingPages.has(section.id))continue;
+  activePages++;
+  loadBookPage(section).finally(()=>{activePages--;pumpPages()});
+ }
+}
 const pageObserver=new IntersectionObserver(entries=>{
- for(const entry of entries)if(entry.isIntersecting)loadBookPage(entry.target);
-},{rootMargin:'1000px 0px'});
-document.querySelectorAll('section.page').forEach(page=>pageObserver.observe(page));
+ for(const entry of entries){
+  if(entry.isIntersecting&&entry.target.dataset.loaded!=='true')nearbyPages.add(entry.target);
+  else nearbyPages.delete(entry.target);
+ }
+ pumpPages();
+},{rootMargin:matchMedia('(max-width:650px)').matches?'150px 0px':'400px 0px'});
 function loadHashPage(){
  if(/^#page-\d+$/.test(location.hash)){
   const section=document.getElementById(location.hash.slice(1));
@@ -42,7 +59,11 @@ function loadHashPage(){
  }
 }
 window.addEventListener('hashchange',loadHashPage);
-window.addEventListener('load',loadHashPage);
+loadHashPage();
+// Let an initial page bookmark scroll before scheduling neighboring pages.
+requestAnimationFrame(()=>requestAnimationFrame(()=>{
+ document.querySelectorAll('section.page:not([data-loaded="true"])').forEach(page=>pageObserver.observe(page));
+}));
 
 const media=JSON.parse(document.getElementById('recordings').textContent),audio=document.getElementById('audio'),status=document.getElementById('status'),seek=document.getElementById('seek'),clock=document.getElementById('clock'),timeline=document.getElementById('timeline');
 let current=null,stopped=false,dragging=false;
