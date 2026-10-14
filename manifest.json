@@ -135,7 +135,7 @@
     {
       "path": "publications/de/celan-atemkristall/alignment.json",
       "bytes": 7895,
-      "sha256": "ebab5b2d15cd3cebf62187c917aa02b9cc59ca8c625b9550de3d4bc15ec2f282"
+      "sha256": "7950ea0bd9af95d31fa450c52530e9ef4f68b95fcbd683971d50c95cbd64a053"
     },
     {
       "path": "publications/de/celan-atemkristall/assets/德语语法速查原图1.jpg",
@@ -289,13 +289,13 @@
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/005.html",
-      "bytes": 567674,
-      "sha256": "41cc8e1323e8fadf3c079522cc65e2cd52b7be2495a07ec709b4a1677ae4266b"
+      "bytes": 567662,
+      "sha256": "679c46d605ddc725a69e1ea9e3a062925851c03db04649f050366404ade571c9"
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/006.html",
-      "bytes": 598356,
-      "sha256": "41040c799ded61cb22fa687318d8f2695dc8b9b0db45fffa9d6be36d0d908bab"
+      "bytes": 598344,
+      "sha256": "c840467181b6981ceb6c766b3f99b3450309bc9a72c70bab38c4dba042ccdd5d"
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/007.html",
@@ -304,8 +304,8 @@
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/008.html",
-      "bytes": 527633,
-      "sha256": "07390f20a39008c166cc84171311e4aa1ea1f3cfdbc9a1e88ae2159b1e1cf40b"
+      "bytes": 527621,
+      "sha256": "6a6fecf191e93e220e185a0fe3a5041402d60c3cdea0283c05e56ec05f61368b"
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/009.html",
@@ -314,13 +314,13 @@
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/010.html",
-      "bytes": 509898,
-      "sha256": "197382e6c378253cdab65b9abbfbf37453552895461595934b467229fbaf864b"
+      "bytes": 509886,
+      "sha256": "ede000cd54c9ae727031cd261bca7162295bed57aa3209dc25bb9df5cc8edf7c"
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/011.html",
-      "bytes": 373744,
-      "sha256": "e4840061fb11a6a9482115649f82bf7b6cdc347bf63e562b1cd58016de173216"
+      "bytes": 373732,
+      "sha256": "f99d6034b87d91b2fa4718ae6b8f7e49f97904cacf325fe16628ef9243126deb"
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/012.html",
@@ -329,8 +329,8 @@
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/013.html",
-      "bytes": 456109,
-      "sha256": "a2a31656605dec5bb262aef49eae6885e3cfd45bf6255e1f0be22f29f214b45c"
+      "bytes": 456097,
+      "sha256": "6b82450c5992558c39f9b8c8ef637f126cff1a641e6c52eb0e9d17140679e4a3"
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/014.html",
@@ -339,8 +339,8 @@
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/015.html",
-      "bytes": 402724,
-      "sha256": "671f3647dc91f1cc2ccfe8ce6f5f6599f6c5ae91b6f9a1ac01aab2f4652c7a7a"
+      "bytes": 402712,
+      "sha256": "543f17cf2f5960e56f223a7689e3b64c39ea7499c3b80c1d58256a86fa7b4010"
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/016.html",
@@ -349,8 +349,8 @@
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/017.html",
-      "bytes": 305549,
-      "sha256": "2d7c582704206af5160d1827d953482d83ad956ffe64ee8e846c77ee2716bb15"
+      "bytes": 305537,
+      "sha256": "498cd87c50eb5990a2f9816385de2526268c8eb207d37443c62a7ac205fa9a4c"
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/018.html",
@@ -359,8 +359,8 @@
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/019.html",
-      "bytes": 441579,
-      "sha256": "e6567d23a9de6a0748b93003680423ee5cd40e39b9e43e1a89c11582fdcbee67"
+      "bytes": 441567,
+      "sha256": "aac5f30b6470afea0f6058af8a1d4d60951f88d09f0a2d91af7ec6b162727d8d"
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/020.html",
@@ -369,8 +369,8 @@
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/021.html",
-      "bytes": 329642,
-      "sha256": "982ce78ecd67cc604e7dbce1475fef368c81bddb9efe75247b3a7176dd7ed349"
+      "bytes": 329630,
+      "sha256": "77906f9b5be3aefd6682726feed9741c910237f07dc1db6f4521f1fee2de996c"
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/022.html",
@@ -379,8 +379,8 @@
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/023.html",
-      "bytes": 313668,
-      "sha256": "3f833f66301c4617aa20c21fe4b847ce804f38d946568e5ac2f9d64cbee60f7d"
+      "bytes": 313656,
+      "sha256": "73c27f2d4fe14be858b092bd63ec297b314c32b62eff89b66a19d0d610ec05aa"
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/024.html",
@@ -389,8 +389,8 @@
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/025.html",
-      "bytes": 483727,
-      "sha256": "e70986481489a02cd4b5697b4db895bb6248a4d460fae9e26709281d5b700e13"
+      "bytes": 483715,
+      "sha256": "7f43a81e0f905c5fd783990d3f3adcfece32880e74273e42e74b6e7b2c4d8219"
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/026.html",
@@ -399,8 +399,8 @@
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/027.html",
-      "bytes": 276530,
-      "sha256": "1913abd6a116d5f08be0908cf622a716a17822db919816dd7e76dd9d193a7b24"
+      "bytes": 276518,
+      "sha256": "0a56a375ac5f3c1034159c551930751923f4042d973f8c4d0360ba776a26ff46"
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/028.html",
@@ -409,8 +409,8 @@
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/029.html",
-      "bytes": 505528,
-      "sha256": "715e5db98cc12f5fdbb3e8dffdf22c255025894174d94e07eb001245914d85e2"
+      "bytes": 505516,
+      "sha256": "3c52a81817f569bc0f7df6f13c20e294e98357cf9be48dbd310487e63757c158"
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/030.html",
@@ -419,8 +419,8 @@
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/031.html",
-      "bytes": 376145,
-      "sha256": "422cf81fbfbafa6d32818fa9958c4d281613c01e39e496e22232b6076d143621"
+      "bytes": 376133,
+      "sha256": "116dd4cde7b4a8ab04bed7afe2ecfb7173d2e5dbecd4fcdba9df18811b11d2d1"
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/032.html",
@@ -429,8 +429,8 @@
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/033.html",
-      "bytes": 401148,
-      "sha256": "d888608abb0e9b805d1d859481c7daa7dc8dd2340ff09b978e4c4099647d670e"
+      "bytes": 401136,
+      "sha256": "19edcf2921f85f4e13c14d5c2a6d46505d59b571c5ee11e5188351042e72502e"
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/034.html",
@@ -439,8 +439,8 @@
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/035.html",
-      "bytes": 428845,
-      "sha256": "3e20050a723eb1de75708b10a12db60fe6f8559c1f6c79ec1767b6110504b09e"
+      "bytes": 428833,
+      "sha256": "7c64a074e65417555b449e9871e713f954af0dd1eff54b8e7ec13330596cf28f"
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/036.html",
@@ -449,8 +449,8 @@
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/037.html",
-      "bytes": 397456,
-      "sha256": "6d7f93117840845a9101da947b9521df22330b097bb27a404f625b23fb69acbc"
+      "bytes": 397444,
+      "sha256": "59db67ab0a216f57cd46ea3fe824e3b343edecdd73e8a463be1862c6f1fe6f27"
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/038.html",
@@ -459,8 +459,8 @@
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/039.html",
-      "bytes": 490632,
-      "sha256": "10f954e37abbfafa9d29e0cd4dcc269dae577348ebe1f9fb8c433ef9c82d3c07"
+      "bytes": 490620,
+      "sha256": "b63d8a02ed9e1af111b9ee66028be54db42b74d3ae792482e9ec74eeaf2ac3c4"
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/040.html",
@@ -469,13 +469,13 @@
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/041.html",
-      "bytes": 667093,
-      "sha256": "17ffe87f360a38ad80d3d0af5758d402ff31daaebe581c52e3670a49413c193f"
+      "bytes": 667081,
+      "sha256": "76b7e7185d9c14c8fdab44c59568ec6d03e2c24ea2af468d54fc4a7e3cbe8c6b"
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/042.html",
-      "bytes": 352904,
-      "sha256": "82a4686ddb92d4f55707020ae26a43cb9e4fb660897526fd383a7a66e3a8017f"
+      "bytes": 352892,
+      "sha256": "1e3fb9c046caef4667df13f4a46bd0fd4e2a8ae86cf5c190799997c6cc70362e"
     },
     {
       "path": "publications/de/celan-atemkristall/web/pages/043.html",
@@ -540,7 +540,7 @@
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0_网页语音版.html",
       "bytes": 355530,
-      "sha256": "342a30260595b0313b8533413d9195deec5241b7fa22d6180223d67f3e89caa8"
+      "sha256": "9f43c91f2b0c0bde981031e0874c2a42733a45baa627ac4422a00b5bcfb40af3"
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.1.md",
@@ -555,7 +555,7 @@
     {
       "path": "publications/de/rilke-selected/alignment.json",
       "bytes": 7306,
-      "sha256": "b70df4feb6dd3f50d76614289d44aa78ed4eb9cb462e0ac777896e7043fa0e37"
+      "sha256": "895a6a10a624136f7c0de9feed7207e3bf2b3f884428ec86fcca6e9d54c33155"
     },
     {
       "path": "publications/de/rilke-selected/content.json",
@@ -694,8 +694,8 @@
     },
     {
       "path": "publications/de/rilke-selected/web/pages/005.html",
-      "bytes": 654232,
-      "sha256": "110138373fd7de4be5216e7fd4ee8293ccbf32ef60167e35c1833c60376402fb"
+      "bytes": 654220,
+      "sha256": "ec2c9726d084ee479597a337852545a40f4c6aec25e100997f7c94dd444f7d08"
     },
     {
       "path": "publications/de/rilke-selected/web/pages/006.html",
@@ -704,8 +704,8 @@
     },
     {
       "path": "publications/de/rilke-selected/web/pages/007.html",
-      "bytes": 618659,
-      "sha256": "ac510b7990cff11628bb2b8bded5773cadb7bb40cb0de70e4727c8a5797af9cf"
+      "bytes": 618647,
+      "sha256": "fbebcdc15ae66da9db9ec540c1c2b7b136923a1dbedac800527bd6a158bf2554"
     },
     {
       "path": "publications/de/rilke-selected/web/pages/008.html",
@@ -714,8 +714,8 @@
     },
     {
       "path": "publications/de/rilke-selected/web/pages/009.html",
-      "bytes": 485687,
-      "sha256": "186051dab2e08043b31c9084849073fff65e41e0362bc0006df320f91d8bda55"
+      "bytes": 485675,
+      "sha256": "90a2db0596d5087b78ea5ed2d4adbb595f0ac08062d75a9d95914caf69e05f27"
     },
     {
       "path": "publications/de/rilke-selected/web/pages/010.html",
@@ -724,8 +724,8 @@
     },
     {
       "path": "publications/de/rilke-selected/web/pages/011.html",
-      "bytes": 569604,
-      "sha256": "2bc68ad5367137a9d48027aa6548346c491de9b1e1fe94afc12a1672e558ca95"
+      "bytes": 569592,
+      "sha256": "3ca9a4d298742ad0ab41fff118f0277209174c9dbb780217894a043b8573d262"
     },
     {
       "path": "publications/de/rilke-selected/web/pages/012.html",
@@ -734,8 +734,8 @@
     },
     {
       "path": "publications/de/rilke-selected/web/pages/013.html",
-      "bytes": 622599,
-      "sha256": "b9e3a8d9c142d291e82ea45dfadaa5a5949d4625c66736f404a5141f298b4de6"
+      "bytes": 622587,
+      "sha256": "7a821c0ceb8f8dabe4b5db9e83e17fd00bfd3b14eaa362d66bba61ff20c30ed2"
     },
     {
       "path": "publications/de/rilke-selected/web/pages/014.html",
@@ -744,8 +744,8 @@
     },
     {
       "path": "publications/de/rilke-selected/web/pages/015.html",
-      "bytes": 269037,
-      "sha256": "53c99b7238192b715619f5b3e7ced15c0d1c669c050bb0edc35626bfe35de936"
+      "bytes": 269025,
+      "sha256": "853177f645f2d6f1d8249dacdfb0b364bee84d83c4dbe5704b3fd4fa13c54fec"
     },
     {
       "path": "publications/de/rilke-selected/web/pages/016.html",
@@ -754,8 +754,8 @@
     },
     {
       "path": "publications/de/rilke-selected/web/pages/017.html",
-      "bytes": 626037,
-      "sha256": "5e6cc26f0740399eb054df5bdcefb885d1adf2f6dcad15dc2a9b0f485b0b9ced"
+      "bytes": 626025,
+      "sha256": "a8fd8fcd1215108bd8b489dbd04767b81285ad8a0348ecf9a5b830fa9d391f33"
     },
     {
       "path": "publications/de/rilke-selected/web/pages/018.html",
@@ -764,13 +764,13 @@
     },
     {
       "path": "publications/de/rilke-selected/web/pages/019.html",
-      "bytes": 381684,
-      "sha256": "97027b21af751d22a2632fa045350cba0fe460004bc216b2c0da8b4863267f6d"
+      "bytes": 381672,
+      "sha256": "a40a52354786abedd5efc9f0561edf3ea8bde74404981ab3b4f2f3783e672534"
     },
     {
       "path": "publications/de/rilke-selected/web/pages/020.html",
-      "bytes": 726111,
-      "sha256": "0ebfadfed68c26003959ecad714e7f926bda2bbeb0848db62a31625d9ffdad8f"
+      "bytes": 726099,
+      "sha256": "9b8f42119aa5c614a5e42a4f3089723dc55e0c546426214d0304d2f14f2e791c"
     },
     {
       "path": "publications/de/rilke-selected/web/pages/021.html",
@@ -779,8 +779,8 @@
     },
     {
       "path": "publications/de/rilke-selected/web/pages/022.html",
-      "bytes": 548625,
-      "sha256": "cc8888fcd94e0ce0ce1824494c533d90fec8519be4ce612713a1a4343b99d8e2"
+      "bytes": 548613,
+      "sha256": "1117318b5bd192326940872b523fd2831b52561368b73f011f48f93ed355dfcf"
     },
     {
       "path": "publications/de/rilke-selected/web/pages/023.html",
@@ -789,8 +789,8 @@
     },
     {
       "path": "publications/de/rilke-selected/web/pages/024.html",
-      "bytes": 741158,
-      "sha256": "89a6cd66be64651caf6c3522ceac3321c686d979f8de32751c7a4086f57a844d"
+      "bytes": 741146,
+      "sha256": "5980ee47d02359253feb9d9da8577a5f5cbd54a25d53b5980ce736c57f5de98c"
     },
     {
       "path": "publications/de/rilke-selected/web/pages/025.html",
@@ -799,8 +799,8 @@
     },
     {
       "path": "publications/de/rilke-selected/web/pages/026.html",
-      "bytes": 474604,
-      "sha256": "ded298f00d808a125166ea9621d198700964bfe0052659f1b890a0e2c4d536a5"
+      "bytes": 474592,
+      "sha256": "8bc08d92506489b321e326c5025a546eac749965c8c734ac9c3e82ccdaf32e33"
     },
     {
       "path": "publications/de/rilke-selected/web/pages/027.html",
@@ -809,8 +809,8 @@
     },
     {
       "path": "publications/de/rilke-selected/web/pages/028.html",
-      "bytes": 738256,
-      "sha256": "40e6e32cd1583098215aaa010ddd8ce29ac21d7b6c0ee85660a52061b24472b2"
+      "bytes": 738244,
+      "sha256": "7711bf8d805228166523cf505c0b38fd539d11c43337fa403af01c4d2f849022"
     },
     {
       "path": "publications/de/rilke-selected/web/pages/029.html",
@@ -819,8 +819,8 @@
     },
     {
       "path": "publications/de/rilke-selected/web/pages/030.html",
-      "bytes": 455802,
-      "sha256": "1ad002c71839e8806950959faf46f525782e3e40587b2c85696e8c513e8c773e"
+      "bytes": 455790,
+      "sha256": "b565f7bf4b2cc53196aef3d6f182b28723cdf2e8ba63238355b96a3f16216768"
     },
     {
       "path": "publications/de/rilke-selected/web/pages/031.html",
@@ -829,8 +829,8 @@
     },
     {
       "path": "publications/de/rilke-selected/web/pages/032.html",
-      "bytes": 780741,
-      "sha256": "ffa1def3b80d7d5a94453cde6a0e8eeeab991cae61009bb4f4850d85e9cfd5ad"
+      "bytes": 780729,
+      "sha256": "045fd2b01e4a1c497c06c058c8e462fc4f86789fb8816fbfbdcc0a1386de42cf"
     },
     {
       "path": "publications/de/rilke-selected/web/pages/033.html",
@@ -839,8 +839,8 @@
     },
     {
       "path": "publications/de/rilke-selected/web/pages/034.html",
-      "bytes": 406465,
-      "sha256": "c498b53de960671cc5be29867f8d76f6b996d05c582857c5d4ac8a9fcf7b599a"
+      "bytes": 406453,
+      "sha256": "000deddaf4c2e219a820ad121aff65699196a088dd6c9d2c593e237411a763bc"
     },
     {
       "path": "publications/de/rilke-selected/web/pages/035.html",
@@ -849,8 +849,8 @@
     },
     {
       "path": "publications/de/rilke-selected/web/pages/036.html",
-      "bytes": 639894,
-      "sha256": "5be1c311802463d3ca5f091ab5b47cf07d5da3eca5614ee196a6bced88f04620"
+      "bytes": 639882,
+      "sha256": "3f1888bf406f155364a61cf3796b0e5ddcf91584757ceb07a6946d0718f72002"
     },
     {
       "path": "publications/de/rilke-selected/web/pages/037.html",
@@ -859,8 +859,8 @@
     },
     {
       "path": "publications/de/rilke-selected/web/pages/038.html",
-      "bytes": 816610,
-      "sha256": "88b1ade4afe8cc35bb761151b0dbad0f8956864d13889bd91fb815253a60bf96"
+      "bytes": 816598,
+      "sha256": "0b47d11ce25736161547661e25a0982beab1d3a7bd6d971af2230e569eb5a396"
     },
     {
       "path": "publications/de/rilke-selected/web/pages/039.html",
@@ -869,8 +869,8 @@
     },
     {
       "path": "publications/de/rilke-selected/web/pages/040.html",
-      "bytes": 436813,
-      "sha256": "03717f74af41239117eb9511ccca683b4733ec71af02dfb9e89282e987f2ae17"
+      "bytes": 436801,
+      "sha256": "21d0cad3d504ee1cd98104858e1ca4fc2952f485d074106188a97c6822552447"
     },
     {
       "path": "publications/de/rilke-selected/web/pages/041.html",
@@ -879,8 +879,8 @@
     },
     {
       "path": "publications/de/rilke-selected/web/pages/042.html",
-      "bytes": 579679,
-      "sha256": "c2ef7b9397f632c24abc165d55c0c5d69bee7d01beaf44cfcec2dd5cfdf5df34"
+      "bytes": 579667,
+      "sha256": "ffbd2d04a31ede72ebea9feca7bb299e82d472263b9096df545b813f71e6f7d2"
     },
     {
       "path": "publications/de/rilke-selected/web/pages/043.html",
@@ -930,12 +930,12 @@
     {
       "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2_网页语音版.html",
       "bytes": 361074,
-      "sha256": "ba663401d16c9f16cdd218320b70aaac41e926fd2285c789e1cf00232691f664"
+      "sha256": "bbabff5bb96cc30b1cd45e5b66cc087fb403cf66041dc5656b8025c21b28cbaa"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/alignment.json",
       "bytes": 8061,
-      "sha256": "f34c6c08e5451612b2a99b52a7a6cdffd0568ebd47552173928f87dd5d0dcfa8"
+      "sha256": "075295fbfd55080ca0cee87012a41be65cd280cb7ea09b2e4144ae5c85beb09c"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/content.json",
@@ -1089,8 +1089,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/005.html",
-      "bytes": 611711,
-      "sha256": "9fab1cc24d30602001ee09f94d987c356a1f4fb1c24586884fa351b8217dbdc2"
+      "bytes": 611699,
+      "sha256": "d7c504a42606991d6ec3a1fd33b37c5073c0bedeae2729e4d73d5036d5a04242"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/006.html",
@@ -1099,8 +1099,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/007.html",
-      "bytes": 438415,
-      "sha256": "4f648c27edd08374cfb3b514a00fbdffbf9afcfdd29f1e92a433beceefd01f55"
+      "bytes": 438403,
+      "sha256": "daf519b23fd401e384d8359bfb504b2c5339dbb021a39875bf27363af6be6cd7"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/008.html",
@@ -1109,13 +1109,13 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/009.html",
-      "bytes": 312932,
-      "sha256": "c61fdd6b0168d82af8a8873f9b6b9101c688a16e27ef7c55181983c35d85f098"
+      "bytes": 312920,
+      "sha256": "b9219d446e00c087a38aadee94d1a5323f179e9378ee2fa44fe896c405bb30af"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/010.html",
-      "bytes": 435583,
-      "sha256": "cadce285fa9be1e8bd8db5cb8712ec3c55b8e0ad4f1116e477805d18906f9273"
+      "bytes": 435571,
+      "sha256": "87fd0cf19811265360584d678bd3a123407864a3add9c3379bf824ceaeceab16"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/011.html",
@@ -1124,8 +1124,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/012.html",
-      "bytes": 538549,
-      "sha256": "b9db05ac2a3fcfa27fe1d1ef535158a028c0df9e1696ee85fd58e8b9beae740e"
+      "bytes": 538537,
+      "sha256": "a7c1d952eaff50b0d7ac6aff4e59f01665bb27f393514ac42d2486ecc362b9e9"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/013.html",
@@ -1134,13 +1134,13 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/014.html",
-      "bytes": 642047,
-      "sha256": "05b96f057beba01c4196511935f018b909ccf488a7d4b2bb2df9e086f961ba0c"
+      "bytes": 642035,
+      "sha256": "2c72978c2a253d15253daa481ff669b8eface1a3ef0c578b7f91a20d6357d551"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/015.html",
-      "bytes": 622509,
-      "sha256": "19e20f6d5a0728aefba1c0ac4de01d71889197237e051fef577ced96f8b10168"
+      "bytes": 622497,
+      "sha256": "e9aafa022972deb1e617a094f492f639e431f9d72467fe30e3df9fb0667102b2"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/016.html",
@@ -1149,8 +1149,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/017.html",
-      "bytes": 591074,
-      "sha256": "910bc94aa7ad7d9e31ff1e4a2f858895758691a6c58f200689b55a64fae56671"
+      "bytes": 591062,
+      "sha256": "3e3713495e4f9ea1229bff032fedc1f20e398449a03fe0924c69bdc023820977"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/018.html",
@@ -1159,8 +1159,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/019.html",
-      "bytes": 534153,
-      "sha256": "389e01059c365415838ba073209c8d7a1e9685343331c9e7c0e630b4c8bf4d2f"
+      "bytes": 534141,
+      "sha256": "b675f55523dbc2b415f6a12c4174350bdbcec5755380601ea868034072b8c1d9"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/020.html",
@@ -1169,8 +1169,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/021.html",
-      "bytes": 531910,
-      "sha256": "7b93e56c70aac067b3a28cddc015001942b30760550796473a8d76781eb70e98"
+      "bytes": 531898,
+      "sha256": "ec16389d2d6145f78b85723969b7f9d340a14c98646e5bfb0ada5c60a72100bb"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/022.html",
@@ -1179,8 +1179,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/023.html",
-      "bytes": 617867,
-      "sha256": "19fe437a7b745ed81d5ac4fd69c8cec2500154fbba799753678afc48356e78e7"
+      "bytes": 617855,
+      "sha256": "f4b08d9dbf38404fbf065e0154554dae7e1479576f477047e2188742a556bf96"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/024.html",
@@ -1189,8 +1189,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/025.html",
-      "bytes": 612154,
-      "sha256": "48ac6f84f8c08a16449a5155fa5dcc29ac16f18cde2eac2e599ea179afbe0b96"
+      "bytes": 612142,
+      "sha256": "0999be30371c3eca1a340634b8a5942f8c134775ce4391a3e221b77b39ebc25f"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/026.html",
@@ -1199,8 +1199,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/027.html",
-      "bytes": 491457,
-      "sha256": "3566968deaa4657738daaa3fce5b698976c396a496e7acea99633cf53b6e7e66"
+      "bytes": 491445,
+      "sha256": "92a7f339d605b433129e9c8adcb24f634e8badd9f6d3ad81741b91917185622c"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/028.html",
@@ -1209,8 +1209,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/029.html",
-      "bytes": 546750,
-      "sha256": "981e3c5238d2b8d23fc9211215ad86cff5c9fd57b37022115cf3522d65a444b6"
+      "bytes": 546738,
+      "sha256": "bf589051f5f5761c24dc04d6b26ebabdfcf49797f134334133d855551a74e1fa"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/030.html",
@@ -1219,8 +1219,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/031.html",
-      "bytes": 602347,
-      "sha256": "476ebc48ae99dcc0902b278d9ce62d5e18bcdee79f8dd12651cf31af1e5fc558"
+      "bytes": 602335,
+      "sha256": "6c875d2de838ee94d58fb5588251c1f4d1aa15c9b3f9cf287a1735c5db40c1d3"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/032.html",
@@ -1229,8 +1229,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/033.html",
-      "bytes": 421140,
-      "sha256": "762ea810f03546a406f87323f6f4dac8b8ed5fb7797cfec0bf625475e3fd3e85"
+      "bytes": 421128,
+      "sha256": "32d912f1beb3b70588e1a860f1f58a1ff86106447a2e7fd4158aad1f20c06de9"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/034.html",
@@ -1239,8 +1239,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/035.html",
-      "bytes": 524108,
-      "sha256": "20dc758ba53e199f5dc6c80999d4f4e827dbd1bab1e64e6e8d24978c63b96032"
+      "bytes": 524096,
+      "sha256": "af2c9d40b06a6ef76280ba6001f67b71673ad061f57ad93efa32ea5ed4a91105"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/036.html",
@@ -1249,8 +1249,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/037.html",
-      "bytes": 521353,
-      "sha256": "9bed0b0a4f6976bcdc0f583e88cd88c1ab78f6bebbf3796a37645fcabf2ff09a"
+      "bytes": 521341,
+      "sha256": "143a528ec94a8e5ff3846cc61103b4bbb1424b7bd2aa8f72a43840014ec37d34"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/038.html",
@@ -1259,8 +1259,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/039.html",
-      "bytes": 681705,
-      "sha256": "b3c0f690be6c24ffd0cadbe65f2da38d00853c36c5db1f928fa3b0f64d070d7b"
+      "bytes": 681693,
+      "sha256": "2b501e0db9cbb0a861da8c441e760807c19716e24a623405dfef7ad3001ffa90"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/040.html",
@@ -1269,8 +1269,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/041.html",
-      "bytes": 464428,
-      "sha256": "144f50e288d3c57b8263c735becb168a4ac82408e75a69fa97bc6272fca602c0"
+      "bytes": 464416,
+      "sha256": "b88c8cb6b9cdfa25656c63a5114b7f15f14597bf01fb369765a88ff27b479ad6"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/042.html",
@@ -1279,8 +1279,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/043.html",
-      "bytes": 587435,
-      "sha256": "d33944f2f7479f1d62cd7f1f84546264deb60ebe33f92011cfd8b1234ce44e12"
+      "bytes": 587423,
+      "sha256": "3f31cde2a65d5f24f2f3af39e215a8a7620bdceb49ff49c210a3ffa5b7adf888"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/044.html",
@@ -1289,8 +1289,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/045.html",
-      "bytes": 552812,
-      "sha256": "50dbf5ad57d4aa0348ff53131fe7a30f1174ee73071af02b6db7442121c1e26f"
+      "bytes": 552800,
+      "sha256": "8760ed622beba70ad873bf4437cc6a523316c49d24dbc80fdc098b91f7e42118"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/046.html",
@@ -1299,8 +1299,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/047.html",
-      "bytes": 909041,
-      "sha256": "942e57b60a51b0e52470ba2a31654962af7dab029d44d9f4561c90c2c26cc729"
+      "bytes": 909029,
+      "sha256": "6d19af61003ab6d0e37589c21fdd151425159e3eeb1fed14be123c16d2424687"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/048.html",
@@ -1350,7 +1350,7 @@
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2_网页语音版.html",
       "bytes": 367746,
-      "sha256": "9cda12cd78235516b443bd2772799336b6af4a12e974f4e50f87c57dcc0973c7"
+      "sha256": "410454e7218f2b6569ebbf1c874866a32a6051817616e97a8981ab243c1a4b85"
     },
     {
       "path": "tools/check_publications.py",
