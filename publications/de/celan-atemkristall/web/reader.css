@@ -11,8 +11,9 @@ header{justify-content:flex-start;gap:18px}
 @media(max-width:1000px){.reader-nav{padding-right:0}}
 @media(max-width:650px){header{padding:9px 12px;gap:10px}.reader-nav{justify-content:flex-start;gap:10px}.site-logo{flex-basis:58px;width:58px}header select{width:130px;max-width:130px;min-width:0;font-size:13px}}
 .reader-nav>a,header select,#playback{flex-shrink:0}.reader-nav>a,#playback{white-space:nowrap}#playback{flex-wrap:nowrap}
-header[data-layout="compact"]{flex-wrap:wrap;align-items:center;justify-content:flex-start;gap:7px 10px}
+header[data-layout="compact"]{flex-wrap:wrap;align-items:center;justify-content:flex-start;gap:7px var(--compact-column-gap,10px)}
 header[data-layout="compact"] .reader-nav{display:contents}
+header[data-layout="compact"] .reader-nav>a:first-child{margin-left:var(--compact-leading-offset,0px)}
 .reader-nav>a,header select,header:not([data-layout="compact"]) #playback{transform:translateY(1.5px)}
 header[data-hide-hint="true"] #playback[data-idle="true"]{display:none}
 header[data-hide-hint="true"] .reader-nav{justify-content:flex-start;padding-left:var(--hint-hidden-offset,0px);padding-right:0}

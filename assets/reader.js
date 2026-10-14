@@ -2,6 +2,8 @@
 // Measurements and the final state are applied in the same frame.
 const readerHeader=document.querySelector('header');
 const readerNav=readerHeader.querySelector('.reader-nav');
+// Preserve the idle navigation position when playback moves to a second row.
+const idleHintWidth=document.getElementById('status').getBoundingClientRect().width;
 let headerLayoutQueued=false;
 function fitReaderHeader(){
  headerLayoutQueued=false;
@@ -17,7 +19,14 @@ function fitReaderHeader(){
  const controls=children.filter(e=>e.id!=='playback');
  const controlsWidth=controls.reduce((sum,e)=>sum+e.getBoundingClientRect().width,0)
   +parseFloat(navStyle.columnGap)*(controls.length-1);
- readerNav.style.setProperty('--hint-hidden-offset',Math.max(0,readerNav.getBoundingClientRect().width-controlsWidth)*.45+'px');
+ const navWidth=readerNav.getBoundingClientRect().width;
+ const hiddenOffset=Math.max(0,navWidth-controlsWidth)*.45;
+ const idleNeeded=controlsWidth+parseFloat(navStyle.columnGap)+idleHintWidth+parseFloat(navStyle.paddingRight);
+ const idleOffset=idleNeeded>navWidth+.5?hiddenOffset:
+  navStyle.justifyContent==='center'?Math.max(0,(navWidth-idleNeeded)/2):0;
+ readerNav.style.setProperty('--hint-hidden-offset',hiddenOffset+'px');
+ readerNav.style.setProperty('--compact-leading-offset',(idleOffset+parseFloat(getComputedStyle(readerHeader).columnGap)-parseFloat(navStyle.columnGap))+'px');
+ readerHeader.style.setProperty('--compact-column-gap',navStyle.columnGap);
  readerHeader.dataset.hideHint=String(overflows&&idle);
  readerHeader.dataset.layout=overflows&&!idle?'compact':'wide';
  document.documentElement.style.scrollPaddingTop=(readerHeader.getBoundingClientRect().height+8)+'px';
@@ -106,6 +115,7 @@ requestAnimationFrame(()=>requestAnimationFrame(()=>{
 
 const media=JSON.parse(document.getElementById('recordings').textContent),audio=document.getElementById('audio'),status=document.getElementById('status'),seek=document.getElementById('seek'),clock=document.getElementById('clock'),timeline=document.getElementById('timeline');
 const playToggle=document.getElementById('play-toggle');
+const idlePlaybackMessage=status.textContent;
 let current=null,stopped=false,dragging=false;
 const time=x=>`${Math.floor(x/60)}:${String(Math.floor(x%60)).padStart(2,'0')}`;
 function progress(value,duration){
@@ -115,6 +125,13 @@ function progress(value,duration){
 }
 function update(){
  if(!current)return;
+ if(stopped){
+  timeline.hidden=true;
+  if(document.getElementById('playback').dataset.idle!=='true')document.getElementById('playback').dataset.idle='true';
+  if(status.textContent!==idlePlaybackMessage)status.textContent=idlePlaybackMessage;
+  document.querySelectorAll('[data-action="play"]').forEach(b=>b.dataset.playing='false');
+  return;
+ }
  if(document.getElementById('playback').dataset.idle==='true')document.getElementById('playback').dataset.idle='false';
  const duration=Number.isFinite(audio.duration)?audio.duration:0;
  timeline.hidden=false;seek.disabled=duration<=0;seek.max=duration;
@@ -143,7 +160,7 @@ async function play(n){
  if(current===n&&!audio.paused){audio.pause();return}
  if(current!==n){audio.pause();current=n;dragging=false;audio.src=media[n].src;audio.load();seek.value=0;progress(0,0);update()}
  try{await audio.play()}
- catch(e){status.textContent='未能播放，请检查网络后重试。';console.error(e)}
+ catch(e){if(current!==n||stopped)return;status.textContent='未能播放，请检查网络后重试。';console.error(e)}
 }
 playToggle.addEventListener('click',()=>{if(current)play(current)});
 document.addEventListener('click',event=>{
