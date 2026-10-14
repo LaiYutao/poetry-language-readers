@@ -115,7 +115,7 @@
     {
       "path": "publications/de/celan-atemkristall/alignment.json",
       "bytes": 7895,
-      "sha256": "8c4a63998111c7ef26f6d89c4e601e8752bb22f131ee477b64b0dd5069b645b6"
+      "sha256": "686c8e59587a2a7aa0f3d2f0c6f06b48f66d04c3b5b2512c02f967c0fc186961"
     },
     {
       "path": "publications/de/celan-atemkristall/assets/德语语法速查原图1.jpg",
@@ -519,8 +519,8 @@
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0_网页语音版.html",
-      "bytes": 355027,
-      "sha256": "858ce5754850ed0fc76392fe219b5c9b5d57a8fdb8cc3723e8a610ad0040cf24"
+      "bytes": 355012,
+      "sha256": "427fca2240d5220eb23461c6dc16483fcaaad4c211721f2d297d19663cc837e6"
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.1.md",
@@ -535,7 +535,7 @@
     {
       "path": "publications/de/rilke-selected/alignment.json",
       "bytes": 7306,
-      "sha256": "76d5d155517df60edd82b2924fc9d08d05d9347f009e2ed24ffaeba0c9716e8f"
+      "sha256": "9a267180648f9b87c8261cab0176d92cb45c1d340420111bcae81172632e8226"
     },
     {
       "path": "publications/de/rilke-selected/content.json",
@@ -909,13 +909,13 @@
     },
     {
       "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2_网页语音版.html",
-      "bytes": 360571,
-      "sha256": "1f0b089944dbb91bf91570e4f7dc9110beefabbbbcafb26b159938cdf163bef2"
+      "bytes": 360556,
+      "sha256": "1bc15e7e72359e442b1ef8bc9e3b533eeecd561b131a411bb4dd5b5e73cc973f"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/alignment.json",
       "bytes": 8061,
-      "sha256": "19939dc224417b00dc5b1c794f78cc90c8d94cc43ffa3b26d971534097e02470"
+      "sha256": "00ebeb53da07bc4b1e4c2f70ccd6111403fb79f965b182bf8c3f10a690a6f399"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/content.json",
@@ -1329,8 +1329,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2_网页语音版.html",
-      "bytes": 367243,
-      "sha256": "08cacde9c09bdb9250a7e93dd8bcea2eb5ac3541061547788e336b67775dfd93"
+      "bytes": 367228,
+      "sha256": "4e29e33c969b896b0afe636a0863aaaf6c7d8349f2316d4d09056ccbf2279f49"
     },
     {
       "path": "tools/check_publications.py",
