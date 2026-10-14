@@ -1,5 +1,5 @@
 {
-  "format": "modular-web-v2",
+  "format": "modular-web-v3-text",
   "content_sha256": "51df472fd3a8bbd978ed6b66796068f3bbc9026895c30ec4c2c8b7cd3c587793",
   "pdf": "策兰《呼吸结晶》21首逐词译注读本_v2.0.pdf",
   "pdf_sha256": "ea58fc122f0003e3d241bd563a7f8a7d43c5f78a54559723360300ab6c3b4e68",
@@ -83,8 +83,483 @@
     "web/pages/049.html": "737825cb2c1f959c24a527859da9566001d1e1b2229179974985544d74a22e6e",
     "web/pages/050.html": "39f2f57513028608099d70c2c274ce2bd7ef9e232e6e407b5c3d729687188edd",
     "web/pages/051.html": "26fca0dc3c01d8cfc28518b7dacd5ea02217906e2d30ee477656ae0f8fa26353",
-    "web/reader.css": "2ce7b96dcce88eb9dce85f67643d4f143128bb84b41cea193c368245f6fb535a",
-    "策兰《呼吸结晶》21首逐词译注读本_v2.0_网页语音版.html": "172ca782e9f6a62244d4e409d71c9db210e41c3daa41021e55a2bb44298b0b84"
+    "web/reader.css": "0611fa9a68246e11fd00ab92c524492db90ebe48f25e7073f95b3c0672b0293a",
+    "web/text-pages/001.html": "9c574f98599b1d4a8b9d5390c5d83dcf3279215149d816f1f1e68c33f1bbd6b1",
+    "web/text-pages/002.html": "45eda3c34f39f6ba9f1edb202fe10a4d23c482e6851b1bda4ea925302b636290",
+    "web/text-pages/003.html": "c99f983b18475435bfdda84d985a28cbb1ce89730fdf62adc6c8dcef80ff3598",
+    "web/text-pages/004.html": "d233a9ad1d8452c03745c3b449c772408bf1a46de5ca25c834e98546e21f824b",
+    "web/text-pages/005.html": "e6d89ee3d0d28fa7973cbabec39d761642722975561d1d224b5ff1e006c76cb0",
+    "web/text-pages/006.html": "dfe4869e18ccaaacbb34892aef6ef8d5dd8e88fa06d9b7097aaa73894f0f82b8",
+    "web/text-pages/007.html": "a2fa57346390ca05a3591fd91c36017365ae1a18ce694dd60c0f98ddc637d70c",
+    "web/text-pages/008.html": "439a41cd11fc2fdc16c9922970db2315681decefa9c4c2cd1d5d22d52a6210ae",
+    "web/text-pages/009.html": "7ca3bc60bbb06322dc9872a28f71dbfdc06a0a6ae7a4dc9abf3e0b7699feb901",
+    "web/text-pages/010.html": "3dd17c81aad79cd68289a5056f9aa19ff599a14f31bfb53a4440c878f3cdcb9a",
+    "web/text-pages/011.html": "4cfd162101ad649701b60fc9ff660fcc9810ef8e742dd5816ac8ad2050bed9fa",
+    "web/text-pages/012.html": "237c4bb56bbe284b4a61699e5048f41f055167bae7d6cbe8221a0979a13721ea",
+    "web/text-pages/013.html": "99dbb5ecc2a0ed12d5e4a19e492fb3aacb2509f18bef2c4a703d5fd0ea5a4e43",
+    "web/text-pages/014.html": "57678346a992c49600c4b947ac445b06bf4ea4eb827967f26fe51ee0ff6eb2be",
+    "web/text-pages/015.html": "46f1bb0b715bb42895456deba9ccf01fd3c22c816396060892dc9343179ff01a",
+    "web/text-pages/016.html": "6db6c2b0f9a35cc1ab15d87d69a55e6a26f9f8e6a6b4f28edd2268176e5973f4",
+    "web/text-pages/017.html": "ea0602511c4f84895647753b7f172c3275d372ddee86efe7f45aa1b2e84a0354",
+    "web/text-pages/018.html": "b9be09d54396a5467b3a4ef2993b60ae0ce523cf94a0bcda0b65d34d5e6e764b",
+    "web/text-pages/019.html": "1916d5e182ebb8d708c9e63473b381dd5b3746c8c3be90ef9621b47f1087e7e5",
+    "web/text-pages/020.html": "b4e79b092022062c1453a116664f2a9e4dae093799390c158044477a1051ad86",
+    "web/text-pages/021.html": "6127e3335064e975acf03f4fa8ad6086542e7bbf31e3840bb865d0e8b003d04a",
+    "web/text-pages/022.html": "02d1dbc8c42390fa9e64c3da5edc33944d971d36e38b172eedf77aa60403fb7d",
+    "web/text-pages/023.html": "606c65d6a7db3de43fff1fbf9af1e134136597e25a1d99244e49d50f5210782c",
+    "web/text-pages/024.html": "09887d72a8b9a52484ff5223af95d848090b9a0e13190df6a17ae5d1a4a63e0c",
+    "web/text-pages/025.html": "fe763a717e99efa44dacf38e2dfdd9f6f681a7641a5da9d85a22af3a5a399814",
+    "web/text-pages/026.html": "556e93d4235939264f4888e700492e0b14832be62ae7a952e5e63e576f62d483",
+    "web/text-pages/027.html": "c93516cbba9b17ba65d7435929ba21ca6df014b883c8830a83a1252846fa4e1f",
+    "web/text-pages/028.html": "04ece95e32414615e3a3ce8157b5729ad06ec82144540e225b0d579c58bcb18b",
+    "web/text-pages/029.html": "9eec165a55aebe3a0adc4f9f49b3b7145db08a5dedd2ea2bf46be9ca052821d5",
+    "web/text-pages/030.html": "0a10d1ad92a8eb08564c41bbad1196ec60a27aee5d06e0eebe5b4d7440d41400",
+    "web/text-pages/031.html": "87d834e6bb75163605497d2c88a8dc68e70f1a8ae97b36c022f745f2c011ee47",
+    "web/text-pages/032.html": "ebc829808640d7a96098038a9d359a725cd2a9e32b27850aa9d2b760bb58e19f",
+    "web/text-pages/033.html": "223e279cc11b42867bcdddf969e8b3f6422205b497c8994fb2ff4435b50b82b1",
+    "web/text-pages/034.html": "005879da5acd2f3241037ff65a0c6ad6674d565ece49306f34a3743eb5a8ae2c",
+    "web/text-pages/035.html": "bb9fa3cd00205cd632010be5fd5b6ed98fb25528cb87460d82472d0372662b8e",
+    "web/text-pages/036.html": "b11dc87e814d5494e8f5d9c4c57b7e4dbac950b03da1941c08ab9ce60066b0d6",
+    "web/text-pages/037.html": "ce6bca03b0550c7620ee87251fe1420f4f56a9f0ecab616960520302119683cd",
+    "web/text-pages/038.html": "9a16b23d88d99a023eb1adfd22f16f6cb2fbdff45d47d9af2237aa6b79d45267",
+    "web/text-pages/039.html": "636bb9b45663bff7386394343b36e42b59578d7fdc7ddc789ef802383bcffecb",
+    "web/text-pages/040.html": "7f3b097702afb9c40d6e5d64c8d0e0e9ebf7ba1b07ad2ad1d8bcfcf58f8612d7",
+    "web/text-pages/041.html": "fed74c6237f7856b26f27d943e936d826b6297ced34b697e58a6ec7fed644719",
+    "web/text-pages/042.html": "95cbfd263bbb8e599c72a3b4bfe836075ebaa1ac6fcc30cceae6225171d7d0ad",
+    "web/text-pages/043.html": "a1c49dd0434d8b07cf69da0d05fa4e6c0b8a9e83706a778d645a05bddbe037ae",
+    "web/text-pages/044.html": "f57643b80887c2658c10b9230c96c6032af2c3acea303cf08a29c892673a0520",
+    "web/text-pages/045.html": "a7494d34a4700b06e7ba96d8b2ae43fcdd52aed653bf9fd06e06ab5828d86d55",
+    "web/text-pages/046.html": "460b21c41e8f1c8e1a63df885b270b711d73448445592998137203e5f17ed9d3",
+    "web/text-pages/047.html": "7812ceaa1693ac7bb33368f2ba53949fcd2ca9e5187573745c62b9c917d84bb1",
+    "web/text-pages/048.html": "ad2e3dfab5a2a92a4ab60aaacc25120b4e54e00aa3f8354234ad50eac0838d2a",
+    "web/text-pages/049.html": "507fe18e88fc523db4a6382711be3d21dffcc6236545d18e6fd335d8303f0543",
+    "web/text-pages/050.html": "2475220e66e60737d14330de9556c0756012c19b9132f54a1eb2b2bd58d97f97",
+    "web/text-pages/051.html": "f2c50dffbc3a3e99f41a3f596f5804a3134b24ff1f99830cb794a161669af4b2",
+    "策兰《呼吸结晶》21首逐词译注读本_v2.0_网页语音版.html": "dd6b3365aff61a6314accf901755c11bf9f81d7476b7ba195f0814924bd97e3b"
+  },
+  "shared_fonts": {
+    "assets/fonts/ReaderTimes-4f6fd0f14d547e38.woff2": "4f6fd0f14d547e38abdb46dfd1f484b6a8866065081ec72d3cef568cd4b2fe2d",
+    "assets/fonts/ReaderSongLight-d8c9946d22a893a6.woff2": "d8c9946d22a893a6636131890c0ddaadda36abb314aefbc05f41f8ebc6b30787",
+    "assets/fonts/ReaderSongBold-1446edd68277aeae.woff2": "1446edd68277aeae653572fc1dc6b22aa52123bb90434522ae6afd08c112eb51",
+    "assets/fonts/ReaderTimesBold-2e973d4db674d493.woff2": "2e973d4db674d493ef532afa2d981654f635e2f617c15fcf83661d4360398b31",
+    "assets/fonts/ReaderMinion-26ffcc4451927ddd.woff2": "26ffcc4451927ddd46dab83606d0c43119fb044dca40c9a504952c9b23543c16",
+    "assets/fonts/ReaderMinionSemibold-15a01bbd412c0c46.woff2": "15a01bbd412c0c46b3240521ac09cc5a8a4ac3448b3aea5502f3629c78073356",
+    "assets/fonts/ReaderBaskerville-e116fb10fd3761e7.woff2": "e116fb10fd3761e78e740a9c8de0a1dc5e72403dc96abda60af8c38c1d93e357",
+    "assets/fonts/ReaderSongUI-8ea4e14625e75aad.woff2": "8ea4e14625e75aad2638198d8aa651398efbd63a633b1ec4a3c9c5b0e360744d",
+    "assets/fonts/reader-fonts-34187998f8997079.css": "34187998f89970790594348279bded2f3ef4736553a2b2d1a4b4e18c93af3c4e"
+  },
+  "text_validation": {
+    "format": "modular-web-v3-text",
+    "pages": [
+      {
+        "page": 1,
+        "characters": 199,
+        "masked_header_text": "",
+        "lines": 11,
+        "runs": 13,
+        "character_check": true
+      },
+      {
+        "page": 2,
+        "characters": 632,
+        "masked_header_text": "",
+        "lines": 24,
+        "runs": 70,
+        "character_check": true
+      },
+      {
+        "page": 3,
+        "characters": 1080,
+        "masked_header_text": "",
+        "lines": 30,
+        "runs": 89,
+        "character_check": true
+      },
+      {
+        "page": 4,
+        "characters": 632,
+        "masked_header_text": "",
+        "lines": 27,
+        "runs": 74,
+        "character_check": true
+      },
+      {
+        "page": 5,
+        "characters": 1062,
+        "masked_header_text": "逐词译注",
+        "lines": 50,
+        "runs": 154,
+        "character_check": true
+      },
+      {
+        "page": 6,
+        "characters": 840,
+        "masked_header_text": "逐词译注",
+        "lines": 60,
+        "runs": 147,
+        "character_check": true
+      },
+      {
+        "page": 7,
+        "characters": 1265,
+        "masked_header_text": "",
+        "lines": 31,
+        "runs": 147,
+        "character_check": true
+      },
+      {
+        "page": 8,
+        "characters": 767,
+        "masked_header_text": "逐词译注",
+        "lines": 54,
+        "runs": 131,
+        "character_check": true
+      },
+      {
+        "page": 9,
+        "characters": 1391,
+        "masked_header_text": "",
+        "lines": 34,
+        "runs": 155,
+        "character_check": true
+      },
+      {
+        "page": 10,
+        "characters": 1080,
+        "masked_header_text": "逐词译注",
+        "lines": 47,
+        "runs": 155,
+        "character_check": true
+      },
+      {
+        "page": 11,
+        "characters": 499,
+        "masked_header_text": "逐词译注",
+        "lines": 38,
+        "runs": 73,
+        "character_check": true
+      },
+      {
+        "page": 12,
+        "characters": 663,
+        "masked_header_text": "",
+        "lines": 21,
+        "runs": 73,
+        "character_check": true
+      },
+      {
+        "page": 13,
+        "characters": 583,
+        "masked_header_text": "逐词译注",
+        "lines": 44,
+        "runs": 84,
+        "character_check": true
+      },
+      {
+        "page": 14,
+        "characters": 754,
+        "masked_header_text": "",
+        "lines": 21,
+        "runs": 86,
+        "character_check": true
+      },
+      {
+        "page": 15,
+        "characters": 558,
+        "masked_header_text": "逐词译注",
+        "lines": 47,
+        "runs": 89,
+        "character_check": true
+      },
+      {
+        "page": 16,
+        "characters": 686,
+        "masked_header_text": "",
+        "lines": 21,
+        "runs": 81,
+        "character_check": true
+      },
+      {
+        "page": 17,
+        "characters": 415,
+        "masked_header_text": "逐词译注",
+        "lines": 32,
+        "runs": 72,
+        "character_check": true
+      },
+      {
+        "page": 18,
+        "characters": 735,
+        "masked_header_text": "",
+        "lines": 22,
+        "runs": 88,
+        "character_check": true
+      },
+      {
+        "page": 19,
+        "characters": 641,
+        "masked_header_text": "逐词译注",
+        "lines": 48,
+        "runs": 74,
+        "character_check": true
+      },
+      {
+        "page": 20,
+        "characters": 765,
+        "masked_header_text": "",
+        "lines": 23,
+        "runs": 77,
+        "character_check": true
+      },
+      {
+        "page": 21,
+        "characters": 481,
+        "masked_header_text": "逐词译注",
+        "lines": 36,
+        "runs": 90,
+        "character_check": true
+      },
+      {
+        "page": 22,
+        "characters": 798,
+        "masked_header_text": "",
+        "lines": 23,
+        "runs": 98,
+        "character_check": true
+      },
+      {
+        "page": 23,
+        "characters": 471,
+        "masked_header_text": "逐词译注",
+        "lines": 38,
+        "runs": 84,
+        "character_check": true
+      },
+      {
+        "page": 24,
+        "characters": 661,
+        "masked_header_text": "",
+        "lines": 22,
+        "runs": 75,
+        "character_check": true
+      },
+      {
+        "page": 25,
+        "characters": 580,
+        "masked_header_text": "逐词译注",
+        "lines": 48,
+        "runs": 95,
+        "character_check": true
+      },
+      {
+        "page": 26,
+        "characters": 791,
+        "masked_header_text": "",
+        "lines": 24,
+        "runs": 97,
+        "character_check": true
+      },
+      {
+        "page": 27,
+        "characters": 476,
+        "masked_header_text": "逐词译注",
+        "lines": 45,
+        "runs": 85,
+        "character_check": true
+      },
+      {
+        "page": 28,
+        "characters": 786,
+        "masked_header_text": "",
+        "lines": 24,
+        "runs": 84,
+        "character_check": true
+      },
+      {
+        "page": 29,
+        "characters": 693,
+        "masked_header_text": "逐词译注",
+        "lines": 55,
+        "runs": 111,
+        "character_check": true
+      },
+      {
+        "page": 30,
+        "characters": 1013,
+        "masked_header_text": "",
+        "lines": 26,
+        "runs": 108,
+        "character_check": true
+      },
+      {
+        "page": 31,
+        "characters": 525,
+        "masked_header_text": "逐词译注",
+        "lines": 44,
+        "runs": 82,
+        "character_check": true
+      },
+      {
+        "page": 32,
+        "characters": 754,
+        "masked_header_text": "",
+        "lines": 23,
+        "runs": 88,
+        "character_check": true
+      },
+      {
+        "page": 33,
+        "characters": 486,
+        "masked_header_text": "逐词译注",
+        "lines": 37,
+        "runs": 69,
+        "character_check": true
+      },
+      {
+        "page": 34,
+        "characters": 676,
+        "masked_header_text": "",
+        "lines": 22,
+        "runs": 80,
+        "character_check": true
+      },
+      {
+        "page": 35,
+        "characters": 546,
+        "masked_header_text": "逐词译注",
+        "lines": 47,
+        "runs": 95,
+        "character_check": true
+      },
+      {
+        "page": 36,
+        "characters": 705,
+        "masked_header_text": "",
+        "lines": 23,
+        "runs": 81,
+        "character_check": true
+      },
+      {
+        "page": 37,
+        "characters": 485,
+        "masked_header_text": "逐词译注",
+        "lines": 41,
+        "runs": 75,
+        "character_check": true
+      },
+      {
+        "page": 38,
+        "characters": 711,
+        "masked_header_text": "",
+        "lines": 23,
+        "runs": 75,
+        "character_check": true
+      },
+      {
+        "page": 39,
+        "characters": 643,
+        "masked_header_text": "逐词译注",
+        "lines": 57,
+        "runs": 115,
+        "character_check": true
+      },
+      {
+        "page": 40,
+        "characters": 988,
+        "masked_header_text": "",
+        "lines": 33,
+        "runs": 113,
+        "character_check": true
+      },
+      {
+        "page": 41,
+        "characters": 1099,
+        "masked_header_text": "逐词译注",
+        "lines": 48,
+        "runs": 156,
+        "character_check": true
+      },
+      {
+        "page": 42,
+        "characters": 611,
+        "masked_header_text": "逐词译注",
+        "lines": 70,
+        "runs": 122,
+        "character_check": true
+      },
+      {
+        "page": 43,
+        "characters": 1439,
+        "masked_header_text": "",
+        "lines": 43,
+        "runs": 144,
+        "character_check": true
+      },
+      {
+        "page": 44,
+        "characters": 929,
+        "masked_header_text": "",
+        "lines": 30,
+        "runs": 108,
+        "character_check": true
+      },
+      {
+        "page": 45,
+        "characters": 1028,
+        "masked_header_text": "",
+        "lines": 32,
+        "runs": 109,
+        "character_check": true
+      },
+      {
+        "page": 46,
+        "characters": 589,
+        "masked_header_text": "",
+        "lines": 32,
+        "runs": 225,
+        "character_check": true
+      },
+      {
+        "page": 47,
+        "characters": 1343,
+        "masked_header_text": "",
+        "lines": 75,
+        "runs": 75,
+        "character_check": true
+      },
+      {
+        "page": 48,
+        "characters": 1140,
+        "masked_header_text": "",
+        "lines": 69,
+        "runs": 69,
+        "character_check": true
+      },
+      {
+        "page": 49,
+        "characters": 1427,
+        "masked_header_text": "",
+        "lines": 85,
+        "runs": 85,
+        "character_check": true
+      },
+      {
+        "page": 50,
+        "characters": 1138,
+        "masked_header_text": "",
+        "lines": 29,
+        "runs": 139,
+        "character_check": true
+      },
+      {
+        "page": 51,
+        "characters": 1065,
+        "masked_header_text": "",
+        "lines": 29,
+        "runs": 92,
+        "character_check": true
+      }
+    ]
   },
   "checks": {
     "poems": 21,
