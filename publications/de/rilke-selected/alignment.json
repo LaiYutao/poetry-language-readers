@@ -1,10 +1,10 @@
 {
   "format": "modular-web-v1",
-  "content_sha256": "d1735bf7cfadc292fd220584b9cbbf3afb47a694efb0101cf1f19f990984a372",
+  "content_sha256": "f682610034956f4034e6fe995a79283fe7845842d25fdacbcbdc61736b39d118",
   "pdf": "里尔克诗选20首逐词译注读本_v0.2.pdf",
-  "pdf_sha256": "d41acfb50549180c45c725cf1bffd33e14274114e94eeb33f3c67135ce50af82",
+  "pdf_sha256": "d24b6d36ad1b71a1e75d192bccbb0d2fd3772d260b42d6be55f2df1a7502375d",
   "markdown": "里尔克诗选20首逐词译注读本_v0.2.md",
-  "markdown_sha256": "1addfbb5ea8fb45315ece2204ffd85825a96b532a15f0d212c0c6471b468c223",
+  "markdown_sha256": "2b8946b77f3c6b57101f4afca66eb3fb66382de6fb5214af3eb5db7e7ddf315b",
   "pages": 46,
   "recordings": 20,
   "runtime_sha256": "78daa851087965b3b8785aa051fb67524b59c2beb858f5098d36e11fe92da110",
@@ -29,7 +29,7 @@
     "web/audio/18.mp3": "82faa4d7154f3b9acb1289f635a391d2662f057e2287b1dc3bf276238137db79",
     "web/audio/19.mp3": "ca7857573c984b3228f305d2edac64bf4dc70dff4ed2baca15913b9fc24879f1",
     "web/audio/20.mp3": "e1a51477c3ab15090f9572717c14730e62dfecc8098b9546f19b19af2af3dae6",
-    "web/glyphs.svg": "4a01012fc52053ae64b69e284488e88c1e749f6db2c1a6e103e4cefb9e845416",
+    "web/glyphs.svg": "51cfc267f7eaebf1145078d2eddc16c83f582d49ca6fb0bc97ce1617e09e4ba5",
     "web/pages/001.html": "2b6471825488587622f933d6e6c050226b00529ae60737849f7743f6c19eca3b",
     "web/pages/002.html": "06a7f3b064e19d4035d76573fda241c0073387db387eae4d121691d6e1189286",
     "web/pages/003.html": "11c7b2d416ad2c6548cfd4997e19abbfdc1826321cf519cfc6cb6be3eec8eceb",
@@ -52,7 +52,7 @@
     "web/pages/020.html": "4796284cf67268f140e0def4de42e744c3a08593f473370c1a2a073b2ba08195",
     "web/pages/021.html": "54f262fa4e22942a1aebfec8c8429f2aee7541b304f26aa24194a689a439cdf9",
     "web/pages/022.html": "5da8306ee7e3a797ab49140be62fb27c860b180d74dd962a5b541430a8306d8c",
-    "web/pages/023.html": "9cbc6d309d206832f836a93056db3d794d84b794b424741d655cfc19f9932518",
+    "web/pages/023.html": "4f9ee25c7eaa3b563a9350fea81415fd2281e12dd98d230148f307c68f716bbd",
     "web/pages/024.html": "4d978dc7c9b5dee2cefe5ff6c438bc39e30379bd2c9aee9db313a980c09abd9d",
     "web/pages/025.html": "ed44b01dd43bcbf6bc432cf323073be1a25f24fb0454465eb094a13d7b1ecb69",
     "web/pages/026.html": "12b4b98634fdfab7cec3adf6ebdcb65db5f0bd22e2880cfdc4b52e3417a142d4",
@@ -77,7 +77,7 @@
     "web/pages/045.html": "c963be32e1f8f376f7d042e8bc5b24611cd95f1d2267fc0b7beaf0d91ee4ee38",
     "web/pages/046.html": "1bf5e11836e684394f65e785a6eb99f5d34ed8ad7c45dc99cc84cb83393a8994",
     "web/reader.css": "f9c134122e4585435454439d8b64b8f9eaa08d8088290a0634bc80e3c945af45",
-    "里尔克诗选20首逐词译注读本_v0.2_网页语音版.html": "c784d1609e36edbd479d4cc67cda9600c5040b4bb79d41c8c8a12d28df312d8a"
+    "里尔克诗选20首逐词译注读本_v0.2_网页语音版.html": "966360f84ddb99f50008f0c06e3ce1965fee7f7382ca095beda2c74aca9eb665"
   },
   "checks": {
     "poems": 20,
