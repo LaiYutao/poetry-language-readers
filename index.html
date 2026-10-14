@@ -8,12 +8,13 @@
 .contact-button{border:0;background:none;padding:5px 0;color:#000;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;font-weight:300;letter-spacing:.07em;line-height:24px;cursor:pointer;border-radius:2px}
 .signature-mark{display:block;width:auto;height:24px;overflow:visible}
 .contact-button:focus-visible{outline:2px solid #000;outline-offset:4px}
-.contact-tip{width:max-content;position:absolute;top:50%;left:calc(100% + 12px);transform:translateY(-50%);padding:7px 11px;border:1px solid #d2dbd6;border-radius:4px;background:#fff;color:#28363a;box-shadow:0 3px 12px #24383b12;font:14px/1.5 "Times New Roman",Times,serif;font-variant-numeric:lining-nums proportional-nums;white-space:nowrap;opacity:0;visibility:hidden;transition:opacity .12s;pointer-events:none}
+.contact-tip{width:max-content;position:absolute;top:50%;left:calc(100% + 12px);transform:translateY(-50%);padding:7px 11px;border:1px solid #d2dbd6;border-radius:4px;background:#fff;color:#28363a;box-shadow:0 3px 12px #24383b12;font:14px/1.5 "Times New Roman",Times,serif;font-variant-numeric:lining-nums proportional-nums;white-space:nowrap;opacity:0;visibility:hidden;transition:opacity .12s;pointer-events:auto;cursor:pointer}
 .contact:hover .contact-tip,.contact:focus-within .contact-tip,.contact[data-feedback] .contact-tip{opacity:1;visibility:visible}
 .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap;border:0}
 @media(max-width:650px){.home-bar{padding:9px 12px;gap:10px}.site-logo{flex-basis:58px;width:58px}.contact-tip{max-width:calc(100vw - 190px);white-space:normal;overflow-wrap:anywhere}}
 @media(max-width:780px){.support p{transform:none}}
 .contact-button{text-decoration:none;display:inline-flex;align-items:center}
+.contact-tip::before{content:"";position:absolute;right:100%;top:-1px;width:13px;height:calc(100% + 2px)}.contact-tip:focus-visible{outline:2px solid #000;outline-offset:2px}
 </style></head><body><header class="home-bar" aria-label="网站标识与联系信息">
 <a class="site-logo" href="./" aria-label="Lyrik · 主页"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 62.20703 34" aria-hidden="true" focusable="false" class="lyrik-mark">
 <defs>
@@ -85,6 +86,49 @@
 <use xlink:href="#signature-glyph-0-6" x="65.051287" y="16.975775"/>
 </g>
 </svg>
-</a><span class="contact-tip" id="contact-tip" role="tooltip">laiyutao2004@gmail.com</span></span>
+</a><button type="button" class="contact-tip" id="contact-tip" aria-label="复制邮箱 laiyutao2004@gmail.com">laiyutao2004@gmail.com</button></span>
 <span class="sr-only" id="copy-status" role="status" aria-live="polite"></span>
-</header><main><div class="eyebrow">POETRY LANGUAGE READERS</div><h1>诗歌与语言阅读</h1><p class="intro">沿着词，读进句子。<br>保留原诗的行与节，以词注、白话和语法说明辅助阅读，点击书页里的“播放”即可收听朗读音频。</p><section class="grid" aria-label="选择读本"><article style="--accent:#2a7775"><div class="author">Paul Celan</div><h2>策兰 · 呼吸结晶</h2><p class="meta">21 首 · 50 页<br>原文 · 逐词注释 · 白话译文 · 朗读</p><a class="open" href="publications/de/celan-atemkristall/%E7%AD%96%E5%85%B0%E3%80%8A%E5%91%BC%E5%90%B8%E7%BB%93%E6%99%B6%E3%80%8B21%E9%A6%96%E9%80%90%E8%AF%8D%E8%AF%91%E6%B3%A8%E8%AF%BB%E6%9C%AC_v2.0_%E7%BD%91%E9%A1%B5%E8%AF%AD%E9%9F%B3%E7%89%88.html">打开语音读本 <span aria-hidden="true">↗</span></a></article><article style="--accent:#8b6041"><div class="author">Rainer Maria Rilke</div><h2>里尔克 · 诗选</h2><p class="meta">20 首 · 45 页<br>原文 · 逐词注释 · 白话译文 · 朗读</p><a class="open" href="publications/de/rilke-selected/%E9%87%8C%E5%B0%94%E5%85%8B%E8%AF%97%E9%80%8920%E9%A6%96%E9%80%90%E8%AF%8D%E8%AF%91%E6%B3%A8%E8%AF%BB%E6%9C%AC_v0.2_%E7%BD%91%E9%A1%B5%E8%AF%AD%E9%9F%B3%E7%89%88.html">打开语音读本 <span aria-hidden="true">↗</span></a></article><article style="--accent:#355570"><div class="author">Georg Trakl</div><h2>特拉克尔 · 诗选</h2><p class="meta">23 首 · 50 页<br>原文 · 逐词注释 · 白话译文 · 朗读</p><a class="open" href="publications/de/trakl-gedichte-1913/%E7%89%B9%E6%8B%89%E5%85%8B%E5%B0%94%E8%AF%97%E9%80%8923%E9%A6%96%E9%80%90%E8%AF%8D%E8%AF%91%E6%B3%A8%E8%AF%BB%E6%9C%AC_v0.2_%E7%BD%91%E9%A1%B5%E8%AF%AD%E9%9F%B3%E7%89%88.html">打开语音读本 <span aria-hidden="true">↗</span></a></article></section><section class="support"><p>网页沿用 PDF 版式，书页按需加载，点击播放即可在线收听。离线阅读可在各读本页面下载无音频 PDF；PDF 与网页正文同步更新。</p></section><footer class="footer">© 2026 Letter Lai · <a href="mailto:laiyutao2004@gmail.com">laiyutao2004@gmail.com</a><br>原创内容仅供个人非商业学习；未经许可不得转载、重新发布或商用。第三方内容权利另属。<br><a href="copyright.html">版权与使用说明</a> · <a href="https://github.com/LaiYutao/poetry-language-readers">GitHub</a></footer></main></body></html>
+</header><main><div class="eyebrow">POETRY LANGUAGE READERS</div><h1>诗歌与语言阅读</h1><p class="intro">沿着词，读进句子。<br>保留原诗的行与节，以词注、白话和语法说明辅助阅读，点击书页里的“播放”即可收听朗读音频。</p><section class="grid" aria-label="选择读本"><article style="--accent:#2a7775"><div class="author">Paul Celan</div><h2>策兰 · 呼吸结晶</h2><p class="meta">21 首 · 50 页<br>原文 · 逐词注释 · 白话译文 · 朗读</p><a class="open" href="publications/de/celan-atemkristall/%E7%AD%96%E5%85%B0%E3%80%8A%E5%91%BC%E5%90%B8%E7%BB%93%E6%99%B6%E3%80%8B21%E9%A6%96%E9%80%90%E8%AF%8D%E8%AF%91%E6%B3%A8%E8%AF%BB%E6%9C%AC_v2.0_%E7%BD%91%E9%A1%B5%E8%AF%AD%E9%9F%B3%E7%89%88.html">打开语音读本 <span aria-hidden="true">↗</span></a></article><article style="--accent:#8b6041"><div class="author">Rainer Maria Rilke</div><h2>里尔克 · 诗选</h2><p class="meta">20 首 · 45 页<br>原文 · 逐词注释 · 白话译文 · 朗读</p><a class="open" href="publications/de/rilke-selected/%E9%87%8C%E5%B0%94%E5%85%8B%E8%AF%97%E9%80%8920%E9%A6%96%E9%80%90%E8%AF%8D%E8%AF%91%E6%B3%A8%E8%AF%BB%E6%9C%AC_v0.2_%E7%BD%91%E9%A1%B5%E8%AF%AD%E9%9F%B3%E7%89%88.html">打开语音读本 <span aria-hidden="true">↗</span></a></article><article style="--accent:#355570"><div class="author">Georg Trakl</div><h2>特拉克尔 · 诗选</h2><p class="meta">23 首 · 50 页<br>原文 · 逐词注释 · 白话译文 · 朗读</p><a class="open" href="publications/de/trakl-gedichte-1913/%E7%89%B9%E6%8B%89%E5%85%8B%E5%B0%94%E8%AF%97%E9%80%8923%E9%A6%96%E9%80%90%E8%AF%8D%E8%AF%91%E6%B3%A8%E8%AF%BB%E6%9C%AC_v0.2_%E7%BD%91%E9%A1%B5%E8%AF%AD%E9%9F%B3%E7%89%88.html">打开语音读本 <span aria-hidden="true">↗</span></a></article></section><section class="support"><p>网页沿用 PDF 版式，书页按需加载，点击播放即可在线收听。离线阅读可在各读本页面下载无音频 PDF；PDF 与网页正文同步更新。</p></section><footer class="footer">© 2026 Letter Lai · <a href="mailto:laiyutao2004@gmail.com">laiyutao2004@gmail.com</a><br>原创内容仅供个人非商业学习；未经许可不得转载、重新发布或商用。第三方内容权利另属。<br><a href="copyright.html">版权与使用说明</a> · <a href="https://github.com/LaiYutao/poetry-language-readers">GitHub</a></footer></main><script>
+(() => {
+  const email = 'laiyutao2004@gmail.com';
+  const button = document.getElementById('contact-tip');
+  const contact = document.getElementById('contact');
+  const tip = document.getElementById('contact-tip');
+  const status = document.getElementById('copy-status');
+  let resetTimer;
+  function legacyCopy() {
+    const field = document.createElement('textarea');
+    field.value = email;
+    field.readOnly = true;
+    field.style.cssText = 'position:fixed;left:-9999px;top:0';
+    document.body.append(field);
+    field.select();
+    let copied = false;
+    try { copied = document.execCommand('copy'); }
+    finally { field.remove(); button.focus({preventScroll:true}); }
+    return copied;
+  }
+  button.addEventListener('click', async () => {
+    clearTimeout(resetTimer);
+    status.textContent = '';
+    let copied = false;
+    try {
+      if (navigator.clipboard && window.isSecureContext) {
+        await navigator.clipboard.writeText(email);
+        copied = true;
+      }
+    } catch (_) {}
+    if (!copied) {
+      try { copied = legacyCopy(); } catch (_) {}
+    }
+    tip.textContent = copied ? '邮箱已复制' : '复制未成功：' + email;
+    status.textContent = tip.textContent;
+    contact.dataset.feedback = copied ? 'copied' : 'error';
+    resetTimer = setTimeout(() => {
+      tip.textContent = email;
+      status.textContent = '';
+      delete contact.dataset.feedback;
+    }, 2400);
+  });
+})();
+</script></body></html>
