@@ -139,23 +139,23 @@
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0_网页语音版.html",
-      "bytes": 23216605,
-      "sha256": "828a3d23d58c583ad424dcb5aeba11b8ffc3e6d04535fb9c0f50acf2520c9d67"
+      "bytes": 23225492,
+      "sha256": "05a84d7fb51a78dd98306e956a7f2b8723a062c8d44d85860b1009a90cbf2a47"
     },
     {
       "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2_网页语音版.html",
-      "bytes": 36616229,
-      "sha256": "5d9f3d5836e9e3900543a746897d30f8170061a615541b208e019f58e7dc9da7"
+      "bytes": 36625116,
+      "sha256": "5c44bbd1a37c99a20538ea919edac814f88034b8853487ee9a89bcf66570ceaf"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2_网页语音版.html",
-      "bytes": 40306102,
-      "sha256": "5da1cb1ffe0877d75ffa4d1e468d1a2254f8b539e5010aa1723abc2cbf89c76b"
+      "bytes": 40314989,
+      "sha256": "ffac66d9009c3da4cbccc986eec8575aaf163eccac846fbfcc0258177924de45"
     },
     {
       "path": "README.md",
-      "bytes": 5361,
-      "sha256": "f009b51379c95b7194079971dedce2b4dbf670f3d2c2610b6d9bc257e03b5ba6"
+      "bytes": 5489,
+      "sha256": "ae64169cd15b2e92d1b36565d6b8397d5dbd14e2f0ff2182f39c4213dc5b3b82"
     },
     {
       "path": "docs/逐词读本编纂指南.md",
@@ -186,6 +186,16 @@
       "path": "SOURCES.md",
       "bytes": 3460,
       "sha256": "ad2715684f1cd58e76c1671238b413ee846d82c8c22f77d820f7191cc3e9bdda"
+    },
+    {
+      "path": "assets/branding/lyrik.svg",
+      "bytes": 7957,
+      "sha256": "be5f539d5d442f23ca8feee34ee7a5c1e280614b9f1da6b82afa273b162eeae1"
+    },
+    {
+      "path": "docs/Lyrik字标设计说明.md",
+      "bytes": 3291,
+      "sha256": "62038766e49fbd8204722743023594db9938adfdcf46530cea1cdf355693f31c"
     }
   ],
   "updated": "2026-10-14",

@@ -34,7 +34,7 @@ PDF 保留原文、逐词引线、语法辅助色、白话译文、句法说明�
 | 里尔克 | 20/20 首 | 采用 Peter Lieck、Jürgen Goslar、Otto Sander、Matthias Habich、Oskar Werner 等版本；不再使用 Fritz Stavenhagen 的录音。第 7、15 首目前按来源频道署名。 |
 | 特拉克尔 | 23/23 首 | 已含第 22 首《Klage》（首句 Schlaf und Tod）；Lyrik 频道未注明朗读者实名，故明确标作未署名。《Untergang》以 Reflektor 的频道署名标注。 |
 
-三册延续低饱和配色：策兰青绿、里尔克棕橙、特拉克尔深蓝。网页用于收听；选择文字、打印和批注仍建议使用 PDF。
+三册延续低饱和配色：策兰青绿、里尔克棕橙、特拉克尔深蓝。 左上角的 **Lyrik** 字标可返回主页；[字标设计参数与复用说明](docs/Lyrik字标设计说明.md)已记录。网页用于收听；选择文字、打印和批注仍建议使用 PDF。
 
 ## 配套语法手册
 
