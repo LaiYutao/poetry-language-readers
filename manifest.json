@@ -154,8 +154,8 @@
     },
     {
       "path": "assets/fonts/home-title-songti.woff2",
-      "bytes": 908,
-      "sha256": "56e4eb9d9e4796a07362764d8ade9171cbe56784a8fe4d046d6f4c138be43eb9"
+      "bytes": 3600,
+      "sha256": "52f4e224f6e9db8c737b7d3b6618b7a25c71cefe6c4d33cd4063ba3580c88675"
     },
     {
       "path": "assets/fonts/reader-fonts-34187998f8997079.css",
@@ -204,8 +204,8 @@
     },
     {
       "path": "letter-lai.html",
-      "bytes": 25152,
-      "sha256": "116ee2742c95f6dfa965a00c945d809878518fd1ef75cc03851cdc3c49304f42"
+      "bytes": 25144,
+      "sha256": "123d3a630bef2f9e2756e491ef6b6ef0bea0dbb218e3ee40914e516b4771365f"
     },
     {
       "path": "plans/布莱希特20首选篇与底本建议.md",
