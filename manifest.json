@@ -935,12 +935,12 @@
     {
       "path": "publications/de/trakl-gedichte-1913/alignment.json",
       "bytes": 8061,
-      "sha256": "3d2c9ec129bde97de38c897bdd02f063fd33bca9e37f8e7e06f5a1261ed34c52"
+      "sha256": "d68609784d95b8ce9c7dc1ae10c7c65766f4a0874b53cc2c52fbc52e580bd658"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/content.json",
-      "bytes": 173639,
-      "sha256": "868311b01f637da3fbb9ba7fa11bfab576c98073ba396577bc8db63373e67a76"
+      "bytes": 173645,
+      "sha256": "4e3c6b2fc7100bb971a4e1671ffdaccb7312799a5d643287bf4fc8dc8aaa6b18"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/audio/01.mp3",
@@ -1289,8 +1289,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/045.html",
-      "bytes": 552814,
-      "sha256": "db8fcc730a3db3d932fa89a4d0724341a117bba6946de8ecdc0d2bc36417b286"
+      "bytes": 552896,
+      "sha256": "f3f1a15c797de19dee0731c9cf8d0da32a376d6fe994a7de8eb2e2eb1b4b61bb"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/pages/046.html",
@@ -1339,18 +1339,18 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2.md",
-      "bytes": 134342,
-      "sha256": "330336958ff663553c2ad97135d3fe27359fdb8643a960483fec639d1bcd9f63"
+      "bytes": 134348,
+      "sha256": "7bf530586285a4cd0a5229ee598f9626877b1e99155ee8255214a25066fe437d"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2.pdf",
       "bytes": 677647,
-      "sha256": "126edb0aab8cc26082a62898e1705f9335081aa1245295b78d2c0e41392bf8e1"
+      "sha256": "6037648c6829b57bc9210d4e5d7536ededbf3e9eabae67d5836c1453f537cbd7"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2_网页语音版.html",
       "bytes": 367746,
-      "sha256": "7a1050fc0cccc4dbb40ab3d8da1dced218ca2080e8254066539b4bbc61c3e6a6"
+      "sha256": "ca200e54ccf75cb040debe520fd0c23081dcb1faad5d98b83cc11bd2bcd1286f"
     },
     {
       "path": "tools/check_publications.py",
