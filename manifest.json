@@ -205,7 +205,7 @@
     {
       "path": "letter-lai.html",
       "bytes": 25959,
-      "sha256": "f0a63b15d54fae341ad96a432c664fd8685be2951358c34b7c221de21157a645"
+      "sha256": "859818fe96ac14f238aaaa744e1ed33cee83e8494b0f98698c732212133b6d44"
     },
     {
       "path": "plans/布莱希特20首选篇与底本建议.md",
@@ -2193,7 +2193,7 @@
       "sha256": "45977975413db5bfda0d4c0ff280ad15bf1f7f22abf0a6773a860013f2fdd366"
     }
   ],
-  "updated": "2026-10-14",
+  "updated": "2026-10-15",
   "web_audio_readers": [
     {
       "name": "策兰《呼吸结晶》21首",
