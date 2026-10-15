@@ -18,15 +18,22 @@ for folder in ['celan-atemkristall','rilke-selected','trakl-gedichte-1913']:
     for p in poems:
         for paragraph in p['translation'].split('\n'):
             assert norm(paragraph) in markdown,f'{folder}: poem {p["n"]} translation differs'
-    # Context-reviewed plural labels must survive lexical compound replacements.
-    if folder == 'celan-atemkristall':
-        raw_md = html.unescape(re.sub(r'<[^>]+>', '', (dest/data['markdown']).read_text()))
-        for poem in poems:
-            for row in poem['lines']:
-                for word, gloss in row:
-                    if '·复' in gloss:
-                        matches = re.findall(r'\*\*' + re.escape(word) + r'\*\* → ([^；\n]+)', raw_md)
-                        assert matches and all('·复' in value for value in matches), f'{folder}: missing plural for {word}'
+    # Check occurrence by occurrence: identical forms may be singular elsewhere.
+    raw_md = (dest/data['markdown']).read_text()
+    sections = re.split(r'<a id="poem-0*(\d+)"></a>', raw_md)
+    sections = {int(sections[i]): sections[i+1] for i in range(1, len(sections), 2)}
+    for poem in poems:
+        section = html.unescape(re.sub(r'<[^>]+>', '', sections[poem['n']]))
+        rows = [('题', poem.get('title_words')), ('副', poem.get('subtitle_words'))]
+        rows += [(str(i+1), row) for i, row in enumerate(r for r in poem['lines'] if r)]
+        for label, row in rows:
+            if not row: continue
+            table = re.search(r'^\| ' + re.escape(label) + r' \| (.*) \|$', section, re.M)
+            assert table, (folder, poem['n'], label, 'missing annotation row')
+            cells = table[1].split('； ')
+            assert len(cells) == len(row), (folder, poem['n'], label, 'token count')
+            for (word, gloss), cell in zip(row, cells):
+                assert ('·复' in gloss) == ('·复' in cell), (folder, poem['n'], label, word, 'plural mismatch')
     assert data['checks']['web_pages_derived_from_current_pdf']
     if data['format']=='modular-web-v3-text':
         for name,expected in data['shared_fonts'].items():

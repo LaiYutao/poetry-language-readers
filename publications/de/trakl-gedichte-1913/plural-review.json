@@ -1,0 +1,1041 @@
+{
+  "date": "2026-10-15",
+  "book": "trakl",
+  "poems_checked": 23,
+  "plural_occurrences": [
+    {
+      "poem": 1,
+      "line": "title",
+      "word": "RABEN",
+      "gloss": "乌鸦·复"
+    },
+    {
+      "poem": 1,
+      "line": "2",
+      "word": "Raben",
+      "gloss": "乌鸦·复"
+    },
+    {
+      "poem": 1,
+      "line": "14",
+      "word": "Lüften,",
+      "gloss": "空气·复"
+    },
+    {
+      "poem": 2,
+      "line": "1",
+      "word": "Wolken",
+      "gloss": "云·复"
+    },
+    {
+      "poem": 2,
+      "line": "3",
+      "word": "Menschen",
+      "gloss": "人们·复"
+    },
+    {
+      "poem": 2,
+      "line": "6",
+      "word": "Ahnen",
+      "gloss": "祖先·复"
+    },
+    {
+      "poem": 2,
+      "line": "7",
+      "word": "Weiten.",
+      "gloss": "远方·复"
+    },
+    {
+      "poem": 2,
+      "line": "8",
+      "word": "Augen",
+      "gloss": "眼睛·复"
+    },
+    {
+      "poem": 2,
+      "line": "9",
+      "word": "Schatten,",
+      "gloss": "影子·复"
+    },
+    {
+      "poem": 2,
+      "line": "14",
+      "word": "Angstgespenster.",
+      "gloss": "恐惧|幽灵·复"
+    },
+    {
+      "poem": 2,
+      "line": "17",
+      "word": "Gänge.",
+      "gloss": "走廊·复"
+    },
+    {
+      "poem": 2,
+      "line": "19",
+      "word": "Sonatenklänge.",
+      "gloss": "奏鸣曲|声音·复"
+    },
+    {
+      "poem": 3,
+      "line": "1",
+      "word": "Tage,",
+      "gloss": "日子·复"
+    },
+    {
+      "poem": 3,
+      "line": "2",
+      "word": "Farben:",
+      "gloss": "色彩·复"
+    },
+    {
+      "poem": 3,
+      "line": "3",
+      "word": "Flöten",
+      "gloss": "笛子·复"
+    },
+    {
+      "poem": 3,
+      "line": "4",
+      "word": "Farben",
+      "gloss": "色彩·复"
+    },
+    {
+      "poem": 3,
+      "line": "5",
+      "word": "Tage.",
+      "gloss": "日子·复"
+    },
+    {
+      "poem": 4,
+      "line": "3",
+      "word": "Lippen",
+      "gloss": "嘴唇·复"
+    },
+    {
+      "poem": 4,
+      "line": "6",
+      "word": "Legenden",
+      "gloss": "传说·复"
+    },
+    {
+      "poem": 4,
+      "line": "9",
+      "word": "Schritten",
+      "gloss": "步子·复"
+    },
+    {
+      "poem": 4,
+      "line": "10",
+      "word": "Trauben",
+      "gloss": "葡萄·复"
+    },
+    {
+      "poem": 4,
+      "line": "11",
+      "word": "Arme",
+      "gloss": "手臂·复"
+    },
+    {
+      "poem": 4,
+      "line": "14",
+      "word": "Augen",
+      "gloss": "眼睛·复"
+    },
+    {
+      "poem": 4,
+      "line": "18",
+      "word": "Finger",
+      "gloss": "手指·复"
+    },
+    {
+      "poem": 4,
+      "line": "22",
+      "word": "Lider",
+      "gloss": "眼睑·复"
+    },
+    {
+      "poem": 4,
+      "line": "23",
+      "word": "Schläfen",
+      "gloss": "太阳穴·复"
+    },
+    {
+      "poem": 4,
+      "line": "25",
+      "word": "Sterne.",
+      "gloss": "星星·复"
+    },
+    {
+      "poem": 5,
+      "line": "1",
+      "word": "Sonnenblumen",
+      "gloss": "向日葵·复"
+    },
+    {
+      "poem": 5,
+      "line": "2",
+      "word": "Kranke",
+      "gloss": "病人·复"
+    },
+    {
+      "poem": 5,
+      "line": "3",
+      "word": "Frau’n,",
+      "gloss": "女人们·复"
+    },
+    {
+      "poem": 5,
+      "line": "4",
+      "word": "Klosterglocken",
+      "gloss": "修道院|钟·复"
+    },
+    {
+      "poem": 5,
+      "line": "6",
+      "word": "Vögel",
+      "gloss": "鸟·复"
+    },
+    {
+      "poem": 5,
+      "line": "7",
+      "word": "Klosterglocken",
+      "gloss": "修道院|钟·复"
+    },
+    {
+      "poem": 5,
+      "line": "13",
+      "word": "Totenkammern",
+      "gloss": "停尸室·复"
+    },
+    {
+      "poem": 6,
+      "line": "1",
+      "word": "Fledermäuse.",
+      "gloss": "蝙蝠·复"
+    },
+    {
+      "poem": 6,
+      "line": "2",
+      "word": "Rappen",
+      "gloss": "黑马·复"
+    },
+    {
+      "poem": 6,
+      "line": "5",
+      "word": "Nüsse.",
+      "gloss": "坚果·复"
+    },
+    {
+      "poem": 6,
+      "line": "7",
+      "word": "Glocken.",
+      "gloss": "钟声·复"
+    },
+    {
+      "poem": 7,
+      "line": "4",
+      "word": "Zweigen",
+      "gloss": "枝条·复"
+    },
+    {
+      "poem": 7,
+      "line": "7",
+      "word": "Pfaden.",
+      "gloss": "路径·复"
+    },
+    {
+      "poem": 7,
+      "line": "8",
+      "word": "Baumarkaden,",
+      "gloss": "树|拱廊·复"
+    },
+    {
+      "poem": 7,
+      "line": "9",
+      "word": "Lider",
+      "gloss": "眼睑·复"
+    },
+    {
+      "poem": 7,
+      "line": "12",
+      "word": "Gewölke",
+      "gloss": "云层·复"
+    },
+    {
+      "poem": 7,
+      "line": "14",
+      "word": "Gebilde",
+      "gloss": "形象·复"
+    },
+    {
+      "poem": 8,
+      "line": "2",
+      "word": "Gärten.",
+      "gloss": "花园·复"
+    },
+    {
+      "poem": 8,
+      "line": "3",
+      "word": "Wälder",
+      "gloss": "树林·复"
+    },
+    {
+      "poem": 8,
+      "line": "4",
+      "word": "Gefährten.",
+      "gloss": "伙伴·复"
+    },
+    {
+      "poem": 8,
+      "line": "7",
+      "word": "Abendglocken",
+      "gloss": "晚钟·复"
+    },
+    {
+      "poem": 9,
+      "line": "3",
+      "word": "Dohlen",
+      "gloss": "寒鸦·复"
+    },
+    {
+      "poem": 9,
+      "line": "4",
+      "word": "Jäger",
+      "gloss": "猎人·复"
+    },
+    {
+      "poem": 9,
+      "line": "6",
+      "word": "Wipfeln",
+      "gloss": "树梢·复"
+    },
+    {
+      "poem": 9,
+      "line": "7",
+      "word": "Hütten.",
+      "gloss": "小屋·复"
+    },
+    {
+      "poem": 9,
+      "line": "12",
+      "word": "Raben",
+      "gloss": "乌鸦·复"
+    },
+    {
+      "poem": 9,
+      "line": "12",
+      "word": "Gossen.",
+      "gloss": "沟渠·复"
+    },
+    {
+      "poem": 10,
+      "line": "12",
+      "word": "Sternen",
+      "gloss": "星辰·复"
+    },
+    {
+      "poem": 11,
+      "line": "1",
+      "word": "Gärten,",
+      "gloss": "花园·复"
+    },
+    {
+      "poem": 11,
+      "line": "3",
+      "word": "Hände",
+      "gloss": "手·复"
+    },
+    {
+      "poem": 11,
+      "line": "3",
+      "word": "Reben,",
+      "gloss": "葡萄枝·复"
+    },
+    {
+      "poem": 11,
+      "line": "6",
+      "word": "Schritte",
+      "gloss": "脚步·复"
+    },
+    {
+      "poem": 11,
+      "line": "7",
+      "word": "Erscheinender",
+      "gloss": "显现者·属·复"
+    },
+    {
+      "poem": 11,
+      "line": "7",
+      "word": "Buchen",
+      "gloss": "山毛榉·复"
+    },
+    {
+      "poem": 11,
+      "line": "13",
+      "word": "Hollunderfrüchte,",
+      "gloss": "接骨木果·复"
+    },
+    {
+      "poem": 11,
+      "line": "13",
+      "word": "Flöten",
+      "gloss": "笛声·复"
+    },
+    {
+      "poem": 12,
+      "line": "1",
+      "word": "Feuerschlünden",
+      "gloss": "火|深渊·复"
+    },
+    {
+      "poem": 12,
+      "line": "2",
+      "word": "Krieger",
+      "gloss": "战士·属·复"
+    },
+    {
+      "poem": 12,
+      "line": "2",
+      "word": "Stirnen,",
+      "gloss": "额头·复"
+    },
+    {
+      "poem": 12,
+      "line": "3",
+      "word": "Schritte",
+      "gloss": "脚步·复"
+    },
+    {
+      "poem": 12,
+      "line": "4",
+      "word": "Gehirnen:",
+      "gloss": "脑·复"
+    },
+    {
+      "poem": 12,
+      "line": "9",
+      "word": "Ölbaumzweigen;",
+      "gloss": "橄榄树枝·复"
+    },
+    {
+      "poem": 13,
+      "line": "title",
+      "word": "PROFUNDIS",
+      "gloss": "深处·复"
+    },
+    {
+      "poem": 13,
+      "line": "3",
+      "word": "Hütten",
+      "gloss": "小屋·复"
+    },
+    {
+      "poem": 13,
+      "line": "7",
+      "word": "Ähren",
+      "gloss": "麦穗·复"
+    },
+    {
+      "poem": 13,
+      "line": "8",
+      "word": "Augen",
+      "gloss": "眼睛·复"
+    },
+    {
+      "poem": 13,
+      "line": "12",
+      "word": "Hirten",
+      "gloss": "牧人·复"
+    },
+    {
+      "poem": 13,
+      "line": "15",
+      "word": "Dörfern.",
+      "gloss": "村庄·复"
+    },
+    {
+      "poem": 13,
+      "line": "20",
+      "word": "Spinnen",
+      "gloss": "蜘蛛·复"
+    },
+    {
+      "poem": 13,
+      "line": "24",
+      "word": "Sterne.",
+      "gloss": "星星·复"
+    },
+    {
+      "poem": 13,
+      "line": "26",
+      "word": "Engel.",
+      "gloss": "天使·复"
+    },
+    {
+      "poem": 14,
+      "line": "title",
+      "word": "TROMPETEN",
+      "gloss": "小号·复"
+    },
+    {
+      "poem": 14,
+      "line": "1",
+      "word": "Weiden,",
+      "gloss": "柳树·复"
+    },
+    {
+      "poem": 14,
+      "line": "1",
+      "word": "Kinder",
+      "gloss": "孩子·复"
+    },
+    {
+      "poem": 14,
+      "line": "2",
+      "word": "Blätter",
+      "gloss": "树叶·复"
+    },
+    {
+      "poem": 14,
+      "line": "2",
+      "word": "Trompeten.",
+      "gloss": "小号·复"
+    },
+    {
+      "poem": 14,
+      "line": "3",
+      "word": "Fahnen",
+      "gloss": "旗帜·复"
+    },
+    {
+      "poem": 14,
+      "line": "4",
+      "word": "Reiter",
+      "gloss": "骑手·复"
+    },
+    {
+      "poem": 14,
+      "line": "4",
+      "word": "Roggenfeldern,",
+      "gloss": "黑麦田·复"
+    },
+    {
+      "poem": 14,
+      "line": "4",
+      "word": "Mühlen.",
+      "gloss": "磨坊·复"
+    },
+    {
+      "poem": 14,
+      "line": "6",
+      "word": "Hirten",
+      "gloss": "牧人·复"
+    },
+    {
+      "poem": 14,
+      "line": "6",
+      "word": "Hirsche",
+      "gloss": "鹿·复"
+    },
+    {
+      "poem": 14,
+      "line": "7",
+      "word": "Feuer,",
+      "gloss": "火·复"
+    },
+    {
+      "poem": 14,
+      "line": "8",
+      "word": "Tanzende",
+      "gloss": "舞者·复"
+    },
+    {
+      "poem": 14,
+      "line": "9",
+      "word": "Fahnen",
+      "gloss": "旗帜·复"
+    },
+    {
+      "poem": 14,
+      "line": "9",
+      "word": "Trompeten.",
+      "gloss": "小号·复"
+    },
+    {
+      "poem": 15,
+      "line": "title",
+      "word": "RATTEN",
+      "gloss": "老鼠·复"
+    },
+    {
+      "poem": 15,
+      "line": "2",
+      "word": "Schatten.",
+      "gloss": "影子·复"
+    },
+    {
+      "poem": 15,
+      "line": "3",
+      "word": "Fenstern",
+      "gloss": "窗户·复"
+    },
+    {
+      "poem": 15,
+      "line": "4",
+      "word": "Ratten",
+      "gloss": "老鼠·复"
+    },
+    {
+      "poem": 15,
+      "line": "12",
+      "word": "Scheunen,",
+      "gloss": "谷仓·复"
+    },
+    {
+      "poem": 15,
+      "line": "13",
+      "word": "Früchten",
+      "gloss": "果实·复"
+    },
+    {
+      "poem": 15,
+      "line": "14",
+      "word": "Winde",
+      "gloss": "风·复"
+    },
+    {
+      "poem": 16,
+      "line": "2",
+      "word": "Bäumen",
+      "gloss": "树木·复"
+    },
+    {
+      "poem": 16,
+      "line": "3",
+      "word": "Räumen.",
+      "gloss": "空间·复"
+    },
+    {
+      "poem": 16,
+      "line": "6",
+      "word": "Sterbeklänge",
+      "gloss": "死亡|声音·复"
+    },
+    {
+      "poem": 16,
+      "line": "8",
+      "word": "Mädchen",
+      "gloss": "少女·属·复"
+    },
+    {
+      "poem": 16,
+      "line": "8",
+      "word": "Lieder",
+      "gloss": "歌·复"
+    },
+    {
+      "poem": 16,
+      "line": "11",
+      "word": "Farben",
+      "gloss": "色彩·复"
+    },
+    {
+      "poem": 16,
+      "line": "12",
+      "word": "Flügel.",
+      "gloss": "翅膀·复"
+    },
+    {
+      "poem": 16,
+      "line": "13",
+      "word": "Schatten",
+      "gloss": "影子·复"
+    },
+    {
+      "poem": 16,
+      "line": "17",
+      "word": "Guitarren",
+      "gloss": "吉他·复"
+    },
+    {
+      "poem": 17,
+      "line": "1",
+      "word": "Glocken",
+      "gloss": "钟·复"
+    },
+    {
+      "poem": 17,
+      "line": "2",
+      "word": "Vögel",
+      "gloss": "鸟·复"
+    },
+    {
+      "poem": 17,
+      "line": "2",
+      "word": "Flügen,",
+      "gloss": "飞行·与·复"
+    },
+    {
+      "poem": 17,
+      "line": "3",
+      "word": "Pilgerzügen,",
+      "gloss": "朝圣行列·复"
+    },
+    {
+      "poem": 17,
+      "line": "4",
+      "word": "Weiten.",
+      "gloss": "远方·复"
+    },
+    {
+      "poem": 17,
+      "line": "7",
+      "word": "Geschicken",
+      "gloss": "命运·复"
+    },
+    {
+      "poem": 17,
+      "line": "8",
+      "word": "Stunden",
+      "gloss": "小时·复"
+    },
+    {
+      "poem": 17,
+      "line": "9",
+      "word": "Wolken",
+      "gloss": "云·复"
+    },
+    {
+      "poem": 17,
+      "line": "9",
+      "word": "Fahrten.",
+      "gloss": "行程·复"
+    },
+    {
+      "poem": 17,
+      "line": "12",
+      "word": "Zweigen.",
+      "gloss": "枝条·复"
+    },
+    {
+      "poem": 17,
+      "line": "13",
+      "word": "Gittern,",
+      "gloss": "栅栏·复"
+    },
+    {
+      "poem": 17,
+      "line": "15",
+      "word": "Kinder",
+      "gloss": "孩子·属·复"
+    },
+    {
+      "poem": 17,
+      "line": "16",
+      "word": "Brunnenränder,",
+      "gloss": "井沿·复"
+    },
+    {
+      "poem": 17,
+      "line": "17",
+      "word": "Astern",
+      "gloss": "紫菀·复"
+    },
+    {
+      "poem": 18,
+      "line": "2",
+      "word": "Kastanien",
+      "gloss": "栗树·复"
+    },
+    {
+      "poem": 18,
+      "line": "4",
+      "word": "Geschwister",
+      "gloss": "兄弟姐妹·复"
+    },
+    {
+      "poem": 18,
+      "line": "11",
+      "word": "Mauern",
+      "gloss": "墙壁·复"
+    },
+    {
+      "poem": 19,
+      "line": "2",
+      "word": "Mauern,",
+      "gloss": "墙壁·复"
+    },
+    {
+      "poem": 19,
+      "line": "3",
+      "word": "Gestalten:",
+      "gloss": "形象·复"
+    },
+    {
+      "poem": 19,
+      "line": "3",
+      "word": "Verstorbene",
+      "gloss": "死者·复"
+    },
+    {
+      "poem": 19,
+      "line": "4",
+      "word": "Stuben",
+      "gloss": "房间·复"
+    },
+    {
+      "poem": 19,
+      "line": "6",
+      "word": "Knaben.",
+      "gloss": "男孩·复"
+    },
+    {
+      "poem": 19,
+      "line": "6",
+      "word": "Schatten",
+      "gloss": "影子·复"
+    },
+    {
+      "poem": 19,
+      "line": "7",
+      "word": "Mägde",
+      "gloss": "女仆·复"
+    },
+    {
+      "poem": 19,
+      "line": "9",
+      "word": "Augen",
+      "gloss": "眼睛·复"
+    },
+    {
+      "poem": 19,
+      "line": "9",
+      "word": "Nachtgeläuten.",
+      "gloss": "夜间|钟声·复"
+    },
+    {
+      "poem": 19,
+      "line": "12",
+      "word": "Bogen,",
+      "gloss": "拱门·复"
+    },
+    {
+      "poem": 19,
+      "line": "16",
+      "word": "Bogen",
+      "gloss": "拱门·复"
+    },
+    {
+      "poem": 19,
+      "line": "17",
+      "word": "Vögeln",
+      "gloss": "鸟·复"
+    },
+    {
+      "poem": 20,
+      "line": "7",
+      "word": "Wasser.",
+      "gloss": "水·复"
+    },
+    {
+      "poem": 20,
+      "line": "9",
+      "word": "Spiegel",
+      "gloss": "镜子·复"
+    },
+    {
+      "poem": 20,
+      "line": "11",
+      "word": "Engel.",
+      "gloss": "天使·属·复"
+    },
+    {
+      "poem": 21,
+      "line": "2",
+      "word": "Vögel",
+      "gloss": "鸟·复"
+    },
+    {
+      "poem": 21,
+      "line": "3",
+      "word": "Sternen",
+      "gloss": "星辰·复"
+    },
+    {
+      "poem": 21,
+      "line": "5",
+      "word": "Gräber",
+      "gloss": "坟墓·复"
+    },
+    {
+      "poem": 21,
+      "line": "7",
+      "word": "Eichen",
+      "gloss": "橡树·复"
+    },
+    {
+      "poem": 21,
+      "line": "9",
+      "word": "Mauern",
+      "gloss": "墙·复"
+    },
+    {
+      "poem": 21,
+      "line": "10",
+      "word": "Dornenbogen",
+      "gloss": "荆棘|拱门·复"
+    },
+    {
+      "poem": 21,
+      "line": "11",
+      "word": "Zeiger",
+      "gloss": "指针·复"
+    },
+    {
+      "poem": 22,
+      "line": "1",
+      "word": "Adler",
+      "gloss": "鹰·复"
+    },
+    {
+      "poem": 22,
+      "line": "5",
+      "word": "Riffen",
+      "gloss": "暗礁·复"
+    },
+    {
+      "poem": 22,
+      "line": "11",
+      "word": "Sternen,",
+      "gloss": "星辰·复"
+    },
+    {
+      "poem": 23,
+      "line": "1",
+      "word": "Wälder",
+      "gloss": "森林·复"
+    },
+    {
+      "poem": 23,
+      "line": "2",
+      "word": "Waffen,",
+      "gloss": "武器·复"
+    },
+    {
+      "poem": 23,
+      "line": "2",
+      "word": "Ebenen",
+      "gloss": "平原·复"
+    },
+    {
+      "poem": 23,
+      "line": "3",
+      "word": "Seen,",
+      "gloss": "湖泊·复"
+    },
+    {
+      "poem": 23,
+      "line": "5",
+      "word": "Krieger,",
+      "gloss": "战士·复"
+    },
+    {
+      "poem": 23,
+      "line": "6",
+      "word": "Münder.",
+      "gloss": "嘴·复"
+    },
+    {
+      "poem": 23,
+      "line": "10",
+      "word": "Straßen",
+      "gloss": "道路·复"
+    },
+    {
+      "poem": 23,
+      "line": "11",
+      "word": "Sternen",
+      "gloss": "星辰·复"
+    },
+    {
+      "poem": 23,
+      "line": "13",
+      "word": "Geister",
+      "gloss": "灵魂·复"
+    },
+    {
+      "poem": 23,
+      "line": "13",
+      "word": "Helden,",
+      "gloss": "英雄·复"
+    },
+    {
+      "poem": 23,
+      "line": "13",
+      "word": "Häupter;",
+      "gloss": "头颅·复"
+    },
+    {
+      "poem": 23,
+      "line": "14",
+      "word": "Flöten",
+      "gloss": "笛子·复"
+    },
+    {
+      "poem": 23,
+      "line": "15",
+      "word": "Altäre,",
+      "gloss": "祭坛·复"
+    },
+    {
+      "poem": 23,
+      "line": "17",
+      "word": "Enkel.",
+      "gloss": "子孙·复"
+    }
+  ],
+  "changes": [
+    {
+      "poem": 13,
+      "word": "PROFUNDIS",
+      "before": "深处",
+      "after": "深处·复"
+    },
+    {
+      "poem": 14,
+      "word": "Reiter",
+      "before": "骑手",
+      "after": "骑手·复"
+    },
+    {
+      "poem": 19,
+      "word": "Nachtgeläuten.",
+      "before": "夜间|钟声",
+      "after": "夜间|钟声·复"
+    },
+    {
+      "poem": 21,
+      "word": "Dornenbogen",
+      "before": "荆棘|拱门",
+      "after": "荆棘|拱门·复"
+    },
+    {
+      "poem": 3,
+      "word": "Des",
+      "before": "这些·属",
+      "after": "这·属"
+    }
+  ],
+  "review_notes": [
+    "逐首按冠词、形容词、动词一致关系与上下文核对；包含题名、副题、零词尾复数、变元音复数、复合词及名词化形式。",
+    "单数、集合名词和数不明确的同形词不机械加标；里尔克第14首 Zwei Becken 与 sein Becken 分别为复数、单数。",
+    "特拉克尔第17首 Todesreigen 的形式不独立确定单复数，保留未标；第3首 Des Hirten 为单数属格。"
+  ],
+  "sources": [
+    "https://www.duden.de/rechtschreibung/Bogen",
+    "https://www.duden.de/rechtschreibung/Gelaeut",
+    "https://www.outriderspoetryproject.com/uploads/4/6/1/4/4614234/_trakls_collected_poems.pdf",
+    "https://www.zeitzug.com/autoren/fan-pauline.html",
+    "https://dcc.dickinson.edu/grammar/latin/2nd-declension-stem-paradigm-and-gender"
+  ]
+}
