@@ -1,0 +1,305 @@
+{
+  "scope": "Celan Atemkristall 01–21; all noun occurrences checked in context",
+  "plural_occurrences": [
+    {
+      "poem": 2,
+      "line": 6,
+      "word": "Namen,",
+      "source": "名字·复，",
+      "before": "名字·复",
+      "restored": false
+    },
+    {
+      "poem": 2,
+      "line": 9,
+      "word": "Finger,",
+      "source": "手指·复，",
+      "before": "手指·复",
+      "restored": false
+    },
+    {
+      "poem": 3,
+      "line": 1,
+      "word": "RILLEN",
+      "source": "沟槽·复",
+      "before": "沟槽·复",
+      "restored": false
+    },
+    {
+      "poem": 3,
+      "line": 5,
+      "word": "Fäusten",
+      "source": "拳头·复",
+      "before": "拳头·复",
+      "restored": false
+    },
+    {
+      "poem": 4,
+      "line": 1,
+      "word": "FLÜSSEN",
+      "source": "河流·复",
+      "before": "河流·复",
+      "restored": false
+    },
+    {
+      "poem": 4,
+      "line": 4,
+      "word": "Steinen",
+      "source": "石头·复",
+      "before": "石头·复",
+      "restored": false
+    },
+    {
+      "poem": 4,
+      "line": 5,
+      "word": "Schatten.",
+      "source": "影子·复。",
+      "before": "影子·复",
+      "restored": false
+    },
+    {
+      "poem": 5,
+      "line": 4,
+      "word": "Nächten,",
+      "source": "夜晚·复，",
+      "before": "夜晚·复",
+      "restored": false
+    },
+    {
+      "poem": 5,
+      "line": 7,
+      "word": "Gedanken.",
+      "source": "思想·复。",
+      "before": "思想·复",
+      "restored": false
+    },
+    {
+      "poem": 6,
+      "line": 1,
+      "word": "SCHWERMUTSSCHNELLEN",
+      "source": "忧郁的急流·复",
+      "before": "忧郁|急流",
+      "restored": true
+    },
+    {
+      "poem": 6,
+      "line": 5,
+      "word": "Lebensbäume",
+      "source": "生命之树·复",
+      "before": "生命|树木",
+      "restored": true
+    },
+    {
+      "poem": 7,
+      "line": 1,
+      "word": "ZAHLEN,",
+      "source": "数字·复，",
+      "before": "数字·复",
+      "restored": false
+    },
+    {
+      "poem": 7,
+      "line": 2,
+      "word": "Bilder",
+      "source": "图像·复",
+      "before": "图像·复",
+      "restored": false
+    },
+    {
+      "poem": 8,
+      "line": 1,
+      "word": "WEGE",
+      "source": "道路·复",
+      "before": "道路·复",
+      "restored": false
+    },
+    {
+      "poem": 9,
+      "line": 8,
+      "word": "Brunnengesängen.",
+      "source": "泉井之歌·复。",
+      "before": "泉井|歌唱",
+      "restored": true
+    },
+    {
+      "poem": 9,
+      "line": 11,
+      "word": "Streifen",
+      "source": "条状·复",
+      "before": "条状·复",
+      "restored": false
+    },
+    {
+      "poem": 10,
+      "line": 1,
+      "word": "MASTEN",
+      "source": "桅杆·与格·复",
+      "before": "桅杆·与·复",
+      "restored": false
+    },
+    {
+      "poem": 10,
+      "line": 2,
+      "word": "Himmelwracks.",
+      "source": "天空残船·复。",
+      "before": "天空|残船",
+      "restored": true
+    },
+    {
+      "poem": 10,
+      "line": 5,
+      "word": "Zähnen.",
+      "source": "牙齿·复。",
+      "before": "牙齿·复",
+      "restored": false
+    },
+    {
+      "poem": 12,
+      "line": 5,
+      "word": "Novembersternen",
+      "source": "十一月星辰·复",
+      "before": "十一月星辰",
+      "restored": true
+    },
+    {
+      "poem": 12,
+      "line": 8,
+      "word": "Gespräche",
+      "source": "交谈·复",
+      "before": "交谈·复",
+      "restored": false
+    },
+    {
+      "poem": 12,
+      "line": 8,
+      "word": "Würmer",
+      "source": "蠕虫·复",
+      "before": "蠕虫·复",
+      "restored": false
+    },
+    {
+      "poem": 15,
+      "line": 1,
+      "word": "VERFOLGTEN",
+      "source": "受迫害者·复",
+      "before": "受迫害者·复",
+      "restored": false
+    },
+    {
+      "poem": 16,
+      "line": 1,
+      "word": "FADENSONNEN",
+      "source": "丝线般的太阳·复",
+      "before": "丝线|太阳",
+      "restored": true
+    },
+    {
+      "poem": 16,
+      "line": 6,
+      "word": "Lieder",
+      "source": "歌·复",
+      "before": "歌·复",
+      "restored": false
+    },
+    {
+      "poem": 16,
+      "line": 7,
+      "word": "Menschen.",
+      "source": "人类·复。",
+      "before": "人类·复",
+      "restored": false
+    },
+    {
+      "poem": 18,
+      "line": 1,
+      "word": "HARNISCHSTRIEMEN,",
+      "source": "断层擦痕·复，",
+      "before": "断层擦痕",
+      "restored": true
+    },
+    {
+      "poem": 18,
+      "line": 1,
+      "word": "Faltenachsen,",
+      "source": "褶皱轴·复，",
+      "before": "褶皱轴",
+      "restored": true
+    },
+    {
+      "poem": 18,
+      "line": 3,
+      "word": "punkte:",
+      "source": "点·复：",
+      "before": "点·复",
+      "restored": false
+    },
+    {
+      "poem": 18,
+      "line": 6,
+      "word": "Polen",
+      "source": "极点·复",
+      "before": "极点·复",
+      "restored": false
+    },
+    {
+      "poem": 19,
+      "line": 6,
+      "word": "Gegengeschöpfe:",
+      "source": "反向造物·复：",
+      "before": "反向|造物",
+      "restored": true
+    },
+    {
+      "poem": 19,
+      "line": 15,
+      "word": "Anfänge",
+      "source": "开端·复",
+      "before": "开端·复",
+      "restored": false
+    },
+    {
+      "poem": 19,
+      "line": 17,
+      "word": "geburten.",
+      "source": "诞生·复。",
+      "before": "诞生·复",
+      "restored": false
+    },
+    {
+      "poem": 21,
+      "line": 15,
+      "word": "Gletscherstuben",
+      "source": "冰川居室·复",
+      "before": "冰川|居室",
+      "restored": true
+    },
+    {
+      "poem": 21,
+      "line": 15,
+      "word": "-tischen.",
+      "source": "（冰川）餐桌·复。",
+      "before": "(冰川)餐桌·复",
+      "restored": false
+    }
+  ],
+  "restored_count": 10,
+  "ambiguous": [
+    {
+      "poem": 9,
+      "word": "Sandmuster",
+      "decision": "Singular/plural syncretic accusative, no article or agreement resolves number; retain unmarked rather than assert plural."
+    }
+  ],
+  "singular_controls": [
+    "Himmelsmünze",
+    "Wundenspiegel",
+    "Vier-Finger-Furche",
+    "Schläfenzange",
+    "Schlangenwagen",
+    "Wundenmals",
+    "Zeitenschrunde",
+    "Strahlenwind",
+    "Atemkristall"
+  ],
+  "grammar_reference": "https://grammis.ids-mannheim.de/progr%40mm/6914"
+}

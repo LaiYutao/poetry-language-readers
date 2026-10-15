@@ -18,6 +18,15 @@ for folder in ['celan-atemkristall','rilke-selected','trakl-gedichte-1913']:
     for p in poems:
         for paragraph in p['translation'].split('\n'):
             assert norm(paragraph) in markdown,f'{folder}: poem {p["n"]} translation differs'
+    # Context-reviewed plural labels must survive lexical compound replacements.
+    if folder == 'celan-atemkristall':
+        raw_md = html.unescape(re.sub(r'<[^>]+>', '', (dest/data['markdown']).read_text()))
+        for poem in poems:
+            for row in poem['lines']:
+                for word, gloss in row:
+                    if '·复' in gloss:
+                        matches = re.findall(r'\*\*' + re.escape(word) + r'\*\* → ([^；\n]+)', raw_md)
+                        assert matches and all('·复' in value for value in matches), f'{folder}: missing plural for {word}'
     assert data['checks']['web_pages_derived_from_current_pdf']
     if data['format']=='modular-web-v3-text':
         for name,expected in data['shared_fonts'].items():
