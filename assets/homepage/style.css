@@ -139,4 +139,10 @@
 .return-arrow{display:block;flex:none;width:18px;height:26px;transition:transform .2s}
 .note-body>.text-link:hover .return-arrow{transform:translateY(-5px)}
 
+#about-title{padding-left:0;text-indent:0}
+#about-title>span{display:block;text-indent:0}
 #about-title>span:last-child{margin-left:.5em}
+
+/* Decorative cover lettering scales with the artwork, independent of browser text enlargement. */
+.cover-sheet{padding:0;display:block}
+.cover-artwork{position:absolute;inset:0;display:block;width:100%;height:100%;pointer-events:none}
