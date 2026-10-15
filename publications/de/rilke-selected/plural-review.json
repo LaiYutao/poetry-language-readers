@@ -1,0 +1,460 @@
+{
+  "date": "2026-10-15",
+  "book": "rilke",
+  "poems_checked": 20,
+  "plural_occurrences": [
+    {
+      "poem": 1,
+      "line": "5",
+      "word": "Augen,",
+      "gloss": "眼睛·复"
+    },
+    {
+      "poem": 1,
+      "line": "12",
+      "word": "Augen",
+      "gloss": "眼睛·复"
+    },
+    {
+      "poem": 2,
+      "line": "2",
+      "word": "Sonnenuhren",
+      "gloss": "日晷·复"
+    },
+    {
+      "poem": 2,
+      "line": "3",
+      "word": "Fluren",
+      "gloss": "田野·复"
+    },
+    {
+      "poem": 2,
+      "line": "3",
+      "word": "Winde",
+      "gloss": "风·复"
+    },
+    {
+      "poem": 2,
+      "line": "5",
+      "word": "Früchten",
+      "gloss": "果实·复"
+    },
+    {
+      "poem": 2,
+      "line": "6",
+      "word": "Tage",
+      "gloss": "日子·复"
+    },
+    {
+      "poem": 2,
+      "line": "12",
+      "word": "Briefe",
+      "gloss": "信·复"
+    },
+    {
+      "poem": 2,
+      "line": "13",
+      "word": "Alleen",
+      "gloss": "林荫道·复"
+    },
+    {
+      "poem": 2,
+      "line": "14",
+      "word": "Blätter",
+      "gloss": "叶子·复"
+    },
+    {
+      "poem": 3,
+      "line": "1",
+      "word": "Blätter",
+      "gloss": "叶子·复"
+    },
+    {
+      "poem": 3,
+      "line": "2",
+      "word": "Himmeln",
+      "gloss": "天空·复"
+    },
+    {
+      "poem": 3,
+      "line": "2",
+      "word": "Gärten;",
+      "gloss": "花园·复"
+    },
+    {
+      "poem": 3,
+      "line": "5",
+      "word": "Nächten",
+      "gloss": "夜晚·复"
+    },
+    {
+      "poem": 3,
+      "line": "6",
+      "word": "Sternen",
+      "gloss": "星辰·复"
+    },
+    {
+      "poem": 3,
+      "line": "12",
+      "word": "Händen",
+      "gloss": "手中·复"
+    },
+    {
+      "poem": 4,
+      "line": "2",
+      "word": "Abenden",
+      "gloss": "傍晚·复"
+    },
+    {
+      "poem": 4,
+      "line": "3",
+      "word": "Ebenen,",
+      "gloss": "平原·复"
+    },
+    {
+      "poem": 4,
+      "line": "7",
+      "word": "Zwitterstunden",
+      "gloss": "两可|时刻·复"
+    },
+    {
+      "poem": 4,
+      "line": "8",
+      "word": "Gassen",
+      "gloss": "街巷·复"
+    },
+    {
+      "poem": 4,
+      "line": "9",
+      "word": "Leiber",
+      "gloss": "身体·复"
+    },
+    {
+      "poem": 4,
+      "line": "11",
+      "word": "Menschen",
+      "gloss": "人们·复"
+    },
+    {
+      "poem": 4,
+      "line": "14",
+      "word": "Flüssen",
+      "gloss": "河流·复"
+    },
+    {
+      "poem": 5,
+      "line": "1",
+      "word": "Gewänder,",
+      "gloss": "衣裳·复"
+    },
+    {
+      "poem": 5,
+      "line": "2",
+      "word": "Bäumen",
+      "gloss": "树木·复"
+    },
+    {
+      "poem": 5,
+      "line": "3",
+      "word": "Länder,",
+      "gloss": "地方·复"
+    },
+    {
+      "poem": 7,
+      "line": "1",
+      "word": "Fernen",
+      "gloss": "远方·复"
+    },
+    {
+      "poem": 7,
+      "line": "2",
+      "word": "Winde,",
+      "gloss": "风·复"
+    },
+    {
+      "poem": 7,
+      "line": "3",
+      "word": "Dinge",
+      "gloss": "事物·复"
+    },
+    {
+      "poem": 7,
+      "line": "4",
+      "word": "Thüren",
+      "gloss": "门·复"
+    },
+    {
+      "poem": 7,
+      "line": "4",
+      "word": "Kaminen",
+      "gloss": "壁炉·复"
+    },
+    {
+      "poem": 7,
+      "line": "5",
+      "word": "Fenster",
+      "gloss": "窗户·复"
+    },
+    {
+      "poem": 7,
+      "line": "7",
+      "word": "Stürme",
+      "gloss": "风暴·复"
+    },
+    {
+      "poem": 8,
+      "line": "2",
+      "word": "Seinen",
+      "gloss": "他的所属者·复"
+    },
+    {
+      "poem": 9,
+      "line": "subtitle",
+      "word": "Plantes,",
+      "gloss": "植物·复"
+    },
+    {
+      "poem": 9,
+      "line": "1",
+      "word": "Stäbe",
+      "gloss": "栏杆·复"
+    },
+    {
+      "poem": 9,
+      "line": "3",
+      "word": "Stäbe",
+      "gloss": "栏杆·复"
+    },
+    {
+      "poem": 9,
+      "line": "4",
+      "word": "Stäben",
+      "gloss": "栏杆·复"
+    },
+    {
+      "poem": 9,
+      "line": "6",
+      "word": "Schritte,",
+      "gloss": "步伐·复"
+    },
+    {
+      "poem": 9,
+      "line": "13",
+      "word": "Glieder",
+      "gloss": "肢体·复"
+    },
+    {
+      "poem": 10,
+      "line": "9",
+      "word": "Wasser,",
+      "gloss": "水·复"
+    },
+    {
+      "poem": 11,
+      "line": "3",
+      "word": "Dingen?",
+      "gloss": "事物·复"
+    },
+    {
+      "poem": 11,
+      "line": "7",
+      "word": "Tiefen",
+      "gloss": "深处·复"
+    },
+    {
+      "poem": 11,
+      "line": "10",
+      "word": "Saiten",
+      "gloss": "弦·复"
+    },
+    {
+      "poem": 12,
+      "line": "1",
+      "word": "Farbentiegeln",
+      "gloss": "颜料坩埚·复"
+    },
+    {
+      "poem": 12,
+      "line": "2",
+      "word": "Blätter,",
+      "gloss": "叶子·复"
+    },
+    {
+      "poem": 12,
+      "line": "3",
+      "word": "Blütendolden,",
+      "gloss": "花簇·复"
+    },
+    {
+      "poem": 12,
+      "line": "8",
+      "word": "Briefpapieren",
+      "gloss": "信纸·复"
+    },
+    {
+      "poem": 12,
+      "line": "16",
+      "word": "Dolden,",
+      "gloss": "花簇·复"
+    },
+    {
+      "poem": 13,
+      "line": "3",
+      "word": "Fenster",
+      "gloss": "窗户·复"
+    },
+    {
+      "poem": 13,
+      "line": "11",
+      "word": "Wände",
+      "gloss": "墙壁·复"
+    },
+    {
+      "poem": 13,
+      "line": "12",
+      "word": "Bildern",
+      "gloss": "图画·复"
+    },
+    {
+      "poem": 13,
+      "line": "15",
+      "word": "Tapeten",
+      "gloss": "壁纸·复"
+    },
+    {
+      "poem": 13,
+      "line": "16",
+      "word": "Nachmittagen,",
+      "gloss": "下午·复"
+    },
+    {
+      "poem": 14,
+      "line": "1",
+      "word": "Becken,",
+      "gloss": "水盆·复"
+    },
+    {
+      "poem": 14,
+      "line": "15",
+      "word": "Moosbehängen",
+      "gloss": "苔藓垂挂处·复"
+    },
+    {
+      "poem": 14,
+      "line": "17",
+      "word": "Übergängen.",
+      "gloss": "过渡·复"
+    },
+    {
+      "poem": 15,
+      "line": "6",
+      "word": "Gedichte",
+      "gloss": "诗·复"
+    },
+    {
+      "poem": 15,
+      "line": "8",
+      "word": "Schläfe",
+      "gloss": "双鬓·复"
+    },
+    {
+      "poem": 15,
+      "line": "9",
+      "word": "Augenbraun",
+      "gloss": "眉毛·复"
+    },
+    {
+      "poem": 15,
+      "line": "12",
+      "word": "Blätter,",
+      "gloss": "叶子·复"
+    },
+    {
+      "poem": 16,
+      "line": "2",
+      "word": "Wunden",
+      "gloss": "伤口·复"
+    },
+    {
+      "poem": 16,
+      "line": "8",
+      "word": "Dinge,",
+      "gloss": "事物·复"
+    },
+    {
+      "poem": 17,
+      "line": "8",
+      "word": "Frauen",
+      "gloss": "女人·复"
+    },
+    {
+      "poem": 18,
+      "line": "2",
+      "word": "Augenäpfel",
+      "gloss": "眼球·复"
+    },
+    {
+      "poem": 18,
+      "line": "8",
+      "word": "Lenden",
+      "gloss": "腰际·复"
+    },
+    {
+      "poem": 18,
+      "line": "12",
+      "word": "Schultern",
+      "gloss": "肩膀·复"
+    },
+    {
+      "poem": 18,
+      "line": "13",
+      "word": "Raubtierfelle;",
+      "gloss": "猛兽皮毛·复"
+    },
+    {
+      "poem": 18,
+      "line": "15",
+      "word": "Rändern",
+      "gloss": "边缘·复"
+    },
+    {
+      "poem": 20,
+      "line": "1",
+      "word": "Mitten,",
+      "gloss": "中心·复"
+    },
+    {
+      "poem": 20,
+      "line": "1",
+      "word": "Kerne,",
+      "gloss": "核·复"
+    },
+    {
+      "poem": 20,
+      "line": "3",
+      "word": "Sterne",
+      "gloss": "星辰·复"
+    },
+    {
+      "poem": 20,
+      "line": "11",
+      "word": "Sonnen",
+      "gloss": "太阳·复"
+    },
+    {
+      "poem": 20,
+      "line": "14",
+      "word": "Sonnen",
+      "gloss": "太阳·复"
+    }
+  ],
+  "changes": [],
+  "review_notes": [
+    "逐首按冠词、形容词、动词一致关系与上下文核对；包含题名、副题、零词尾复数、变元音复数、复合词及名词化形式。",
+    "单数、集合名词和数不明确的同形词不机械加标；里尔克第14首 Zwei Becken 与 sein Becken 分别为复数、单数。",
+    "特拉克尔第17首 Todesreigen 的形式不独立确定单复数，保留未标；第3首 Des Hirten 为单数属格。"
+  ],
+  "sources": [
+    "https://grammis.ids-mannheim.de/progr%40mm/6914"
+  ]
+}

@@ -1,10 +1,10 @@
 {
   "format": "modular-web-v3-text",
-  "content_sha256": "4e3c6b2fc7100bb971a4e1671ffdaccb7312799a5d643287bf4fc8dc8aaa6b18",
+  "content_sha256": "efba6c78cad540d774d1d83afd685e3955e6fc2f1ae9a917f0ba5d48a3d5dbe3",
   "pdf": "特拉克尔诗选23首逐词译注读本_v0.2.pdf",
-  "pdf_sha256": "6037648c6829b57bc9210d4e5d7536ededbf3e9eabae67d5836c1453f537cbd7",
+  "pdf_sha256": "ad3512ef91b10382f102d9b7b00ae70175c694b323f3aa7e705cff3922e9a7cf",
   "markdown": "特拉克尔诗选23首逐词译注读本_v0.2.md",
-  "markdown_sha256": "7bf530586285a4cd0a5229ee598f9626877b1e99155ee8255214a25066fe437d",
+  "markdown_sha256": "8083e52b8c35c240de9f267909dde16cd171f338de8961ffaf3750dddd57f5f5",
   "pages": 51,
   "recordings": 23,
   "runtime_sha256": "cdb6f86f0f6f08b07ac2836fa027fb9dbe74b6843b603ccb545bbffcc37a316d",
@@ -94,7 +94,7 @@
     "web/text-pages/006.html": "976b4c086cd05d6dbe2392187b0d5e70c676b22acea365a141c7ae5b3c2b0582",
     "web/text-pages/007.html": "3d639315534d3894b56dee1c19efc7583363d478c94c53a784fc9c8b12727c1f",
     "web/text-pages/008.html": "fc13916232c3c62560dbf989b397c45419ab504b2c40a2b453a40ac9c53add57",
-    "web/text-pages/009.html": "0587c6175befcda4511c586c138326a568da30cff9d03df0d07923ac1dbcd36d",
+    "web/text-pages/009.html": "981f4cdd0113a2aa0338c5dd2326e7fff2448d3f20ae892b62fadec2eb39bb3a",
     "web/text-pages/010.html": "46ab12bfa0d4bd2dbc32cfe78f8087f9f7ee6a16b6552ef7f60b71a66498dff2",
     "web/text-pages/011.html": "5138105b14190792fa5936bc8cced5b662c526fd5d6e06dc0a836e0db8e1251f",
     "web/text-pages/012.html": "be84d1f193995d029d84f345f1651bc48311fb02e74d25454ec9080b621662a3",
@@ -112,9 +112,9 @@
     "web/text-pages/024.html": "d53ac645cd9c1d9a9ec4edf8cca10c4371ecb65c36e5dd95fc3492e844bb3b85",
     "web/text-pages/025.html": "06b14fb34a67a63b21c34c6adc3ee2f7f9855e897e451d7b6fd426c53791b256",
     "web/text-pages/026.html": "aa6c0e1dfd5e8dfb73d0b1cc5c532f61f676bae116cdf3544fee6c451c5ffa96",
-    "web/text-pages/027.html": "9111c6f0f8445d0034b1607e7bb3f013cc32120287ce2b4c2e97b6b66ea635ea",
+    "web/text-pages/027.html": "8a73b9e9708fa896e87365b8b15d1cd679c50e883e797793c7ba5268ddedb90a",
     "web/text-pages/028.html": "8e936c892f47b4f0321a8e624c8cb4f435b0d0674348aec165230eb8f1542ac8",
-    "web/text-pages/029.html": "a1809b90944184601f062ae476900db2050316664e2379770a54e2d1db394bf9",
+    "web/text-pages/029.html": "302792f64abb202cf50e77c82ca80724fbd6b6fd2faaab1ae22e100667be4dad",
     "web/text-pages/030.html": "e5bbef3320448289a5a92cb2e4c446d159c959dd11f1242bd16775c431acb914",
     "web/text-pages/031.html": "305544f54f150f7372e53e98534583e3241961a8a44026cd5a950cee89970e5c",
     "web/text-pages/032.html": "5a7a3ad9c0a57369e87bd5b7456adb05d52fa7812cf4a5381ee4312e77aaea8e",
@@ -124,11 +124,11 @@
     "web/text-pages/036.html": "75281b04387ca7726ac3bcdb68996b59c44bf3227d540908395c687fbade860d",
     "web/text-pages/037.html": "52a32d5ae8d3eefbc0203acb112d7f1c8cbd9418c567d6db52d7a6c8636555d6",
     "web/text-pages/038.html": "6bea949f274c957ae6398d97ed81f74398f27c0e06191ab47a3beb77113ee139",
-    "web/text-pages/039.html": "477987cf00b5e75207c99460a06b87ea3b6be78d02ca956cac0be639d0a1e05d",
+    "web/text-pages/039.html": "1b54f593424076fc3e1317a6cd30b4b66037f0950b6845651431fb1c8cdbe79a",
     "web/text-pages/040.html": "1b6e950e3789507cdaf3bb8f0d5e7731a2ab55f1a9c378c0fe25d57a6ae0f928",
     "web/text-pages/041.html": "8d09c14400df0439a823fe40394aa2e1ebd8b7c708993269629bbfb1589e8246",
     "web/text-pages/042.html": "24dbe7bae9eeeb548b2b72548fb0bb894fd7b21583d3adfd1d0ce542b66da07b",
-    "web/text-pages/043.html": "a9dd68e8489081745d099b622ed8a39b0ded35fc8d892c19374a1b5955288893",
+    "web/text-pages/043.html": "a1692732439099f3fd5dfe8b09434d7945b9a2284db600a15fcea18c87e1333a",
     "web/text-pages/044.html": "3da4e0174dd88973a902e411d2dbc298da72b0ec08bac099939ef22ce12322b8",
     "web/text-pages/045.html": "dabf5cb665b60b2fe8a744dc6152b6c8535d1f1b718d0a9bd1b9a87adb37b110",
     "web/text-pages/046.html": "271008d584306bc6d09165e166672db2dcdd07a151e1cc5313e33261b4ef8368",
@@ -137,7 +137,7 @@
     "web/text-pages/049.html": "ff9cb173efba21c48900b49bd58832c5e7e847a84992dcd37cafcc96f6c61846",
     "web/text-pages/050.html": "6277e207b832c706e1c89a7e1d7cc735ff48b2cc681bf92a6c200a1b72dcfc18",
     "web/text-pages/051.html": "ba8d68ae92007c75ca919c5fd3bde6edef4cbd7a0d8e3f178e0b4a19cce9fb75",
-    "特拉克尔诗选23首逐词译注读本_v0.2_网页语音版.html": "5783ba855049752c16987a9bf4aac1d0414f5b0a891d58e65185bbc61035a246"
+    "特拉克尔诗选23首逐词译注读本_v0.2_网页语音版.html": "e952692005e1212fb97d2048fea535e25733599c7c7030d7e8417be213585efd"
   },
   "shared_fonts": {
     "assets/fonts/ReaderTimes-4f6fd0f14d547e38.woff2": "4f6fd0f14d547e38abdb46dfd1f484b6a8866065081ec72d3cef568cd4b2fe2d",
@@ -219,7 +219,7 @@
       },
       {
         "page": 9,
-        "characters": 643,
+        "characters": 642,
         "masked_header_text": "逐词译注",
         "lines": 43,
         "runs": 102,
@@ -363,10 +363,10 @@
       },
       {
         "page": 27,
-        "characters": 969,
+        "characters": 971,
         "masked_header_text": "逐词译注",
         "lines": 61,
-        "runs": 200,
+        "runs": 202,
         "character_check": true
       },
       {
@@ -379,10 +379,10 @@
       },
       {
         "page": 29,
-        "characters": 828,
+        "characters": 830,
         "masked_header_text": "逐词译注",
         "lines": 46,
-        "runs": 134,
+        "runs": 137,
         "character_check": true
       },
       {
@@ -459,10 +459,10 @@
       },
       {
         "page": 39,
-        "characters": 1111,
+        "characters": 1113,
         "masked_header_text": "逐词译注",
         "lines": 58,
-        "runs": 176,
+        "runs": 178,
         "character_check": true
       },
       {
@@ -491,10 +491,10 @@
       },
       {
         "page": 43,
-        "characters": 789,
+        "characters": 791,
         "masked_header_text": "逐词译注",
         "lines": 49,
-        "runs": 131,
+        "runs": 133,
         "character_check": true
       },
       {

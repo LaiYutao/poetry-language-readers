@@ -44,8 +44,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 6027,
-      "sha256": "29d3d2aaaa24ead1af773a2c6dd3bd136032258006b8a7846f901ddc5ec7e246"
+      "bytes": 6530,
+      "sha256": "ffd984db46cad40141caabafc995117d26390f4a13e14748db5dbc6c8bbd6c9c"
     },
     {
       "path": "COPYRIGHT.md",
@@ -176,6 +176,11 @@
       "path": "assets/home-title-letter-lai.svg",
       "bytes": 38983,
       "sha256": "e65c4ccf019b8c476431bf7ce4ed62a42f46386b90ead5b4f1fed617ce9e2ffc"
+    },
+    {
+      "path": "assets/homepage/style.css",
+      "bytes": 21232,
+      "sha256": "8427fa75775720bffea08a33b0c1216410a72b9fd84da4c99562a7438886dfcc"
     },
     {
       "path": "assets/reader.js",
@@ -923,6 +928,11 @@
       "sha256": "f682610034956f4034e6fe995a79283fe7845842d25fdacbcbdc61736b39d118"
     },
     {
+      "path": "publications/de/rilke-selected/plural-review.json",
+      "bytes": 8413,
+      "sha256": "5fd94c546a00ab8a8860c8aa2b3bcebece38eeda2a733fd4be014e273beb005a"
+    },
+    {
       "path": "publications/de/rilke-selected/web/audio/01.mp3",
       "bytes": 850988,
       "sha256": "7ae3615dd10e3a6f62e5c58d4fef0e4b3ea500c32da790b47bd9b7daabf6fb16"
@@ -1525,12 +1535,17 @@
     {
       "path": "publications/de/trakl-gedichte-1913/alignment.json",
       "bytes": 23374,
-      "sha256": "9d5723f6600492b2bb234a3ab284cda75272cceac5137b43681c8ffc539acbc1"
+      "sha256": "b313e3acd6f7065932018ae028924dae36944d85dea300e4a4a8bcca541222c3"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/content.json",
-      "bytes": 173645,
-      "sha256": "4e3c6b2fc7100bb971a4e1671ffdaccb7312799a5d643287bf4fc8dc8aaa6b18"
+      "bytes": 173662,
+      "sha256": "efba6c78cad540d774d1d83afd685e3955e6fc2f1ae9a917f0ba5d48a3d5dbe3"
+    },
+    {
+      "path": "publications/de/trakl-gedichte-1913/plural-review.json",
+      "bytes": 18935,
+      "sha256": "86c94c8f1246eda9c6e386cb51571b67cf908c5fe3ec093b079c22a5825e2311"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/audio/01.mp3",
@@ -1959,8 +1974,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/text-pages/009.html",
-      "bytes": 68389,
-      "sha256": "0587c6175befcda4511c586c138326a568da30cff9d03df0d07923ac1dbcd36d"
+      "bytes": 68295,
+      "sha256": "981f4cdd0113a2aa0338c5dd2326e7fff2448d3f20ae892b62fadec2eb39bb3a"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/text-pages/010.html",
@@ -2049,8 +2064,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/text-pages/027.html",
-      "bytes": 139276,
-      "sha256": "9111c6f0f8445d0034b1607e7bb3f013cc32120287ce2b4c2e97b6b66ea635ea"
+      "bytes": 139629,
+      "sha256": "8a73b9e9708fa896e87365b8b15d1cd679c50e883e797793c7ba5268ddedb90a"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/text-pages/028.html",
@@ -2059,8 +2074,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/text-pages/029.html",
-      "bytes": 96847,
-      "sha256": "a1809b90944184601f062ae476900db2050316664e2379770a54e2d1db394bf9"
+      "bytes": 97345,
+      "sha256": "302792f64abb202cf50e77c82ca80724fbd6b6fd2faaab1ae22e100667be4dad"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/text-pages/030.html",
@@ -2109,8 +2124,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/text-pages/039.html",
-      "bytes": 134746,
-      "sha256": "477987cf00b5e75207c99460a06b87ea3b6be78d02ca956cac0be639d0a1e05d"
+      "bytes": 135103,
+      "sha256": "1b54f593424076fc3e1317a6cd30b4b66037f0950b6845651431fb1c8cdbe79a"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/text-pages/040.html",
@@ -2129,8 +2144,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/text-pages/043.html",
-      "bytes": 93112,
-      "sha256": "a9dd68e8489081745d099b622ed8a39b0ded35fc8d892c19374a1b5955288893"
+      "bytes": 93469,
+      "sha256": "a1692732439099f3fd5dfe8b09434d7945b9a2284db600a15fcea18c87e1333a"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/web/text-pages/044.html",
@@ -2184,23 +2199,23 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2.md",
-      "bytes": 134348,
-      "sha256": "7bf530586285a4cd0a5229ee598f9626877b1e99155ee8255214a25066fe437d"
+      "bytes": 134476,
+      "sha256": "8083e52b8c35c240de9f267909dde16cd171f338de8961ffaf3750dddd57f5f5"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2.pdf",
-      "bytes": 677647,
-      "sha256": "6037648c6829b57bc9210d4e5d7536ededbf3e9eabae67d5836c1453f537cbd7"
+      "bytes": 677638,
+      "sha256": "ad3512ef91b10382f102d9b7b00ae70175c694b323f3aa7e705cff3922e9a7cf"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2_网页语音版.html",
       "bytes": 35387,
-      "sha256": "5783ba855049752c16987a9bf4aac1d0414f5b0a891d58e65185bbc61035a246"
+      "sha256": "e952692005e1212fb97d2048fea535e25733599c7c7030d7e8417be213585efd"
     },
     {
       "path": "tools/check_publications.py",
-      "bytes": 3832,
-      "sha256": "b5d556506abeab551dc63ad91a49637240783003601f0de3350e5e35c5fc29c2"
+      "bytes": 4330,
+      "sha256": "6aecb4c4dad580aa0a81a6bdd5f56fad0fbe3924c717bc6ec1997465e8973998"
     }
   ],
   "updated": "2026-10-15",
