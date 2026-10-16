@@ -179,8 +179,8 @@
     },
     {
       "path": "assets/homepage/style.css",
-      "bytes": 21474,
-      "sha256": "3dbd17564abee56144905dbf41d6f14eafa9db016f87356c9ec7cde3fde6cfee"
+      "bytes": 21378,
+      "sha256": "fe62ac8ccb4aa2c6606085facf0f59e7a0bd7b8943788ad81838d695e22908c9"
     },
     {
       "path": "assets/reader.js",
@@ -209,8 +209,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 26040,
-      "sha256": "50384e97c406648035c2420da1093f4671aed596c5cd42600dda6e350810b33e"
+      "bytes": 26175,
+      "sha256": "cd803586f9f36abf3ea45f400766490efb078c9dd13e9d62e7e719f104884687"
     },
     {
       "path": "letter-lai.html",
@@ -2216,6 +2216,16 @@
       "path": "tools/check_publications.py",
       "bytes": 4330,
       "sha256": "6aecb4c4dad580aa0a81a6bdd5f56fad0fbe3924c717bc6ec1997465e8973998"
+    },
+    {
+      "path": "assets/homepage/assets/homepage-heiti.woff2",
+      "bytes": 55876,
+      "sha256": "b6c96f6cb60c83c7edee36a6f5424e65322f08de52dc77c29ca3b13c4117bfba"
+    },
+    {
+      "path": "assets/homepage/assets/celan-atemkristall-10-lead-in.mp3",
+      "bytes": 132203,
+      "sha256": "c08508f8a6e838222e86b18e7011dac8cfdd2cd8d0b27f5b61210148b3688524"
     }
   ],
   "updated": "2026-10-16",
