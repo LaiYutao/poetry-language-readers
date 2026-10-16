@@ -157,9 +157,9 @@
 .book-grid .book-details{display:flex;flex:1;flex-direction:column;padding:25.6px 12.42px 0}
 .book-grid .read-link{margin-top:auto}
 @media(max-width:700px){
- .book-grid{grid-template-columns:minmax(0,1fr);gap:24px;margin-inline:-6px}
+ .book-grid{grid-template-columns:minmax(0,1fr);gap:24px;margin-inline:3px}
  .book-grid>.book{display:grid;grid-template-columns:minmax(0,.95fr) minmax(0,1fr);gap:20px;padding:12px}
  .book-grid .cover-link{width:calc(100% - 16.56px);margin:8.28px}
  .book-grid .book-details{padding:7px 0 8.28px}
 }
-@media(max-width:360px){.book-grid{margin-inline:-9px}.book-grid>.book{gap:15px}}
+@media(max-width:360px){.book-grid{margin-inline:-4.5px}.book-grid>.book{gap:15px}}
