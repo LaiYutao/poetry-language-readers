@@ -146,3 +146,20 @@
 /* Decorative cover lettering scales with the artwork, independent of browser text enlargement. */
 .cover-sheet{padding:0;display:block}
 .cover-artwork{position:absolute;inset:0;display:block;width:100%;height:100%;pointer-events:none}
+
+/* Rounded cards group each cover with its reading details. */
+.book-grid .art-celan{background:#d1d8c8}
+.book-grid .art-rilke{background:#dcc9ad}
+.book-grid .art-trakl{background:#cbd6de}
+.book-grid{grid-template-columns:repeat(3,minmax(0,336px));justify-content:space-between;gap:24px}
+.book-grid>.book{display:flex;flex-direction:column;padding:18px 18px 22px;background:#ebe5db;border:0;border-radius:24px}
+.book-grid .cover-link{width:calc(100% - 24.84px);margin:12.42px 12.42px 0}
+.book-grid .book-details{display:flex;flex:1;flex-direction:column;padding:25.6px 2px 0}
+.book-grid .read-link{margin-top:auto}
+@media(max-width:700px){
+ .book-grid{grid-template-columns:minmax(0,1fr);gap:24px;margin-inline:-12px}
+ .book-grid>.book{display:grid;grid-template-columns:minmax(0,.95fr) minmax(0,1fr);gap:20px;padding:12px}
+ .book-grid .cover-link{width:calc(100% - 16.56px);margin:8.28px}
+ .book-grid .book-details{padding:7px 0 0}
+}
+@media(max-width:360px){.book-grid>.book{gap:15px}}
