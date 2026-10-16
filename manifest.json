@@ -179,8 +179,8 @@
     },
     {
       "path": "assets/homepage/style.css",
-      "bytes": 21378,
-      "sha256": "fe62ac8ccb4aa2c6606085facf0f59e7a0bd7b8943788ad81838d695e22908c9"
+      "bytes": 22366,
+      "sha256": "475bbaecb8acc6c59ddd0c0b201dd875543f29bc00cf68784c4af88ecf9a1c99"
     },
     {
       "path": "assets/reader.js",
@@ -209,8 +209,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 26175,
-      "sha256": "cd803586f9f36abf3ea45f400766490efb078c9dd13e9d62e7e719f104884687"
+      "bytes": 26183,
+      "sha256": "17a15a60410eaadbe181262141dc9bf051817261ae018acef8bec014c95f599c"
     },
     {
       "path": "letter-lai.html",
