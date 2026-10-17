@@ -44,8 +44,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 6918,
-      "sha256": "d45d67676f9b153d807b7cf7fa2e85226397e4b650131fdafb6dd87b2fcdccc3"
+      "bytes": 7489,
+      "sha256": "deec734e3488f67916e2c97a959619d65c19dc11567138a0453126ffafb2203e"
     },
     {
       "path": "COPYRIGHT.md",
@@ -204,8 +204,8 @@
     },
     {
       "path": "docs/逐词读本编纂指南.md",
-      "bytes": 24229,
-      "sha256": "b7932e835d4018b30978b56f1e7888f6d61a10d7656803a846abca7e165dc2ee"
+      "bytes": 24391,
+      "sha256": "b793fc9e8dddb060077100e09295d650905c29d9f00e7e767731d497d75ba6f4"
     },
     {
       "path": "index.html",
@@ -214,8 +214,8 @@
     },
     {
       "path": "letter-lai.html",
-      "bytes": 26075,
-      "sha256": "1116297b7ea8cda2d510b1a86144ae68f51b1018bc9a969ac174e86f38aeadf1"
+      "bytes": 427,
+      "sha256": "ad63dba882b82e18cf124748cba37575cc721f207591b0c9bffb436f0ae7fafd"
     },
     {
       "path": "plans/布莱希特20首选篇与底本建议.md",
@@ -240,7 +240,7 @@
     {
       "path": "publications/de/celan-atemkristall/alignment.json",
       "bytes": 23187,
-      "sha256": "c20a26f1c3089ff7209d4a0379202b9d2b7b38764014cb2c39f983789b4eab03"
+      "sha256": "47f30e3030eac388ada204ef39e31c9cc666040cbac764caade5e12774d30917"
     },
     {
       "path": "publications/de/celan-atemkristall/assets/德语语法速查原图1.jpg",
@@ -254,8 +254,8 @@
     },
     {
       "path": "publications/de/celan-atemkristall/content.json",
-      "bytes": 91508,
-      "sha256": "641625f4763f3511bdce45c324a602c353ebe158a6cee1446d50135baec29558"
+      "bytes": 91712,
+      "sha256": "b35316f181469e66b6003d7abbfbed045c2f03137d17e55e24783dcfbbb7c892"
     },
     {
       "path": "publications/de/celan-atemkristall/plural-review.json",
@@ -649,8 +649,8 @@
     },
     {
       "path": "publications/de/celan-atemkristall/web/text-pages/003.html",
-      "bytes": 54680,
-      "sha256": "c99f983b18475435bfdda84d985a28cbb1ce89730fdf62adc6c8dcef80ff3598"
+      "bytes": 55418,
+      "sha256": "7deb15b7ae15c518038fa2a90c0f7134cbe54b66b6ba966e184ac0af62b6140c"
     },
     {
       "path": "publications/de/celan-atemkristall/web/text-pages/004.html",
@@ -779,13 +779,13 @@
     },
     {
       "path": "publications/de/celan-atemkristall/web/text-pages/029.html",
-      "bytes": 73495,
-      "sha256": "9eec165a55aebe3a0adc4f9f49b3b7145db08a5dedd2ea2bf46be9ca052821d5"
+      "bytes": 73397,
+      "sha256": "8848670dc6b888ce37534babdf8d2526b374a7c5ead06b584329fb55414a56c6"
     },
     {
       "path": "publications/de/celan-atemkristall/web/text-pages/030.html",
-      "bytes": 48925,
-      "sha256": "0a10d1ad92a8eb08564c41bbad1196ec60a27aee5d06e0eebe5b4d7440d41400"
+      "bytes": 54310,
+      "sha256": "bd38f3d21880ef97722ba9f21d4e086941d658fa39e18b99cc2bbf912a24e93c"
     },
     {
       "path": "publications/de/celan-atemkristall/web/text-pages/031.html",
@@ -839,8 +839,8 @@
     },
     {
       "path": "publications/de/celan-atemkristall/web/text-pages/041.html",
-      "bytes": 92567,
-      "sha256": "fed74c6237f7856b26f27d943e936d826b6297ced34b697e58a6ec7fed644719"
+      "bytes": 92633,
+      "sha256": "26ed3f61621f155a874b551e4be94a4709af34f669ae62724978ac9d38106a5e"
     },
     {
       "path": "publications/de/celan-atemkristall/web/text-pages/042.html",
@@ -894,18 +894,18 @@
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0.md",
-      "bytes": 100957,
-      "sha256": "b0212196c1c02a0ff1b016e93984facdfa496386e2f50448818d4f3508b593f0"
+      "bytes": 101203,
+      "sha256": "6639a5ecf0c73d24e327bde672c224e79fb1d427f5ddea743e30af6f0d30b944"
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0.pdf",
-      "bytes": 714200,
-      "sha256": "33c78a69ed5fb1046efb4c5ce8296019b88d4b95b9eaad9bd86611e6a08bb5ae"
+      "bytes": 714405,
+      "sha256": "008bdd72e8e61ccafa1c9b1c6319b3640bdd15a034a1502dd58c5c963e4fc501"
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0_网页语音版.html",
       "bytes": 34320,
-      "sha256": "91cfb743c3259a70105532408190a2d7a764f90f249b6642cd56184bf588007f"
+      "sha256": "7d5a297a1e6b2a7821413147d1bc748efaf40f5f007761accaf952478b69856f"
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.1.md",
