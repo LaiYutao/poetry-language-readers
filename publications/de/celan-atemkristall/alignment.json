@@ -1,10 +1,10 @@
 {
   "format": "modular-web-v3-text",
-  "content_sha256": "641625f4763f3511bdce45c324a602c353ebe158a6cee1446d50135baec29558",
+  "content_sha256": "b35316f181469e66b6003d7abbfbed045c2f03137d17e55e24783dcfbbb7c892",
   "pdf": "策兰《呼吸结晶》21首逐词译注读本_v2.0.pdf",
-  "pdf_sha256": "33c78a69ed5fb1046efb4c5ce8296019b88d4b95b9eaad9bd86611e6a08bb5ae",
+  "pdf_sha256": "008bdd72e8e61ccafa1c9b1c6319b3640bdd15a034a1502dd58c5c963e4fc501",
   "markdown": "策兰《呼吸结晶》21首逐词译注读本_v2.0.md",
-  "markdown_sha256": "b0212196c1c02a0ff1b016e93984facdfa496386e2f50448818d4f3508b593f0",
+  "markdown_sha256": "6639a5ecf0c73d24e327bde672c224e79fb1d427f5ddea743e30af6f0d30b944",
   "pages": 51,
   "recordings": 21,
   "runtime_sha256": "cdb6f86f0f6f08b07ac2836fa027fb9dbe74b6843b603ccb545bbffcc37a316d",
@@ -86,7 +86,7 @@
     "web/reader.css": "0611fa9a68246e11fd00ab92c524492db90ebe48f25e7073f95b3c0672b0293a",
     "web/text-pages/001.html": "9c574f98599b1d4a8b9d5390c5d83dcf3279215149d816f1f1e68c33f1bbd6b1",
     "web/text-pages/002.html": "45eda3c34f39f6ba9f1edb202fe10a4d23c482e6851b1bda4ea925302b636290",
-    "web/text-pages/003.html": "c99f983b18475435bfdda84d985a28cbb1ce89730fdf62adc6c8dcef80ff3598",
+    "web/text-pages/003.html": "7deb15b7ae15c518038fa2a90c0f7134cbe54b66b6ba966e184ac0af62b6140c",
     "web/text-pages/004.html": "d233a9ad1d8452c03745c3b449c772408bf1a46de5ca25c834e98546e21f824b",
     "web/text-pages/005.html": "e6d89ee3d0d28fa7973cbabec39d761642722975561d1d224b5ff1e006c76cb0",
     "web/text-pages/006.html": "dfe4869e18ccaaacbb34892aef6ef8d5dd8e88fa06d9b7097aaa73894f0f82b8",
@@ -112,8 +112,8 @@
     "web/text-pages/026.html": "556e93d4235939264f4888e700492e0b14832be62ae7a952e5e63e576f62d483",
     "web/text-pages/027.html": "5d384281b8c368ae68275860bd3ccee6caa011390e63d6255855e36cab6f80b5",
     "web/text-pages/028.html": "8287bc0bbfd84cd65380d52094bae9a313c6bd3c46827f9a68c767afa87a6a91",
-    "web/text-pages/029.html": "9eec165a55aebe3a0adc4f9f49b3b7145db08a5dedd2ea2bf46be9ca052821d5",
-    "web/text-pages/030.html": "0a10d1ad92a8eb08564c41bbad1196ec60a27aee5d06e0eebe5b4d7440d41400",
+    "web/text-pages/029.html": "8848670dc6b888ce37534babdf8d2526b374a7c5ead06b584329fb55414a56c6",
+    "web/text-pages/030.html": "bd38f3d21880ef97722ba9f21d4e086941d658fa39e18b99cc2bbf912a24e93c",
     "web/text-pages/031.html": "87d834e6bb75163605497d2c88a8dc68e70f1a8ae97b36c022f745f2c011ee47",
     "web/text-pages/032.html": "ebc829808640d7a96098038a9d359a725cd2a9e32b27850aa9d2b760bb58e19f",
     "web/text-pages/033.html": "a96e6c9bce7e91f10eaeea8fad759c4b3810e8c1ad2247d97e58815d918b0bab",
@@ -124,7 +124,7 @@
     "web/text-pages/038.html": "9a16b23d88d99a023eb1adfd22f16f6cb2fbdff45d47d9af2237aa6b79d45267",
     "web/text-pages/039.html": "34dce2da5bf18e026a4c319173ee2e1f33f6042e0491afa0511019746ada067c",
     "web/text-pages/040.html": "7f3b097702afb9c40d6e5d64c8d0e0e9ebf7ba1b07ad2ad1d8bcfcf58f8612d7",
-    "web/text-pages/041.html": "fed74c6237f7856b26f27d943e936d826b6297ced34b697e58a6ec7fed644719",
+    "web/text-pages/041.html": "26ed3f61621f155a874b551e4be94a4709af34f669ae62724978ac9d38106a5e",
     "web/text-pages/042.html": "7f88d3951b90fa855d9351ebfb36c02f17a6e3bbd4cfda8deb613f9d0355751e",
     "web/text-pages/043.html": "a1c49dd0434d8b07cf69da0d05fa4e6c0b8a9e83706a778d645a05bddbe037ae",
     "web/text-pages/044.html": "f57643b80887c2658c10b9230c96c6032af2c3acea303cf08a29c892673a0520",
@@ -135,7 +135,7 @@
     "web/text-pages/049.html": "507fe18e88fc523db4a6382711be3d21dffcc6236545d18e6fd335d8303f0543",
     "web/text-pages/050.html": "2475220e66e60737d14330de9556c0756012c19b9132f54a1eb2b2bd58d97f97",
     "web/text-pages/051.html": "f2c50dffbc3a3e99f41a3f596f5804a3134b24ff1f99830cb794a161669af4b2",
-    "策兰《呼吸结晶》21首逐词译注读本_v2.0_网页语音版.html": "91cfb743c3259a70105532408190a2d7a764f90f249b6642cd56184bf588007f"
+    "策兰《呼吸结晶》21首逐词译注读本_v2.0_网页语音版.html": "7d5a297a1e6b2a7821413147d1bc748efaf40f5f007761accaf952478b69856f"
   },
   "shared_fonts": {
     "assets/fonts/ReaderTimes-4f6fd0f14d547e38.woff2": "4f6fd0f14d547e38abdb46dfd1f484b6a8866065081ec72d3cef568cd4b2fe2d",
@@ -169,10 +169,10 @@
       },
       {
         "page": 3,
-        "characters": 1080,
+        "characters": 1095,
         "masked_header_text": "",
         "lines": 30,
-        "runs": 89,
+        "runs": 88,
         "character_check": true
       },
       {
@@ -377,7 +377,7 @@
       },
       {
         "page": 29,
-        "characters": 693,
+        "characters": 690,
         "masked_header_text": "逐词译注",
         "lines": 55,
         "runs": 111,
@@ -385,10 +385,10 @@
       },
       {
         "page": 30,
-        "characters": 1013,
+        "characters": 1094,
         "masked_header_text": "",
-        "lines": 26,
-        "runs": 108,
+        "lines": 28,
+        "runs": 114,
         "character_check": true
       },
       {
@@ -473,7 +473,7 @@
       },
       {
         "page": 41,
-        "characters": 1099,
+        "characters": 1098,
         "masked_header_text": "逐词译注",
         "lines": 48,
         "runs": 156,
