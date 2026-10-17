@@ -9,7 +9,7 @@
     {
       "name": "策兰《呼吸结晶》德语语法阅读手册",
       "version": "2.1",
-      "pdf_pages": 97
+      "pdf_pages": 98
     },
     {
       "name": "里尔克诗选20首逐词译注读本",
@@ -44,8 +44,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 7489,
-      "sha256": "deec734e3488f67916e2c97a959619d65c19dc11567138a0453126ffafb2203e"
+      "bytes": 7831,
+      "sha256": "2bfdef5e856483d6c4dcdd364ae5ff2edf77089537bbf74d3073e07525ecba75"
     },
     {
       "path": "COPYRIGHT.md",
@@ -909,13 +909,13 @@
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.1.md",
-      "bytes": 248522,
-      "sha256": "0890af84f349f8bbab5e372fe9954d88594e20381657a5c6bf1a0406ac1c78ec"
+      "bytes": 250858,
+      "sha256": "d18e1adcdfac14f89193c7bb1d39dda980f3d0e1e613ca2f0c8766dd8009ab44"
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.1.pdf",
-      "bytes": 3059322,
-      "sha256": "976e6157846ce099bd029099c881ed1892ea13fccdcecf9486f96b6bf6b18369"
+      "bytes": 3092212,
+      "sha256": "98a3fc3575a2067e4ae705968f07f59ee22d651c2a8ce622e8605952918af5ce"
     },
     {
       "path": "publications/de/rilke-selected/alignment.json",
