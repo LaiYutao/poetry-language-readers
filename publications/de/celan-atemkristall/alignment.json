@@ -1,10 +1,10 @@
 {
   "format": "modular-web-v3-text",
-  "content_sha256": "51df472fd3a8bbd978ed6b66796068f3bbc9026895c30ec4c2c8b7cd3c587793",
+  "content_sha256": "641625f4763f3511bdce45c324a602c353ebe158a6cee1446d50135baec29558",
   "pdf": "策兰《呼吸结晶》21首逐词译注读本_v2.0.pdf",
-  "pdf_sha256": "819c38e0add794404d65ca1c1ab9b4ed43048b2c3af3bc564a56b051b875c2a3",
+  "pdf_sha256": "33c78a69ed5fb1046efb4c5ce8296019b88d4b95b9eaad9bd86611e6a08bb5ae",
   "markdown": "策兰《呼吸结晶》21首逐词译注读本_v2.0.md",
-  "markdown_sha256": "1b816acdaa001ba44e1125bb3dec7eae27134654d757639eed8896b160eb04fa",
+  "markdown_sha256": "b0212196c1c02a0ff1b016e93984facdfa496386e2f50448818d4f3508b593f0",
   "pages": 51,
   "recordings": 21,
   "runtime_sha256": "cdb6f86f0f6f08b07ac2836fa027fb9dbe74b6843b603ccb545bbffcc37a316d",
@@ -110,8 +110,8 @@
     "web/text-pages/024.html": "09887d72a8b9a52484ff5223af95d848090b9a0e13190df6a17ae5d1a4a63e0c",
     "web/text-pages/025.html": "20a322633cda4cb8e417b3bd502e51c5c8e68c92f88125b11c038519f06f63c7",
     "web/text-pages/026.html": "556e93d4235939264f4888e700492e0b14832be62ae7a952e5e63e576f62d483",
-    "web/text-pages/027.html": "c93516cbba9b17ba65d7435929ba21ca6df014b883c8830a83a1252846fa4e1f",
-    "web/text-pages/028.html": "04ece95e32414615e3a3ce8157b5729ad06ec82144540e225b0d579c58bcb18b",
+    "web/text-pages/027.html": "5d384281b8c368ae68275860bd3ccee6caa011390e63d6255855e36cab6f80b5",
+    "web/text-pages/028.html": "8287bc0bbfd84cd65380d52094bae9a313c6bd3c46827f9a68c767afa87a6a91",
     "web/text-pages/029.html": "9eec165a55aebe3a0adc4f9f49b3b7145db08a5dedd2ea2bf46be9ca052821d5",
     "web/text-pages/030.html": "0a10d1ad92a8eb08564c41bbad1196ec60a27aee5d06e0eebe5b4d7440d41400",
     "web/text-pages/031.html": "87d834e6bb75163605497d2c88a8dc68e70f1a8ae97b36c022f745f2c011ee47",
@@ -135,7 +135,7 @@
     "web/text-pages/049.html": "507fe18e88fc523db4a6382711be3d21dffcc6236545d18e6fd335d8303f0543",
     "web/text-pages/050.html": "2475220e66e60737d14330de9556c0756012c19b9132f54a1eb2b2bd58d97f97",
     "web/text-pages/051.html": "f2c50dffbc3a3e99f41a3f596f5804a3134b24ff1f99830cb794a161669af4b2",
-    "策兰《呼吸结晶》21首逐词译注读本_v2.0_网页语音版.html": "3544a4cf0651b4f3a742ecb2463865bfd195550e27ed01a20e3de47668d04ec6"
+    "策兰《呼吸结晶》21首逐词译注读本_v2.0_网页语音版.html": "91cfb743c3259a70105532408190a2d7a764f90f249b6642cd56184bf588007f"
   },
   "shared_fonts": {
     "assets/fonts/ReaderTimes-4f6fd0f14d547e38.woff2": "4f6fd0f14d547e38abdb46dfd1f484b6a8866065081ec72d3cef568cd4b2fe2d",
@@ -361,7 +361,7 @@
       },
       {
         "page": 27,
-        "characters": 476,
+        "characters": 475,
         "masked_header_text": "逐词译注",
         "lines": 45,
         "runs": 85,
@@ -369,7 +369,7 @@
       },
       {
         "page": 28,
-        "characters": 786,
+        "characters": 796,
         "masked_header_text": "",
         "lines": 24,
         "runs": 84,

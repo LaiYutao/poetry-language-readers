@@ -44,8 +44,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 6530,
-      "sha256": "ffd984db46cad40141caabafc995117d26390f4a13e14748db5dbc6c8bbd6c9c"
+      "bytes": 6918,
+      "sha256": "d45d67676f9b153d807b7cf7fa2e85226397e4b650131fdafb6dd87b2fcdccc3"
     },
     {
       "path": "COPYRIGHT.md",
@@ -240,7 +240,7 @@
     {
       "path": "publications/de/celan-atemkristall/alignment.json",
       "bytes": 23187,
-      "sha256": "58af2b7916054e02f2a872f69b600d46aade4d7776ea711765fe294df5e3ebb5"
+      "sha256": "c20a26f1c3089ff7209d4a0379202b9d2b7b38764014cb2c39f983789b4eab03"
     },
     {
       "path": "publications/de/celan-atemkristall/assets/德语语法速查原图1.jpg",
@@ -254,8 +254,8 @@
     },
     {
       "path": "publications/de/celan-atemkristall/content.json",
-      "bytes": 91481,
-      "sha256": "51df472fd3a8bbd978ed6b66796068f3bbc9026895c30ec4c2c8b7cd3c587793"
+      "bytes": 91508,
+      "sha256": "641625f4763f3511bdce45c324a602c353ebe158a6cee1446d50135baec29558"
     },
     {
       "path": "publications/de/celan-atemkristall/plural-review.json",
@@ -769,13 +769,13 @@
     },
     {
       "path": "publications/de/celan-atemkristall/web/text-pages/027.html",
-      "bytes": 53521,
-      "sha256": "c93516cbba9b17ba65d7435929ba21ca6df014b883c8830a83a1252846fa4e1f"
+      "bytes": 53439,
+      "sha256": "5d384281b8c368ae68275860bd3ccee6caa011390e63d6255855e36cab6f80b5"
     },
     {
       "path": "publications/de/celan-atemkristall/web/text-pages/028.html",
-      "bytes": 40000,
-      "sha256": "04ece95e32414615e3a3ce8157b5729ad06ec82144540e225b0d579c58bcb18b"
+      "bytes": 40818,
+      "sha256": "8287bc0bbfd84cd65380d52094bae9a313c6bd3c46827f9a68c767afa87a6a91"
     },
     {
       "path": "publications/de/celan-atemkristall/web/text-pages/029.html",
@@ -894,18 +894,18 @@
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0.md",
-      "bytes": 100930,
-      "sha256": "1b816acdaa001ba44e1125bb3dec7eae27134654d757639eed8896b160eb04fa"
+      "bytes": 100957,
+      "sha256": "b0212196c1c02a0ff1b016e93984facdfa496386e2f50448818d4f3508b593f0"
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0.pdf",
-      "bytes": 714179,
-      "sha256": "819c38e0add794404d65ca1c1ab9b4ed43048b2c3af3bc564a56b051b875c2a3"
+      "bytes": 714200,
+      "sha256": "33c78a69ed5fb1046efb4c5ce8296019b88d4b95b9eaad9bd86611e6a08bb5ae"
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0_网页语音版.html",
       "bytes": 34320,
-      "sha256": "3544a4cf0651b4f3a742ecb2463865bfd195550e27ed01a20e3de47668d04ec6"
+      "sha256": "91cfb743c3259a70105532408190a2d7a764f90f249b6642cd56184bf588007f"
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.1.md",
@@ -2228,7 +2228,7 @@
       "sha256": "c08508f8a6e838222e86b18e7011dac8cfdd2cd8d0b27f5b61210148b3688524"
     }
   ],
-  "updated": "2026-10-16",
+  "updated": "2026-10-17",
   "web_audio_readers": [
     {
       "name": "策兰《呼吸结晶》21首",
