@@ -365,7 +365,7 @@
     {
       "path": "index.html",
       "bytes": 30420,
-      "sha256": "b5a3d779e082b3c366c1d773bf3931600fcdf71ed39ad1916cdd5317437aeffb"
+      "sha256": "a6fcd8ce9e592d5a6d3786af06b03e4a6329e1b9349e6bf4c7b3dfcb8da01afa"
     },
     {
       "path": "letter-lai.html",
@@ -1059,8 +1059,8 @@
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0_网页语音版.html",
-      "bytes": 562,
-      "sha256": "bf68e04a6aec14ca806acf0d687f221263e0915c584b10fadcaee837518d3932"
+      "bytes": 34320,
+      "sha256": "7d5a297a1e6b2a7821413147d1bc748efaf40f5f007761accaf952478b69856f"
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.1.md",
@@ -1684,8 +1684,8 @@
     },
     {
       "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2_网页语音版.html",
-      "bytes": 534,
-      "sha256": "345260ce6dac4505685f2cd2b3340a40c10d8ab23874f3a896cf5e4e5bc6fcec"
+      "bytes": 33521,
+      "sha256": "114f6d627ab24206d394ccabd8c40e03cb7f2e99c46d3289b1b6551b6220a075"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/alignment.json",
@@ -2364,8 +2364,8 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2_网页语音版.html",
-      "bytes": 534,
-      "sha256": "dcc7d53b860d9a8b91de3437f9c30a400d3f234c994ffd44f5d26c54035e6f52"
+      "bytes": 35387,
+      "sha256": "e952692005e1212fb97d2048fea535e25733599c7c7030d7e8417be213585efd"
     },
     {
       "path": "readers/atemkristall/ReaderBaskerville-d35e3d76624c.woff2",
@@ -2519,8 +2519,8 @@
     },
     {
       "path": "readers/atemkristall/index.html",
-      "bytes": 5797030,
-      "sha256": "4c1d27bc5daf6157fe7453a2a015f2f3efbca848dac1552179ae4f8ad60fb71d"
+      "bytes": 510,
+      "sha256": "1f0b54671f1a346a764a76a3e5673ba22588c739626a161edf0c3e4bc775bc91"
     },
     {
       "path": "readers/atemkristall/series.css",
@@ -3824,8 +3824,8 @@
     },
     {
       "path": "readers/rilke/index.html",
-      "bytes": 6556199,
-      "sha256": "354dc5b12500e5263c974a0b9141c56a0cf78bbf209065a453051cc9dd534d0f"
+      "bytes": 484,
+      "sha256": "f04d026e89e162ee79d616cd75dc669da6356af2e78a305699fbaf989e3981ce"
     },
     {
       "path": "readers/rilke/series.css",
@@ -3984,8 +3984,8 @@
     },
     {
       "path": "readers/trakl/index.html",
-      "bytes": 6081522,
-      "sha256": "c77c49f95b9a63929e0a726b9a285cd6d6c0a03baeeaa67df3403facc8ac5c8d"
+      "bytes": 500,
+      "sha256": "ee319595123b389acf8c48f49b6f4be0e669ae911fc46ebdddd02356f9b8b698"
     },
     {
       "path": "readers/trakl/series.css",
