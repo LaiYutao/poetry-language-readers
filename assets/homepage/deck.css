@@ -19,8 +19,8 @@
  .deck-enabled .book-grid>.book:not(.is-front) a{pointer-events:none}
  .deck-tools{position:relative;width:max-content;display:flex;align-items:center;justify-content:center;gap:22px;margin:0 auto 15px;color:#8b8375;font:11px var(--sans)}
  .deck-tools button{display:grid;place-items:center;width:32px;height:30px;border:0;background:none;color:#746b5e;font:18px Georgia;cursor:pointer;border-radius:50%}
- .deck-tools button:hover{background:#eee9df}.deck-tools .deck-toggle{position:absolute;left:calc(100% + 22px);white-space:nowrap;font:11px var(--sans);width:auto;padding:0 8px;border-radius:5px}
- .deck-tools .deck-view{display:inline-flex;position:absolute;left:calc(100% + 94px);align-items:center;justify-content:center;width:auto;margin:0;padding:0 8px;border:0;border-radius:0;background:none;color:#93918b;white-space:nowrap;font:12px/1.4 DeckHeiti,var(--sans);cursor:pointer}
+ .deck-tools button:hover{background:#eee9df}.deck-tools .deck-toggle{position:absolute;right:calc(100% + 22px);left:auto;white-space:nowrap;font:11px var(--sans);width:auto;padding:0 8px;border-radius:5px}
+ .deck-tools .deck-view{display:inline-flex;position:absolute;left:calc(100% + 22px);align-items:center;justify-content:center;width:auto;margin:0;padding:0 8px;border:0;border-radius:0;background:none;color:#93918b;white-space:nowrap;font:12px/1.4 DeckHeiti,var(--sans);cursor:pointer}
  .deck-tools .deck-toggle{font:12px/1.4 DeckHeiti,var(--sans);color:#93918b;background:none}
  .deck-tools .deck-view:hover,.deck-tools .deck-toggle:hover{background:none;color:#716e67}
  .deck-flat .book-grid{grid-auto-rows:1fr}
