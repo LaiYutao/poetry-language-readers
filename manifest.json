@@ -2,41 +2,76 @@
   "snapshot": "2026-10-13",
   "documents": [
     {
-      "name": "策兰《呼吸结晶》21首逐词译注读本",
-      "version": "2.0",
-      "pdf_pages": 50
+      "name": "里尔克诗选",
+      "version": "2026-10-18",
+      "pdf_pages": 52,
+      "path": "readers/rilke/里尔克诗选22首逐词译注读本.pdf"
+    },
+    {
+      "name": "特拉克尔诗选",
+      "version": "2026-10-18",
+      "pdf_pages": 50,
+      "path": "readers/trakl/特拉克尔诗选23首逐词译注读本.pdf"
+    },
+    {
+      "name": "策兰《呼吸结晶》",
+      "version": "2026-10-18",
+      "pdf_pages": 50,
+      "path": "readers/atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0.pdf"
+    },
+    {
+      "name": "布莱希特诗选",
+      "version": "2026-10-18",
+      "pdf_pages": 77,
+      "path": "readers/brecht/布莱希特诗选25首逐词译注读本.pdf"
+    },
+    {
+      "name": "策兰新编",
+      "version": "2026-10-18",
+      "pdf_pages": 119,
+      "path": "readers/celan-new/策兰新编31首逐词译注读本.pdf"
+    },
+    {
+      "name": "贝恩诗选",
+      "version": "2026-10-18",
+      "pdf_pages": 75,
+      "path": "readers/benn/贝恩诗选25首逐词译注读本.pdf"
+    },
+    {
+      "name": "巴赫曼诗选",
+      "version": "2026-10-18",
+      "pdf_pages": 101,
+      "path": "readers/bachmann/巴赫曼诗选27首逐词译注读本.pdf"
+    },
+    {
+      "name": "格奥尔格／荷夫曼斯塔尔",
+      "version": "2026-10-18",
+      "pdf_pages": 89,
+      "path": "readers/george-hofmannsthal/格奥尔格／荷夫曼斯塔尔30首逐词译注读本.pdf"
+    },
+    {
+      "name": "拉斯克－许勒／萨克斯",
+      "version": "2026-10-18",
+      "pdf_pages": 80,
+      "path": "readers/lasker/拉斯克－许勒／萨克斯28首逐词译注读本.pdf"
     },
     {
       "name": "策兰《呼吸结晶》德语语法阅读手册",
       "version": "2.1",
       "pdf_pages": 98
-    },
-    {
-      "name": "里尔克诗选20首逐词译注读本",
-      "version": "0.1",
-      "status": "superseded-trial",
-      "pdf_pages": 45
-    },
-    {
-      "name": "特拉克尔诗选20首逐词译注读本",
-      "version": "0.1",
-      "status": "superseded-trial",
-      "pdf_pages": 44
-    },
-    {
-      "name": "里尔克诗选20首逐词译注读本",
-      "version": "0.2",
-      "status": "trial",
-      "pdf_pages": 45
-    },
-    {
-      "name": "特拉克尔诗选23首逐词译注读本",
-      "version": "0.2",
-      "status": "trial",
-      "pdf_pages": 50
     }
   ],
   "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 75,
+      "sha256": "8591b56f1d333c1516a0779a91d95b94b2d01be225206deda164939488e625f0"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 155,
+      "sha256": "003db123b842cd26ee389e65ac8a0f07e547c39d37a6a04d21246c6e3cb14ac0"
+    },
     {
       "path": ".nojekyll",
       "bytes": 0,
@@ -44,8 +79,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 7831,
-      "sha256": "2bfdef5e856483d6c4dcdd364ae5ff2edf77089537bbf74d3073e07525ecba75"
+      "bytes": 8138,
+      "sha256": "108ebb50c6727464a27ee123000cb21c32020a8dec4f0d41746918612908228e"
     },
     {
       "path": "COPYRIGHT.md",
@@ -54,8 +89,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5815,
-      "sha256": "6af804339e96d37ed4aeaeecce262ddeb689615bf4c1c40ea77954b088c94bb3"
+      "bytes": 3235,
+      "sha256": "62f140b15826214c4b83a89acafae5885606293a10ca57047794786d2b2ab8ee"
     },
     {
       "path": "SOURCES.md",
@@ -178,6 +213,106 @@
       "sha256": "e65c4ccf019b8c476431bf7ce4ed62a42f46386b90ead5b4f1fed617ce9e2ffc"
     },
     {
+      "path": "assets/homepage/assets/and.svg",
+      "bytes": 641,
+      "sha256": "6dcf6448b52da8dbe0d2cbac782c65930e0d0cb69a70d1753be2756507124d97"
+    },
+    {
+      "path": "assets/homepage/assets/celan-atemkristall-10-lead-in.mp3",
+      "bytes": 132203,
+      "sha256": "c08508f8a6e838222e86b18e7011dac8cfdd2cd8d0b27f5b61210148b3688524"
+    },
+    {
+      "path": "assets/homepage/assets/celan-atemkristall-10.mp3",
+      "bytes": 123930,
+      "sha256": "8d56240e296d3f7fd611b208e56f919a5ebe840e0213dd4488545ed00c74acab"
+    },
+    {
+      "path": "assets/homepage/assets/cover-bachmann.svg",
+      "bytes": 613,
+      "sha256": "93313a04b5166adacd64ce66db17b10e4f46eb79645fc0f68ce78e706f6f1b53"
+    },
+    {
+      "path": "assets/homepage/assets/cover-benn.svg",
+      "bytes": 621,
+      "sha256": "1181b65d8683b88ffb8c54538f6739c20637eb01164f8bd29605d144b2a4cb5d"
+    },
+    {
+      "path": "assets/homepage/assets/cover-brecht.svg",
+      "bytes": 598,
+      "sha256": "758528700bec3a16bea9b465918399a060ab8b769b529bf79dcd73f0a64d850c"
+    },
+    {
+      "path": "assets/homepage/assets/cover-celan-new.svg",
+      "bytes": 614,
+      "sha256": "290cc7e7fd3e0cd9bdd0cfc59f6104c298a551e0b7d974c78fdfe36663012fa0"
+    },
+    {
+      "path": "assets/homepage/assets/cover-celan.svg",
+      "bytes": 21254,
+      "sha256": "83ec3ecfbc7a03b0cdfed271f0c0b6fd7812ab6759b33505a29d1b779fe56ebc"
+    },
+    {
+      "path": "assets/homepage/assets/cover-george-hofmannsthal.svg",
+      "bytes": 618,
+      "sha256": "648251d1dddb7c8b51e901d9160823f2a1c7e4d3f77fdeb503cc139801596bac"
+    },
+    {
+      "path": "assets/homepage/assets/cover-lasker.svg",
+      "bytes": 633,
+      "sha256": "6b05dd793e4eb30f07b153f4d42a6333eff8a9956ae846d2f337dddbd0038fc8"
+    },
+    {
+      "path": "assets/homepage/assets/cover-rilke.svg",
+      "bytes": 51641,
+      "sha256": "e713eda01911bb24a6b2cd1bead6b6268e45a9f8e9f0f07466a6ee2a07755396"
+    },
+    {
+      "path": "assets/homepage/assets/cover-trakl.svg",
+      "bytes": 18166,
+      "sha256": "4157fd71ef3857cde59234ba463711c4b336144bfc7137738093f06ce935f7df"
+    },
+    {
+      "path": "assets/homepage/assets/favicon.svg",
+      "bytes": 8122,
+      "sha256": "9e2f00226c7c1239a51985f209079d358186812332bf236dc0b399332df076a3"
+    },
+    {
+      "path": "assets/homepage/assets/heading-stheiti.woff2",
+      "bytes": 6544,
+      "sha256": "1fd5f713cb6b217e435f8bdd1efd9706f70f8e8f088cfb253ef28eb8f70eed88"
+    },
+    {
+      "path": "assets/homepage/assets/home-title-fangsong.woff2",
+      "bytes": 2720,
+      "sha256": "00d7257d4839c5ce97cf0b44778cd42a32bdc61f746ad61c302496e1f616a38a"
+    },
+    {
+      "path": "assets/homepage/assets/home-title-letter-lai.svg",
+      "bytes": 38983,
+      "sha256": "e65c4ccf019b8c476431bf7ce4ed62a42f46386b90ead5b4f1fed617ce9e2ffc"
+    },
+    {
+      "path": "assets/homepage/assets/home-title-songti.woff2",
+      "bytes": 3600,
+      "sha256": "52f4e224f6e9db8c737b7d3b6618b7a25c71cefe6c4d33cd4063ba3580c88675"
+    },
+    {
+      "path": "assets/homepage/assets/homepage-heiti.woff2",
+      "bytes": 55876,
+      "sha256": "b6c96f6cb60c83c7edee36a6f5424e65322f08de52dc77c29ca3b13c4117bfba"
+    },
+    {
+      "path": "assets/homepage/assets/paper-song.woff2",
+      "bytes": 38660,
+      "sha256": "e5b8ae41e5c52ecd449257317de3c4fb6a05aa3925ba2d6c0b5481aab438bcc3"
+    },
+    {
+      "path": "assets/homepage/series-cards.css",
+      "bytes": 1139,
+      "sha256": "ff0053c654c5f31ba76f6f1abd4efb3a1541aeb3e483592b910d1c20fc96b7ca"
+    },
+    {
       "path": "assets/homepage/style.css",
       "bytes": 22437,
       "sha256": "a825bdbec2f7536d0fdf4fd66a0901252fa3ddbe064b75feaee38cf1b2ae5aa2"
@@ -198,9 +333,24 @@
       "sha256": "1ec76fc5465fafa48649a5268bcd4c10b968526994156442b085da3f930cf9fd"
     },
     {
+      "path": "docs/assets/逐词读本样页.png",
+      "bytes": 183739,
+      "sha256": "1a798f5c6978868c98ae9536501338e8c886ce3fde91e020d45ac4727c351ebf"
+    },
+    {
       "path": "docs/三格式同步与网页发布说明.md",
       "bytes": 4382,
       "sha256": "27909ceed4ea8de485490a66c18d485fa5c48a3a0c1ab057d3313bff7b75a5cf"
+    },
+    {
+      "path": "docs/编纂指南.md",
+      "bytes": 1008,
+      "sha256": "46d72d936cb08ec2b3f36eb9305d094c149abebc9929a4388b5e065df69a4cd4"
+    },
+    {
+      "path": "docs/语法手册编纂指南.md",
+      "bytes": 9692,
+      "sha256": "aecc5b5136e810c683e148ea47f157230c0c401994a25554e70eb70dc31bf3e8"
     },
     {
       "path": "docs/逐词读本编纂指南.md",
@@ -208,9 +358,14 @@
       "sha256": "b793fc9e8dddb060077100e09295d650905c29d9f00e7e767731d497d75ba6f4"
     },
     {
+      "path": "docs/里尔克与特拉克尔白话译文复核_2026-10-13.md",
+      "bytes": 3533,
+      "sha256": "cb8b7fbeacc9b7eb3d3e233343acacff7487cdafa22d319eee3bd28c74726686"
+    },
+    {
       "path": "index.html",
-      "bytes": 26186,
-      "sha256": "597bd2cef186bf34309529de6fa4c44e0544956ba0c74653fdda1f1d5c896333"
+      "bytes": 30106,
+      "sha256": "91a88e30384f3e7bdabbc6615aa364c4334db179f63a2082e91c8e7381e4c7f4"
     },
     {
       "path": "letter-lai.html",
@@ -904,8 +1059,8 @@
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0_网页语音版.html",
-      "bytes": 34320,
-      "sha256": "7d5a297a1e6b2a7821413147d1bc748efaf40f5f007761accaf952478b69856f"
+      "bytes": 562,
+      "sha256": "bf68e04a6aec14ca806acf0d687f221263e0915c584b10fadcaee837518d3932"
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.1.md",
@@ -1529,8 +1684,8 @@
     },
     {
       "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2_网页语音版.html",
-      "bytes": 33521,
-      "sha256": "114f6d627ab24206d394ccabd8c40e03cb7f2e99c46d3289b1b6551b6220a075"
+      "bytes": 534,
+      "sha256": "345260ce6dac4505685f2cd2b3340a40c10d8ab23874f3a896cf5e4e5bc6fcec"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/alignment.json",
@@ -2209,46 +2364,1637 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2_网页语音版.html",
-      "bytes": 35387,
-      "sha256": "e952692005e1212fb97d2048fea535e25733599c7c7030d7e8417be213585efd"
+      "bytes": 534,
+      "sha256": "dcc7d53b860d9a8b91de3437f9c30a400d3f234c994ffd44f5d26c54035e6f52"
+    },
+    {
+      "path": "readers/atemkristall/ReaderBaskerville-d35e3d76624c.woff2",
+      "bytes": 5104,
+      "sha256": "d35e3d76624c4b1e02e34dd645a06801c2b323442c5faaaccdd843c5382d52d7"
+    },
+    {
+      "path": "readers/atemkristall/ReaderMinion-fce20b80295e.woff2",
+      "bytes": 7380,
+      "sha256": "fce20b80295e8085294ccd2a8912eca499e13c02403c2e7ce15e9af0160e0f5f"
+    },
+    {
+      "path": "readers/atemkristall/ReaderMinionSemibold-541649d5cda6.woff2",
+      "bytes": 1620,
+      "sha256": "541649d5cda6c4d8660fa31e553708a856fdda3f21e2b8b14268db72f9983992"
+    },
+    {
+      "path": "readers/atemkristall/ReaderSongBold-38d6e419321a.woff2",
+      "bytes": 62056,
+      "sha256": "38d6e419321a4f4e7ecd0373b2ee82d901d39cedb560dd95bda878de14ec1541"
+    },
+    {
+      "path": "readers/atemkristall/ReaderSongLight-d42734830bed.woff2",
+      "bytes": 176340,
+      "sha256": "d42734830bed2e531125953bcd35023641706e8210368665c550b29c3973ad21"
+    },
+    {
+      "path": "readers/atemkristall/ReaderTimes-e83b98a70b63.woff2",
+      "bytes": 33944,
+      "sha256": "e83b98a70b6394665bbb5d361289914bbedaa228b71deaf2e3a4b5a610b04369"
+    },
+    {
+      "path": "readers/atemkristall/ReaderTimesBold-043284104ce2.woff2",
+      "bytes": 25460,
+      "sha256": "043284104ce249fe7217b5b4c2c55d0c6f56631ab1a64c0179bc9eed09cc0930"
+    },
+    {
+      "path": "readers/atemkristall/audio-player.css",
+      "bytes": 1162,
+      "sha256": "eab06e4752ab22adaf0283fbe132abb7c21a417655747779f8a64c2be578d946"
+    },
+    {
+      "path": "readers/atemkristall/audio-player.js",
+      "bytes": 3536,
+      "sha256": "8743eeafcf34c52e30212931cae3b16cdeaa292da894909f8258983e2c9ab9a4"
+    },
+    {
+      "path": "readers/atemkristall/audio/01.mp3",
+      "bytes": 151950,
+      "sha256": "34ebde44ec7d493fdb7fd44a5548f9a663d2d129b45959d91462537b83d3df98"
+    },
+    {
+      "path": "readers/atemkristall/audio/02.mp3",
+      "bytes": 241014,
+      "sha256": "894f55b4a995df26a9b3943f16f56213089e622b394ab41486c858f479f1c710"
+    },
+    {
+      "path": "readers/atemkristall/audio/03.mp3",
+      "bytes": 178576,
+      "sha256": "1b08ed6e6a9440ef145ed9a481e60c0e0b5b417ba0d22dd50b9d2a88f4c1897b"
+    },
+    {
+      "path": "readers/atemkristall/audio/04.mp3",
+      "bytes": 142244,
+      "sha256": "08df5a9296234f02e96b7ac6c90bed93b879bd06c1ff01c5dc935b8f9b755d0c"
+    },
+    {
+      "path": "readers/atemkristall/audio/05.mp3",
+      "bytes": 120923,
+      "sha256": "eba48c0f927e5312dc86a33623bac1e0f2547a1eb04e5bbd316ac111d366e678"
+    },
+    {
+      "path": "readers/atemkristall/audio/06.mp3",
+      "bytes": 150130,
+      "sha256": "e537b9141c14f007c69defe7f206391e9b69e2b42293fd663caf307e3104fa08"
+    },
+    {
+      "path": "readers/atemkristall/audio/07.mp3",
+      "bytes": 145797,
+      "sha256": "771fc37e6d11fdaad79f1777ba214cb08da75970ce6442110fd72200ea2bb96c"
+    },
+    {
+      "path": "readers/atemkristall/audio/08.mp3",
+      "bytes": 110927,
+      "sha256": "03763bdc2ea15147962e3d393cc118dabfdca4a40a00102b1512e4b1e418ec95"
+    },
+    {
+      "path": "readers/atemkristall/audio/09.mp3",
+      "bytes": 208033,
+      "sha256": "5418a88c1991f5a3846525b23e7b775fe7b0da82f4c177c142565a03e7262376"
+    },
+    {
+      "path": "readers/atemkristall/audio/10.mp3",
+      "bytes": 123930,
+      "sha256": "8d56240e296d3f7fd611b208e56f919a5ebe840e0213dd4488545ed00c74acab"
+    },
+    {
+      "path": "readers/atemkristall/audio/11.mp3",
+      "bytes": 113613,
+      "sha256": "599c686bb6eafdc937374a2888390a63d75427b42de4aa42f235aa3830431900"
+    },
+    {
+      "path": "readers/atemkristall/audio/12.mp3",
+      "bytes": 142645,
+      "sha256": "a060e929ef277012bee0c93f2f58ce142175aab370d4fab155bc450f881ae2c9"
+    },
+    {
+      "path": "readers/atemkristall/audio/13.mp3",
+      "bytes": 175138,
+      "sha256": "204fad71234f2cff7a7b374936caaf0164680a777b038820b5b6deb2ba45ea5e"
+    },
+    {
+      "path": "readers/atemkristall/audio/14.mp3",
+      "bytes": 206317,
+      "sha256": "3d3d934867ee881dd405193c822daf1b8a4fc7bbb586c1747aad0f95d1901f17"
+    },
+    {
+      "path": "readers/atemkristall/audio/15.mp3",
+      "bytes": 158679,
+      "sha256": "9dc30837961c14c3378cb8a09444c7350ae2c14115c789bb72312845a856a02c"
+    },
+    {
+      "path": "readers/atemkristall/audio/16.mp3",
+      "bytes": 181142,
+      "sha256": "2b5713d7cffebd166696fa42c67919f01aa6ee2a9663fd2f458ba0fa75baf7f4"
+    },
+    {
+      "path": "readers/atemkristall/audio/17.mp3",
+      "bytes": 134609,
+      "sha256": "1a67e4f33df13f49b3b76be8d7b56e08c0ceb5d89ed7d9cb1353f21236ed1949"
+    },
+    {
+      "path": "readers/atemkristall/audio/18.mp3",
+      "bytes": 144981,
+      "sha256": "b8088c5be42fda30c95c3980b86d5271fc385ab45b1af1af28c39799fe01f97b"
+    },
+    {
+      "path": "readers/atemkristall/audio/19.mp3",
+      "bytes": 250787,
+      "sha256": "6f925f2a970447223485e0504b43bb446fcdcd96ad859ead1acca72f7bbc8009"
+    },
+    {
+      "path": "readers/atemkristall/audio/20.mp3",
+      "bytes": 158543,
+      "sha256": "a70c04c1c8980d8454b4ea730b1d8225035b090928f5aaaaeb5d9c4e6588b0b0"
+    },
+    {
+      "path": "readers/atemkristall/audio/21.mp3",
+      "bytes": 333404,
+      "sha256": "897c76550dd2033bb91bebf6b3e007a581934b7f13ccf41170ff0c6e5eeacc5f"
+    },
+    {
+      "path": "readers/atemkristall/index.html",
+      "bytes": 5771542,
+      "sha256": "be060f446e513bf94109030ba156763416f9d0459822d39aefff37647f729960"
+    },
+    {
+      "path": "readers/atemkristall/series.css",
+      "bytes": 3854,
+      "sha256": "2fffbefd978175973e846235653960b7a7144526d3ab801446a4e239a0c07549"
+    },
+    {
+      "path": "readers/atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0.pdf",
+      "bytes": 714179,
+      "sha256": "819c38e0add794404d65ca1c1ab9b4ed43048b2c3af3bc564a56b051b875c2a3"
+    },
+    {
+      "path": "readers/bachmann/ReaderSongBold-d8b9000555e9.woff2",
+      "bytes": 64604,
+      "sha256": "d8b9000555e90eb33852fe96e76e6c081adb7bdaafcdae19329736ab2eb2738d"
+    },
+    {
+      "path": "readers/bachmann/ReaderSongLight-4cab816efe18.woff2",
+      "bytes": 308680,
+      "sha256": "4cab816efe185b9e684b0daba367064ecc11e0dd4aa9732c4c104c7242a74222"
+    },
+    {
+      "path": "readers/bachmann/ReaderTimes-db9cf9024775.woff2",
+      "bytes": 36396,
+      "sha256": "db9cf90247753b58dfe12fd588a4c55c851a05ad4d61973a9ec8d4fadf9e1cd2"
+    },
+    {
+      "path": "readers/bachmann/ReaderTimesBold-5b39fdc08e46.woff2",
+      "bytes": 28880,
+      "sha256": "5b39fdc08e469c0613f8b1fd8c7f928dc1b6dea11849b35868a24b62abdbfb05"
+    },
+    {
+      "path": "readers/bachmann/ReaderTimesItalic-135eab9161a6.woff2",
+      "bytes": 11944,
+      "sha256": "135eab9161a6f018a99575373e9524a5a7dfaf9d5bc76ae6783d73c321549fb3"
+    },
+    {
+      "path": "readers/bachmann/audio-player.css",
+      "bytes": 1162,
+      "sha256": "eab06e4752ab22adaf0283fbe132abb7c21a417655747779f8a64c2be578d946"
+    },
+    {
+      "path": "readers/bachmann/audio-player.js",
+      "bytes": 3536,
+      "sha256": "8743eeafcf34c52e30212931cae3b16cdeaa292da894909f8258983e2c9ab9a4"
+    },
+    {
+      "path": "readers/bachmann/audio/01.mp3",
+      "bytes": 1003916,
+      "sha256": "61fb38d58cbee75589cc85edc4739fdd1bdc4ae916aa2dfafb4760a07602fdfd"
+    },
+    {
+      "path": "readers/bachmann/audio/02.mp3",
+      "bytes": 1394252,
+      "sha256": "65792ec77ac3bb3652ff9f10747b78f7093e40e38775450b7f173a9f113c12ea"
+    },
+    {
+      "path": "readers/bachmann/audio/03.mp3",
+      "bytes": 2857370,
+      "sha256": "293af20af26c0f24b5830605f25c53267c60ca8dab65a6bdaf46f97a880671de"
+    },
+    {
+      "path": "readers/bachmann/audio/04.mp3",
+      "bytes": 1549772,
+      "sha256": "1af40933b356e0751fc092d11555c74516bb10f81840b0964369dd6fc095a1ff"
+    },
+    {
+      "path": "readers/bachmann/audio/06.mp3",
+      "bytes": 1693100,
+      "sha256": "4a8500972f9e1562396294ca04eb2f314b51f221cbf2ebfa419512ea4761fb6d"
+    },
+    {
+      "path": "readers/bachmann/audio/08.mp3",
+      "bytes": 2828741,
+      "sha256": "3ba0bcfb8e425c4476430afc80ab265d96e678c73ef58ad0d98130bec0d10349"
+    },
+    {
+      "path": "readers/bachmann/audio/09.mp3",
+      "bytes": 3352676,
+      "sha256": "1a61af8ceae68ef20b22c1196bcf5392190d629789505cc32cc497abef3bc6b4"
+    },
+    {
+      "path": "readers/bachmann/audio/10.mp3",
+      "bytes": 1891393,
+      "sha256": "9ca9a4cc22a7537b99330336962988c2fabc9f6d5e6e2c3a37fbdfb7d0c5fc00"
+    },
+    {
+      "path": "readers/bachmann/audio/11.mp3",
+      "bytes": 7531700,
+      "sha256": "6f4a79bb7e2d8957646e92b5dc959cb3327f77f0762da74ca4b57f9a6d112a04"
+    },
+    {
+      "path": "readers/bachmann/audio/12.mp3",
+      "bytes": 982672,
+      "sha256": "50fb046f850ac33dbd186a705939750929e5c79684bed24bf82e1c1299776caf"
+    },
+    {
+      "path": "readers/bachmann/audio/13.mp3",
+      "bytes": 4433850,
+      "sha256": "934252479ff0b25e8aac9b6514fe5e891f38075918b19a3754436554e6aaa4ea"
+    },
+    {
+      "path": "readers/bachmann/audio/14.mp3",
+      "bytes": 2237060,
+      "sha256": "735a4f8416d97ccc3554bd3b07b6b3897c146ec0dc676ba8c7f043940e5cd8e6"
+    },
+    {
+      "path": "readers/bachmann/audio/15.mp3",
+      "bytes": 1182860,
+      "sha256": "5a6ff00d6af158503f575956d99fc5cb3a7cfa95b8b07ae165df782425b3c97d"
+    },
+    {
+      "path": "readers/bachmann/audio/17.mp3",
+      "bytes": 2109113,
+      "sha256": "15a3e0131f77116a34decd88377b410873e2cb2658be4256280e444631617266"
+    },
+    {
+      "path": "readers/bachmann/audio/18.mp3",
+      "bytes": 1755164,
+      "sha256": "690dde59b05b9bcb87a9806355c7e3075b8144a07757387d3ee0b3e3d89514e2"
+    },
+    {
+      "path": "readers/bachmann/audio/19.mp3",
+      "bytes": 1649960,
+      "sha256": "6956e6c8a35bb5d1b8eb367372a27355fdf72db761c636ab82a00f5b34c248fa"
+    },
+    {
+      "path": "readers/bachmann/audio/20.mp3",
+      "bytes": 2475341,
+      "sha256": "587dba828ab61faaad1fcacabe27dd9be87e5dc26507605a7b1245ee009da355"
+    },
+    {
+      "path": "readers/bachmann/audio/23.mp3",
+      "bytes": 1848212,
+      "sha256": "40a55ba19e075e9c4ab83c814b04d2d1d5f0e3a0c5b0f3b9d5342fb97d794510"
+    },
+    {
+      "path": "readers/bachmann/audio/24.mp3",
+      "bytes": 984203,
+      "sha256": "ae1fdc889e8d624c790e653591f910c0f3bf2985fd4fcb8e8f10477307494386"
+    },
+    {
+      "path": "readers/bachmann/audio/26.mp3",
+      "bytes": 703484,
+      "sha256": "fc137c47cc28420ff25854f5d31d43fa9d25f5f2cb960676a0cc4cfde3975de1"
+    },
+    {
+      "path": "readers/bachmann/audio/27.mp3",
+      "bytes": 835000,
+      "sha256": "4cf563e38b3dd1fd749177a9784f705b832a25948a538c82ca3b8a769aac8450"
+    },
+    {
+      "path": "readers/bachmann/index.html",
+      "bytes": 15113798,
+      "sha256": "0c6ef054a872fd58fc2a203f73583467050a83e518f661358ceffef267a766ce"
+    },
+    {
+      "path": "readers/bachmann/series.css",
+      "bytes": 3854,
+      "sha256": "2fffbefd978175973e846235653960b7a7144526d3ab801446a4e239a0c07549"
+    },
+    {
+      "path": "readers/bachmann/巴赫曼诗选27首逐词译注读本.pdf",
+      "bytes": 1177891,
+      "sha256": "3442aedca6cbec62b7102520e8b6cfb5a09a1563c5c7affb5ea1982b59e51a03"
+    },
+    {
+      "path": "readers/benn/ReaderSongBold-1fb554cb9be3.woff2",
+      "bytes": 65600,
+      "sha256": "1fb554cb9be393ce1e9ad877d361c318b086a89e6f77efeed3ced29cc34d591a"
+    },
+    {
+      "path": "readers/benn/ReaderSongLight-581555ee3cbb.woff2",
+      "bytes": 279720,
+      "sha256": "581555ee3cbbe07c2af808b6bd053dc3977f51616a6d71d65b28a6691b4efcae"
+    },
+    {
+      "path": "readers/benn/ReaderTimes-13ff32261058.woff2",
+      "bytes": 36416,
+      "sha256": "13ff32261058b4394795dc71fb87bb9651a7e5ede35419f2dad9379d7935d4b4"
+    },
+    {
+      "path": "readers/benn/ReaderTimesBold-020d3704f602.woff2",
+      "bytes": 26488,
+      "sha256": "020d3704f602a690071c62bde769bbbd431c931ea92cd4c19de06a37b59f374e"
+    },
+    {
+      "path": "readers/benn/ReaderTimesItalic-fb87bb88d205.woff2",
+      "bytes": 9812,
+      "sha256": "fb87bb88d205d932c34d94f7c37a6fe827f407fb2af5264228f0cf241d8d9702"
+    },
+    {
+      "path": "readers/benn/audio-player.css",
+      "bytes": 1162,
+      "sha256": "eab06e4752ab22adaf0283fbe132abb7c21a417655747779f8a64c2be578d946"
+    },
+    {
+      "path": "readers/benn/audio-player.js",
+      "bytes": 3536,
+      "sha256": "8743eeafcf34c52e30212931cae3b16cdeaa292da894909f8258983e2c9ab9a4"
+    },
+    {
+      "path": "readers/benn/audio/01.mp3",
+      "bytes": 471836,
+      "sha256": "9b9c8fd42b45b7b282c16079122aad54f52b59a21d6708e5162dd779909e0baa"
+    },
+    {
+      "path": "readers/benn/audio/02.mp3",
+      "bytes": 712364,
+      "sha256": "97057d7d3a8d91365a7ec1610e6034707cfe8ca0eca6de9d68ac0988e3123ac7"
+    },
+    {
+      "path": "readers/benn/audio/03.mp3",
+      "bytes": 1909604,
+      "sha256": "650a7826dbdc3586a9f99ccdf1a0a4d6d79a32ce3cf4497cf59ba39f74b633bf"
+    },
+    {
+      "path": "readers/benn/audio/04.mp3",
+      "bytes": 1632452,
+      "sha256": "72f578c0d65190bc1b491f3753125eccec69a06a9fda7f39bf5e96e65e9e81d3"
+    },
+    {
+      "path": "readers/benn/audio/05.mp3",
+      "bytes": 3176340,
+      "sha256": "569b7fdf53fc36ba734f5cf7e6fbe9b7e0f7bfac2aab1dd9e204b1262b1d1748"
+    },
+    {
+      "path": "readers/benn/audio/06.mp3",
+      "bytes": 1166108,
+      "sha256": "0be7e2757b1213a1edc63c72ac6234137081391a62c5bacd748aea4bbe336ee8"
+    },
+    {
+      "path": "readers/benn/audio/07.mp3",
+      "bytes": 2889414,
+      "sha256": "1a6db68d00e77bdbc5aa796954df91dd2c7e021c0cbe848ee683d4e25d221222"
+    },
+    {
+      "path": "readers/benn/audio/08.mp3",
+      "bytes": 1762943,
+      "sha256": "6122c2034c11116dd1c625e078350f915c5397a009922f1437b5d752a2d16c99"
+    },
+    {
+      "path": "readers/benn/audio/09.mp3",
+      "bytes": 485732,
+      "sha256": "c65fe83ce36cd10731669c3b9ccf610523f30f21639cd00bdde10c5e55a45ade"
+    },
+    {
+      "path": "readers/benn/audio/10.mp3",
+      "bytes": 1716890,
+      "sha256": "a0ffaef679365858167d971216acac95c4443fde7aa8929aa8d587c9e241f87d"
+    },
+    {
+      "path": "readers/benn/audio/11.mp3",
+      "bytes": 2074604,
+      "sha256": "67271ff889ea46ded4b60acc77eda5bbf93162e01a0ac87c055de14ef58cf313"
+    },
+    {
+      "path": "readers/benn/audio/12.mp3",
+      "bytes": 1184722,
+      "sha256": "4fd3ef6b65b995e993f7a26b0c34b89cf5e67589a32ae7d0574e5dec8b35a26b"
+    },
+    {
+      "path": "readers/benn/audio/13.mp3",
+      "bytes": 3550124,
+      "sha256": "12c97abd1883e1b4a271b62a00721ecb2224547fa9f1b3c4ec25caf1c4fd468c"
+    },
+    {
+      "path": "readers/benn/audio/14.mp3",
+      "bytes": 1821860,
+      "sha256": "6b67098f75df9dc0868f99b71e97c4e7b3cd1e6f6ccd44bdaebfa69c22ea784c"
+    },
+    {
+      "path": "readers/benn/audio/17.mp3",
+      "bytes": 1298027,
+      "sha256": "e11b69a97f7a425ac005330989f5e81ce928a5c7142540f2654926301036ef67"
+    },
+    {
+      "path": "readers/benn/audio/18.mp3",
+      "bytes": 2229450,
+      "sha256": "4adab1916be520bd05c52d10ad6d3670cdcb97f34a4af668cefc245ed78279ed"
+    },
+    {
+      "path": "readers/benn/audio/19.mp3",
+      "bytes": 1638270,
+      "sha256": "31728cdd5d371ea013ea7645c8dd25498dcbff8e235c3435449292bf11b30d3d"
+    },
+    {
+      "path": "readers/benn/audio/20.mp3",
+      "bytes": 2828980,
+      "sha256": "bb200c3952354263b609483882fe64f2ccc3c9a9ae073e74221c085d53523789"
+    },
+    {
+      "path": "readers/benn/audio/21.mp3",
+      "bytes": 2075811,
+      "sha256": "e3de3713d3bf9c951af3dcf45686737072cecae53ba97e6f34bd27ee10d8c568"
+    },
+    {
+      "path": "readers/benn/audio/22.mp3",
+      "bytes": 2114220,
+      "sha256": "ca5e3c29cf17a319a27a22e5350ee587fc6b7ff5824158f0a0e9bc9c95d18d9a"
+    },
+    {
+      "path": "readers/benn/audio/24.mp3",
+      "bytes": 1767329,
+      "sha256": "2fc9d3b81987d0d215ec09062ac096b7f60c2c1070db008bfa6c6e8798bdab6c"
+    },
+    {
+      "path": "readers/benn/audio/25.mp3",
+      "bytes": 2961284,
+      "sha256": "6784d545da4882ad2b83398ab2526ed03cc8deeed5ba454dc82f84b263cb07e6"
+    },
+    {
+      "path": "readers/benn/index.html",
+      "bytes": 10712733,
+      "sha256": "f5c03fb7cfb39124c4ae619510f62682e136f1df93f13c576b81d0f5a6917d3f"
+    },
+    {
+      "path": "readers/benn/series.css",
+      "bytes": 3854,
+      "sha256": "2fffbefd978175973e846235653960b7a7144526d3ab801446a4e239a0c07549"
+    },
+    {
+      "path": "readers/benn/贝恩诗选25首逐词译注读本.pdf",
+      "bytes": 986742,
+      "sha256": "509bc47320448579734c988358ab4a9e2e185bd023d10ce85a69622c1c5db2cb"
+    },
+    {
+      "path": "readers/brecht/ReaderSongBold-df91c1b712a2.woff2",
+      "bytes": 59564,
+      "sha256": "df91c1b712a26a8a6797d3b220e2068bf71ef0eca86923e4a3ac10f50aaff301"
+    },
+    {
+      "path": "readers/brecht/ReaderSongLight-988c5281fa11.woff2",
+      "bytes": 245072,
+      "sha256": "988c5281fa11ddeeec4ac78de74d473a074b1f9089a53e592af9f8324872cdc5"
+    },
+    {
+      "path": "readers/brecht/ReaderTimes-ef60c6e80dce.woff2",
+      "bytes": 35608,
+      "sha256": "ef60c6e80dcebe24976558c81e4b0dd638af51f4698c5c6009899c9d42f9ecd5"
+    },
+    {
+      "path": "readers/brecht/ReaderTimesBold-9aeb74e52969.woff2",
+      "bytes": 27092,
+      "sha256": "9aeb74e5296983f8b49d5b7432a143496ee83c6ec3723876082cc5b2dee882fe"
+    },
+    {
+      "path": "readers/brecht/audio-player.css",
+      "bytes": 1162,
+      "sha256": "eab06e4752ab22adaf0283fbe132abb7c21a417655747779f8a64c2be578d946"
+    },
+    {
+      "path": "readers/brecht/audio-player.js",
+      "bytes": 3536,
+      "sha256": "8743eeafcf34c52e30212931cae3b16cdeaa292da894909f8258983e2c9ab9a4"
+    },
+    {
+      "path": "readers/brecht/audio/01.mp3",
+      "bytes": 2516268,
+      "sha256": "e37ee36321089e15eb84a84fc104376271c3a3faa4fdb90869729669da865f27"
+    },
+    {
+      "path": "readers/brecht/audio/02.mp3",
+      "bytes": 3683564,
+      "sha256": "cfde2fff213919576965a115397e8a19b59c87224f756fef494deed75cfae813"
+    },
+    {
+      "path": "readers/brecht/audio/03.mp3",
+      "bytes": 875471,
+      "sha256": "426123fd084b5f44a6d80a2ad8e3f640f8d2f8445dd62544266c5d0ee1bcde86"
+    },
+    {
+      "path": "readers/brecht/audio/04.mp3",
+      "bytes": 3545674,
+      "sha256": "d6da951345cd20d43d4b0778f42aab570768db720665ba3e24faf5fcf3d6b6a0"
+    },
+    {
+      "path": "readers/brecht/audio/05.mp3",
+      "bytes": 1907804,
+      "sha256": "1134546b79fbef85f637b1f85d13445061fa0ab504b36208e97a6da3575db603"
+    },
+    {
+      "path": "readers/brecht/audio/06.mp3",
+      "bytes": 1279657,
+      "sha256": "00725cb727c0bb4ffd9d82e18ad6733eca22f4d9f494bbcde7757b124a7a1b58"
+    },
+    {
+      "path": "readers/brecht/audio/07.mp3",
+      "bytes": 663604,
+      "sha256": "4fbf1d504482fb4e3e9155e6de2c33ebf7282a6f24e936112e3123fe2f4b8908"
+    },
+    {
+      "path": "readers/brecht/audio/08.mp3",
+      "bytes": 1046348,
+      "sha256": "daa21e6e9b1f15fc5d6474bf7da7a477b5c78188c64436206957cb425459ba5b"
+    },
+    {
+      "path": "readers/brecht/audio/09.mp3",
+      "bytes": 2550925,
+      "sha256": "88cb7f4507d31da7ae1a6a00a5f8047200a50017620714732c9e781265c0656e"
+    },
+    {
+      "path": "readers/brecht/audio/10.mp3",
+      "bytes": 1817129,
+      "sha256": "3be76ef8439235b3307c1c28d73ad64f9cebde86e201e8e974963813e95a4058"
+    },
+    {
+      "path": "readers/brecht/audio/11.mp3",
+      "bytes": 436984,
+      "sha256": "171a6ae71f031228a8e81cab4e7f90a4e0c49363ee4a0132fb3e01df7d3e1092"
+    },
+    {
+      "path": "readers/brecht/audio/13.mp3",
+      "bytes": 1148960,
+      "sha256": "b37cef5dbdb84f802630b6d38ce4e796edf47932b76b479f985a0d2750456eef"
+    },
+    {
+      "path": "readers/brecht/audio/14.mp3",
+      "bytes": 852326,
+      "sha256": "2bd31a219e2dd6548f89dbb148f800b27f0f9d5dd68ec229713319633603c3e1"
+    },
+    {
+      "path": "readers/brecht/audio/15.mp3",
+      "bytes": 1614890,
+      "sha256": "4e6356ded1923ca40394296e65385dc566421ff651efb095756213043225fab3"
+    },
+    {
+      "path": "readers/brecht/audio/16.mp3",
+      "bytes": 835000,
+      "sha256": "b9dd7276db507ac881e533aee57eb8daac43fcacb6057f06a939f4b3a638536b"
+    },
+    {
+      "path": "readers/brecht/audio/17.mp3",
+      "bytes": 828725,
+      "sha256": "779d5799b954bc513c269ee70438ec200d4b04587a2c6036b04797dc14a77c3d"
+    },
+    {
+      "path": "readers/brecht/audio/18.mp3",
+      "bytes": 805303,
+      "sha256": "f2bf0704778b73bd7cbb2f2f2287883ba151310331af3e44b8a9954337bc996b"
+    },
+    {
+      "path": "readers/brecht/audio/19.mp3",
+      "bytes": 2146785,
+      "sha256": "02d68c318f5fd3f6f65f95c73fc80854cb2d143dc2ed98057a1a792c1a158254"
+    },
+    {
+      "path": "readers/brecht/audio/20.mp3",
+      "bytes": 1664990,
+      "sha256": "b685f25fceefe28eaedd97fb49c546e63d9b6a0e62d2b3b25976e25d9b6ea87b"
+    },
+    {
+      "path": "readers/brecht/audio/21.mp3",
+      "bytes": 3161348,
+      "sha256": "0a0979fe270f399007ddb16d9d6ba43fcadeae58a28d00d350353bebb91aad68"
+    },
+    {
+      "path": "readers/brecht/audio/22.mp3",
+      "bytes": 2330348,
+      "sha256": "d94d7dc7e21741703645476cc10f2d3c2f227b7c49a5126b65d6fd5d7f3f4379"
+    },
+    {
+      "path": "readers/brecht/audio/23.mp3",
+      "bytes": 1100475,
+      "sha256": "93700d3f7ed5a3e05a916658d02386e2f46d57ecf4abbf192f880412ffdbc0d0"
+    },
+    {
+      "path": "readers/brecht/audio/24.mp3",
+      "bytes": 996155,
+      "sha256": "5364af6257ec596106ba880155617f9dfe8d03255bfe9170c8816fec74a91ab6"
+    },
+    {
+      "path": "readers/brecht/audio/25.mp3",
+      "bytes": 10165520,
+      "sha256": "a0b484f2b132743e6da8f896b7c397fddeb44abf374282b06cefcd3ec47a3d2a"
+    },
+    {
+      "path": "readers/brecht/index.html",
+      "bytes": 12207588,
+      "sha256": "c9ff25da34fc33bb1d359c661dccfcd66b5b59ca0b93b9b80cbdb09bc47d8b5f"
+    },
+    {
+      "path": "readers/brecht/series.css",
+      "bytes": 3854,
+      "sha256": "2fffbefd978175973e846235653960b7a7144526d3ab801446a4e239a0c07549"
+    },
+    {
+      "path": "readers/brecht/布莱希特诗选25首逐词译注读本.pdf",
+      "bytes": 930307,
+      "sha256": "458e022eb64f13d62ccf4eb5c175dc9d8a76d969876f207e71ba92dfcdb4c80b"
+    },
+    {
+      "path": "readers/celan-new/ReaderSongBold-68c48acdcb76.woff2",
+      "bytes": 78048,
+      "sha256": "68c48acdcb76b1152942053cbd8ec71441777e0dea8205fa46fd501111a33060"
+    },
+    {
+      "path": "readers/celan-new/ReaderSongLight-daf4bf806d51.woff2",
+      "bytes": 270108,
+      "sha256": "daf4bf806d5169cc0fa34c279ba6a5378d7145c6e41f27fa26dc5fb4f4098e17"
+    },
+    {
+      "path": "readers/celan-new/ReaderTimes-ab60ae0cb1b0.woff2",
+      "bytes": 36532,
+      "sha256": "ab60ae0cb1b0f4e4ae091acbbfa7f76d4cd5deeb733ae9b00157dcc1017fd975"
+    },
+    {
+      "path": "readers/celan-new/ReaderTimesBold-3408ce384d73.woff2",
+      "bytes": 27508,
+      "sha256": "3408ce384d735f0a6cbcabb6b621aaf00da3e5b991e828a3a04d9fb1957269b9"
+    },
+    {
+      "path": "readers/celan-new/ReaderTimesItalic-2f76a74a3b07.woff2",
+      "bytes": 10572,
+      "sha256": "2f76a74a3b07011c6540cb9edfafe6124fb0fd30598683296f829348105e11b2"
+    },
+    {
+      "path": "readers/celan-new/audio-player.css",
+      "bytes": 1162,
+      "sha256": "eab06e4752ab22adaf0283fbe132abb7c21a417655747779f8a64c2be578d946"
+    },
+    {
+      "path": "readers/celan-new/audio-player.js",
+      "bytes": 3536,
+      "sha256": "8743eeafcf34c52e30212931cae3b16cdeaa292da894909f8258983e2c9ab9a4"
+    },
+    {
+      "path": "readers/celan-new/audio/01.mp3",
+      "bytes": 1107172,
+      "sha256": "6891c8423eae3e51b2cd7029605eee93342265268bb6c935a42d9cce8a5c3575"
+    },
+    {
+      "path": "readers/celan-new/audio/02.mp3",
+      "bytes": 2881997,
+      "sha256": "b3da9c913404fe97a0af31e72c80685574a2c43c874febe040db92e670733ae6"
+    },
+    {
+      "path": "readers/celan-new/audio/03.mp3",
+      "bytes": 1602317,
+      "sha256": "5990641b22681fc5eb8c20bd3b597a80f6bf49a22aafcf6aa167a725ebf8442e"
+    },
+    {
+      "path": "readers/celan-new/audio/04.mp3",
+      "bytes": 1702157,
+      "sha256": "21481fa401af0b891f58f3aa038471e609b696bf3e7d3ea6d4b5801087f74c72"
+    },
+    {
+      "path": "readers/celan-new/audio/05.mp3",
+      "bytes": 2504828,
+      "sha256": "017a15962ccba5e01dc0706fe17816b28ceff9a9d9fcc9561b089e4c9f2910e7"
+    },
+    {
+      "path": "readers/celan-new/audio/06.mp3",
+      "bytes": 2922317,
+      "sha256": "798ef4b7d9d1982c1eaad53daac44141e30ac54ef055c17b46d3eb11bdbc6463"
+    },
+    {
+      "path": "readers/celan-new/audio/07.mp3",
+      "bytes": 1561997,
+      "sha256": "699e02f4f51cc1f4129483c33586645708d502c991b4e0b64118b9be3878a7b4"
+    },
+    {
+      "path": "readers/celan-new/audio/08.mp3",
+      "bytes": 1221500,
+      "sha256": "8de1803680684c2da0c52ad139478d2ddf58b8d77242a7280ee2d2e1cc2080c2"
+    },
+    {
+      "path": "readers/celan-new/audio/09.mp3",
+      "bytes": 3622080,
+      "sha256": "ea3516c604239e35f9213c1fc1bb3485b8431355492874c63df6a4168139d247"
+    },
+    {
+      "path": "readers/celan-new/audio/10.mp3",
+      "bytes": 2521997,
+      "sha256": "c1f2aa0b0045e20e1c1c2ca7bebaad780a763b704c6fa97945cd611f11f9eaba"
+    },
+    {
+      "path": "readers/celan-new/audio/11.mp3",
+      "bytes": 1801004,
+      "sha256": "8394a2547117ac1527656217e457c0010f1433f2be36525ccfb2cabf2efa46a1"
+    },
+    {
+      "path": "readers/celan-new/audio/12.mp3",
+      "bytes": 853388,
+      "sha256": "8fd120be961076c885f25a77e2ca95a14438e90e38a5dd0d04d84d3d2bc7077c"
+    },
+    {
+      "path": "readers/celan-new/audio/13.mp3",
+      "bytes": 1410764,
+      "sha256": "a989663f6632adc9bbd20408a75f684ec9069608d3a6c8a1dfbff8ccb03cff3e"
+    },
+    {
+      "path": "readers/celan-new/audio/14.mp3",
+      "bytes": 3145995,
+      "sha256": "8b638e68a5539292f2af9557600b3317192c5a622749ce083747942500acd976"
+    },
+    {
+      "path": "readers/celan-new/audio/15.mp3",
+      "bytes": 1433495,
+      "sha256": "7449710542318bdfbb259d314a61d36a96e755c7143ca020614f21e2dd8a66f9"
+    },
+    {
+      "path": "readers/celan-new/audio/16.mp3",
+      "bytes": 2322317,
+      "sha256": "6926f7d15095b79a9265b359caeb39af1c6cf2391704071444ad65aff9a1c711"
+    },
+    {
+      "path": "readers/celan-new/audio/17.mp3",
+      "bytes": 3195703,
+      "sha256": "e30f06078683272101afd821f8095bebf0a86cacafa914107828143409d4c4d1"
+    },
+    {
+      "path": "readers/celan-new/audio/18.mp3",
+      "bytes": 1428428,
+      "sha256": "d4f1831b1da6b28ee1ca54ffff5e2e46488b0dcb8875e20689b5c2f07aac023b"
+    },
+    {
+      "path": "readers/celan-new/audio/19.mp3",
+      "bytes": 891634,
+      "sha256": "78f152d6a07b7d75f88acc87fde020aeacec16b93ba3e276f53d54813c89eff7"
+    },
+    {
+      "path": "readers/celan-new/audio/20.mp3",
+      "bytes": 1979319,
+      "sha256": "af033eb25da41749c856266e62366c1fc20a6a86673ef6bbbc5ce5834f120b27"
+    },
+    {
+      "path": "readers/celan-new/audio/21.mp3",
+      "bytes": 1000596,
+      "sha256": "01dd271ecb07d243e79e50cbcaa988dbe5a608e785b76662e08c3e59706369b7"
+    },
+    {
+      "path": "readers/celan-new/audio/22.mp3",
+      "bytes": 2521997,
+      "sha256": "3a03509091615c01103d9c984e59f4153090537324c7b6d6b57e9da1c9ea6ac8"
+    },
+    {
+      "path": "readers/celan-new/audio/24.mp3",
+      "bytes": 984156,
+      "sha256": "e6e3fb38a43316b295c8d40886f7af8fe4d5570011b04e02109b841e30cfd778"
+    },
+    {
+      "path": "readers/celan-new/audio/25.mp3",
+      "bytes": 641516,
+      "sha256": "33e821ff3b93e19eaf01f0ce16f639df225a1eee2f6990b5d79e78cc2b5c9ad6"
+    },
+    {
+      "path": "readers/celan-new/audio/26.mp3",
+      "bytes": 1569228,
+      "sha256": "f564f17a9cec19f09b41b6a35b910cf120c69bc09d0e58f4be382ecbaabd3671"
+    },
+    {
+      "path": "readers/celan-new/audio/27.mp3",
+      "bytes": 2036684,
+      "sha256": "d37dcbd0b2c7a7949a1732a16525f7db4da2ef730dfb489a18a2579dc21a16e9"
+    },
+    {
+      "path": "readers/celan-new/audio/28.mp3",
+      "bytes": 771293,
+      "sha256": "a869fe517f85c10ca8dc7a0ff5db7f17b5f537f28a1d544434b48f3e036ba327"
+    },
+    {
+      "path": "readers/celan-new/audio/29.mp3",
+      "bytes": 538725,
+      "sha256": "443343cffe742a21b0daf8b715c3dd2c5bf8fc437d217ca2468f628d4fb9f6a8"
+    },
+    {
+      "path": "readers/celan-new/audio/30.mp3",
+      "bytes": 9789540,
+      "sha256": "0e10b61ac772102ff3af2d17f96c6cecc8f9b915adb080f24ad9971a72018eab"
+    },
+    {
+      "path": "readers/celan-new/audio/31.mp3",
+      "bytes": 11521997,
+      "sha256": "f10a435c7c2bbfb8dc637211a492c2270f3935056b8811a6b86ae21543fd9bca"
+    },
+    {
+      "path": "readers/celan-new/index.html",
+      "bytes": 15537977,
+      "sha256": "de910d5bf3a21bf135a1cb42a3e4a7330a48c1bb4ada2b9b9392391882f7613e"
+    },
+    {
+      "path": "readers/celan-new/series.css",
+      "bytes": 3854,
+      "sha256": "2fffbefd978175973e846235653960b7a7144526d3ab801446a4e239a0c07549"
+    },
+    {
+      "path": "readers/celan-new/策兰新编31首逐词译注读本.pdf",
+      "bytes": 1139700,
+      "sha256": "aa74e196455b79ea9fe5a508d68d927b4886cbb9925f63f41af7655822e3c6dd"
+    },
+    {
+      "path": "readers/george-hofmannsthal/ReaderSongBold-ecde145aa7f5.woff2",
+      "bytes": 78252,
+      "sha256": "ecde145aa7f5ecc3501517f43e5b6bd70cb8e600a0ac6cc84735415876e2ab9e"
+    },
+    {
+      "path": "readers/george-hofmannsthal/ReaderSongLight-f54314dc6006.woff2",
+      "bytes": 276256,
+      "sha256": "f54314dc6006afb0a4c7df87d67756adbcd3e356a752f560e162632f107d10d4"
+    },
+    {
+      "path": "readers/george-hofmannsthal/ReaderTimes-0f70bcf7f598.woff2",
+      "bytes": 36032,
+      "sha256": "0f70bcf7f5981b77add15a8542c4b03106f3d99e653eb5567a9db6084de52e80"
+    },
+    {
+      "path": "readers/george-hofmannsthal/ReaderTimesBold-d529367b2a77.woff2",
+      "bytes": 26968,
+      "sha256": "d529367b2a770774053217180420eb360ca2d8382ea4ae6a3608bb3ba8a3c398"
+    },
+    {
+      "path": "readers/george-hofmannsthal/audio-player.css",
+      "bytes": 1162,
+      "sha256": "eab06e4752ab22adaf0283fbe132abb7c21a417655747779f8a64c2be578d946"
+    },
+    {
+      "path": "readers/george-hofmannsthal/audio-player.js",
+      "bytes": 3536,
+      "sha256": "8743eeafcf34c52e30212931cae3b16cdeaa292da894909f8258983e2c9ab9a4"
+    },
+    {
+      "path": "readers/george-hofmannsthal/audio/01.mp3",
+      "bytes": 1325140,
+      "sha256": "f4e792a483ddbf303d456fd1b959612d4265e03cbee8cd63a9d529980ee08ac9"
+    },
+    {
+      "path": "readers/george-hofmannsthal/audio/02.mp3",
+      "bytes": 961167,
+      "sha256": "7a69425d8787780ecfc780c76ddd1e8daeaad3fbe1cbef0724b3ca354f1daf98"
+    },
+    {
+      "path": "readers/george-hofmannsthal/audio/03.mp3",
+      "bytes": 1535134,
+      "sha256": "779e13e0191657f80f80a651ae206d33de6787bc90ba3c7d3b2da8ec4b4b7122"
+    },
+    {
+      "path": "readers/george-hofmannsthal/audio/04.mp3",
+      "bytes": 3841964,
+      "sha256": "522c6c6cd3cd5389e7d88539629f21e94a076fb687d576c891f8e6f9b4d805ce"
+    },
+    {
+      "path": "readers/george-hofmannsthal/audio/06.mp3",
+      "bytes": 725996,
+      "sha256": "05fd2159678586ae9c4acc8aee156286babbf17b1a0e4c83fd32a8bbf2071014"
+    },
+    {
+      "path": "readers/george-hofmannsthal/audio/07.mp3",
+      "bytes": 1751084,
+      "sha256": "9511a07d7f299e5464b952082f51cfaba1a27cbc891df106881299b692c90581"
+    },
+    {
+      "path": "readers/george-hofmannsthal/audio/09.mp3",
+      "bytes": 3776848,
+      "sha256": "edc378d458c4aeac246b5231d650335977f3c85c34326be10f5bfbcfad16bca6"
+    },
+    {
+      "path": "readers/george-hofmannsthal/audio/10.mp3",
+      "bytes": 756620,
+      "sha256": "c77c4fc50a5d8d306134b52ca9cea0a70d637f887ee114499ca325b21ed3210a"
+    },
+    {
+      "path": "readers/george-hofmannsthal/audio/11.mp3",
+      "bytes": 1180508,
+      "sha256": "bb0d7ba45382fa44ae0e44720ff8ed229f048a9fb13ce4716c015bc211d50f1a"
+    },
+    {
+      "path": "readers/george-hofmannsthal/audio/12.mp3",
+      "bytes": 520748,
+      "sha256": "d9538e245346d04d6168805525ae72d668861146823da3d3d3ed6dea06493cc0"
+    },
+    {
+      "path": "readers/george-hofmannsthal/audio/13.mp3",
+      "bytes": 1117292,
+      "sha256": "8175a16e97299843c553ebd939b3f69da043d9c7a218be4c52f31e46342bba4b"
+    },
+    {
+      "path": "readers/george-hofmannsthal/audio/15.mp3",
+      "bytes": 1031036,
+      "sha256": "11452a0798568798228312a3be9f46a9f927a6a2d55d5e1c48e718330b81d251"
+    },
+    {
+      "path": "readers/george-hofmannsthal/audio/16.mp3",
+      "bytes": 3562945,
+      "sha256": "64fd30bedb1f7045c2f61482fee06f76ff7c0eb988e98b9acf3aecbcf63d875b"
+    },
+    {
+      "path": "readers/george-hofmannsthal/audio/17.mp3",
+      "bytes": 3522284,
+      "sha256": "7a2709f8ff424bed3146fd49e8d622797d219330a72fa33f7dd33f72d0ffb345"
+    },
+    {
+      "path": "readers/george-hofmannsthal/audio/18.mp3",
+      "bytes": 3018070,
+      "sha256": "20f1f48a1cefc5cc449a6fb9a7f8d5942052ceed6c5e2bcc650606a8cca58c23"
+    },
+    {
+      "path": "readers/george-hofmannsthal/audio/19.mp3",
+      "bytes": 1000128,
+      "sha256": "60189da5116df9704df2ae01e35470c5049deddd6e21aaa85689ee75ac90fd14"
+    },
+    {
+      "path": "readers/george-hofmannsthal/audio/20.mp3",
+      "bytes": 1662796,
+      "sha256": "81349e01720f2af63feea93230de29c196e36f6cae7d9a4c90651c6b5e22de20"
+    },
+    {
+      "path": "readers/george-hofmannsthal/audio/21.mp3",
+      "bytes": 787316,
+      "sha256": "fecdb97dab9e312fdbf3fe3800fb4f9da25fe9aa6ab90ade51e462ab7a12b364"
+    },
+    {
+      "path": "readers/george-hofmannsthal/audio/22.mp3",
+      "bytes": 4129580,
+      "sha256": "cea5e2b35deac4052ba08448ca4adac54745dd357640e6885c0eef3106f6cd6e"
+    },
+    {
+      "path": "readers/george-hofmannsthal/audio/23.mp3",
+      "bytes": 3684524,
+      "sha256": "349f9c7acebc56fff0a53a9a1b454e9824c9ed774367cf9bbd182ab8a9651aeb"
+    },
+    {
+      "path": "readers/george-hofmannsthal/audio/25.mp3",
+      "bytes": 205532,
+      "sha256": "5bf25efd1f92a3933f0307c45a42c6e3946d0217f458abd59a5d47ccbb77b876"
+    },
+    {
+      "path": "readers/george-hofmannsthal/audio/26.mp3",
+      "bytes": 2684204,
+      "sha256": "22be82ca5ae7b11c79d031520ed2c26ddb1dcaa7b0cc9da995d1df6dd274238e"
+    },
+    {
+      "path": "readers/george-hofmannsthal/audio/27.mp3",
+      "bytes": 2319234,
+      "sha256": "95e9002ab6990c2b8795a7dfcbcba69bb434ca7c77843c64df5797726041169a"
+    },
+    {
+      "path": "readers/george-hofmannsthal/audio/28.mp3",
+      "bytes": 1824476,
+      "sha256": "9ad9b80a85109f420b01d5e984047b2306b1a3d72ff048e2b955f163290194d6"
+    },
+    {
+      "path": "readers/george-hofmannsthal/audio/29.mp3",
+      "bytes": 667940,
+      "sha256": "80dade6f397308edc2a56138d7c44dc1ff72a47d70c5daea0e827ec69f2f2192"
+    },
+    {
+      "path": "readers/george-hofmannsthal/audio/30.mp3",
+      "bytes": 695276,
+      "sha256": "58f076595969852f12d289a863204253a40a883c05041fbdba6529575bade6df"
+    },
+    {
+      "path": "readers/george-hofmannsthal/index.html",
+      "bytes": 12882835,
+      "sha256": "c531b43aa5f5ad514283dbe511b28c012bbbd240261c68625be428bf48f272f8"
+    },
+    {
+      "path": "readers/george-hofmannsthal/series.css",
+      "bytes": 3854,
+      "sha256": "2fffbefd978175973e846235653960b7a7144526d3ab801446a4e239a0c07549"
+    },
+    {
+      "path": "readers/george-hofmannsthal/格奥尔格／荷夫曼斯塔尔30首逐词译注读本.pdf",
+      "bytes": 1038317,
+      "sha256": "33ac843f52b18ed181a7fd344126f0574242b2395bf3be845f3878a3148e14e8"
+    },
+    {
+      "path": "readers/lasker/ReaderSongBold-f7c9208f3f98.woff2",
+      "bytes": 64848,
+      "sha256": "f7c9208f3f9856602004ad4e192844da639372285d23acfb520e5a095089c375"
+    },
+    {
+      "path": "readers/lasker/ReaderSongLight-df3962a65f8d.woff2",
+      "bytes": 259728,
+      "sha256": "df3962a65f8d4cbf42a5b4ec0449fdc08f2c950bea7afefbc47b3763fb27f772"
+    },
+    {
+      "path": "readers/lasker/ReaderTimes-ec85f2a658ad.woff2",
+      "bytes": 35180,
+      "sha256": "ec85f2a658ad38994e8ebc2c28b698adca74c843771a39b8ff53eaeddce116d5"
+    },
+    {
+      "path": "readers/lasker/ReaderTimesBold-b1caf3e8fcd6.woff2",
+      "bytes": 26368,
+      "sha256": "b1caf3e8fcd611c478a89b57fb579964afaeb9d87dff5253f323eb5a1bf3cce0"
+    },
+    {
+      "path": "readers/lasker/audio-player.css",
+      "bytes": 1162,
+      "sha256": "eab06e4752ab22adaf0283fbe132abb7c21a417655747779f8a64c2be578d946"
+    },
+    {
+      "path": "readers/lasker/audio-player.js",
+      "bytes": 3536,
+      "sha256": "8743eeafcf34c52e30212931cae3b16cdeaa292da894909f8258983e2c9ab9a4"
+    },
+    {
+      "path": "readers/lasker/audio/01.mp3",
+      "bytes": 1437648,
+      "sha256": "21cc8e2174f0de3093b47f18434994a362796f9ed73d040d2d8b1625f0f3e3fd"
+    },
+    {
+      "path": "readers/lasker/audio/02.mp3",
+      "bytes": 1249050,
+      "sha256": "eebeb679248e2599ff05f5ff9c1f9eaf73b23f4cc74255f50402a70921271407"
+    },
+    {
+      "path": "readers/lasker/audio/03.mp3",
+      "bytes": 894554,
+      "sha256": "350b40fa1a21e916a24b13f0ad14bed1a58634c7cf530fbccde5ed47da36ea23"
+    },
+    {
+      "path": "readers/lasker/audio/04.mp3",
+      "bytes": 1135716,
+      "sha256": "d00c808db6b7e4bee3b4594c418f3dd397bfa5a5eddc82d02d0591a5d6c5a5d2"
+    },
+    {
+      "path": "readers/lasker/audio/05.mp3",
+      "bytes": 1025793,
+      "sha256": "43bf4846bd4725c1bbdfc562f32bef02535e9eabfe1f286db2618cac4e087b4c"
+    },
+    {
+      "path": "readers/lasker/audio/06.mp3",
+      "bytes": 904553,
+      "sha256": "322cb7088809e7660231a40e39546df7264454ce12ace01185f0fb02a27220d9"
+    },
+    {
+      "path": "readers/lasker/audio/07.mp3",
+      "bytes": 902463,
+      "sha256": "741aaf0874084b5e722d8c40e19b337d20a83e9fbb691ee494c499cf5fa76f50"
+    },
+    {
+      "path": "readers/lasker/audio/08.mp3",
+      "bytes": 1110189,
+      "sha256": "99c7c9a59c171e79b3cfc15896d49e111c6d78cb7654275e460a70164172ed46"
+    },
+    {
+      "path": "readers/lasker/audio/09.mp3",
+      "bytes": 1244353,
+      "sha256": "4d76d74ae5a794dc146eaee8dd9b3250b4cdf45bf321eab46f5d0da3001f19a6"
+    },
+    {
+      "path": "readers/lasker/audio/10.mp3",
+      "bytes": 1042061,
+      "sha256": "98ad0908f6a5a1b11c989366d473b1ce41477a8ed77dfcb88264ebbb60465afb"
+    },
+    {
+      "path": "readers/lasker/audio/11.mp3",
+      "bytes": 1042479,
+      "sha256": "f6ed58cfb9a7ce4dca224d27e6615f419c0e2ffc4473f458d2e12b3f91d43269"
+    },
+    {
+      "path": "readers/lasker/audio/12.mp3",
+      "bytes": 3848515,
+      "sha256": "ffa6ea93fd2e9a63e73ac03a0c7d0d877e8be4657cdbe4a160fd71e3e44e7e97"
+    },
+    {
+      "path": "readers/lasker/audio/13.mp3",
+      "bytes": 2155135,
+      "sha256": "02cf0b6dbe4817ac8f9b5853b88d0412aa41debc520b7e8584761d9818a5763c"
+    },
+    {
+      "path": "readers/lasker/audio/14.mp3",
+      "bytes": 1668644,
+      "sha256": "83987fc9fcd7910b589af0c362ee6cc2a4c36db718850478b641d73ca314b1cf"
+    },
+    {
+      "path": "readers/lasker/audio/15.mp3",
+      "bytes": 1341898,
+      "sha256": "0375c08b808f7c7b8053f5a312c9afff8dc02987c8b4a83b5f469bf83b572794"
+    },
+    {
+      "path": "readers/lasker/audio/18.mp3",
+      "bytes": 2942444,
+      "sha256": "2de23eca61ca755c57742b8efce5d5120869d8a48b2b2d732e36b6ca4bd14cd8"
+    },
+    {
+      "path": "readers/lasker/audio/21.mp3",
+      "bytes": 2562657,
+      "sha256": "af31e94a29e70101725059adab24b9fab01e8a91809c1dd6ef904b0d21400e6f"
+    },
+    {
+      "path": "readers/lasker/audio/22.mp3",
+      "bytes": 3082604,
+      "sha256": "33510d5f8136a76c0e704a6a8564361e3151512b93fa803fbb12278d92743243"
+    },
+    {
+      "path": "readers/lasker/audio/23.mp3",
+      "bytes": 2002637,
+      "sha256": "5156dcd319de6c03eafc15ab5cde8c53c6d1e910275c37e2b25ff5e774762ba7"
+    },
+    {
+      "path": "readers/lasker/audio/24.mp3",
+      "bytes": 2682317,
+      "sha256": "e9f1a8aafc9250c3fa01a44ee449ba912aaa99c800aab318410340d10175fbec"
+    },
+    {
+      "path": "readers/lasker/audio/26.mp3",
+      "bytes": 2202317,
+      "sha256": "d7d9faacf3a6de1c81a327ebf308a7a68f826303b24c4e39a7cbd4d6f18919c7"
+    },
+    {
+      "path": "readers/lasker/audio/27.mp3",
+      "bytes": 2913644,
+      "sha256": "07796db6b6ff1d17e30c71c67e7b08e4c8f1f153c5f6d4141fa3d89163fd4d35"
+    },
+    {
+      "path": "readers/lasker/audio/28.mp3",
+      "bytes": 5521997,
+      "sha256": "05e32756d1281a3271932394085da0dcc8cc89f9ea39662ba87d5a0b3e6baea9"
+    },
+    {
+      "path": "readers/lasker/index.html",
+      "bytes": 11611296,
+      "sha256": "da1f7c0dd7b48054a360bc338d651b2791faacb2be59173b252e08a91641c53e"
+    },
+    {
+      "path": "readers/lasker/series.css",
+      "bytes": 3854,
+      "sha256": "2fffbefd978175973e846235653960b7a7144526d3ab801446a4e239a0c07549"
+    },
+    {
+      "path": "readers/lasker/拉斯克－许勒／萨克斯28首逐词译注读本.pdf",
+      "bytes": 941597,
+      "sha256": "23f6e60433a1d17904240efc82a6aa47ba1da8d0a2a232651d16d917aa281dc8"
+    },
+    {
+      "path": "readers/rilke/ReaderSongBold-114b53083365.woff2",
+      "bytes": 42184,
+      "sha256": "114b530833654782f46c1209507e9f27badd9bf91c53323ed8d2467c2ca6a8df"
+    },
+    {
+      "path": "readers/rilke/ReaderSongLight-76b3967eb5fe.woff2",
+      "bytes": 195680,
+      "sha256": "76b3967eb5fe117bcd96cb42aa073349e921086c020da94bcf0c271b1fc8f63b"
+    },
+    {
+      "path": "readers/rilke/ReaderTimes-848cfdcd303f.woff2",
+      "bytes": 34844,
+      "sha256": "848cfdcd303f9d4cb335c0bfebb24080b532a88b62d983f06921374b2c0e69b1"
+    },
+    {
+      "path": "readers/rilke/ReaderTimesBold-c8f4845545a9.woff2",
+      "bytes": 24792,
+      "sha256": "c8f4845545a9eb0ea4d8e2c68ad5d59c529d8bc34acafcbce713179fb6b611ea"
+    },
+    {
+      "path": "readers/rilke/audio-player.css",
+      "bytes": 1162,
+      "sha256": "eab06e4752ab22adaf0283fbe132abb7c21a417655747779f8a64c2be578d946"
+    },
+    {
+      "path": "readers/rilke/audio-player.js",
+      "bytes": 3536,
+      "sha256": "8743eeafcf34c52e30212931cae3b16cdeaa292da894909f8258983e2c9ab9a4"
+    },
+    {
+      "path": "readers/rilke/audio/01.mp3",
+      "bytes": 850988,
+      "sha256": "7ae3615dd10e3a6f62e5c58d4fef0e4b3ea500c32da790b47bd9b7daabf6fb16"
+    },
+    {
+      "path": "readers/rilke/audio/02.mp3",
+      "bytes": 688868,
+      "sha256": "bc92b6461549f6c583926a24f43a842c5a6eb746250b2d2efc8585fa90b72999"
+    },
+    {
+      "path": "readers/rilke/audio/03.mp3",
+      "bytes": 491804,
+      "sha256": "092b1628a7f7cf160992e9adff06d4ea5b00efc88884d8f5d61049dc289014c6"
+    },
+    {
+      "path": "readers/rilke/audio/04.mp3",
+      "bytes": 718988,
+      "sha256": "1196cc1590f174fd725ee396b167c4cf7a8416e6875725e462814be6fbae5cab"
+    },
+    {
+      "path": "readers/rilke/audio/05.mp3",
+      "bytes": 983756,
+      "sha256": "eca0f5613623e03ea7755ba1d2c9740da8301efaa06eba02a72723e5300a7e71"
+    },
+    {
+      "path": "readers/rilke/audio/06.mp3",
+      "bytes": 618092,
+      "sha256": "1c6b534b2d1fa345978c0ed1e3b0a843c971581cd898c48c08adb46dde1e8bf1"
+    },
+    {
+      "path": "readers/rilke/audio/07.mp3",
+      "bytes": 967172,
+      "sha256": "f6586eea326213842079d6b9fe6ff96e8fc21483c5dfa58aea23361528a0ce0c"
+    },
+    {
+      "path": "readers/rilke/audio/08.mp3",
+      "bytes": 222668,
+      "sha256": "d9ccbcaf6aae9910600e6245da92a8c86a83bd0cb9a1cc203389e7c40bcea225"
+    },
+    {
+      "path": "readers/rilke/audio/09.mp3",
+      "bytes": 865628,
+      "sha256": "5c880270d5a4946b5790936132993909632022c8d718a804909a48b0e5ba6595"
+    },
+    {
+      "path": "readers/rilke/audio/10.mp3",
+      "bytes": 897524,
+      "sha256": "0a20a20986f0c4f45c2a89eac16a055141afb24d4c3f8895337bac1863106d19"
+    },
+    {
+      "path": "readers/rilke/audio/11.mp3",
+      "bytes": 1439970,
+      "sha256": "c528a9c9c36e358ad8dc29a8d89314204199e823d9269529e29f2898e42c8e3c"
+    },
+    {
+      "path": "readers/rilke/audio/12.mp3",
+      "bytes": 984500,
+      "sha256": "d548b20d6bbb92d87dee7b33f0e70e009263ed3155ecf716f55ee293dad42c53"
+    },
+    {
+      "path": "readers/rilke/audio/13.mp3",
+      "bytes": 1227644,
+      "sha256": "b53e68fa22696fc36bb99201b70ee6d9000dbdbff3b8dee2dc808e24134a5839"
+    },
+    {
+      "path": "readers/rilke/audio/14.mp3",
+      "bytes": 721676,
+      "sha256": "0e91370ea4a6cb944b819b3bf9c4cbb33887b7c5ab5e195b9a9d79d6f539ba80"
+    },
+    {
+      "path": "readers/rilke/audio/15.mp3",
+      "bytes": 790172,
+      "sha256": "ee4482d875d0c848c40187496c376ae38a4f44add20c35d1c6440bc98999194e"
+    },
+    {
+      "path": "readers/rilke/audio/16.mp3",
+      "bytes": 610604,
+      "sha256": "252af952074768529715a5364f3c588d7c9f3ceb3cb50441c6757d5f852c31b8"
+    },
+    {
+      "path": "readers/rilke/audio/17.mp3",
+      "bytes": 1102188,
+      "sha256": "0821a57948bc5802b8b3fbf32bab69a753b4756a938af315cfa306588e211aa9"
+    },
+    {
+      "path": "readers/rilke/audio/18.mp3",
+      "bytes": 725108,
+      "sha256": "82faa4d7154f3b9acb1289f635a391d2662f057e2287b1dc3bf276238137db79"
+    },
+    {
+      "path": "readers/rilke/audio/19.mp3",
+      "bytes": 577148,
+      "sha256": "ca7857573c984b3228f305d2edac64bf4dc70dff4ed2baca15913b9fc24879f1"
+    },
+    {
+      "path": "readers/rilke/audio/20.mp3",
+      "bytes": 714140,
+      "sha256": "e1a51477c3ab15090f9572717c14730e62dfecc8098b9546f19b19af2af3dae6"
+    },
+    {
+      "path": "readers/rilke/audio/21.mp3",
+      "bytes": 742676,
+      "sha256": "93a97d1dc8ad80150a82c8460ce8c5f105515c6cb2129fe675af000bfba6c639"
+    },
+    {
+      "path": "readers/rilke/audio/22.mp3",
+      "bytes": 750020,
+      "sha256": "61fefd346af83683298a804e5952c5a262a82905800d35cf0272035136750ed7"
+    },
+    {
+      "path": "readers/rilke/index.html",
+      "bytes": 6552061,
+      "sha256": "fc193f087da20a7fcebdce2767d514853816672415f80cbe1fb775b8d191f59e"
+    },
+    {
+      "path": "readers/rilke/series.css",
+      "bytes": 3854,
+      "sha256": "2fffbefd978175973e846235653960b7a7144526d3ab801446a4e239a0c07549"
+    },
+    {
+      "path": "readers/rilke/里尔克诗选22首逐词译注读本.pdf",
+      "bytes": 1348109,
+      "sha256": "54b2a13adbd688466d9d5dcedeceb1afc1872954f0f0b589ddd47ebf0b5b9ade"
+    },
+    {
+      "path": "readers/trakl/ReaderSongBold-ec3fe8a0f2cc.woff2",
+      "bytes": 36760,
+      "sha256": "ec3fe8a0f2ccc875097c6ce5079fea1472cecc696d6dc47be8e5ce42547ccf86"
+    },
+    {
+      "path": "readers/trakl/ReaderSongLight-ae7d236c2c0f.woff2",
+      "bytes": 203036,
+      "sha256": "ae7d236c2c0f4e57f86daebad5b8e07b546b5aa23d61884862ec9c620e98dedd"
+    },
+    {
+      "path": "readers/trakl/ReaderTimes-495dc3d87e69.woff2",
+      "bytes": 33684,
+      "sha256": "495dc3d87e69b20f9f69510b668c77b12196e68d3f80e967979de43ad28b84d9"
+    },
+    {
+      "path": "readers/trakl/ReaderTimesBold-e3d2ed5dd904.woff2",
+      "bytes": 22784,
+      "sha256": "e3d2ed5dd904e35bb709f931ece251018212b046290ec697cdbd24387881a7d0"
+    },
+    {
+      "path": "readers/trakl/audio-player.css",
+      "bytes": 1162,
+      "sha256": "eab06e4752ab22adaf0283fbe132abb7c21a417655747779f8a64c2be578d946"
+    },
+    {
+      "path": "readers/trakl/audio-player.js",
+      "bytes": 3536,
+      "sha256": "8743eeafcf34c52e30212931cae3b16cdeaa292da894909f8258983e2c9ab9a4"
+    },
+    {
+      "path": "readers/trakl/audio/01.mp3",
+      "bytes": 706912,
+      "sha256": "fbd1f0f1782b9c0d5a0ca27edce6a2467cf3660edcc871417cf425b3174ee05d"
+    },
+    {
+      "path": "readers/trakl/audio/02.mp3",
+      "bytes": 874939,
+      "sha256": "5ca5bdd9511f476b1ae7d3f5009c8df3ef28b6eeda944e97b9dd79ca50294625"
+    },
+    {
+      "path": "readers/trakl/audio/03.mp3",
+      "bytes": 290621,
+      "sha256": "8c10b1d143f2bcc64dfac3520ffd2e1c411791873badba9b0244009540243214"
+    },
+    {
+      "path": "readers/trakl/audio/04.mp3",
+      "bytes": 1042961,
+      "sha256": "c4b02eb86cef16eb0cb699d44d9bf9ed5eef9176cd23daa409a493caf9869e36"
+    },
+    {
+      "path": "readers/trakl/audio/05.mp3",
+      "bytes": 657175,
+      "sha256": "6ae70c6f643cc1a58158101f7faa07f0d4381c02e5f1f29a8aa67e17b293ef95"
+    },
+    {
+      "path": "readers/trakl/audio/06.mp3",
+      "bytes": 503793,
+      "sha256": "19a5abb9f962e3e705c8164d2b5dd676d81c1a4af58e8c72e539e8817e3a0279"
+    },
+    {
+      "path": "readers/trakl/audio/07.mp3",
+      "bytes": 754985,
+      "sha256": "fae9c478cc6bdcbb944803a0c3b6ed6880482490f66ac8e6dc3ac634ca8e5293"
+    },
+    {
+      "path": "readers/trakl/audio/08.mp3",
+      "bytes": 650915,
+      "sha256": "ab72683d5375025dd9e7c2cd1718284115bbd280d75a11cdcfb2e66ddf423bf8"
+    },
+    {
+      "path": "readers/trakl/audio/09.mp3",
+      "bytes": 753306,
+      "sha256": "e14d9addfb9c0296823c163d7655842de54f716b1190e8f0c330a148a750466f"
+    },
+    {
+      "path": "readers/trakl/audio/10.mp3",
+      "bytes": 617064,
+      "sha256": "29ec34632801d831e70907367467b3a38601fa38bd7b3eb6d6b392dc09524f08"
+    },
+    {
+      "path": "readers/trakl/audio/11.mp3",
+      "bytes": 847767,
+      "sha256": "96670f077f1516b4b611167e89d0adadb4e6522459007a4c2004e02edda08205"
+    },
+    {
+      "path": "readers/trakl/audio/12.mp3",
+      "bytes": 686016,
+      "sha256": "358326c1e7230a000229760dc42a83ae711ac11aaf3975da7ceefd94279f47e3"
+    },
+    {
+      "path": "readers/trakl/audio/13.mp3",
+      "bytes": 1076391,
+      "sha256": "5735f398c99604baee5499555082c81ace005d675663cf3673a0c91f42472795"
+    },
+    {
+      "path": "readers/trakl/audio/14.mp3",
+      "bytes": 644219,
+      "sha256": "1f657256663fb83c1abbf1c0580d1b006342abef73ebb37e168bd0dbad520d84"
+    },
+    {
+      "path": "readers/trakl/audio/15.mp3",
+      "bytes": 678074,
+      "sha256": "9528fe55a503b3cf797bae020253e32d4d152e2ea1978fbcd1e3bce7de94f6d9"
+    },
+    {
+      "path": "readers/trakl/audio/16.mp3",
+      "bytes": 902119,
+      "sha256": "040e874938f9f9a5c303fd73617c55723d4aa93013672dac0904c517cfef1f62"
+    },
+    {
+      "path": "readers/trakl/audio/17.mp3",
+      "bytes": 847763,
+      "sha256": "adc5713f5660f1dd9a14a78410cfc00b74d84d7badfde90cb65f66afe4f20f12"
+    },
+    {
+      "path": "readers/trakl/audio/18.mp3",
+      "bytes": 970649,
+      "sha256": "322ec79ca9857f00924bef3b003352fcaac9afab16279aa10d07348ab2297f8f"
+    },
+    {
+      "path": "readers/trakl/audio/19.mp3",
+      "bytes": 914644,
+      "sha256": "0fd87f548d368305321907c4154fb6552fa877e71f0a31dcd7e443c96a8475c9"
+    },
+    {
+      "path": "readers/trakl/audio/20.mp3",
+      "bytes": 719451,
+      "sha256": "f00531117a9eb3b5fe01baed9f75dcad8bb16b13ec4d808bf1c7c048bde6911d"
+    },
+    {
+      "path": "readers/trakl/audio/21.mp3",
+      "bytes": 422276,
+      "sha256": "fa3f787058d67bf40d8f7bad96adcea5a4870f0d10715a12de3ce7f75af051c2"
+    },
+    {
+      "path": "readers/trakl/audio/22.mp3",
+      "bytes": 949340,
+      "sha256": "1d1b62289d05b14db085c0c8fa04d1c4972964980b5902136f4d4315f351c9f7"
+    },
+    {
+      "path": "readers/trakl/audio/23.mp3",
+      "bytes": 1461932,
+      "sha256": "35788710072a89419013f4cbc7b72ce847c9873e0b1eae866c58fd97a09b073e"
+    },
+    {
+      "path": "readers/trakl/index.html",
+      "bytes": 6077213,
+      "sha256": "4e19b75bc8410082b8d8cb23df5790f551abca1b62dd216458201fb3b77d3988"
+    },
+    {
+      "path": "readers/trakl/series.css",
+      "bytes": 3854,
+      "sha256": "2fffbefd978175973e846235653960b7a7144526d3ab801446a4e239a0c07549"
+    },
+    {
+      "path": "readers/trakl/特拉克尔诗选23首逐词译注读本.pdf",
+      "bytes": 1335567,
+      "sha256": "2d9a0a3a3f363f2b4f354be2eba2970d6df7d4fb48daeee1a097737f461960d8"
+    },
+    {
+      "path": "release.json",
+      "bytes": 4593,
+      "sha256": "9e1ae92833571d625cae084ea43849af5fdaad779e1659dad7a758f49d3a06e7"
+    },
+    {
+      "path": "templates/语法手册项目模板.md",
+      "bytes": 4474,
+      "sha256": "0cd96dbd58fc8a1f21b62f960db859f56c59ee63be174e63cb07bff286feef88"
+    },
+    {
+      "path": "templates/逐词读本项目模板.md",
+      "bytes": 4759,
+      "sha256": "873bb4b519ebdc012f80c21255234b4d7df252f15388125b903373a105852cea"
     },
     {
       "path": "tools/check_publications.py",
       "bytes": 4330,
       "sha256": "6aecb4c4dad580aa0a81a6bdd5f56fad0fbe3924c717bc6ec1997465e8973998"
-    },
-    {
-      "path": "assets/homepage/assets/homepage-heiti.woff2",
-      "bytes": 55876,
-      "sha256": "b6c96f6cb60c83c7edee36a6f5424e65322f08de52dc77c29ca3b13c4117bfba"
-    },
-    {
-      "path": "assets/homepage/assets/celan-atemkristall-10-lead-in.mp3",
-      "bytes": 132203,
-      "sha256": "c08508f8a6e838222e86b18e7011dac8cfdd2cd8d0b27f5b61210148b3688524"
     }
   ],
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "web_audio_readers": [
     {
-      "name": "策兰《呼吸结晶》21首",
-      "version": "v2.0",
-      "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0_网页语音版.html",
-      "recordings": 21
+      "name": "里尔克诗选",
+      "poems": 22,
+      "pdf_pages": 52,
+      "recordings": 22,
+      "author_recordings": 0,
+      "path": "readers/rilke/index.html",
+      "pdf": "readers/rilke/里尔克诗选22首逐词译注读本.pdf",
+      "pdf_sha256": "54b2a13adbd688466d9d5dcedeceb1afc1872954f0f0b589ddd47ebf0b5b9ade",
+      "button_color": "#C46849",
+      "page_main_color": "#8B6041"
     },
     {
-      "name": "里尔克诗选20首",
-      "version": "v0.2",
-      "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2_网页语音版.html",
-      "recordings": 20
+      "name": "特拉克尔诗选",
+      "poems": 23,
+      "pdf_pages": 50,
+      "recordings": 23,
+      "author_recordings": 0,
+      "path": "readers/trakl/index.html",
+      "pdf": "readers/trakl/特拉克尔诗选23首逐词译注读本.pdf",
+      "pdf_sha256": "2d9a0a3a3f363f2b4f354be2eba2970d6df7d4fb48daeee1a097737f461960d8",
+      "button_color": "#6A9BCC",
+      "page_main_color": "#355570"
     },
     {
-      "name": "特拉克尔诗选23首",
-      "version": "v0.2",
-      "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2_网页语音版.html",
-      "recordings": 23
+      "name": "策兰《呼吸结晶》",
+      "poems": 21,
+      "pdf_pages": 50,
+      "recordings": 21,
+      "author_recordings": 8,
+      "path": "readers/atemkristall/index.html",
+      "pdf": "readers/atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0.pdf",
+      "pdf_sha256": "819c38e0add794404d65ca1c1ab9b4ed43048b2c3af3bc564a56b051b875c2a3",
+      "button_color": "#629987",
+      "page_main_color": "#2A7775"
+    },
+    {
+      "name": "布莱希特诗选",
+      "poems": 25,
+      "pdf_pages": 77,
+      "recordings": 24,
+      "author_recordings": 0,
+      "path": "readers/brecht/index.html",
+      "pdf": "readers/brecht/布莱希特诗选25首逐词译注读本.pdf",
+      "pdf_sha256": "458e022eb64f13d62ccf4eb5c175dc9d8a76d969876f207e71ba92dfcdb4c80b",
+      "button_color": "#DE6262",
+      "page_main_color": "#8B504E"
+    },
+    {
+      "name": "策兰新编",
+      "poems": 31,
+      "pdf_pages": 119,
+      "recordings": 30,
+      "author_recordings": 9,
+      "path": "readers/celan-new/index.html",
+      "pdf": "readers/celan-new/策兰新编31首逐词译注读本.pdf",
+      "pdf_sha256": "aa74e196455b79ea9fe5a508d68d927b4886cbb9925f63f41af7655822e3c6dd",
+      "button_color": "#788C5D",
+      "page_main_color": "#52613F"
+    },
+    {
+      "name": "贝恩诗选",
+      "poems": 25,
+      "pdf_pages": 75,
+      "recordings": 22,
+      "author_recordings": 3,
+      "path": "readers/benn/index.html",
+      "pdf": "readers/benn/贝恩诗选25首逐词译注读本.pdf",
+      "pdf_sha256": "509bc47320448579734c988358ab4a9e2e185bd023d10ce85a69622c1c5db2cb",
+      "button_color": "#C46686",
+      "page_main_color": "#82495C"
+    },
+    {
+      "name": "巴赫曼诗选",
+      "poems": 27,
+      "pdf_pages": 101,
+      "recordings": 21,
+      "author_recordings": 4,
+      "path": "readers/bachmann/index.html",
+      "pdf": "readers/bachmann/巴赫曼诗选27首逐词译注读本.pdf",
+      "pdf_sha256": "3442aedca6cbec62b7102520e8b6cfb5a09a1563c5c7affb5ea1982b59e51a03",
+      "button_color": "#827DBD",
+      "page_main_color": "#58557F"
+    },
+    {
+      "name": "格奥尔格／荷夫曼斯塔尔",
+      "poems": 30,
+      "pdf_pages": 89,
+      "recordings": 26,
+      "author_recordings": 1,
+      "path": "readers/george-hofmannsthal/index.html",
+      "pdf": "readers/george-hofmannsthal/格奥尔格／荷夫曼斯塔尔30首逐词译注读本.pdf",
+      "pdf_sha256": "33ac843f52b18ed181a7fd344126f0574242b2395bf3be845f3878a3148e14e8",
+      "button_color": "#F0AC54",
+      "page_main_color": "#896334"
+    },
+    {
+      "name": "拉斯克－许勒／萨克斯",
+      "poems": 28,
+      "pdf_pages": 80,
+      "recordings": 23,
+      "author_recordings": 5,
+      "path": "readers/lasker/index.html",
+      "pdf": "readers/lasker/拉斯克－许勒／萨克斯28首逐词译注读本.pdf",
+      "pdf_sha256": "23f6e60433a1d17904240efc82a6aa47ba1da8d0a2a232651d16d917aa281dc8",
+      "button_color": "#D4A27F",
+      "page_main_color": "#85644D"
     }
   ],
   "website": "https://laiyutao.github.io/poetry-language-readers/",
-  "web_format": "modular-web-v3-text"
+  "web_format": "nine-readers-selectable-svg",
+  "current_release": "release.json"
 }

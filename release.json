@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-18",
+  "version": "nine-readers-20261018-fig-benn",
+  "poems": 232,
+  "pages": 693,
+  "recordings": 212,
+  "author_recordings": 30,
+  "readers": [
+    {
+      "name": "里尔克诗选",
+      "poems": 22,
+      "pdf_pages": 52,
+      "recordings": 22,
+      "author_recordings": 0,
+      "path": "readers/rilke/index.html",
+      "pdf": "readers/rilke/里尔克诗选22首逐词译注读本.pdf",
+      "pdf_sha256": "54b2a13adbd688466d9d5dcedeceb1afc1872954f0f0b589ddd47ebf0b5b9ade",
+      "button_color": "#C46849",
+      "page_main_color": "#8B6041"
+    },
+    {
+      "name": "特拉克尔诗选",
+      "poems": 23,
+      "pdf_pages": 50,
+      "recordings": 23,
+      "author_recordings": 0,
+      "path": "readers/trakl/index.html",
+      "pdf": "readers/trakl/特拉克尔诗选23首逐词译注读本.pdf",
+      "pdf_sha256": "2d9a0a3a3f363f2b4f354be2eba2970d6df7d4fb48daeee1a097737f461960d8",
+      "button_color": "#6A9BCC",
+      "page_main_color": "#355570"
+    },
+    {
+      "name": "策兰《呼吸结晶》",
+      "poems": 21,
+      "pdf_pages": 50,
+      "recordings": 21,
+      "author_recordings": 8,
+      "path": "readers/atemkristall/index.html",
+      "pdf": "readers/atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0.pdf",
+      "pdf_sha256": "819c38e0add794404d65ca1c1ab9b4ed43048b2c3af3bc564a56b051b875c2a3",
+      "button_color": "#629987",
+      "page_main_color": "#2A7775"
+    },
+    {
+      "name": "布莱希特诗选",
+      "poems": 25,
+      "pdf_pages": 77,
+      "recordings": 24,
+      "author_recordings": 0,
+      "path": "readers/brecht/index.html",
+      "pdf": "readers/brecht/布莱希特诗选25首逐词译注读本.pdf",
+      "pdf_sha256": "458e022eb64f13d62ccf4eb5c175dc9d8a76d969876f207e71ba92dfcdb4c80b",
+      "button_color": "#DE6262",
+      "page_main_color": "#8B504E"
+    },
+    {
+      "name": "策兰新编",
+      "poems": 31,
+      "pdf_pages": 119,
+      "recordings": 30,
+      "author_recordings": 9,
+      "path": "readers/celan-new/index.html",
+      "pdf": "readers/celan-new/策兰新编31首逐词译注读本.pdf",
+      "pdf_sha256": "aa74e196455b79ea9fe5a508d68d927b4886cbb9925f63f41af7655822e3c6dd",
+      "button_color": "#788C5D",
+      "page_main_color": "#52613F"
+    },
+    {
+      "name": "贝恩诗选",
+      "poems": 25,
+      "pdf_pages": 75,
+      "recordings": 22,
+      "author_recordings": 3,
+      "path": "readers/benn/index.html",
+      "pdf": "readers/benn/贝恩诗选25首逐词译注读本.pdf",
+      "pdf_sha256": "509bc47320448579734c988358ab4a9e2e185bd023d10ce85a69622c1c5db2cb",
+      "button_color": "#C46686",
+      "page_main_color": "#82495C"
+    },
+    {
+      "name": "巴赫曼诗选",
+      "poems": 27,
+      "pdf_pages": 101,
+      "recordings": 21,
+      "author_recordings": 4,
+      "path": "readers/bachmann/index.html",
+      "pdf": "readers/bachmann/巴赫曼诗选27首逐词译注读本.pdf",
+      "pdf_sha256": "3442aedca6cbec62b7102520e8b6cfb5a09a1563c5c7affb5ea1982b59e51a03",
+      "button_color": "#827DBD",
+      "page_main_color": "#58557F"
+    },
+    {
+      "name": "格奥尔格／荷夫曼斯塔尔",
+      "poems": 30,
+      "pdf_pages": 89,
+      "recordings": 26,
+      "author_recordings": 1,
+      "path": "readers/george-hofmannsthal/index.html",
+      "pdf": "readers/george-hofmannsthal/格奥尔格／荷夫曼斯塔尔30首逐词译注读本.pdf",
+      "pdf_sha256": "33ac843f52b18ed181a7fd344126f0574242b2395bf3be845f3878a3148e14e8",
+      "button_color": "#F0AC54",
+      "page_main_color": "#896334"
+    },
+    {
+      "name": "拉斯克－许勒／萨克斯",
+      "poems": 28,
+      "pdf_pages": 80,
+      "recordings": 23,
+      "author_recordings": 5,
+      "path": "readers/lasker/index.html",
+      "pdf": "readers/lasker/拉斯克－许勒／萨克斯28首逐词译注读本.pdf",
+      "pdf_sha256": "23f6e60433a1d17904240efc82a6aa47ba1da8d0a2a232651d16d917aa281dc8",
+      "button_color": "#D4A27F",
+      "page_main_color": "#85644D"
+    }
+  ],
+  "legacy_redirects": [
+    "publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0_网页语音版.html",
+    "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2_网页语音版.html",
+    "publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2_网页语音版.html"
+  ],
+  "color_source": "https://www.anthropic.com/",
+  "audio_processing": "8条非专门录音采用DeepFilterNet3增强；26条保留轻度降噪，专门录音及诗人原声保持原有处理。"
+}
