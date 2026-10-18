@@ -2560,7 +2560,7 @@
     {
       "path": "readers/atemkristall/index.html",
       "bytes": 55568,
-      "sha256": "550f7d6f9c1e841bbcb1ac329b076acab09ecd95f79f167ff2abf1a78d689da7"
+      "sha256": "01fb7e416588bc4c7333e017e727ac6736b51d013a0fd2831ea03a386c26eea1"
     },
     {
       "path": "readers/atemkristall/reader.css",
@@ -2589,8 +2589,8 @@
     },
     {
       "path": "readers/atemkristall/web/text-pages/004.html",
-      "bytes": 86590,
-      "sha256": "e6143cb8f4f9ea5920bbb69da0adc8b449eb884bf3839deeb6e09c8ec9c2c553"
+      "bytes": 86866,
+      "sha256": "6360be40df162499b31b0dc5ae069815094fdfa43f88cefa87a1821908584977"
     },
     {
       "path": "readers/atemkristall/web/text-pages/005.html",
@@ -2789,13 +2789,13 @@
     },
     {
       "path": "readers/atemkristall/web/text-pages/044.html",
-      "bytes": 126901,
-      "sha256": "e0cc782d5996018b289a7b37aa701ca950c71f342989a08d92b580cc38a77903"
+      "bytes": 126973,
+      "sha256": "f475ddf0debd5e00f63daffedad4965303213b92bd38bb844a2dbd419c2ea438"
     },
     {
       "path": "readers/atemkristall/web/text-pages/045.html",
-      "bytes": 137722,
-      "sha256": "8038911b9c70d8a0a17be7124b1af59783fc2140cc49adce3c90d7f6482475bc"
+      "bytes": 137806,
+      "sha256": "1ea25ec84eb88bea1b5e2c8d160ad7472013ab4ee7bf6b66148cf5f96c308257"
     },
     {
       "path": "readers/atemkristall/web/text-pages/046.html",
@@ -2819,8 +2819,8 @@
     },
     {
       "path": "readers/atemkristall/web/text-pages/050.html",
-      "bytes": 142528,
-      "sha256": "25b42f46731c0db1194de584179b70507ff5a28782652d3dd0053d70f10dd9fa"
+      "bytes": 142516,
+      "sha256": "61cf68e32acb98b8c1945e79864b3a25135aed2562c2ac2950bc1d8579c2cd6a"
     },
     {
       "path": "readers/atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0.pdf",
@@ -2995,7 +2995,7 @@
     {
       "path": "readers/bachmann/index.html",
       "bytes": 65225,
-      "sha256": "9cc40f6c3cb77813a37260ee33b1529c6c91539fb6b2e179c61ed11af0b34970"
+      "sha256": "3567e7bc8599b1ef828088f2f4127af59215262c4c3dc15ee128d760d2ca8fa6"
     },
     {
       "path": "readers/bachmann/reader.css",
@@ -3024,13 +3024,13 @@
     },
     {
       "path": "readers/bachmann/web/text-pages/004.html",
-      "bytes": 86501,
-      "sha256": "79f95782155abcc777323cf58026099f41bc3c91e0aa3bcccd3fe190ef4349cf"
+      "bytes": 86792,
+      "sha256": "e80af710eee0886505655b9c5116eee40511b02f837f1f7a3896858f8cf5c6b1"
     },
     {
       "path": "readers/bachmann/web/text-pages/005.html",
-      "bytes": 15776,
-      "sha256": "a3653ac1328e8ad207499f71925e55229fc9d6c3bea118fa91ab867df19fd1e1"
+      "bytes": 15820,
+      "sha256": "5224b77448d58590c4f27c5608e38907f96576581373a86ba72b6fad506f10a9"
     },
     {
       "path": "readers/bachmann/web/text-pages/006.html",
@@ -3690,7 +3690,7 @@
     {
       "path": "readers/benn/index.html",
       "bytes": 57732,
-      "sha256": "fc42a26365bfa1ff420b57c63c262c95fa9252c048a03ee91efe7a5ad032a776"
+      "sha256": "6dff7e0464e9f57eade708d89e62706bf2c420958b76a0c885d60aca0966ba54"
     },
     {
       "path": "readers/benn/reader.css",
@@ -3719,13 +3719,13 @@
     },
     {
       "path": "readers/benn/web/text-pages/004.html",
-      "bytes": 87047,
-      "sha256": "c8d1b38220214eb3bbf50a8b3122fa5d27aad9298b4f7066aed3018e57ed585a"
+      "bytes": 87338,
+      "sha256": "221df701d1f06e557cfffbcc4e23c0da7b22e5ff2d2f0edb1ff54c612697adf7"
     },
     {
       "path": "readers/benn/web/text-pages/005.html",
-      "bytes": 7971,
-      "sha256": "3d0147fa86d0286817303adb81cc0f5ce3ec314b0a7aa7b3052b202b07f1738f"
+      "bytes": 7988,
+      "sha256": "98d206a7f19da396a0ab096ed3035293e9f46a663eb3c88a84ce8c73a409753f"
     },
     {
       "path": "readers/benn/web/text-pages/006.html",
@@ -4255,7 +4255,7 @@
     {
       "path": "readers/brecht/index.html",
       "bytes": 59406,
-      "sha256": "10a3ac2d9e0b8c22807590377500b232acaa102dc912e28df772eff7bd271643"
+      "sha256": "3cb94bd51d2c31ac9d891fe9367dce448034499533a6c20b8a272ef03a1f08fe"
     },
     {
       "path": "readers/brecht/reader.css",
@@ -4284,8 +4284,8 @@
     },
     {
       "path": "readers/brecht/web/text-pages/004.html",
-      "bytes": 120176,
-      "sha256": "18090edcb11ff7675b15547920b8c3becb8bc7cfd3d58fc6ce639d56091e312c"
+      "bytes": 120506,
+      "sha256": "07980eef8a32694114fd5bc753852dbf49ca9caf09bc039ad625cb5e5e3650dc"
     },
     {
       "path": "readers/brecht/web/text-pages/005.html",
@@ -4870,7 +4870,7 @@
     {
       "path": "readers/celan-new/index.html",
       "bytes": 70428,
-      "sha256": "b255357ad74c42bbcd153ee1f2fdb250cc69c5353b27aba0c05b98d93d48f5b1"
+      "sha256": "b2af4d3bcc777a57e81a55f33b8c4d2962e61b5c54be70e7d60c45318bbbeb88"
     },
     {
       "path": "readers/celan-new/reader.css",
@@ -4899,13 +4899,13 @@
     },
     {
       "path": "readers/celan-new/web/text-pages/004.html",
-      "bytes": 82680,
-      "sha256": "5eb038bc133de34b71c833ec6c39ffcb27f0198c05083593f01f9067f56d62de"
+      "bytes": 82971,
+      "sha256": "315bcb286eabed91031aa24f90379b34a3074f15bb4dfcc49e7e63ad5cd244d9"
     },
     {
       "path": "readers/celan-new/web/text-pages/005.html",
-      "bytes": 27538,
-      "sha256": "25edbbaef72be75f264d671821af35b046448626e3d49730c36a9b40d3fcf00f"
+      "bytes": 27634,
+      "sha256": "59ed08b7b62124360a3b4be2f0a4aaaa2e4cddd110391ee5e2515eb4823df7ba"
     },
     {
       "path": "readers/celan-new/web/text-pages/006.html",
@@ -5665,7 +5665,7 @@
     {
       "path": "readers/george-hofmannsthal/index.html",
       "bytes": 65891,
-      "sha256": "69f0a62a675fe8da06df14352f56d07b0e261b4de58cd1ae6ccf9346c966eb69"
+      "sha256": "8a1bf4120973115893297f91b054af8671c03f5e58f8ca09218a7552ad97ad16"
     },
     {
       "path": "readers/george-hofmannsthal/reader.css",
@@ -5694,8 +5694,8 @@
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/004.html",
-      "bytes": 135187,
-      "sha256": "c31edf21a2b645479b5826254b40cd06a096c0ce6ced0f327b666ceaa985dd15"
+      "bytes": 135533,
+      "sha256": "f65a620488fa44c86390315cd64f52ae88a185295f19ff411ef52e29083a1e1b"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/005.html",
@@ -6295,7 +6295,7 @@
     {
       "path": "readers/lasker/index.html",
       "bytes": 62092,
-      "sha256": "4b0e361520938b0c0fe189e9a85de4067f899ff31bfbd6ddd2e9faedd2054e25"
+      "sha256": "90aa55b8e99c85bd244907eaa61276e1573553ee8769ffbb9740058a2dd59b2a"
     },
     {
       "path": "readers/lasker/reader.css",
@@ -6324,8 +6324,8 @@
     },
     {
       "path": "readers/lasker/web/text-pages/004.html",
-      "bytes": 115188,
-      "sha256": "70a27fb0da4b307a67c13215a01c3c8fb632ec48d2733233c23cc1f2928c638a"
+      "bytes": 115515,
+      "sha256": "6d9b05bea758456b86796b4fe7cb66881486bfd8fd6ac1b79efbc389224ba8b8"
     },
     {
       "path": "readers/lasker/web/text-pages/005.html",
@@ -6855,7 +6855,7 @@
     {
       "path": "readers/rilke/index.html",
       "bytes": 51696,
-      "sha256": "482f8dddaf611dd8a2b02223dc6c82f38ab132e75deaf0543d6bf32645100b80"
+      "sha256": "cbf36e8c8f0305c593b7ea50b655c259bb690edb68eeb67eae1971e270f0fbe3"
     },
     {
       "path": "readers/rilke/reader.css",
@@ -6884,8 +6884,8 @@
     },
     {
       "path": "readers/rilke/web/text-pages/004.html",
-      "bytes": 83388,
-      "sha256": "b8de13ec0cc6b3221079894d8b579c809d801115990b8055187bf261b2542265"
+      "bytes": 83678,
+      "sha256": "f2bb68a39669bf1765f2d4dbd3f82423910d9ede78de0a39233e12a4d1f943c7"
     },
     {
       "path": "readers/rilke/web/text-pages/005.html",
@@ -7280,7 +7280,7 @@
     {
       "path": "readers/trakl/index.html",
       "bytes": 50637,
-      "sha256": "6dadcf9afe6bbdc865247c564699fc4f52d86ec38a07838330d159a09caf541d"
+      "sha256": "02a137ca95130aaa5bebb21fe56aef438d4d0af3a982f313b078c01a8bf4eff4"
     },
     {
       "path": "readers/trakl/reader.css",
@@ -7309,8 +7309,8 @@
     },
     {
       "path": "readers/trakl/web/text-pages/004.html",
-      "bytes": 81451,
-      "sha256": "e31699d019e0f5ef8d4f1493b1a4c1375b2dfd7b913df4f486cca3b4008fef6e"
+      "bytes": 81755,
+      "sha256": "c4620f78d88afc35c47ffb7219bd20746f81a9a916d29058c749bf9145c16349"
     },
     {
       "path": "readers/trakl/web/text-pages/005.html",
