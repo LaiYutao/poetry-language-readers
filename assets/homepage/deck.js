@@ -63,7 +63,8 @@
     return initial[i]*(1-early)*(1-early);
    }
    if(Math.abs(offset-offsets[i])>4.5)return Math.max(0,Math.min(1,offset));
-   if(initial[i]>0&&offset<-.001){
+   // Interrupted transitions must follow travel direction, not just current position.
+   if(delta>0&&initial[i]>0&&offset<-.001){
     if(layoutStarts[i]===null)layoutStarts[i]=elapsed;
     const settled=Math.min(1,(elapsed-layoutStarts[i])/240);
     if(settled<1)pendingLayout=true;
@@ -71,7 +72,7 @@
     cards[i].style.setProperty('--deck-content-opacity',half*half*(3-2*half));
     return settled<.5?initial[i]:0;
    }
-   if(initial[i]<1&&offset>.001){
+   if(delta<0&&initial[i]<1&&offset>.001){
     if(layoutStarts[i]===null)layoutStarts[i]=elapsed;
     const settled=Math.min(1,(elapsed-layoutStarts[i])/240);
     if(settled<1)pendingLayout=true;
