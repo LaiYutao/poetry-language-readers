@@ -86,9 +86,9 @@
       "author_recordings": 4,
       "path": "readers/bachmann/index.html",
       "pdf": "readers/bachmann/巴赫曼诗选27首逐词译注读本.pdf",
-      "pdf_sha256": "3442aedca6cbec62b7102520e8b6cfb5a09a1563c5c7affb5ea1982b59e51a03",
-      "button_color": "#827DBD",
-      "page_main_color": "#58557F"
+      "pdf_sha256": "0b3a1cbbe48cb6371ca72ba6ae6f3a0f1903cd180d5a6fa78e2fe68a64fc7d84",
+      "button_color": "#D4A27F",
+      "page_main_color": "#85644D"
     },
     {
       "name": "格奥尔格／荷夫曼斯塔尔诗选",
@@ -110,9 +110,9 @@
       "author_recordings": 5,
       "path": "readers/lasker/index.html",
       "pdf": "readers/lasker/拉斯克－许勒／萨克斯28首逐词译注读本.pdf",
-      "pdf_sha256": "e92884041c118e9ad544ade789dae05636e4a3e31dbb42c2f0f68bd49fb0c1d4",
-      "button_color": "#D4A27F",
-      "page_main_color": "#85644D"
+      "pdf_sha256": "a43d06d974737e9ea067d708634c3cd96d545114b381ebc8a3b976762cec96e2",
+      "button_color": "#827DBD",
+      "page_main_color": "#58557F"
     }
   ],
   "legacy_redirects": [
