@@ -2,7 +2,7 @@
  const section=document.querySelector('#readers'),stage=section.querySelector('.book-grid'),cards=[...stage.children];
  const desktop=matchMedia('(min-width:901px)');
  let flat=false,active=0,phase=0,motion=null,layoutMotion=null,visible=false,userPaused=false,indexHovered=false,timer=null,indexIntent=null;
- const labels=['策兰 · 呼吸结晶','里尔克 · 诗选','特拉克尔 · 诗选','布莱希特 · 诗选','巴赫曼 · 诗选','拉斯克－许勒／萨克斯 · 诗选','策兰 · 诗选','贝恩 · 诗选','格奥尔格／荷夫曼斯塔尔 · 诗选'];
+ const labels=['策兰 · 呼吸结晶','里尔克 · 诗选','特拉克尔 · 诗选','巴赫曼 · 诗选','布莱希特 · 诗选','拉斯克－许勒／萨克斯 · 诗选','策兰 · 诗选','贝恩 · 诗选','格奥尔格／荷夫曼斯塔尔 · 诗选'];
  const tools=document.createElement('div');tools.className='deck-tools';tools.innerHTML='<button type="button" class="deck-prev" aria-label="上一本">←</button><span class="deck-counter" aria-hidden="true"></span><button type="button" class="deck-next" aria-label="下一本">→</button><button type="button" class="deck-toggle" aria-pressed="false">暂停轮播</button><button type="button" class="deck-view" aria-pressed="false">平铺显示</button>';
  const index=document.createElement('ol');index.className='deck-index';index.setAttribute('aria-label','九册读本索引');
  const links=cards.map((card,i)=>{const li=document.createElement('li'),a=document.createElement('a');a.href=card.querySelector('.read-link').getAttribute('href');a.innerHTML='<span class="deck-no">'+String(i+1).padStart(2,'0')+'</span><span>'+labels[i]+'</span>';a.style.setProperty('--index-color',getComputedStyle(card.querySelector('.author')).color);li.append(a);index.append(li);return a});
