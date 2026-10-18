@@ -35,5 +35,5 @@
 /* Compact Chinese paired-author titles in the desktop layout. */
 @media(min-width:701px){
  .series-george-hofmannsthal .book-details h3,.series-lasker .book-details h3{font-size:19px;line-height:1.4}
- .series-george-hofmannsthal .author,.series-lasker .author{margin-bottom:8.4px}
+ .series-george-hofmannsthal .author,.series-lasker .author{margin-bottom:6px}
 }
