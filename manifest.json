@@ -260,7 +260,7 @@
     {
       "path": "assets/homepage/assets/cover-george-hofmannsthal.svg",
       "bytes": 30687,
-      "sha256": "198b3f12c25be9123773dd2876f4d375079c14eab797f6afc1d3651e05ea0d55"
+      "sha256": "f18c7d1d38733ac4cb66ab28b077e4017811959673aad50d71ac2965bc7181c6"
     },
     {
       "path": "assets/homepage/assets/cover-lasker.svg",
@@ -315,7 +315,7 @@
     {
       "path": "assets/homepage/series-cards.css",
       "bytes": 3493,
-      "sha256": "e1ee48adfe29049887d389159ed1a05151fabf18c260eb62456378be59b0b231"
+      "sha256": "b0749d310cb14950b0cef571f05b839dcaf41e38fcdc268d32bd1fdadad5866f"
     },
     {
       "path": "assets/homepage/style.css",
@@ -369,8 +369,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 30420,
-      "sha256": "b5a3d779e082b3c366c1d773bf3931600fcdf71ed39ad1916cdd5317437aeffb"
+      "bytes": 30415,
+      "sha256": "9c07e15127ba5c8418d9dd07c79224c557d44e24fcd6ca91c45bd01dd38101d9"
     },
     {
       "path": "letter-lai.html",
@@ -5664,13 +5664,13 @@
     },
     {
       "path": "readers/george-hofmannsthal/index.html",
-      "bytes": 65891,
-      "sha256": "8a1bf4120973115893297f91b054af8671c03f5e58f8ca09218a7552ad97ad16"
+      "bytes": 65688,
+      "sha256": "a88a058ed4844fe009673bf556f21453fda0493849e0721693b467357bc88357"
     },
     {
       "path": "readers/george-hofmannsthal/reader.css",
       "bytes": 19420,
-      "sha256": "0c4580c28c0e5b257431e5a04906ebb70b6d32dc5bbe44d75fc7c7bc394cb273"
+      "sha256": "1d4fa44edea040b51dedc14e0a3378c08cb13903bffc754d7fceeb19e86021a2"
     },
     {
       "path": "readers/george-hofmannsthal/series.css",
@@ -5679,453 +5679,453 @@
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/001.html",
-      "bytes": 24796,
-      "sha256": "89152d44c585b20cf3e46501207577032e54f05c085649f4e4e38072555fcdd7"
+      "bytes": 24593,
+      "sha256": "5f67ce68cd0f6485aac727ad75afc788e8096fb8dfd4ddf918a55d031883fb6d"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/002.html",
-      "bytes": 53117,
-      "sha256": "27609417a7f0c5299a95b2e829c1bd523ee9e3d1b02e675901b836214d481569"
+      "bytes": 52957,
+      "sha256": "bda75d38795bc4d1d9c06bf8561f05b7c72461f59725f8d32f6652ee8ac278e2"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/003.html",
-      "bytes": 90942,
-      "sha256": "0ed857134da2da46ea685764175d429256d6c9246fdd21bf28037a51ef694c2c"
+      "bytes": 90782,
+      "sha256": "381a0ceb5146a9e1958879123f71a1103cb202e30cd5926b1ff96451ec1d6cb9"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/004.html",
-      "bytes": 135533,
-      "sha256": "f65a620488fa44c86390315cd64f52ae88a185295f19ff411ef52e29083a1e1b"
+      "bytes": 134683,
+      "sha256": "51a7fd5b3097fe109fa3fa0b5486b206889f6482279d5fcde86174143731249f"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/005.html",
-      "bytes": 203023,
-      "sha256": "4a25c35838667cfabd1c9fb94df7f5afb8fe7fb5c9404a8d9fa0145242648734"
+      "bytes": 196078,
+      "sha256": "4644774bbd21941dd732be3c8adbe57aa89d4e4d5aa3035476eec751f67bc31f"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/006.html",
-      "bytes": 139867,
-      "sha256": "3352566f72b9a279f7084fd70d6bfc146ce5b1ce016c434616aa74a2f1eeed59"
+      "bytes": 139155,
+      "sha256": "df81bac37335affa5d0fee24fe9f58ae32d01e83a4742570857c8c090833347a"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/007.html",
-      "bytes": 210485,
-      "sha256": "fd4da92ef18e2c7549c22235d34750d9977cb7b173b5b340da7e3a9af6823898"
+      "bytes": 201608,
+      "sha256": "bbf780a0ecfad4799dba9a7383c3ee79f91ded3edc508dcee2fad76c1355c6d1"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/008.html",
-      "bytes": 182026,
-      "sha256": "f194616d923bb9b24233012a523b27abf6f40ad2b374b406ed596fdb41e32ac2"
+      "bytes": 181084,
+      "sha256": "0df03387b14c3d653ae81dd38264f7bdcc9c1ff3213bebaf4873cf73239b5c87"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/009.html",
-      "bytes": 211127,
-      "sha256": "25d8950aab8927cc2efe89f601498d50a1cfecb984f4884bac2fdd1ac7278af1"
+      "bytes": 203193,
+      "sha256": "80b77caddc98a4eaad65aefe9d93b29a0f727190b978dbf55e1728092825cbbd"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/010.html",
-      "bytes": 121120,
-      "sha256": "a13468618370a1d9e1da4f9c8fb0de0ef1f44614f2ec13cc40be18d373f58e2b"
+      "bytes": 120178,
+      "sha256": "b6847b4eefa113f78b20f875e3f7e34f92d3c9499db2060a14f6a401e418d480"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/011.html",
-      "bytes": 219378,
-      "sha256": "8b03852fd8802635bf819f2b55db0873027879f1fd316a34d580c90c8dd3461e"
+      "bytes": 209236,
+      "sha256": "0dcde7d6ef2a83c4eb2d3476276ad8c73ab5b75c607454f1f2a0455bac180419"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/012.html",
-      "bytes": 100564,
-      "sha256": "5c0fe587380af4b608930f6db1e896b703b1df059394122da4b4ee354cab9c71"
+      "bytes": 99714,
+      "sha256": "d5a1303c6ec7f7f398f01afa665cc8b3c93eb2a91f3b3552e67920a18eb15fa6"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/013.html",
-      "bytes": 123306,
-      "sha256": "ae2321a95bfa66c4a59e6caa48f94e73247b4e9d3e834e53568ecec28689288d"
+      "bytes": 123123,
+      "sha256": "59b5085b177eabba0288883e746bb2d219889270f8cd17631b3d5d153b50676e"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/014.html",
-      "bytes": 222608,
-      "sha256": "8e845185e36f200d7d59ae66e2933ad8cfd0cdb7e02a7fc3b8b97a600d888cd6"
+      "bytes": 212650,
+      "sha256": "a5cc4c59deb29092bb98ae9671da0d886c8a49d5fea2b3835a88fdfbd20a9aa1"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/015.html",
-      "bytes": 111837,
-      "sha256": "55b026a9cb4f8a2832dc9a103cd46f09d30be68bb710c80ebdcdeda520dda4f9"
+      "bytes": 110734,
+      "sha256": "0e419dd91ef919a5a10fd4a607b08802da47617ad6e20c3f585976443c83cafc"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/016.html",
-      "bytes": 89995,
-      "sha256": "3985a60834fa51b9a88058d8d82cc307546d549bb17eed9555536ffd521f8389"
+      "bytes": 89812,
+      "sha256": "6cf9e0d8a3a0f0d1c7fe3e5e2fdca915f8aa4708f6547599f7daf35cb21dfefa"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/017.html",
-      "bytes": 121937,
-      "sha256": "cfeb3769eabaff4e737ae503a97fb70909f1ebcc5c71df3c319d6a9441cd4053"
+      "bytes": 118488,
+      "sha256": "cb8c2daff423d29e401044aa079119cc177bf479c9a0d0d30486706390fd6bf2"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/018.html",
-      "bytes": 67876,
-      "sha256": "9290a29ae155d5def4dd765048c959da21dea51a628817ed5cb0f6970577018f"
+      "bytes": 67693,
+      "sha256": "87b61308e10817004f5ae65c2d46f2203b7c9a85a7419e4639f23fec2966af04"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/019.html",
-      "bytes": 97630,
-      "sha256": "5f4101cf24e85d9a905fe60ef34f7a4104ddcf6ba646a5374ed4baafeb96d008"
+      "bytes": 93997,
+      "sha256": "4af22097e776b6e3d8ca2a59d0ef0de845e20db8fe30a4aaaa582220678edef7"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/020.html",
-      "bytes": 118031,
-      "sha256": "d586491c03e32870e42beb2daa74f2f9454ceeac51d6aa037de90b4776749272"
+      "bytes": 117112,
+      "sha256": "7d814f05ae1f093234c71bdbf2751d8699c5cbdac03981a84c480c13cf0545c0"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/021.html",
-      "bytes": 112500,
-      "sha256": "58d085c5640584819f941a97e7bfeebe3144f542de4f77ea63eabb04b2a1dbfc"
+      "bytes": 107579,
+      "sha256": "f913e91b8488b592833e5d5ce2a494faac68a38a24e8ba77fee7ca39d39f72fa"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/022.html",
-      "bytes": 101473,
-      "sha256": "6894d1e8bac9d2b450aa54d38def0538f167923a9549d14c3606fedd17b72c82"
+      "bytes": 97104,
+      "sha256": "c90f5d4ccc97b62daef8d73a827bba2652d6e12cb2550a646f87574244fc2d48"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/023.html",
-      "bytes": 97956,
-      "sha256": "0775e30cc6d5ff9fffd184918fe4b331883012ed5395df8ba2331578b7e37b77"
+      "bytes": 96876,
+      "sha256": "3e5224d8719d978224730a7aac2663a0c1c45de46aee6b8825b62d945fa0d069"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/024.html",
-      "bytes": 90763,
-      "sha256": "298d3973a654ee0b9b6035686b19b8fc68e468e8a3ab9c7cde2d5390d1832899"
+      "bytes": 90580,
+      "sha256": "73ff680d3d15bf175e413e095aa1ea26db01f07e213048af90951d08c815ba8f"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/025.html",
-      "bytes": 191800,
-      "sha256": "649588eba1136683b3df74bc92880ed64ff976d8aaf0d1b69e8f79d6ddea5ae9"
+      "bytes": 183061,
+      "sha256": "a5466bc756da43b9be3e34f6f2c6fe33f28b16659fe3b3fe22c3254f5b3589b7"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/026.html",
-      "bytes": 174343,
-      "sha256": "92be8417dd28707c7b92632ca1c0abe875eaf9a00dc1b56e1d29ff3db870b993"
+      "bytes": 168962,
+      "sha256": "0febb441bed6379ce47c208101d2699538fdeb8c9b329a7c48ab5116ce7ddf57"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/027.html",
-      "bytes": 87916,
-      "sha256": "e63d54a327f6789ceef9d52887de6fcea1cbcd5d85ec3b4361ba86cdb796d7c9"
+      "bytes": 86767,
+      "sha256": "08b255b95b0346ff4812120c29c717dc4eb3718df0aba5f094ba24380a3c1e40"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/028.html",
-      "bytes": 128626,
-      "sha256": "b76b726c50d31100f1b58bd501ce97ab61820a5ca7bbd9ef91074ad46880f5e1"
+      "bytes": 128443,
+      "sha256": "aa9f3b11b37dd9b7bab28a4d89bebef2da2d2c61a2fb1e7c85e80634f2583f46"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/029.html",
-      "bytes": 136952,
-      "sha256": "a506fe433755e650815c084fb4e1221caf5754a649bfb0033d7f8da5219187a6"
+      "bytes": 132744,
+      "sha256": "18a7f5dcd752b6cc25e4478b6db5ce9aee6db8701bae56e678ce940f1b1bbef1"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/030.html",
-      "bytes": 85923,
-      "sha256": "083ff264a4c2661fabc161e76883ae07e1a3ee92927140e668beaee1a6522f0d"
+      "bytes": 85740,
+      "sha256": "ad5f170dcc575769b7d4f66824d6ad40bae6373b55db35ed4085f5ad8dcaaa2e"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/031.html",
-      "bytes": 200852,
-      "sha256": "f023035e17c1b387034f86b9cc0a31ce86e04ce1ebb07e781244fbf2961957f8"
+      "bytes": 191952,
+      "sha256": "738a5125e911706cfcb1d888d3cedc87b352b8bb877edfb74bd9f87434b59dd8"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/032.html",
-      "bytes": 149293,
-      "sha256": "e559f9d7b9c54a675399b81004c64503e4a4a73da51772f523da43e32c8c8c66"
+      "bytes": 148282,
+      "sha256": "8743725e849172ae95616e073cd9105b709534cdc247ea5f92100e6a0b22ac18"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/033.html",
-      "bytes": 180215,
-      "sha256": "06eb324949bf8c6ea5f76a148cbe1a41ec4ac59ada5dc8808d3d5ca122c2831c"
+      "bytes": 172120,
+      "sha256": "1b3e2dac3eb09f72ad0299106abb1d51c25e0d1ac15cea8edfc0c39b35a9979e"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/034.html",
-      "bytes": 78940,
-      "sha256": "1c53f40d59142503e62b802f871d7c365ed7dacf2e4bead36c2aa10e57cf2fd6"
+      "bytes": 78090,
+      "sha256": "74fac2e8d9366643783edf32e8aff7e9d6867d5c140f93e073f504cea503c977"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/035.html",
-      "bytes": 95690,
-      "sha256": "17bf86e6337938578255819abb28c54756e635403be112bbdda6626f89a0dc10"
+      "bytes": 95507,
+      "sha256": "39d40613312f00381979eb5aa1abbcb4a785a44384d586040fab58a1e524b6a6"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/036.html",
-      "bytes": 217125,
-      "sha256": "81bf4b074b9538070a1435381e128c1d48ff0177ed474e4b637358e3d884cc9d"
+      "bytes": 207972,
+      "sha256": "7f2d628f1763b94369fc902776e0b5b2df864aa7ca0e2529965272a635f9f995"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/037.html",
-      "bytes": 158523,
-      "sha256": "f9da30a2863e47c8e1ae802c26fbe190c255329cc0f5f156fec2005d83c62ea9"
+      "bytes": 156914,
+      "sha256": "ea6955f1a16547e419ccdcf131c1760c893078e6b0c91f99b9350ba95591a8a2"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/038.html",
-      "bytes": 113889,
-      "sha256": "0053b3bc36303ca6a4d44579e0778f620d13cd4121d9a88e869c15c2d224ebf4"
+      "bytes": 113706,
+      "sha256": "cfd5145080f1a4cc21fbd6f4e1e1229f09204674dfc673b10613b76ce3c22c3f"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/039.html",
-      "bytes": 246739,
-      "sha256": "196c0cba9b3869ab632ed61732ddacff0b6b1463dc7ecd4f772e594328032b86"
+      "bytes": 239909,
+      "sha256": "7074b51962d2ee9e7f45b7cd60009203d75f5266c189878d70ac4beef5e7380e"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/040.html",
-      "bytes": 84888,
-      "sha256": "0a1f511692748029520c9bea4f505b5f4a516cbf05524d6e2ccf73c8be5da459"
+      "bytes": 84705,
+      "sha256": "b703b67e89a24a015de230383eda00830d78a6e891eb6c1848ef60317f78cb6a"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/041.html",
-      "bytes": 145595,
-      "sha256": "7e20967983819c992a9ac02dafb4048303789cd3d816baad8114e17b5bb03e63"
+      "bytes": 140375,
+      "sha256": "b318bd35a7c0d1a092e8ef1430ae8f81834a26c2b73356c218241c22667d59c5"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/042.html",
-      "bytes": 175144,
-      "sha256": "36b28eca5cf42240d07feb4690168179f00dc95f916dbdf0d26f4099d7805ed6"
+      "bytes": 173535,
+      "sha256": "887e3be4657d43b457a9861d6a51a6649c914031dcb293e30b9a11252609b288"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/043.html",
-      "bytes": 217663,
-      "sha256": "92027e0886bd9f7ac477b3540e1a95196f4e3dc8fa156d5e8e1d52ceaa67bd23"
+      "bytes": 208464,
+      "sha256": "2eaf8da81d39bc3f9a39ce3a8e66cb8d239c80d46a0165c7a876c67f31ef3969"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/044.html",
-      "bytes": 205684,
-      "sha256": "5ce824945cec8d514d0faac9b9facc0b4f8a253568c85da2b75b103ca7ad4d20"
+      "bytes": 200418,
+      "sha256": "7fc9e1034c9204272cd61c18f7c0ff154b2f9b3662cdd719d91fa207a023a880"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/045.html",
-      "bytes": 138486,
-      "sha256": "a9e927d1aaa61d682b8c64ef3a2394bcf6154ae3e41c28e10bd332a97a15ef5c"
+      "bytes": 138303,
+      "sha256": "165af17a874020ead897b52bc03b445bfcd18c9579ed6671a2e36c5e945d1069"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/046.html",
-      "bytes": 205646,
-      "sha256": "e4604bf41322f509ceaaf5a33e2139fdb33c373a67fe30056abae5dbfad8e84c"
+      "bytes": 197022,
+      "sha256": "a543efaafbcd2b36b4a3a9429402bf7022365a44b0b988003ffac577861406ae"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/047.html",
-      "bytes": 107313,
-      "sha256": "2897158953bbdddc3eee5e8d9f8bfa1046c0490b2668ac4d2a9f1eec9a13fe64"
+      "bytes": 106256,
+      "sha256": "7a0ed3d7380788f83a8a850eed00c5f42b2664561d0bae3b31e05cdce92c1d1b"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/048.html",
-      "bytes": 116171,
-      "sha256": "78d5025650ee263893dd834a6a8b426785524efd3d94f3698c1358f3156985f3"
+      "bytes": 115988,
+      "sha256": "6bc3212a0f0dc565e03356ba7c445f277b168e34cb793447a9d4679d2fd18c81"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/049.html",
-      "bytes": 178620,
-      "sha256": "d2f1485aafcf9b92149167230510dbac8bcf29f0f224d466432e5eb383495d9a"
+      "bytes": 170916,
+      "sha256": "5699422e2f48b1561efcd807a78a7d6187775f8aefc70871185b573c9a585c6c"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/050.html",
-      "bytes": 143671,
-      "sha256": "8ae02274a7897d9b65f277e8bc3b9099a061014fabd9b12b622c0362d09da536"
+      "bytes": 139256,
+      "sha256": "f892bf831712713e90e9f2fc0cd0b8b2b56b2bcb4fc273a72e4e629ff8b98dd8"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/051.html",
-      "bytes": 159077,
-      "sha256": "9a1c9c404b748eac88817911052789090a399ede75492fc4cb3ca28ff84b3fc4"
+      "bytes": 157951,
+      "sha256": "872932e728964f7f8d065c133dfe6009ef5db1bece4861206fc7ac1ce17302a0"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/052.html",
-      "bytes": 161115,
-      "sha256": "46d0194493504396b45c5ba05ca7d13807021c4ec190f226cafc42e2269a3af9"
+      "bytes": 156309,
+      "sha256": "57d50e694dde9944ba18f2b2abd277559b675d89936fb37006727ebeb71e4d5e"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/053.html",
-      "bytes": 84940,
-      "sha256": "676ab326bc0ed3b357cef93cbc01dfe6511bf1a9b178cb7517a7ce9da1061a50"
+      "bytes": 84757,
+      "sha256": "fb0005cf8afe8a1ea08c90b957c01bbb76414f72681f37365e18efced8c812a0"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/054.html",
-      "bytes": 197225,
-      "sha256": "2234f793b5dac2e3da2ecc054446f6880b6f6e069d475e9a302f401baa6af88b"
+      "bytes": 189705,
+      "sha256": "ca8ddb81a09d50ead6be1bc3cf4c3d35620060340b33e59ae44d287184173f3b"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/055.html",
-      "bytes": 132270,
-      "sha256": "68b64d860400ab9b05a640abe13ae51dab5a99102156d20ea5969aa76b90eb1b"
+      "bytes": 131420,
+      "sha256": "d22c393a3ce785c7065036d1c6293717c0f29f8fc740864d558ff5ff0dc6c810"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/056.html",
-      "bytes": 224737,
-      "sha256": "712e50f73f642d8f33f73b0718c029abe763a99628fbd0bdc9e089116c3f31c3"
+      "bytes": 215285,
+      "sha256": "930ffeaeaba3a95d59386cb38420a5b10fd099c6feacae93c9282de4c95e6648"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/057.html",
-      "bytes": 112795,
-      "sha256": "87e1c2f658c5e66c33c76e1c4c1e3abc55d14feb98689b0698c53ce02e6beee8"
+      "bytes": 111830,
+      "sha256": "38733397d01990863e42708e1801111e510b0e44c6a89a1a21cc2f2f5e835f8d"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/058.html",
-      "bytes": 109658,
-      "sha256": "cca0bb7ee380d0758caf01ee0470092c6a0d5d8be947e3c2b40e95397ed15394"
+      "bytes": 109475,
+      "sha256": "ea6063815447e31e9f6343b6fb13d6e34ece9b26567cadc6d8515744891d4904"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/059.html",
-      "bytes": 227787,
-      "sha256": "34133548eaf57a14b0926e83385c5c2898d9e9304333c78230e256704b732eab"
+      "bytes": 218404,
+      "sha256": "c468727cd45d86ed8ea1bfef1d9fd9a59f91b3620ec708ea1a45b1aebf4a3c56"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/060.html",
-      "bytes": 156700,
-      "sha256": "dd632d8b462c7571cc80d0a3394192497a9f691d13df6cac4f88ea9af7e294e7"
+      "bytes": 153481,
+      "sha256": "892bc1c9c205ed8527d02614c834d40059ee4eb8ac7c746425fbada501cbbf6a"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/061.html",
-      "bytes": 97803,
-      "sha256": "ca07ac59346e12620786c34fe1a8487e731be54d5d868f8f42404bc80b73b03b"
+      "bytes": 97620,
+      "sha256": "7286fb9cefc1eabc312a9b33bc4e6bab71c20cb7c9a3104c0f4cd5f88a517304"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/062.html",
-      "bytes": 250407,
-      "sha256": "d35f35f00941051e15b4336e398f4e062e15168be8349fbc3ad01f1fb8b93251"
+      "bytes": 240081,
+      "sha256": "b0d0b172f524c2acb141e5441a65e1bc847212f0f267993a20195928bb419e1a"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/063.html",
-      "bytes": 160439,
-      "sha256": "1a4f7c2e12b8b6ab65823c14bae358c991c9b04e21292e98e4945c7e518c47f9"
+      "bytes": 157312,
+      "sha256": "47d5f575a648dc8be44cf2b73d25bf824ef0f75fccefb57dd417d7846f20b8e5"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/064.html",
-      "bytes": 110721,
-      "sha256": "69062e9d5f5559a1915b9c47e505f65fec517b2d28c74bde30ed03e0d554b16c"
+      "bytes": 110538,
+      "sha256": "2df359ef222c64ac62f1e5f55e2a33ca6339e41a997f041d26142af8015b968d"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/065.html",
-      "bytes": 252996,
-      "sha256": "9bc6823a6109182f7bb692ead30171910ee4a2f232110955ff924d51e989ae62"
+      "bytes": 243383,
+      "sha256": "d6e4325682b696541f55ef0f489f44b0f7aaa1c93138bd948288cf315296cc8e"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/066.html",
-      "bytes": 158605,
-      "sha256": "07323082aa0f7a707b12ffaa483a130e154475ede92179227d6fd6aed34d1a13"
+      "bytes": 157479,
+      "sha256": "040c0a2ff7a826919db2621481e9a65d40fe555ececb30ded104b02c437612cb"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/067.html",
-      "bytes": 135639,
-      "sha256": "60e727fde0a6418034d7bf9c37a7bf1281513ff07309e398296dff079af6fc4c"
+      "bytes": 131730,
+      "sha256": "cd34a8bddd123e88587c5ad995233a99b2a1393faa55cec145e24aba177a44e1"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/068.html",
-      "bytes": 76793,
-      "sha256": "9475920d64bf0501f6bfe56f9e26c16e616e4b0e3da1132b59f56b5a7f9e4db3"
+      "bytes": 76610,
+      "sha256": "3d53f50c358320685aa60aa5b6fd7d94c4758ab6a8d316761bbbab7f73a2c4e0"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/069.html",
-      "bytes": 208420,
-      "sha256": "4100a108ffbd057e39b38f8070d46ba9e05473945083a38603a3280a6ee60a82"
+      "bytes": 200348,
+      "sha256": "355dd7676f604892197470b74fc4020925b32a8a815cfdb6c82ced2ff0ba55be"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/070.html",
-      "bytes": 137261,
-      "sha256": "fcd1f80ba9938151aff194a3a90276e2193a0bed1e16c2226ee79e30d69360a7"
+      "bytes": 136204,
+      "sha256": "2900a996847b17bf8a1aafbd5608456cd5dcd7f42f3945179d9b2a3bebd4dd22"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/071.html",
-      "bytes": 116701,
-      "sha256": "a91b065f4b035ab133fa3338be9ae181c21a685652e132b8795b81b10b0704d5"
+      "bytes": 112033,
+      "sha256": "cbe9608348cbea0433431e4216469a4c2664db9702e2ea83a0cf7de70997be5a"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/072.html",
-      "bytes": 136007,
-      "sha256": "7dc22af8b1f95e1ea937be8a19528977b42a6137808f8fa362ae4e44b87b4676"
+      "bytes": 130373,
+      "sha256": "b7d6cd0d55420a2018d43120c75c06bf4690af4cd0b097348dbf4cb76dbb7ec9"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/073.html",
-      "bytes": 104636,
-      "sha256": "c47cb423910e7b0001259258d8cdd5db53e3e9f7135ef266968f6095710182ca"
+      "bytes": 103533,
+      "sha256": "b6645a502425dac570b44bdfdcb686a6715a66c6e050ad4308d3dcf5e763e553"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/074.html",
-      "bytes": 115243,
-      "sha256": "d52a536620335109bdbc44a5014776d21527786f37eabc4e58eb2228d00a5591"
+      "bytes": 115060,
+      "sha256": "a2476afe13eecddc732b3280b1b3b062cb1b9647f9cd612bcd4bc859332c9b51"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/075.html",
-      "bytes": 269777,
-      "sha256": "54e0e472754996fc05090e1fb490fa32457044779a7569c75ee338e70bbf9057"
+      "bytes": 258232,
+      "sha256": "fc1c6e7ef9a5e40ce74e02b3388cbf8132b7648252ac33a7f41c4cf5c18f25d4"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/076.html",
-      "bytes": 207808,
-      "sha256": "3db2107c8e858f2d64722e805cb134eb4ee3f7ca730427f129ba5d27ddfad326"
+      "bytes": 201875,
+      "sha256": "9533782293f6b45ae6c01c9cccddc532d71320edb6e6a7bc88ae7b035cbba35f"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/077.html",
-      "bytes": 176002,
-      "sha256": "ed7af5532082a5b84f9103d94ca7e8a6625859b457bdbfe5ba15958e28ea41bc"
+      "bytes": 174048,
+      "sha256": "cd6c1601a3a7190b1f3c41d528dd40d94ed32f8ce61eb5eee26ea2737c3571ce"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/078.html",
-      "bytes": 103259,
-      "sha256": "cbda144008f9fcf8ee33ad40cb2dba7b1466d27f9468580b699c04c5444fdfe0"
+      "bytes": 103076,
+      "sha256": "044af8dfe65972181fe5948282e7e2354585a288eea6ce836281b1d02cdd8a47"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/079.html",
-      "bytes": 195511,
-      "sha256": "bb0d4a4d7658f16a86a1b6a5c4e0f12c6bfa81c704b7595e3c2de267b2275c53"
+      "bytes": 186818,
+      "sha256": "237945ef1226d0be61a7844be340166e76376ca4f935197fa017b5a940d694f2"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/080.html",
-      "bytes": 159620,
-      "sha256": "9738724a2ef0cbcfb0a4bf17266a33398da8927df588307330716e3bec94060e"
+      "bytes": 158057,
+      "sha256": "78bb4192e46e6ba4db5a82151f90392d36a48eaa5504a031a5cd097a56e95584"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/081.html",
-      "bytes": 83651,
-      "sha256": "5d311eb01501bd6f733846e17b597ff522786eeab70c9463cdd8bf34d89ebc46"
+      "bytes": 83468,
+      "sha256": "b3b8d8209fb2a1fca61792cf9189d2efd8a2a7aac78bd6acc4669caa50231b4e"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/082.html",
-      "bytes": 149528,
-      "sha256": "aa22d1f8e409e413f2a96e763d1113b36b855944dabc5d9b64a3204f764e70c0"
+      "bytes": 143319,
+      "sha256": "aaef3b3ac0ca811a37b824ac689e08512bcd1779e4391b92d12f1feb236a4585"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/083.html",
-      "bytes": 173212,
-      "sha256": "ac95274a8881ce870e4cde8a31b2d3f71c5a7156293ef1a045351a30b00d2d25"
+      "bytes": 167854,
+      "sha256": "2cf6df7935dd6cc30a5583b1d24462ee3dc014b7b6801f0d56f9af4944d5eaa2"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/084.html",
-      "bytes": 172041,
-      "sha256": "4f545bde8ae7a569bcbbc137e2462ca82fb893a183d2811712954125984770d1"
+      "bytes": 170018,
+      "sha256": "efcffb9068ca49606a64181200663ffda4236953d9df7b17846f750d37f70bc0"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/085.html",
-      "bytes": 114071,
-      "sha256": "b9a020cb93e53340df2d156ac32a8acb411945a08327ccb11b0e6632c89c4849"
+      "bytes": 113888,
+      "sha256": "7e9a60910110f8c64821fb2aa5c674eafe872e2dd12a34d28acead36b3dab827"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/086.html",
-      "bytes": 163243,
-      "sha256": "f7cfee8096573b1367826ca7342fee044eb3935d0084cf2ebcc06c50c77937eb"
+      "bytes": 162232,
+      "sha256": "790666c1ab143b84d580bdf04f2e65e1c71b2fc775085623e452a1f232a155e1"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/087.html",
-      "bytes": 132069,
-      "sha256": "86a0ec2cc23fafc3889681cb7c8ea3fb13e6dc73fb3f56014fdce5ce8bed3bb0"
+      "bytes": 130805,
+      "sha256": "dd5a46fe95c4b685079b583bcc7aff8e115bccb6bb0ccc0cbcf6d7a9764008a2"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/088.html",
-      "bytes": 104846,
-      "sha256": "e0a3a1865cfb1ba37c770e7e29ca0efa27e769310778694ee4d532e13d6a7f85"
+      "bytes": 104548,
+      "sha256": "5c5dc5f0d7ba6b5d91bbaa6c3e59394340c8d08716d312c856c59df8747b03c9"
     },
     {
       "path": "readers/george-hofmannsthal/web/text-pages/089.html",
-      "bytes": 44372,
-      "sha256": "05ea4371d6008a76cd00c565a518b5955cae0765e249e808687e9dfebac27a0c"
+      "bytes": 44051,
+      "sha256": "cef86ad75b03cbec011bbe98654cae6ade1e741391039f51fe588d829f3c151f"
     },
     {
       "path": "readers/george-hofmannsthal/格奥尔格／荷夫曼斯塔尔30首逐词译注读本.pdf",
-      "bytes": 1038300,
-      "sha256": "8cf19fabed4c842a444b7d51c29845cc21268ed66398d236ad5860fd3d8ea4f7"
+      "bytes": 957708,
+      "sha256": "1cbe31ce39a71cc54712a7c13f282ed336026f717c4917b6cca20ce3b8930b17"
     },
     {
       "path": "readers/lasker/ReaderSongBold-58474876e854.woff2",
@@ -7550,7 +7550,7 @@
     {
       "path": "release.json",
       "bytes": 4608,
-      "sha256": "4010c3063e6916176b54e5dd53b81bf19e30aa1cd09c09d58b55559d9cedfd1f"
+      "sha256": "6e9a4177ba0a2e17be31f2a3cdc4c1d98c81bb30c144bd30934de465ecab6679"
     },
     {
       "path": "templates/语法手册项目模板.md",
@@ -7662,9 +7662,9 @@
       "author_recordings": 1,
       "path": "readers/george-hofmannsthal/index.html",
       "pdf": "readers/george-hofmannsthal/格奥尔格／荷夫曼斯塔尔30首逐词译注读本.pdf",
-      "pdf_sha256": "8cf19fabed4c842a444b7d51c29845cc21268ed66398d236ad5860fd3d8ea4f7",
+      "pdf_sha256": "1cbe31ce39a71cc54712a7c13f282ed336026f717c4917b6cca20ce3b8930b17",
       "button_color": "#F0AC54",
-      "page_main_color": "#896334"
+      "page_main_color": "#92702F"
     },
     {
       "name": "拉斯克－许勒／萨克斯诗选",
