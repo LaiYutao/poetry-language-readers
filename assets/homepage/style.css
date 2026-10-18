@@ -163,3 +163,6 @@
  .book-grid .book-details{padding:7px 0 8.28px}
 }
 @media(max-width:360px){.book-grid{margin-inline:-5.4px}.book-grid>.book{gap:15px}}
+
+/* Keep desktop section navigation smooth, as on the mobile homepage. */
+@media(min-width:901px){html{scroll-behavior:smooth}}
