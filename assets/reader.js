@@ -62,11 +62,13 @@ function loadGlyphs(){
 }
 const pendingPages=new Map();
 async function loadBookPage(section){
- if(!section||section.dataset.loaded==='true')return;
+ // Inline sections such as listening notes are not lazy-loaded book pages.
+ if(!section||!/^page-\d+$/.test(section.id)||section.dataset.loaded==='true')return;
+ const number=Number(section.id.slice(5));
+ if(!Number.isInteger(number)||number<1||number>bookAssets.pages.length)return;
  if(pendingPages.has(section.id))return pendingPages.get(section.id);
  const work=(async()=>{
   try{
-   const number=Number(section.id.slice(5));
    const needsCommon=!bookAssets.commonPages||bookAssets.commonPages[number-1];
    const [,text]=await Promise.all([needsCommon?loadGlyphs():null,fetchBookAsset(bookAssets.pages[number-1])]);
    section.innerHTML=text;section.dataset.loaded='true';section.setAttribute('aria-busy','false');
@@ -110,7 +112,7 @@ window.addEventListener('hashchange',loadHashPage);
 loadHashPage();
 // Let an initial page bookmark scroll before scheduling neighboring pages.
 requestAnimationFrame(()=>requestAnimationFrame(()=>{
- document.querySelectorAll('section.page:not([data-loaded="true"])').forEach(page=>pageObserver.observe(page));
+ document.querySelectorAll('section.page[id^="page-"]:not([data-loaded="true"])').forEach(page=>pageObserver.observe(page));
 }));
 
 const media=JSON.parse(document.getElementById('recordings').textContent),audio=document.getElementById('audio'),status=document.getElementById('status'),seek=document.getElementById('seek'),clock=document.getElementById('clock'),timeline=document.getElementById('timeline');

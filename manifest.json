@@ -324,8 +324,8 @@
     },
     {
       "path": "assets/reader.js",
-      "bytes": 9467,
-      "sha256": "cdb6f86f0f6f08b07ac2836fa027fb9dbe74b6843b603ccb545bbffcc37a316d"
+      "bytes": 9666,
+      "sha256": "5023ce25951fd2080def4c3bcda8ad9fda5a2b0d0988feee14376e478ac5454e"
     },
     {
       "path": "copyright.html",
@@ -2560,7 +2560,7 @@
     {
       "path": "readers/atemkristall/index.html",
       "bytes": 55568,
-      "sha256": "49e1c922e88981cfa9b123dcca98ee587eedd3e1bfb828c8c022fb6cfa9033f3"
+      "sha256": "26263af0b1f3e9eaafb1a609685e0fdf02f369b79ad92f9f2de08a011c1b170a"
     },
     {
       "path": "readers/atemkristall/reader.css",
@@ -2995,7 +2995,7 @@
     {
       "path": "readers/bachmann/index.html",
       "bytes": 65225,
-      "sha256": "3567e7bc8599b1ef828088f2f4127af59215262c4c3dc15ee128d760d2ca8fa6"
+      "sha256": "b8bce7ac5afd346ee98ab2c6bfeddf41b11aa7fdb9c46e64616e373d4c1f689a"
     },
     {
       "path": "readers/bachmann/reader.css",
@@ -3690,7 +3690,7 @@
     {
       "path": "readers/benn/index.html",
       "bytes": 57732,
-      "sha256": "6dff7e0464e9f57eade708d89e62706bf2c420958b76a0c885d60aca0966ba54"
+      "sha256": "94e4407430b5bc2ba4fa48c0e8fca4db8ad0dad6530f53616a7ff49914ef64dc"
     },
     {
       "path": "readers/benn/reader.css",
@@ -4255,7 +4255,7 @@
     {
       "path": "readers/brecht/index.html",
       "bytes": 59406,
-      "sha256": "3cb94bd51d2c31ac9d891fe9367dce448034499533a6c20b8a272ef03a1f08fe"
+      "sha256": "fb79ee18be792cff46ddc311f47ff1008886614abbf1c10b44e792d668eba97b"
     },
     {
       "path": "readers/brecht/reader.css",
@@ -4870,7 +4870,7 @@
     {
       "path": "readers/celan-new/index.html",
       "bytes": 70428,
-      "sha256": "b2af4d3bcc777a57e81a55f33b8c4d2962e61b5c54be70e7d60c45318bbbeb88"
+      "sha256": "8b498374659785e7a92772abb08e132d7c65e36fd0842db54ec6765bccb04771"
     },
     {
       "path": "readers/celan-new/reader.css",
@@ -5665,7 +5665,7 @@
     {
       "path": "readers/george-hofmannsthal/index.html",
       "bytes": 65688,
-      "sha256": "a88a058ed4844fe009673bf556f21453fda0493849e0721693b467357bc88357"
+      "sha256": "d81b1681299a298c1692049720f934aa66ee7ae4424d14bbd6fec7660b072b50"
     },
     {
       "path": "readers/george-hofmannsthal/reader.css",
@@ -6295,7 +6295,7 @@
     {
       "path": "readers/lasker/index.html",
       "bytes": 62092,
-      "sha256": "90aa55b8e99c85bd244907eaa61276e1573553ee8769ffbb9740058a2dd59b2a"
+      "sha256": "46544389cc5621f7b73c366c84b8f3565ce075804017a1b58fb887d1d2410a70"
     },
     {
       "path": "readers/lasker/reader.css",
@@ -6855,7 +6855,7 @@
     {
       "path": "readers/rilke/index.html",
       "bytes": 51696,
-      "sha256": "cbf36e8c8f0305c593b7ea50b655c259bb690edb68eeb67eae1971e270f0fbe3"
+      "sha256": "482ff60d1f7f7c2714c79e34c84e88ffebb74935a6b1e4dd04fabf87bfcc2c60"
     },
     {
       "path": "readers/rilke/reader.css",
@@ -7280,7 +7280,7 @@
     {
       "path": "readers/trakl/index.html",
       "bytes": 50637,
-      "sha256": "02a137ca95130aaa5bebb21fe56aef438d4d0af3a982f313b078c01a8bf4eff4"
+      "sha256": "ece3037c8ed936160ba716ca1133b71d24edea35a3aa89a94ff312965657000c"
     },
     {
       "path": "readers/trakl/reader.css",
