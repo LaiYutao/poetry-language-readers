@@ -2559,8 +2559,8 @@
     },
     {
       "path": "readers/atemkristall/index.html",
-      "bytes": 55568,
-      "sha256": "26263af0b1f3e9eaafb1a609685e0fdf02f369b79ad92f9f2de08a011c1b170a"
+      "bytes": 70869,
+      "sha256": "a9bfa86ab776cd00479dd4c9040607687702473f1a9316c23c44c98fd0831c5d"
     },
     {
       "path": "readers/atemkristall/reader.css",
@@ -2994,8 +2994,8 @@
     },
     {
       "path": "readers/bachmann/index.html",
-      "bytes": 65225,
-      "sha256": "b8bce7ac5afd346ee98ab2c6bfeddf41b11aa7fdb9c46e64616e373d4c1f689a"
+      "bytes": 84437,
+      "sha256": "e73df814c270d3276a45c5b99d81997b5afb2a325c8af349cdb395fb4a5848e8"
     },
     {
       "path": "readers/bachmann/reader.css",
@@ -3689,8 +3689,8 @@
     },
     {
       "path": "readers/benn/index.html",
-      "bytes": 57732,
-      "sha256": "94e4407430b5bc2ba4fa48c0e8fca4db8ad0dad6530f53616a7ff49914ef64dc"
+      "bytes": 75759,
+      "sha256": "74b80ae1fd439e8cc82356a5c0a322feeba056f318c21e203bf79db51f2d2b51"
     },
     {
       "path": "readers/benn/reader.css",
@@ -4254,8 +4254,8 @@
     },
     {
       "path": "readers/brecht/index.html",
-      "bytes": 59406,
-      "sha256": "fb79ee18be792cff46ddc311f47ff1008886614abbf1c10b44e792d668eba97b"
+      "bytes": 77608,
+      "sha256": "27f70306e0d89b016172db454b70dc8025288829d825dfbb15d841d9d027869e"
     },
     {
       "path": "readers/brecht/reader.css",
@@ -4869,8 +4869,8 @@
     },
     {
       "path": "readers/celan-new/index.html",
-      "bytes": 70428,
-      "sha256": "8b498374659785e7a92772abb08e132d7c65e36fd0842db54ec6765bccb04771"
+      "bytes": 92234,
+      "sha256": "8bb12e96b6a8acbe8b3bb19a997519011ca568ebe0f197691b07e4dd87e99fe3"
     },
     {
       "path": "readers/celan-new/reader.css",
@@ -5664,8 +5664,8 @@
     },
     {
       "path": "readers/george-hofmannsthal/index.html",
-      "bytes": 65688,
-      "sha256": "d81b1681299a298c1692049720f934aa66ee7ae4424d14bbd6fec7660b072b50"
+      "bytes": 86673,
+      "sha256": "e8073cf56aa06e9828ca26eb35a89b50987bc6aac43af7c361826f719e20ab93"
     },
     {
       "path": "readers/george-hofmannsthal/reader.css",
@@ -6294,8 +6294,8 @@
     },
     {
       "path": "readers/lasker/index.html",
-      "bytes": 62092,
-      "sha256": "46544389cc5621f7b73c366c84b8f3565ce075804017a1b58fb887d1d2410a70"
+      "bytes": 81326,
+      "sha256": "447fb20d009153688ebd30542163b98b5187c69676b8dad0f40bd0336698e1a5"
     },
     {
       "path": "readers/lasker/reader.css",
@@ -6854,8 +6854,8 @@
     },
     {
       "path": "readers/rilke/index.html",
-      "bytes": 51696,
-      "sha256": "482ff60d1f7f7c2714c79e34c84e88ffebb74935a6b1e4dd04fabf87bfcc2c60"
+      "bytes": 67826,
+      "sha256": "f2d1341319dca7e3a367c6e68c5454087fe156c33f64dd7eec91d7e8a67af2c7"
     },
     {
       "path": "readers/rilke/reader.css",
@@ -7279,8 +7279,8 @@
     },
     {
       "path": "readers/trakl/index.html",
-      "bytes": 50637,
-      "sha256": "ece3037c8ed936160ba716ca1133b71d24edea35a3aa89a94ff312965657000c"
+      "bytes": 67250,
+      "sha256": "bf418d581619d52d8bdf0311d311d5920fed9c920d4347e4a4c4819de0bc93ed"
     },
     {
       "path": "readers/trakl/reader.css",
@@ -7566,6 +7566,26 @@
       "path": "tools/check_publications.py",
       "bytes": 4330,
       "sha256": "6aecb4c4dad580aa0a81a6bdd5f56fad0fbe3924c717bc6ec1997465e8973998"
+    },
+    {
+      "path": "assets/fonts/NotesSong.woff2",
+      "bytes": 28472,
+      "sha256": "8553ef94aa3e6829106b919b9c58c7adf3891055f265057ecdd994e772709c52"
+    },
+    {
+      "path": "assets/fonts/NotesSongBold.woff2",
+      "bytes": 2740,
+      "sha256": "6fd871382ba3a69fa4837bce6fb71dcc829fb3c2db8922d3db7339c72552e909"
+    },
+    {
+      "path": "assets/fonts/NotesLatin.woff2",
+      "bytes": 35268,
+      "sha256": "3b6a83b804525941cd1b98e5064ff775d92ca6b3ed05addb7eec50b3009f863c"
+    },
+    {
+      "path": "assets/fonts/listening-notes.css",
+      "bytes": 579,
+      "sha256": "35d7a11053dcfd754ceff78f05d1cc5d578b749b404d282ae5c48ee9c90ff0ca"
     }
   ],
   "updated": "2026-10-18",
