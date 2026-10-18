@@ -309,8 +309,8 @@
     },
     {
       "path": "assets/homepage/series-cards.css",
-      "bytes": 3414,
-      "sha256": "e3420685be5770d4dc695294c90e766a24d238edd96cd82cec370a70bad6f0ef"
+      "bytes": 3495,
+      "sha256": "afc1cf29d86199aa64fb58294284d50521eba588b90a98ee9affba452f6cc328"
     },
     {
       "path": "assets/homepage/style.css",
@@ -365,7 +365,7 @@
     {
       "path": "index.html",
       "bytes": 30419,
-      "sha256": "830f0c2d772627a2d710b315b129f1074ddd374ffb9bfdf1ac6e18e2c7715c61"
+      "sha256": "815faa08193a3cd499d20592efe39059dd1a328e5c03da48f2cd4c3d7e25191d"
     },
     {
       "path": "letter-lai.html",
