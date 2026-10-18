@@ -20,3 +20,6 @@
 .series-bachmann .book-art:before{content:"";position:absolute;left:10%;top:13%;width:67%;height:71%;border:1px solid #827DBD;transform:rotate(-7deg);opacity:.55}
 .series-lasker .book-art:before{content:"";position:absolute;left:18%;top:13%;width:61%;height:75%;background:#BA987C;transform:rotate(-5deg);opacity:.43}
 @media(max-width:700px){.book-grid{row-gap:48px}}
+
+.series-george-hofmannsthal .author{white-space:nowrap}
+@media(max-width:700px){.series-george-hofmannsthal .author{font-size:clamp(10px,3.3vw,16px)}}
