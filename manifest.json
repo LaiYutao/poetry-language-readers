@@ -2484,8 +2484,8 @@
     },
     {
       "path": "readers/atemkristall/audio/07.mp3",
-      "bytes": 145797,
-      "sha256": "771fc37e6d11fdaad79f1777ba214cb08da75970ce6442110fd72200ea2bb96c"
+      "bytes": 209324,
+      "sha256": "02d62c21f9c4ddf7ab271cc07e3a5e3dd118ff0f7815db5fdc4adcedb361ffd3"
     },
     {
       "path": "readers/atemkristall/audio/08.mp3",
@@ -2560,7 +2560,7 @@
     {
       "path": "readers/atemkristall/index.html",
       "bytes": 55568,
-      "sha256": "01fb7e416588bc4c7333e017e727ac6736b51d013a0fd2831ea03a386c26eea1"
+      "sha256": "49e1c922e88981cfa9b123dcca98ee587eedd3e1bfb828c8c022fb6cfa9033f3"
     },
     {
       "path": "readers/atemkristall/reader.css",
