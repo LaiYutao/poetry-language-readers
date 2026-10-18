@@ -14,11 +14,11 @@ Letter Lai 的德语诗歌逐词读本与语法阅读手册。
 | 特拉克尔诗选 | 23 | [50 页](readers/trakl/特拉克尔诗选23首逐词译注读本.pdf) | [阅读](readers/trakl/index.html) | 23/23 |
 | 策兰《呼吸结晶》 | 21 | [50 页](readers/atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0.pdf) | [阅读](readers/atemkristall/index.html) | 21/21 |
 | 布莱希特诗选 | 25 | [77 页](readers/brecht/布莱希特诗选25首逐词译注读本.pdf) | [阅读](readers/brecht/index.html) | 24/25 |
-| 策兰新编 | 31 | [119 页](readers/celan-new/策兰新编31首逐词译注读本.pdf) | [阅读](readers/celan-new/index.html) | 30/31 |
+| 策兰诗选 | 31 | [119 页](readers/celan-new/策兰新编31首逐词译注读本.pdf) | [阅读](readers/celan-new/index.html) | 30/31 |
 | 贝恩诗选 | 25 | [75 页](readers/benn/贝恩诗选25首逐词译注读本.pdf) | [阅读](readers/benn/index.html) | 22/25 |
 | 巴赫曼诗选 | 27 | [101 页](readers/bachmann/巴赫曼诗选27首逐词译注读本.pdf) | [阅读](readers/bachmann/index.html) | 21/27 |
-| 格奥尔格／荷夫曼斯塔尔 | 30 | [89 页](readers/george-hofmannsthal/格奥尔格／荷夫曼斯塔尔30首逐词译注读本.pdf) | [阅读](readers/george-hofmannsthal/index.html) | 26/30 |
-| 拉斯克－许勒／萨克斯 | 28 | [80 页](readers/lasker/拉斯克－许勒／萨克斯28首逐词译注读本.pdf) | [阅读](readers/lasker/index.html) | 23/28 |
+| 格奥尔格／荷夫曼斯塔尔诗选 | 30 | [89 页](readers/george-hofmannsthal/格奥尔格／荷夫曼斯塔尔30首逐词译注读本.pdf) | [阅读](readers/george-hofmannsthal/index.html) | 26/30 |
+| 拉斯克－许勒／萨克斯诗选 | 28 | [80 页](readers/lasker/拉斯克－许勒／萨克斯28首逐词译注读本.pdf) | [阅读](readers/lasker/index.html) | 23/28 |
 
 PDF 与网页正文来自同一份版面；原文、逐词引线、语法辅助色、白话译文和句法说明保持一致。网页支持播放、暂停、停止、进度调整和诗篇跳转。没有收录录音的诗仍可完整阅读，部分提供原站入口。
 

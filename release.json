@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "version": "nine-readers-20261018-fig-benn",
+  "version": "nine-readers-20261018-illustrated",
   "poems": 232,
   "pages": 693,
   "recordings": 212,
@@ -55,14 +55,14 @@
       "page_main_color": "#8B504E"
     },
     {
-      "name": "策兰新编",
+      "name": "策兰诗选",
       "poems": 31,
       "pdf_pages": 119,
       "recordings": 30,
       "author_recordings": 9,
       "path": "readers/celan-new/index.html",
       "pdf": "readers/celan-new/策兰新编31首逐词译注读本.pdf",
-      "pdf_sha256": "aa74e196455b79ea9fe5a508d68d927b4886cbb9925f63f41af7655822e3c6dd",
+      "pdf_sha256": "c7abc3038f2ae7ca7c9f1d6821565af0c902422a4b2ed55eec09705718efdb68",
       "button_color": "#788C5D",
       "page_main_color": "#52613F"
     },
@@ -91,26 +91,26 @@
       "page_main_color": "#58557F"
     },
     {
-      "name": "格奥尔格／荷夫曼斯塔尔",
+      "name": "格奥尔格／荷夫曼斯塔尔诗选",
       "poems": 30,
       "pdf_pages": 89,
       "recordings": 26,
       "author_recordings": 1,
       "path": "readers/george-hofmannsthal/index.html",
       "pdf": "readers/george-hofmannsthal/格奥尔格／荷夫曼斯塔尔30首逐词译注读本.pdf",
-      "pdf_sha256": "33ac843f52b18ed181a7fd344126f0574242b2395bf3be845f3878a3148e14e8",
+      "pdf_sha256": "8cf19fabed4c842a444b7d51c29845cc21268ed66398d236ad5860fd3d8ea4f7",
       "button_color": "#F0AC54",
       "page_main_color": "#896334"
     },
     {
-      "name": "拉斯克－许勒／萨克斯",
+      "name": "拉斯克－许勒／萨克斯诗选",
       "poems": 28,
       "pdf_pages": 80,
       "recordings": 23,
       "author_recordings": 5,
       "path": "readers/lasker/index.html",
       "pdf": "readers/lasker/拉斯克－许勒／萨克斯28首逐词译注读本.pdf",
-      "pdf_sha256": "23f6e60433a1d17904240efc82a6aa47ba1da8d0a2a232651d16d917aa281dc8",
+      "pdf_sha256": "e92884041c118e9ad544ade789dae05636e4a3e31dbb42c2f0f68bd49fb0c1d4",
       "button_color": "#D4A27F",
       "page_main_color": "#85644D"
     }
