@@ -208,6 +208,11 @@
       "sha256": "d1f97c38eadcbd71f59d34ec48cf77c7fa7ebe40de8f6481a78adf95fdb351c0"
     },
     {
+      "path": "assets/fonts/reader-ui-cfb74e90f916.woff2",
+      "bytes": 62708,
+      "sha256": "cfb74e90f916389837f7eb1dc02b7630a4d161921b38f89599114446b519eef3"
+    },
+    {
       "path": "assets/home-title-letter-lai.svg",
       "bytes": 38983,
       "sha256": "e65c4ccf019b8c476431bf7ce4ed62a42f46386b90ead5b4f1fed617ce9e2ffc"
@@ -365,7 +370,7 @@
     {
       "path": "index.html",
       "bytes": 30420,
-      "sha256": "a6fcd8ce9e592d5a6d3786af06b03e4a6329e1b9349e6bf4c7b3dfcb8da01afa"
+      "sha256": "b5a3d779e082b3c366c1d773bf3931600fcdf71ed39ad1916cdd5317437aeffb"
     },
     {
       "path": "letter-lai.html",
@@ -1059,8 +1064,8 @@
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0_网页语音版.html",
-      "bytes": 34320,
-      "sha256": "7d5a297a1e6b2a7821413147d1bc748efaf40f5f007761accaf952478b69856f"
+      "bytes": 290,
+      "sha256": "af22fdee7478a51df0d403f2ed094095d22b155148af0ee51bc60e935728569e"
     },
     {
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.1.md",
@@ -1684,8 +1689,8 @@
     },
     {
       "path": "publications/de/rilke-selected/里尔克诗选20首逐词译注读本_v0.2_网页语音版.html",
-      "bytes": 33521,
-      "sha256": "114f6d627ab24206d394ccabd8c40e03cb7f2e99c46d3289b1b6551b6220a075"
+      "bytes": 276,
+      "sha256": "0208d69401e87bb705576cec46d8e5d32b6024bf9b7ec533c374ee47b5540142"
     },
     {
       "path": "publications/de/trakl-gedichte-1913/alignment.json",
@@ -2364,13 +2369,23 @@
     },
     {
       "path": "publications/de/trakl-gedichte-1913/特拉克尔诗选23首逐词译注读本_v0.2_网页语音版.html",
-      "bytes": 35387,
-      "sha256": "e952692005e1212fb97d2048fea535e25733599c7c7030d7e8417be213585efd"
+      "bytes": 276,
+      "sha256": "bf7081ad05a1eed9890c00365689e00e73b3bf4ef239d888482b4c6f20b69f36"
+    },
+    {
+      "path": "readers/atemkristall/ReaderBaskerville-9f428d2f27e5.woff2",
+      "bytes": 5036,
+      "sha256": "9f428d2f27e5b8dfd27e447ab31923cbde97502ffe7546f84fcf8c8085ae8be8"
     },
     {
       "path": "readers/atemkristall/ReaderBaskerville-d35e3d76624c.woff2",
       "bytes": 5104,
       "sha256": "d35e3d76624c4b1e02e34dd645a06801c2b323442c5faaaccdd843c5382d52d7"
+    },
+    {
+      "path": "readers/atemkristall/ReaderMinion-aa75b9b9635a.woff2",
+      "bytes": 7380,
+      "sha256": "aa75b9b9635a3e3162c166ca877c27881b2dfd6e09b72f268a8f1f2ddb15f627"
     },
     {
       "path": "readers/atemkristall/ReaderMinion-fce20b80295e.woff2",
@@ -2383,14 +2398,34 @@
       "sha256": "541649d5cda6c4d8660fa31e553708a856fdda3f21e2b8b14268db72f9983992"
     },
     {
+      "path": "readers/atemkristall/ReaderMinionSemibold-674c4882b41f.woff2",
+      "bytes": 1620,
+      "sha256": "674c4882b41f19c01be20802656de7e99d765baa2a84ef57f9207d4c2a8a0663"
+    },
+    {
+      "path": "readers/atemkristall/ReaderSongBold-0251d74affc0.woff2",
+      "bytes": 62084,
+      "sha256": "0251d74affc0b3693c4c80ca0ca532cbf848bf7257937654fbf46cfc286d9676"
+    },
+    {
       "path": "readers/atemkristall/ReaderSongBold-38d6e419321a.woff2",
       "bytes": 62056,
       "sha256": "38d6e419321a4f4e7ecd0373b2ee82d901d39cedb560dd95bda878de14ec1541"
     },
     {
+      "path": "readers/atemkristall/ReaderSongLight-94983f1799a1.woff2",
+      "bytes": 176236,
+      "sha256": "94983f1799a145a47449dcc2e0e8c9480e98bc33a10d600ed93c24fcb1da067b"
+    },
+    {
       "path": "readers/atemkristall/ReaderSongLight-d42734830bed.woff2",
       "bytes": 176340,
       "sha256": "d42734830bed2e531125953bcd35023641706e8210368665c550b29c3973ad21"
+    },
+    {
+      "path": "readers/atemkristall/ReaderTimes-82a248cfd4e0.woff2",
+      "bytes": 34092,
+      "sha256": "82a248cfd4e066ba2f90977b4c53a6152c61515d1bc9a3f81ecf6399732b03e2"
     },
     {
       "path": "readers/atemkristall/ReaderTimes-e83b98a70b63.woff2",
@@ -2401,6 +2436,11 @@
       "path": "readers/atemkristall/ReaderTimesBold-043284104ce2.woff2",
       "bytes": 25460,
       "sha256": "043284104ce249fe7217b5b4c2c55d0c6f56631ab1a64c0179bc9eed09cc0930"
+    },
+    {
+      "path": "readers/atemkristall/ReaderTimesBold-2a360dcd3413.woff2",
+      "bytes": 25464,
+      "sha256": "2a360dcd34137a7b23a165c61d758e1978c1119903fb1e89fa43bd3372426d73"
     },
     {
       "path": "readers/atemkristall/audio-player.css",
@@ -2519,13 +2559,268 @@
     },
     {
       "path": "readers/atemkristall/index.html",
-      "bytes": 510,
-      "sha256": "1f0b54671f1a346a764a76a3e5673ba22588c739626a161edf0c3e4bc775bc91"
+      "bytes": 55568,
+      "sha256": "550f7d6f9c1e841bbcb1ac329b076acab09ecd95f79f167ff2abf1a78d689da7"
+    },
+    {
+      "path": "readers/atemkristall/reader.css",
+      "bytes": 19845,
+      "sha256": "41e2643faf96407098b51a995f110eeea7f59e8452f7e4022166cbda172dfb53"
     },
     {
       "path": "readers/atemkristall/series.css",
       "bytes": 4166,
       "sha256": "7850cc299509f368df04a296378e41ab971f62452c0dd698e02f18bed650cb71"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/001.html",
+      "bytes": 25784,
+      "sha256": "e69cc843e1b650e920023919101add616e88b77ee6540c603706e61a954b8fef"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/002.html",
+      "bytes": 78761,
+      "sha256": "196966575a252d85e99cd61f510d41517251a4e0fd99f496447a067e69eca0fb"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/003.html",
+      "bytes": 154241,
+      "sha256": "f23599ea403e9abff7b7e78b85be6c709c31edbf29a2abc247014a75a2d63ec0"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/004.html",
+      "bytes": 86590,
+      "sha256": "e6143cb8f4f9ea5920bbb69da0adc8b449eb884bf3839deeb6e09c8ec9c2c553"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/005.html",
+      "bytes": 166204,
+      "sha256": "1fb1313c8bd166770a8680820071efb4bbe02428023ce24b3f9704fb26c09556"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/006.html",
+      "bytes": 155617,
+      "sha256": "ead87baad32615783107dbf02b4312d2426aa706410cb163d3ac82df07282354"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/007.html",
+      "bytes": 177662,
+      "sha256": "02b1fb738a67e0d18d107e9226091a601c28a7f339363c53845755f6489d7dc4"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/008.html",
+      "bytes": 138558,
+      "sha256": "acd9d79ce2c422e341883c9c3446257ea4a1858c6711e546bf055c58982df398"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/009.html",
+      "bytes": 185644,
+      "sha256": "b816bea9ebfd2bca0a5854b10fa944b7ce70b8040586fc3207606b2ba8ef5ec4"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/010.html",
+      "bytes": 160902,
+      "sha256": "8d42838319d8f610db3301f0c8f13e6738cc0e0780aba93816a68dcdeed8529a"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/011.html",
+      "bytes": 90607,
+      "sha256": "07e30abe4c16985b5a28a9fcab26baa7ce10d585b9e8378d760e2389c6b6f042"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/012.html",
+      "bytes": 87848,
+      "sha256": "b8aa7b69ec800636b82491859986950ef4110da23d6e61c525e1026477c032a4"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/013.html",
+      "bytes": 100234,
+      "sha256": "d13c9cef835d8c5bc80ecb1e921dd0892a9ddbb1da1de10d1b53a7c648d4dea6"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/014.html",
+      "bytes": 100491,
+      "sha256": "4b72af6414a9d981171ab6e2038ddd45f5bce91f16f96918bcf8d861b8d5fd2f"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/015.html",
+      "bytes": 100129,
+      "sha256": "eb3b318e8432c31d717b5e8c06dcf1d3c6b3813d2fe1a3fda249aba227150891"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/016.html",
+      "bytes": 90427,
+      "sha256": "6efe46ca1ea046a476176541353578a536f471cf9987bae465aa913ca17aee42"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/017.html",
+      "bytes": 71416,
+      "sha256": "7252d188eadaeb9cc8dbff55dd47b3475ec6b84d909c96ee41a8529da5ab552b"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/018.html",
+      "bytes": 99544,
+      "sha256": "c6eb7b2289df5dadaf01528f9678a9dc1696ec1819fcfc8bdc13fe79a65cd8f6"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/019.html",
+      "bytes": 110966,
+      "sha256": "6afadfb0f932785c159bf94c215b3f134df607adbc855e8f39febedbf172b45c"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/020.html",
+      "bytes": 103736,
+      "sha256": "8f4f222341b1912206de1ba9eb867c766ee721bff50cb23a975b98c7c289fbb1"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/021.html",
+      "bytes": 86394,
+      "sha256": "eaab0841a4043970bfe37134a9b6373d63148b30e300e5cd74dbee820d387a9c"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/022.html",
+      "bytes": 107247,
+      "sha256": "29fdf6e4ab23a406e40e7f28929b3b3f5889cea3de2bd231e92eeb218e833587"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/023.html",
+      "bytes": 85140,
+      "sha256": "caf3751abaf822a2e1f84a1e55c1017177101504a7977970db7e5a8ff429d4c8"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/024.html",
+      "bytes": 90212,
+      "sha256": "d9aad8cb5b141bbcf62edad899e3a4a2c965b224e0563a0654435bf7d6eb86b3"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/025.html",
+      "bytes": 105772,
+      "sha256": "96e08f52fd03de47c194daecc94b1e583ed328e51e57ada69f08b7e9ec2c49c1"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/026.html",
+      "bytes": 107894,
+      "sha256": "23623253cdf6c02cda5a04e9d7974eed4c2899890f908acaa6a1df0f57810082"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/027.html",
+      "bytes": 87697,
+      "sha256": "0e38884b09cf22dcd913ab968d4124b94f01d0ad17dc69f7f04236c82101bddf"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/028.html",
+      "bytes": 109637,
+      "sha256": "3cddcc60b8aebcce7a3c510914212c6b8b9a868b088600c27a5cc660b005402f"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/029.html",
+      "bytes": 125115,
+      "sha256": "3f3732d6000cb30254c31283bcab57b88a4204da64a7d295712c33e41333e86b"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/030.html",
+      "bytes": 148794,
+      "sha256": "f259b1a7dc34b9aef035916e40a70823edf60ec1b5bf77e4bdf42e1e4c19a526"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/031.html",
+      "bytes": 93683,
+      "sha256": "f7730c6fcc38fe30b9f2d5f30096e023cd86b566320a31be7e8625ed1ef447c2"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/032.html",
+      "bytes": 100397,
+      "sha256": "3ef412e55448ce9c35071277aa3a106bc82964ec5653878bd85ed1b41bbe0982"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/033.html",
+      "bytes": 88631,
+      "sha256": "6fda98a313cd6ae6a1f7783f2b48c7a82fa3828a71f45ec8cf245762cc3b5250"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/034.html",
+      "bytes": 92835,
+      "sha256": "7140ad75f0676d39509d3bd9e0dfc6dde1a3be5e69e22c75ea642dd96f795d96"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/035.html",
+      "bytes": 101711,
+      "sha256": "e069dcdef989f9b2d9b6b6292c518bdecb3f3f86b6d5dd28136bb552b2b13462"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/036.html",
+      "bytes": 97584,
+      "sha256": "0b3cd3c779231e625209a02abbb9da022f42c7f9841cf7e6ab9a1f84117d8fb0"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/037.html",
+      "bytes": 82947,
+      "sha256": "72c65435331c2b31dc7166805f639f2f93fc7be1096567b5d81929b518521346"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/038.html",
+      "bytes": 97686,
+      "sha256": "33036b120fe4427a7bb9e38bb107b52f40aeb3ee7641e536687c9b458d99b1f4"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/039.html",
+      "bytes": 124344,
+      "sha256": "2f630baec5d5b32d8a60ce0b4669f6d6256e39700a7d27d2473b1dc2eed12b9d"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/040.html",
+      "bytes": 136636,
+      "sha256": "9d89ba24a3a184d66e70bf0053a3eb8744fdcf8d07e292607c50969287f09c3d"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/041.html",
+      "bytes": 180048,
+      "sha256": "e35f0b44fa09310fc503f4ee7d29f111cc0f8e42fcc75902ea999a97f2f01f23"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/042.html",
+      "bytes": 119027,
+      "sha256": "4139ca0380343335366e1a5885bfbcd59fcc91aeaa2f8c5280667f1c3d7e2c4d"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/043.html",
+      "bytes": 200470,
+      "sha256": "5b19fc7d44a0cff524446ba0ccc32c5a0e42cabed9cffff7c485df08b3d7209c"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/044.html",
+      "bytes": 126901,
+      "sha256": "e0cc782d5996018b289a7b37aa701ca950c71f342989a08d92b580cc38a77903"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/045.html",
+      "bytes": 137722,
+      "sha256": "8038911b9c70d8a0a17be7124b1af59783fc2140cc49adce3c90d7f6482475bc"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/046.html",
+      "bytes": 90347,
+      "sha256": "fcc81b2abe50dee1981dd47c54e21aa8b088b5a19c34afc04277ed57d66bab54"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/047.html",
+      "bytes": 151546,
+      "sha256": "0e3111d43b8933eba1edafaf21388bd9b6d5de37affde764f86effa289a4b5a8"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/048.html",
+      "bytes": 130193,
+      "sha256": "48ccaec139856077f89dc2a778b28c37913eaeacd3f72a06056e08b4bde9a402"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/049.html",
+      "bytes": 162399,
+      "sha256": "5f7d27ba7b89a66f7f308bcfdd65f68b0754ff3083ad3884c304a9c16b74c699"
+    },
+    {
+      "path": "readers/atemkristall/web/text-pages/050.html",
+      "bytes": 142528,
+      "sha256": "25b42f46731c0db1194de584179b70507ff5a28782652d3dd0053d70f10dd9fa"
     },
     {
       "path": "readers/atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0.pdf",
@@ -2699,13 +2994,523 @@
     },
     {
       "path": "readers/bachmann/index.html",
-      "bytes": 15118818,
-      "sha256": "36e30ceab62a201361b1d832a5f55479daa2ff8eda904d74ebbc55c12c4442c4"
+      "bytes": 65225,
+      "sha256": "9cc40f6c3cb77813a37260ee33b1529c6c91539fb6b2e179c61ed11af0b34970"
+    },
+    {
+      "path": "readers/bachmann/reader.css",
+      "bytes": 19563,
+      "sha256": "3af19b96395a94b2c4ffba0770afdf0492b2ba77e2714bc197700992a7c48e68"
     },
     {
       "path": "readers/bachmann/series.css",
       "bytes": 4166,
       "sha256": "7850cc299509f368df04a296378e41ab971f62452c0dd698e02f18bed650cb71"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/001.html",
+      "bytes": 21825,
+      "sha256": "eae0e2177daae365d852a7ead3c46c9502d06d58bb6a0dd7c3b1f7f87a21a68a"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/002.html",
+      "bytes": 44820,
+      "sha256": "04dc160c4bd56942244ec3b57d21a2217d0a09c535af57d50f15af3a5aa1a19d"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/003.html",
+      "bytes": 90362,
+      "sha256": "4f2596ddfd71663dbabce8d3b256ff9552644538864366981177531e77e041e4"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/004.html",
+      "bytes": 86501,
+      "sha256": "79f95782155abcc777323cf58026099f41bc3c91e0aa3bcccd3fe190ef4349cf"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/005.html",
+      "bytes": 15776,
+      "sha256": "a3653ac1328e8ad207499f71925e55229fc9d6c3bea118fa91ab867df19fd1e1"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/006.html",
+      "bytes": 191503,
+      "sha256": "03743b2084c9d71167d6723cce5664cee73ed0bf0e9bf214e34517b3dbd3e7cc"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/007.html",
+      "bytes": 155644,
+      "sha256": "eedbc19454e320fb3d3093440ab9742bb770fc553eddbc3bca185841a81857ad"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/008.html",
+      "bytes": 186292,
+      "sha256": "4231f0dbd790d513fd86d7e642d851629311affca9ca891daa00644721dc1579"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/009.html",
+      "bytes": 183611,
+      "sha256": "f8ee8ef63e70490eccd0931c879ac3ff15e44b9fa8e3c26d33cfd35ffb673abf"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/010.html",
+      "bytes": 68147,
+      "sha256": "724832d4d42b655e7829f7b349a0f272317889d2f70faef579c9d77aa3521b5f"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/011.html",
+      "bytes": 186996,
+      "sha256": "13e93156af70eca4a56961142d876e3ebd34cbf235f5dabc03b74097c050c5dc"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/012.html",
+      "bytes": 175447,
+      "sha256": "c58ac32e2e79d87b45cbacc4a2e8cbbcd3dd7e9956a29a784b75937c9deeb278"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/013.html",
+      "bytes": 58947,
+      "sha256": "326041e1342d95095e7ec7b4d9f3cfd1d78546b86df8613d2b50e5388677dc4d"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/014.html",
+      "bytes": 143241,
+      "sha256": "23a69264186f2e34e21b85da0e139b121f6aa9e83c6889047aafc6d0dbd25cc6"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/015.html",
+      "bytes": 166697,
+      "sha256": "42b6456f6288b64223378a3d5b1a557663ff7303a07b66e7057745f398599f59"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/016.html",
+      "bytes": 58173,
+      "sha256": "0ce4227400ae1ac91eba487f543b8fa408fd100818332b938e68a0ee3d183bfd"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/017.html",
+      "bytes": 198441,
+      "sha256": "5873976063c178f6543431eda688d182f92b34b399d2de78016fee2a398e4ba4"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/018.html",
+      "bytes": 206174,
+      "sha256": "b18b54d91d377e976d670c994932877605be98fedb188d709f3ec52dee298e88"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/019.html",
+      "bytes": 176662,
+      "sha256": "ed8d09a380d3ca192cead2fd948d0de3e325c33c2aacfbb6b028ca4b334d3c1b"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/020.html",
+      "bytes": 115136,
+      "sha256": "868773d308c349d8f0c13b351fad656402bfadc44cb488c2f99b33456e0e9768"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/021.html",
+      "bytes": 239432,
+      "sha256": "28e5c54d65ba6f85fdc43e69a830ee91a8a3c7c484c0a282c4166d692afdfcc9"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/022.html",
+      "bytes": 198019,
+      "sha256": "ad13cdd4f42fda92fca0f9bda5185cc65095694815946198d65655c02dd77b54"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/023.html",
+      "bytes": 117655,
+      "sha256": "4d1762c9a08101bf8403a3f76b2a10a97db1b11946d56fedbc458e80f0cb08bd"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/024.html",
+      "bytes": 111831,
+      "sha256": "cf6871abba605e818dbb735dd800e9297484bc952b9159c47530de7eb7a8bc76"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/025.html",
+      "bytes": 178497,
+      "sha256": "d9d366cfab4d1d1c95a09102d0c2be6770c2a8a36753fe7bc5147a50eb2be6f6"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/026.html",
+      "bytes": 134444,
+      "sha256": "0880749c3fbe5c918805bb4cba50511448fc9c6363c1741ff366da021e84b87f"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/027.html",
+      "bytes": 192245,
+      "sha256": "5ee62f9bd27ee635ead82cf1e59987d81a0493cc81c4886ac4598aa9729c4a76"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/028.html",
+      "bytes": 178167,
+      "sha256": "947f0d12b5b16b6e51df8202f5a931d24f0c165d981d2e4a110cc6763d3236d7"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/029.html",
+      "bytes": 172211,
+      "sha256": "9cc4bc46ddb38956665a3eea3d77b0c880c8b7aa73b541052b67204e6d7e8349"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/030.html",
+      "bytes": 191685,
+      "sha256": "6db51167f03d513b7691ab2aa62ed9acdec6e74e8c8c0a926a7ef53d4ef3a34f"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/031.html",
+      "bytes": 222517,
+      "sha256": "3a0b8848a7b98f43ceedec6736198e7916245f530b38650cfcaf7bf42341708e"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/032.html",
+      "bytes": 208161,
+      "sha256": "6906d4b981a19b5e6ffa6e31ef8e0e519db39743274e249769f14d9c1f7f8861"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/033.html",
+      "bytes": 192019,
+      "sha256": "2391edf8735150ed7700597999f2cc9ef77fc37467d4a0ac24e955665612a199"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/034.html",
+      "bytes": 92129,
+      "sha256": "acc044a05e808107d81e59fb5561abafdfa1e4c974c9edb2847ca6e035049f06"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/035.html",
+      "bytes": 196584,
+      "sha256": "ef4ec43774b8ac7110dfb31f6b08a3ffc3926b4f5faaf891eab128a1398d0782"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/036.html",
+      "bytes": 188126,
+      "sha256": "e03dc961ca8c89a900a7a3970fe1d8c20a2e918982a0c34f2e565ff07a0ee6d3"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/037.html",
+      "bytes": 154669,
+      "sha256": "5fd67ac137e53de76ef3c5737584c4ab1817a223d8454bbcc79d1786eb3ae426"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/038.html",
+      "bytes": 122148,
+      "sha256": "089530ee30076e51995101176787fcb9d31ce26cd5ea4447d7377acaa98ed426"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/039.html",
+      "bytes": 244679,
+      "sha256": "6535396a50ca698e00b6956e9f159cab183c4c426cdfe565634f0b3aa063369a"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/040.html",
+      "bytes": 254515,
+      "sha256": "efe836f80a3ef9e3d0e7254934a5c8b9a995987ea71e7e6007d4b3f1c4743662"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/041.html",
+      "bytes": 86870,
+      "sha256": "c76c8408f30818a059d3adc72867f92aba9c8478b803fb78de0b372ee9866775"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/042.html",
+      "bytes": 134623,
+      "sha256": "cb024d0359f315092ef9b9c8a9cfad3d0d3424b4604575823b6a6c7fda149167"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/043.html",
+      "bytes": 81897,
+      "sha256": "6bc0344a10a87d0c8405434e1ebcaeec4e662da9961c968350b69118176ca3f9"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/044.html",
+      "bytes": 136762,
+      "sha256": "62738b843585dcf1c68e9443e7f49afe143024aa68d6cd8c742f346997760481"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/045.html",
+      "bytes": 155164,
+      "sha256": "d157a1126919f59fa1c2b6389ee14a7737e3beebb853dfe612fc96d3dc11e4ca"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/046.html",
+      "bytes": 251397,
+      "sha256": "2566b1b92e8fc09c0e874c54095a4e251224c1c61e33b46c7548a2ef4911174c"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/047.html",
+      "bytes": 171338,
+      "sha256": "7e4470c9e8cd497c6b62c43fd5f9175276c7512202de2f27fc9f543f0f658a1a"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/048.html",
+      "bytes": 146200,
+      "sha256": "5e696931931206c27b8a11d98c38d3d62309ff9c6f7194136d6a58a56d5791ad"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/049.html",
+      "bytes": 101295,
+      "sha256": "0bc7f99a7defaf36c411c91ac8b8b8968da2c4e04d0a748310bca9ae044ce82b"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/050.html",
+      "bytes": 209300,
+      "sha256": "7960d1922537fc1333e555c4e8f662dd04a3407f4eb622796774d787361ccae0"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/051.html",
+      "bytes": 274515,
+      "sha256": "af6372683f8576f3d6ed87c632047cf43d8a455fd034360d03aea86f60c1ef31"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/052.html",
+      "bytes": 85002,
+      "sha256": "c071109334144898dc0f4b7abaeb306ecd7ea3f85c3699a67be491625f40c2d9"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/053.html",
+      "bytes": 126845,
+      "sha256": "51814709881a058cb98c851ab9c05b4447428096619b87c65ecbcab24302515c"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/054.html",
+      "bytes": 92979,
+      "sha256": "0398da035609b309ee8f83aeb039d7f26b60a7de9336ce2ce3d1dba56f3a6c9d"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/055.html",
+      "bytes": 165509,
+      "sha256": "c535e4d074bcaaff9df6c6a6913af5df02b756bead1af6694ab2e381a9ee54dd"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/056.html",
+      "bytes": 174887,
+      "sha256": "d34cfdf3d46f92dd34054bddb485f54fd6dd6abe7d6e5564c5f330e7a63fae37"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/057.html",
+      "bytes": 198230,
+      "sha256": "9c8d23f90f8f0f48d1a6561fa25bd4685a544dca21383b1754245046c6354502"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/058.html",
+      "bytes": 140371,
+      "sha256": "ba529aaf2dde2307b2954d68d21c1967d8a4abbaa88f8e87f4338ba82296f262"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/059.html",
+      "bytes": 124898,
+      "sha256": "e582a331f0b1180e37fc939015bfea9eec8dedc8dfb8e3e238f78715f5143ed6"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/060.html",
+      "bytes": 143365,
+      "sha256": "329f17276b21f60f7da147c9597ee6d88c4761545ccc3c3ae5f5b436cf9ef33d"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/061.html",
+      "bytes": 151403,
+      "sha256": "b20a6992d226a804347185fdb46a587953fbb7069eee9cf98ba4a75388951059"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/062.html",
+      "bytes": 195117,
+      "sha256": "16cd5cfb7b5daa77f55a397f0b1d91e694c20f18171c8da28f00f9c9e61328bb"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/063.html",
+      "bytes": 85823,
+      "sha256": "bef3da5214e14bda72310b665876b8a0bc35f78efde6e10a316763c16430c594"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/064.html",
+      "bytes": 144681,
+      "sha256": "5748e2f73078b24a9dbe7fb6e57b7c51ca281d4754496362e9d0964569593571"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/065.html",
+      "bytes": 204378,
+      "sha256": "6f4f14f4fbc27270ed067226b2ccbd64d9ea60908be8f56ecb93b2483b88c7c8"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/066.html",
+      "bytes": 68331,
+      "sha256": "6ef809f78b385669a61c07ff7a758f12c4744a034510cbea5dfe8b631685c3ca"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/067.html",
+      "bytes": 150710,
+      "sha256": "64b7459f17a17f420edeb04bf80469f6d6b82dcfebedc26c97f1f8b88954a97b"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/068.html",
+      "bytes": 117354,
+      "sha256": "3d2cf3dd4db93a18488541c4333206ff458f5a4228a6a9917f29928a995747f1"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/069.html",
+      "bytes": 117380,
+      "sha256": "52ffa53280580c5b1f53dcaf4437eb49ced822bf6adc30c76a20ba26fbb8583a"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/070.html",
+      "bytes": 151816,
+      "sha256": "4745a0b51bd0ec96aa1c7328c53fe6b21a8f30bcdd864f24d0db76bd510728b8"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/071.html",
+      "bytes": 279293,
+      "sha256": "58c7660c3d09fd4082702795bfab66702f2a5bb20a8ca9616df93b52a33911f7"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/072.html",
+      "bytes": 252966,
+      "sha256": "8664021cde487cb974cfca187d293bf180947ca15192081c12a1c75c0069649f"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/073.html",
+      "bytes": 148279,
+      "sha256": "051217b81f411943cd3822388632480324273521f9c31b9c89067870cb2c4b11"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/074.html",
+      "bytes": 94811,
+      "sha256": "cdef9bc4c42213782fffbeade2852160c7ac5ff55db9ac666d44028d23a2c11f"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/075.html",
+      "bytes": 146604,
+      "sha256": "ec3b984b69b37aeb55a7d85f533ad9e91ea33e63341ee762ec9ae59f3b4c8b5d"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/076.html",
+      "bytes": 123197,
+      "sha256": "c2029ac6dcf115c21f631341a1df4842ee848ddbf03008fb335992ddcb5fb603"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/077.html",
+      "bytes": 142321,
+      "sha256": "f21081f1e9b1af5ce040a33f114ef10a1aab43b73585c64fa08f5d7524e10d32"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/078.html",
+      "bytes": 122124,
+      "sha256": "12a59cb901f5c1ce255b8aa34f330bb603f59d8fd2f35cab6ffdecf2b6d8ea7c"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/079.html",
+      "bytes": 141727,
+      "sha256": "d011231793671e9f8aec2ef806ad91df4af765e64da355499f4e0bb7973d0995"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/080.html",
+      "bytes": 291088,
+      "sha256": "9f2bea031a98fb4ab4aa6f63b4a2a9900ef05b77d3dfc9a15067e6f0f47c9259"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/081.html",
+      "bytes": 133427,
+      "sha256": "2cfea2640aaedbe76b87aa9e55ac2930c4f9976877486dfd0e4a9c2552b5a41e"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/082.html",
+      "bytes": 64756,
+      "sha256": "b83e6d929e64b64e6de63519b9400c660e96d714624a67cc209ece93121bb763"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/083.html",
+      "bytes": 175999,
+      "sha256": "0bf704ad372841c8824ec7e449720c28365ebb50ed3e2b3774d7d06291f8adde"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/084.html",
+      "bytes": 243280,
+      "sha256": "04bd01b9cf013a7ade82a757d6c8b2538032a8671a56b65041232341dbeb42cb"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/085.html",
+      "bytes": 84980,
+      "sha256": "68c31dfb64dbefc10ac8ac5bf01d8c56b2c45c9ec329b8126d7f0a88c22f1855"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/086.html",
+      "bytes": 160098,
+      "sha256": "29b2a754779a1e68aa00e9be149be0cd09299ac61b2d99f30ffd0227205f7f33"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/087.html",
+      "bytes": 251046,
+      "sha256": "e45bc03373785ec0b72e4663fc9bbdac7e72fec70f267195aba7e872c1ecff6f"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/088.html",
+      "bytes": 80038,
+      "sha256": "4597716ef953203d22fc909f4f3529578627e2c605a7020b9ced53fdb6d39a86"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/089.html",
+      "bytes": 170230,
+      "sha256": "caa436f032d947db1407580a368993f1c4ad28ef756d3a5453810dad368347d3"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/090.html",
+      "bytes": 132752,
+      "sha256": "07fe662ca94255e19bb66e9dad096d6758c763edc557389b5fdb022bab6cd69c"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/091.html",
+      "bytes": 129358,
+      "sha256": "77659c3c51679b6eb33fe7548f5f903f8842ebe6e2c8f152fb9c8aa26536aaae"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/092.html",
+      "bytes": 131455,
+      "sha256": "a911cd538be0b336737c355eabbcc97491940b09fcb9d322c688a5f9922985ba"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/093.html",
+      "bytes": 139434,
+      "sha256": "e0a3410635b85efaf96fcdd5a14337334964dc252c577c1b5c89f18b56960b9b"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/094.html",
+      "bytes": 60701,
+      "sha256": "7e20095a42658220f5eb804a62fb67dd5e7ba30fd3f588a0b65bf5e8619babf8"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/095.html",
+      "bytes": 140503,
+      "sha256": "290876243872d8976d2443e9ab0864d9d4e4ff56c1871f5517f37de8198785b0"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/096.html",
+      "bytes": 160370,
+      "sha256": "b5e6e5fa8a7c855cf976895321eb975cb3b325de3729a50726edd134248faded"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/097.html",
+      "bytes": 153140,
+      "sha256": "7fcb9f6b56b126f4423d0d14754e10a4ec32331d8c5e11b29a0d17da49f9400f"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/098.html",
+      "bytes": 168849,
+      "sha256": "ab14b16e4caa864e005bb05d33aa53e84f004cf72fa71526b2a8114f2aad9426"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/099.html",
+      "bytes": 185028,
+      "sha256": "0c3b82dcdcb5399bdc2d057d31860a4fe152754e6dafec8617cd2e82350fcb5f"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/100.html",
+      "bytes": 55448,
+      "sha256": "a621ed790b3affac55cf24dd9d18a9c781e3e2cf759b0fa9ad33bc1294cdc545"
+    },
+    {
+      "path": "readers/bachmann/web/text-pages/101.html",
+      "bytes": 44631,
+      "sha256": "f737d02442c9e1de9a893f0f8ecacc964464fbb14b20e05b305c516281b8d824"
     },
     {
       "path": "readers/bachmann/巴赫曼诗选27首逐词译注读本.pdf",
@@ -2884,13 +3689,393 @@
     },
     {
       "path": "readers/benn/index.html",
-      "bytes": 10717409,
-      "sha256": "3c88a5ab805e2fd2e1a0ff3ddf0bce37abc282461eeaff036b42842e8c2b4721"
+      "bytes": 57732,
+      "sha256": "fc42a26365bfa1ff420b57c63c262c95fa9252c048a03ee91efe7a5ad032a776"
+    },
+    {
+      "path": "readers/benn/reader.css",
+      "bytes": 19563,
+      "sha256": "3fb9bca63ae8140b143eaa8a7883b66d511144a14ccf87081164f5676da18d3e"
     },
     {
       "path": "readers/benn/series.css",
       "bytes": 4166,
       "sha256": "7850cc299509f368df04a296378e41ab971f62452c0dd698e02f18bed650cb71"
+    },
+    {
+      "path": "readers/benn/web/text-pages/001.html",
+      "bytes": 21409,
+      "sha256": "52ac99917980eaa05fb57f3f466a696cfed871036936027704e6df4ae13c7abd"
+    },
+    {
+      "path": "readers/benn/web/text-pages/002.html",
+      "bytes": 35287,
+      "sha256": "634d15176bbd0781e4f4d9b1074c99e0343cb6b5fb45dbe5288b5662ef682742"
+    },
+    {
+      "path": "readers/benn/web/text-pages/003.html",
+      "bytes": 91379,
+      "sha256": "8fe465d1fa448beeabfb3ec3185b0488f5c9fe15222f94c80b8d0a5dbdc77a0e"
+    },
+    {
+      "path": "readers/benn/web/text-pages/004.html",
+      "bytes": 87047,
+      "sha256": "c8d1b38220214eb3bbf50a8b3122fa5d27aad9298b4f7066aed3018e57ed585a"
+    },
+    {
+      "path": "readers/benn/web/text-pages/005.html",
+      "bytes": 7971,
+      "sha256": "3d0147fa86d0286817303adb81cc0f5ce3ec314b0a7aa7b3052b202b07f1738f"
+    },
+    {
+      "path": "readers/benn/web/text-pages/006.html",
+      "bytes": 167726,
+      "sha256": "9c1ea45d6ae6fdeb207dd4f9da8aa0ac5a017353182b66271a17dc4765c154d9"
+    },
+    {
+      "path": "readers/benn/web/text-pages/007.html",
+      "bytes": 125881,
+      "sha256": "82c5344912cdac8da0ac7a7b50b23c017d4a5284916886bdcde549fcbfa99f2c"
+    },
+    {
+      "path": "readers/benn/web/text-pages/008.html",
+      "bytes": 186590,
+      "sha256": "9786d80f3d0d4f52a44cf7dc7e7cab3f22678f9c2a5ce9200575dde3cb603f5f"
+    },
+    {
+      "path": "readers/benn/web/text-pages/009.html",
+      "bytes": 128945,
+      "sha256": "dd376a42a9af62ad6ddce695ea57c21a9bf5dc522d70e560113a1a58cdddc80a"
+    },
+    {
+      "path": "readers/benn/web/text-pages/010.html",
+      "bytes": 247545,
+      "sha256": "b419214b6fa3d65c5ac84cb3385cae3d25351842a12dddaa02605fc45821d321"
+    },
+    {
+      "path": "readers/benn/web/text-pages/011.html",
+      "bytes": 147505,
+      "sha256": "715709966a4a76bb47070841033e32c38449db9f2b25b5ed022b69a44d5bdd92"
+    },
+    {
+      "path": "readers/benn/web/text-pages/012.html",
+      "bytes": 94890,
+      "sha256": "20cebe999ef77f56f5a9afdefa4e45f319574a135c703d5d2521c918e12919bc"
+    },
+    {
+      "path": "readers/benn/web/text-pages/013.html",
+      "bytes": 140474,
+      "sha256": "f7ec370a581d0f1524d6b427cae979c2c182f94aade89da192c2b591ad1473c8"
+    },
+    {
+      "path": "readers/benn/web/text-pages/014.html",
+      "bytes": 139990,
+      "sha256": "023f9ec6103a08da676842749db57966b64120846f747c317171dc29cb2b7537"
+    },
+    {
+      "path": "readers/benn/web/text-pages/015.html",
+      "bytes": 159482,
+      "sha256": "b0362e7834a9d895beb66dd4fc50647cd4ec501847eaeb65c9f716dce00cac3d"
+    },
+    {
+      "path": "readers/benn/web/text-pages/016.html",
+      "bytes": 93593,
+      "sha256": "d3875487d8cd21ed418efc76ee0efd0360be0598720beacb7b20c1ae74ac4815"
+    },
+    {
+      "path": "readers/benn/web/text-pages/017.html",
+      "bytes": 152996,
+      "sha256": "2e39a0892fec93d38aadbfe9b44e92d335ec1a3fc24651b5d8bd13cea140e5e2"
+    },
+    {
+      "path": "readers/benn/web/text-pages/018.html",
+      "bytes": 205476,
+      "sha256": "c51ec7402aa23edd20d0d0600679325ce23540bcccbe5f137aaea393e7f27fa9"
+    },
+    {
+      "path": "readers/benn/web/text-pages/019.html",
+      "bytes": 102441,
+      "sha256": "bc9a78e4f2a26dfdccf7ebcd0fdc6ea7ddbe99a37bce6fef911ee527a1c1829b"
+    },
+    {
+      "path": "readers/benn/web/text-pages/020.html",
+      "bytes": 82047,
+      "sha256": "bf37048a5c07ddb182b4caa0d583ab0d3145ecd37c02f9f95d7ae22f8b83b98f"
+    },
+    {
+      "path": "readers/benn/web/text-pages/021.html",
+      "bytes": 136222,
+      "sha256": "c170fe20fc75ddccbecf8fda77d6c5c37ed9b76895f4d116924af9bdc9bf8dbc"
+    },
+    {
+      "path": "readers/benn/web/text-pages/022.html",
+      "bytes": 192943,
+      "sha256": "f80bda3e478019a785a9510d09763ac2958f7d6021fa8a366fdc3e4cf12864d7"
+    },
+    {
+      "path": "readers/benn/web/text-pages/023.html",
+      "bytes": 169790,
+      "sha256": "8802b4e6031a2a43bf07f94145e0c31b592149d20b4303c1b1ff18a925eb725f"
+    },
+    {
+      "path": "readers/benn/web/text-pages/024.html",
+      "bytes": 134035,
+      "sha256": "e334603a948a03afd628e4c996989aa669c5c37dc19acd9cd66019d8627ec7c0"
+    },
+    {
+      "path": "readers/benn/web/text-pages/025.html",
+      "bytes": 152803,
+      "sha256": "d9537b1e6faedc85beff747dc1ed62106a3f2ef4d7d24352b58c10e7cd3d2256"
+    },
+    {
+      "path": "readers/benn/web/text-pages/026.html",
+      "bytes": 84384,
+      "sha256": "9aff2b7ff853e574f09e1a005bacb219f9cbf84449828675aefc73b042cc7ca5"
+    },
+    {
+      "path": "readers/benn/web/text-pages/027.html",
+      "bytes": 119141,
+      "sha256": "96f03a003527d62a85f8496a615e4cae246ff4af8d8308273805b0ee33bcd6ed"
+    },
+    {
+      "path": "readers/benn/web/text-pages/028.html",
+      "bytes": 155564,
+      "sha256": "0424b88d39b0dca8dcedb74a8c1440a18ee91e99cd0297a4b2235116c29e5350"
+    },
+    {
+      "path": "readers/benn/web/text-pages/029.html",
+      "bytes": 172463,
+      "sha256": "02a1698f2cef3b57ddeb288f77064c4046f252a6c3901e34902149bb962a25b9"
+    },
+    {
+      "path": "readers/benn/web/text-pages/030.html",
+      "bytes": 128466,
+      "sha256": "2f76e8b0037742af4bcb4c2b194c0de49197555f1e9ccbf1d8551f84cd97b96a"
+    },
+    {
+      "path": "readers/benn/web/text-pages/031.html",
+      "bytes": 121924,
+      "sha256": "f0953ff8e355499f3612a8bccad022d18274de781963de4d1f6737615061e45f"
+    },
+    {
+      "path": "readers/benn/web/text-pages/032.html",
+      "bytes": 177785,
+      "sha256": "c7f4161f80f286b285f79ae8949cd0d6bad7c124b49a9c4c2ad6426362da392e"
+    },
+    {
+      "path": "readers/benn/web/text-pages/033.html",
+      "bytes": 144142,
+      "sha256": "f4aa329345d18576559bc55bcb94c2225b61d97b8946e30c7736757efdad3b63"
+    },
+    {
+      "path": "readers/benn/web/text-pages/034.html",
+      "bytes": 177244,
+      "sha256": "67ed9b136a9ba08f8644ca9cd06c536fb177d10725619a93ff003c81082d3142"
+    },
+    {
+      "path": "readers/benn/web/text-pages/035.html",
+      "bytes": 163638,
+      "sha256": "7c03b73072bfe548735274c9dc0e44be643df83a0dc87cde9110ac7ff8659dae"
+    },
+    {
+      "path": "readers/benn/web/text-pages/036.html",
+      "bytes": 185515,
+      "sha256": "730bfe0ff6841e5cb77c78ea33555751586fdd762853127579d6000092b0e0ee"
+    },
+    {
+      "path": "readers/benn/web/text-pages/037.html",
+      "bytes": 54701,
+      "sha256": "941d82e301a248c0db344533c66bbdb8980a50fd5361948344714b2ef7cf75a5"
+    },
+    {
+      "path": "readers/benn/web/text-pages/038.html",
+      "bytes": 220860,
+      "sha256": "5bf6fabf7227998094ac73ba5af0cc48ca6eee543c84e7d3aa342de7ce74f98a"
+    },
+    {
+      "path": "readers/benn/web/text-pages/039.html",
+      "bytes": 157317,
+      "sha256": "11af1ae48cd75d4371c63ccb2401483a33fc08ad364d40fff8a119238e54616f"
+    },
+    {
+      "path": "readers/benn/web/text-pages/040.html",
+      "bytes": 120621,
+      "sha256": "48e44ccd8905c118231e4a074efaf5b83c60e344083183e66782b9b667fab1a5"
+    },
+    {
+      "path": "readers/benn/web/text-pages/041.html",
+      "bytes": 131914,
+      "sha256": "ec88a4ab63f18edf111f3ee4d0ee825a46f0d3b3ac5a01ebd8818176915be941"
+    },
+    {
+      "path": "readers/benn/web/text-pages/042.html",
+      "bytes": 200962,
+      "sha256": "0eacc5758ce05179bc113db466e863e8574aafd95b42a4e2173f9d222c6aa3b6"
+    },
+    {
+      "path": "readers/benn/web/text-pages/043.html",
+      "bytes": 188201,
+      "sha256": "a6542cdd60392a3bfaa88bc5fc522f2db634b603de6d38452a4bc62d66808148"
+    },
+    {
+      "path": "readers/benn/web/text-pages/044.html",
+      "bytes": 189994,
+      "sha256": "1571eb034c7efbbb4e13170645fc30ed2f6a53ef8545d361498975937790d71a"
+    },
+    {
+      "path": "readers/benn/web/text-pages/045.html",
+      "bytes": 114850,
+      "sha256": "0cb6e7368776f69a1fbe1df15cfd040c3a9de3a40beccac2bce97222b1878bae"
+    },
+    {
+      "path": "readers/benn/web/text-pages/046.html",
+      "bytes": 140481,
+      "sha256": "de7457c75bcfe4098529733083fe6a4f44f358ddb94217d3199f9069b630654c"
+    },
+    {
+      "path": "readers/benn/web/text-pages/047.html",
+      "bytes": 184774,
+      "sha256": "682f04a88d70f463aa2d0032bd5d27fb9ffa256525ad8f6f134e0d783884c53f"
+    },
+    {
+      "path": "readers/benn/web/text-pages/048.html",
+      "bytes": 125290,
+      "sha256": "65496c90836a0b766dd676499a17d608b31b48594df481a7b2bc33021b471e8e"
+    },
+    {
+      "path": "readers/benn/web/text-pages/049.html",
+      "bytes": 103614,
+      "sha256": "98ad5b5cfe86a470849cd9e858037e8d1125bfa476ca0614a6d778e9d83e0f3e"
+    },
+    {
+      "path": "readers/benn/web/text-pages/050.html",
+      "bytes": 188159,
+      "sha256": "45848f1df5115d20ef9f890737ee5910bb8491bc80b901d34f61d6f40c8754d8"
+    },
+    {
+      "path": "readers/benn/web/text-pages/051.html",
+      "bytes": 164388,
+      "sha256": "5e403458343cf34e2cf52d70f54b55c8f6cb63e9f2529cd1581d653953165230"
+    },
+    {
+      "path": "readers/benn/web/text-pages/052.html",
+      "bytes": 182933,
+      "sha256": "876566bc5301635d744985e44ebee54a2a101ba9c6b621b6559a58a5f935aa9d"
+    },
+    {
+      "path": "readers/benn/web/text-pages/053.html",
+      "bytes": 163977,
+      "sha256": "31ab691e99129fced70d9069df9364e9a28e4c774be942fd03bc17029903db8d"
+    },
+    {
+      "path": "readers/benn/web/text-pages/054.html",
+      "bytes": 177556,
+      "sha256": "e4c37c6f3409183a047ff03be4828ffeb6832d6b5ede25887a6aaef6e49e37c7"
+    },
+    {
+      "path": "readers/benn/web/text-pages/055.html",
+      "bytes": 105807,
+      "sha256": "f4894e7d9b5937720e2a0d8803c496e55352dabd2944cb2292d1639ff64f131f"
+    },
+    {
+      "path": "readers/benn/web/text-pages/056.html",
+      "bytes": 173270,
+      "sha256": "8f5f8c7ada46a8b8099caa952b999d2571b117909a6aa07ca4a2b6b1170e44d1"
+    },
+    {
+      "path": "readers/benn/web/text-pages/057.html",
+      "bytes": 180202,
+      "sha256": "8d423849e3a22f82e8d515e14b3df99f9b391e2bdf8ca5595d76bfbbb91b92ec"
+    },
+    {
+      "path": "readers/benn/web/text-pages/058.html",
+      "bytes": 264759,
+      "sha256": "1ad8a8079ccff2dc2532c64594a7025408ddb3b09993dbc41ba3bc11840072de"
+    },
+    {
+      "path": "readers/benn/web/text-pages/059.html",
+      "bytes": 176114,
+      "sha256": "0dce45554e3ff8fb9906a48acd99113d5db48466ac45bde03bd9bd45b94886e2"
+    },
+    {
+      "path": "readers/benn/web/text-pages/060.html",
+      "bytes": 166497,
+      "sha256": "f1337d8205f19c8397b9aa9b64a16e1b0ae023fc236fef33d96b3ca7e7a49293"
+    },
+    {
+      "path": "readers/benn/web/text-pages/061.html",
+      "bytes": 158346,
+      "sha256": "c15c10e262bc6e5db0d13c9bcbf7e8cca757a7b307a4d107dff201cddd400181"
+    },
+    {
+      "path": "readers/benn/web/text-pages/062.html",
+      "bytes": 135214,
+      "sha256": "b2a384aee97072284a00ec2b479ef87161e3023f3ded36a577ac6fb214c84b6c"
+    },
+    {
+      "path": "readers/benn/web/text-pages/063.html",
+      "bytes": 158038,
+      "sha256": "7254e810150824a6357d2320c94979ffeccd915902730882bda8d553fedf1a87"
+    },
+    {
+      "path": "readers/benn/web/text-pages/064.html",
+      "bytes": 107181,
+      "sha256": "c9de60b2abae434956234cef8ad1563e138ccd8c9c4305758d16060988eb0ca9"
+    },
+    {
+      "path": "readers/benn/web/text-pages/065.html",
+      "bytes": 145857,
+      "sha256": "c5597862a059439bac7c3d8963a9085be9a9ccefbc08d985fd1e778cbe6d3740"
+    },
+    {
+      "path": "readers/benn/web/text-pages/066.html",
+      "bytes": 135342,
+      "sha256": "2909c0b1c7f259a72b6301a16fbf6955e2e3e29fd9d2501770764974dfe4069b"
+    },
+    {
+      "path": "readers/benn/web/text-pages/067.html",
+      "bytes": 137333,
+      "sha256": "76685bbf71c8449aaf45a4e26f36f01db938b2ca33cce1e9783c2bb7f8875216"
+    },
+    {
+      "path": "readers/benn/web/text-pages/068.html",
+      "bytes": 125160,
+      "sha256": "186374ad0bf271e49430914309981314d256b7f743ae1c115e5e9d35a9f21a0b"
+    },
+    {
+      "path": "readers/benn/web/text-pages/069.html",
+      "bytes": 155399,
+      "sha256": "ccbcfa530edaf8255e28be8fc55bcfc21b2002ce4dd144fa398110bbba954e8e"
+    },
+    {
+      "path": "readers/benn/web/text-pages/070.html",
+      "bytes": 170565,
+      "sha256": "ba109082b5e7b181c4591d89ee13096406495f705c5e25519e5e4f6873b8efbf"
+    },
+    {
+      "path": "readers/benn/web/text-pages/071.html",
+      "bytes": 128059,
+      "sha256": "425e21428caeb2fda198c5d6979cd2aa78b7dbf22025314954fce0b18929f9b9"
+    },
+    {
+      "path": "readers/benn/web/text-pages/072.html",
+      "bytes": 179669,
+      "sha256": "df8daf2a8ade919b5829eea6251eada9b8179c274736ba52bcfee16d5dcab2a4"
+    },
+    {
+      "path": "readers/benn/web/text-pages/073.html",
+      "bytes": 143714,
+      "sha256": "f71c150cea34c93d2ac63c4a0ef080bc6101ffe9507897c7846a809ec2c9d76d"
+    },
+    {
+      "path": "readers/benn/web/text-pages/074.html",
+      "bytes": 81345,
+      "sha256": "347b37f612dc10b9551278ec5aeb450d545c4523a2f5f617ab95c1e5989063ae"
+    },
+    {
+      "path": "readers/benn/web/text-pages/075.html",
+      "bytes": 44159,
+      "sha256": "76928f56b7e2fc8f88fce81a4881f85da67182d0c0df59659cb75b7f6e149d26"
     },
     {
       "path": "readers/benn/贝恩诗选25首逐词译注读本.pdf",
@@ -3069,13 +4254,403 @@
     },
     {
       "path": "readers/brecht/index.html",
-      "bytes": 12212241,
-      "sha256": "25893168329f7d1b81bf0d4de5e0e6cd0c9a2f3234e56f94f7b3d123eb6df73d"
+      "bytes": 59406,
+      "sha256": "10a3ac2d9e0b8c22807590377500b232acaa102dc912e28df772eff7bd271643"
+    },
+    {
+      "path": "readers/brecht/reader.css",
+      "bytes": 19420,
+      "sha256": "73d71802f875ad7335e99709c165ec32c75f60c43428cffe97454e919b28b60f"
     },
     {
       "path": "readers/brecht/series.css",
       "bytes": 4166,
       "sha256": "7850cc299509f368df04a296378e41ab971f62452c0dd698e02f18bed650cb71"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/001.html",
+      "bytes": 21617,
+      "sha256": "1e51ec4a82a3d599a4764adfc2f8d055e9095f6f908900a1960d020881692947"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/002.html",
+      "bytes": 48711,
+      "sha256": "87d78a6db38eb628a2e9b93783dc98926a242ed4d3c6d8d9205b5ada986ff5e7"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/003.html",
+      "bytes": 90220,
+      "sha256": "032623af4b7b502828340a5f66780f106ed10194a17222402d2e86b6c2c13f9b"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/004.html",
+      "bytes": 120176,
+      "sha256": "18090edcb11ff7675b15547920b8c3becb8bc7cfd3d58fc6ce639d56091e312c"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/005.html",
+      "bytes": 226255,
+      "sha256": "b22e637ab9d64a576272747863d47cfd4d14ab3afbbe69c2774d32e78c52dbd6"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/006.html",
+      "bytes": 199776,
+      "sha256": "6a1ddaa3c4a3586c4139757492e19086e0c2e3da3586eed2903b582111b45dae"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/007.html",
+      "bytes": 127039,
+      "sha256": "1d4e88a95c58cb36a301b5bf262d375f297bbc6439e9391380713b461a8d2c25"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/008.html",
+      "bytes": 250232,
+      "sha256": "a6db31f8c15afd1e18ba95ffc27410509f018cacf42674e54d68fddd269b2cab"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/009.html",
+      "bytes": 86558,
+      "sha256": "3a5e89f1b1499fd9868f8529c593a97b60fb19b7175f8df91d6c0ad3ba1a853b"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/010.html",
+      "bytes": 154607,
+      "sha256": "b0936670f2391bfb9a9a366356e36aec64bd0ac4ca3ee9b635d8d960ebe969c5"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/011.html",
+      "bytes": 140268,
+      "sha256": "f7f71a043353527e8cbeb2b206b5d990b08a9f46c0b634828e1fb2338059a6d8"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/012.html",
+      "bytes": 98167,
+      "sha256": "752c713c9d0c72f330b472c06fdbe020ebe576360ef4eba770f3a59f4f078ee4"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/013.html",
+      "bytes": 131437,
+      "sha256": "fe3eca91b447181ea17814d2cf4690c1c3ac9cba34fc950bf7bf06d0b6d594ad"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/014.html",
+      "bytes": 287496,
+      "sha256": "99afa24beb626cae3d8de6f649be1716ccfda84b77c0863b529b768d882d0289"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/015.html",
+      "bytes": 142686,
+      "sha256": "50f9b617a602946f9dc8e744eb9c01a97fef545f866221189b70e86613e0169a"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/016.html",
+      "bytes": 74670,
+      "sha256": "cc111de29bd66f17823fac19e47f5ea8cf7ba39f62962685b55ea9bec29bf35e"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/017.html",
+      "bytes": 219319,
+      "sha256": "63bbe9ddce2939c2ec7b818ce9f1e9290dd4189f9e010cb4df482f68720addac"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/018.html",
+      "bytes": 192029,
+      "sha256": "20054e66c97da42b80b242b742f9e932e035759d7e3e348afc66d10263d9436d"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/019.html",
+      "bytes": 157148,
+      "sha256": "10b3d64a71f5468b45e0d5efd311ad2a9433320809e35c835ef21bd9fc61ad36"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/020.html",
+      "bytes": 84722,
+      "sha256": "f57377455082ea352322389969d9e6634b0b97e4402e73a1ff57e92b2615ec6a"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/021.html",
+      "bytes": 155927,
+      "sha256": "f00ccbde1242ad60fb14dc6dddbff017cc3c4ce11281a27a1a2f6c3997167afd"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/022.html",
+      "bytes": 193365,
+      "sha256": "c8d25ae805290dfebba601c4083bf8e78b38d1631d61fdff45c319a5cf4a5572"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/023.html",
+      "bytes": 88682,
+      "sha256": "a1dbb5100248db6ee41fb02d2d94a5e5f55ab3bc6ce308fde13d392b86a8a383"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/024.html",
+      "bytes": 247721,
+      "sha256": "ae932a003dea90af1cdd2f87e9db85fec6fd22dfa4f4aa608a912c38096893d6"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/025.html",
+      "bytes": 167220,
+      "sha256": "821d4c2800fa046756bdc98b8ba95fe1555386304377e2eec0a79f6cacac8b79"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/026.html",
+      "bytes": 87313,
+      "sha256": "a0956850b5431c3c8100210b04aebfbd8aa3138f51cef4b7c41848b41aa53a5e"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/027.html",
+      "bytes": 180162,
+      "sha256": "17297181ff04e9915408a67006f5c8230e2a5d705abd9200513e3ae80862f13f"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/028.html",
+      "bytes": 170724,
+      "sha256": "a2c879104b4ab02777e371a371c1bd04763f78b6dcdd1dc81b50aa40dbb9c503"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/029.html",
+      "bytes": 135973,
+      "sha256": "fc60f82cfd94ecad248d9148c999d392caf90950af8924f6d8e26a130b319fa4"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/030.html",
+      "bytes": 185517,
+      "sha256": "888180201e9d1874bc0696b8b73a47f68b5515279c161c059b40eb4a976acdd4"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/031.html",
+      "bytes": 227532,
+      "sha256": "4a1fa382252fade432301d425f0ca49f6fc83f81c53285884c141677b0b8a233"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/032.html",
+      "bytes": 89778,
+      "sha256": "802d9568b9595bf2be9963251dee63a9c038b52aac61d9bc0bf1ea03ccca1e0f"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/033.html",
+      "bytes": 356628,
+      "sha256": "eb8ec6c46c6f4fd5b8b6ba6bdd4b43ebe42eff20201c4ead0c8d1aa46075897e"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/034.html",
+      "bytes": 166992,
+      "sha256": "efb0ace1cbd020b3d00f5a8fbeed5713911beaaa9d3c2b80f2070c9d4001ec41"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/035.html",
+      "bytes": 73049,
+      "sha256": "113b29a506519a59cb556bd3c2f3f26d6df434c515b2c281ba4a21dcfe3d284f"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/036.html",
+      "bytes": 158531,
+      "sha256": "3bf36542d99b2cfbe82841060792ac69ee5022685cc639e32d415c032ff3e98b"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/037.html",
+      "bytes": 224882,
+      "sha256": "2a128fdc34b04dd43761d7508cfb157102b8e7df96d4037ba0be5f82c997cf56"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/038.html",
+      "bytes": 65349,
+      "sha256": "d7e72781dc42d5e6065a944ed58f95e503b165189cdcaa151e282b7621d058f2"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/039.html",
+      "bytes": 149292,
+      "sha256": "a2e989d98e881b4ef080ad8e7eac0a969b1958948d4015c32bf59efffc19b38d"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/040.html",
+      "bytes": 54370,
+      "sha256": "13f7ea1598021538ff985dfcab69501bd2d0d9025cc7542db55abd6fc77d64f1"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/041.html",
+      "bytes": 186345,
+      "sha256": "07cad3ded2859d9cd25af39d919c1a1db12ed817b9907ec0de38a7659783486b"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/042.html",
+      "bytes": 140065,
+      "sha256": "cf86552f25cc3da8dc74ece1544a66feb23c08de9ff9119b00f902eac6ea37cd"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/043.html",
+      "bytes": 219455,
+      "sha256": "558e755fc279934c4faeb84bd21afe7bf261889a8534bd0cd7807bde854e83df"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/044.html",
+      "bytes": 69186,
+      "sha256": "391c435d4da9ac181e963147e7494cd8efa9a08fc785c1271b308398fe9eedc0"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/045.html",
+      "bytes": 152093,
+      "sha256": "59ecf3d4d9a164b86ad1ddf2adc63163c72a036bd972bc1669f00c1eecf088b9"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/046.html",
+      "bytes": 132520,
+      "sha256": "b8afa2ea61279e229df2200df14d94a8015850cf61fc9ac91dd94abeb380c32e"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/047.html",
+      "bytes": 68183,
+      "sha256": "fd8f5a900ffe89228b8ed21c9d8c28093d96094107c9b0f60ff73d21a4f59e4d"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/048.html",
+      "bytes": 134127,
+      "sha256": "69679818e511569ee06e36b3e1a01f5180792c79fb45a25caee33b7a4ee7195b"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/049.html",
+      "bytes": 144953,
+      "sha256": "df9a2b3c841e8a8add1c8c6380fb1c9e1530578ee551de9c4df783360bf4bc8d"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/050.html",
+      "bytes": 116310,
+      "sha256": "e7b4a383fde585df0cbfd4db727bbf4534c68e9857aea3a4ea60c6c4129b8372"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/051.html",
+      "bytes": 100147,
+      "sha256": "5cc454d0d5ebd2ffbb7dfbd7137f3906e36d7de29f735e81bd846178f95fc97d"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/052.html",
+      "bytes": 139172,
+      "sha256": "37e0d59b75a852235255548d094471f4f4693a77cb908bfb1a27b1f8722f1268"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/053.html",
+      "bytes": 186878,
+      "sha256": "a6ea0b763fe6feb37c6e8dcf8741ca5785b4bf46f591e980e3b133f4b75d8edb"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/054.html",
+      "bytes": 254779,
+      "sha256": "f08408525208a56f109fef23a0031fed85fafa5d61b60fffb7904738a9121ab6"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/055.html",
+      "bytes": 331618,
+      "sha256": "7e9c59bdaa436eed3e6ecd1c925682dc0b1e25729a67a9f10f703f7d67499cfa"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/056.html",
+      "bytes": 173545,
+      "sha256": "0ab5df53a7ceccf5f84bda834cc1e5361ac9ba315ec0a4b376511f85ccc3ebb8"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/057.html",
+      "bytes": 92335,
+      "sha256": "e17f648ed751aed53abe0cac3b6a2a7893c6877c8d11681c7e89ed18d7d56b49"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/058.html",
+      "bytes": 240503,
+      "sha256": "f0390b98439315e468571476aca81d58e9c8a46210adf8adb366dda8c17e83f0"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/059.html",
+      "bytes": 217429,
+      "sha256": "aee68b0e1e9f4d84e346f28b6054015b2e153c7111b822115237101c3077a9b0"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/060.html",
+      "bytes": 154853,
+      "sha256": "e6502d1fae3646558525026bfe936d2053565647095c12fb9776cc6d9562fadd"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/061.html",
+      "bytes": 221172,
+      "sha256": "e225c842d129061594ab73478776ee85716403fa024aea7e11dd620ac238e91e"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/062.html",
+      "bytes": 180983,
+      "sha256": "b273c4fb8fb0b064a9db62c1d48837db3f6bdd3f485f58949380c07b3ba5cf3e"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/063.html",
+      "bytes": 161461,
+      "sha256": "09196a7d6fbdade7b0094ff8e9469751f17c800f08bf395b1dcfcb9421e35ba8"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/064.html",
+      "bytes": 229039,
+      "sha256": "72d84cad7acbf2362577c9f6ab7b61af0638e31fbb68e9a9a5daaae22dd40467"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/065.html",
+      "bytes": 260787,
+      "sha256": "0db24706352f1605ae463650567a7cd4725a353efa51cb2ff19d6f025bc2d5c1"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/066.html",
+      "bytes": 220278,
+      "sha256": "c8070af5064e0297009b0b367af13d21506e0f72aeca4f0ffb605d282958e546"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/067.html",
+      "bytes": 222209,
+      "sha256": "2ceded8f3790f18299b70fdcaa25720e87fa9d6aae74ad7fd8b64ca6a1a45bab"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/068.html",
+      "bytes": 144388,
+      "sha256": "9e41b7e88fa0a80d0b93f30ecbd0b0ccff8c77a6052f607f3342eebc7869fb36"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/069.html",
+      "bytes": 207507,
+      "sha256": "b541d8a90837ba6080310ec9f54f7c5b187061ccbe3a53d77f8b0523dbc8a41a"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/070.html",
+      "bytes": 117670,
+      "sha256": "64e4484c593aeb87ded718d6c44c9d2f3273b8b6b86fc7f23294d1e5dd8a1cf3"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/071.html",
+      "bytes": 145391,
+      "sha256": "d80affdc0f0ff9758c7cd8b955167cc327cb48e20dac711f46833689e53ddc0d"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/072.html",
+      "bytes": 170546,
+      "sha256": "c812c1fc04c65aa35c3ae2d1ba4fbe9d9d5adcb826d0d69590ce753d998693b0"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/073.html",
+      "bytes": 151699,
+      "sha256": "5d06a356d8d49f4ae733fc9bd4859095b79356bf2301cd842fb3e9cde305988e"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/074.html",
+      "bytes": 196073,
+      "sha256": "f312c5c9d56aea837edeb83b1d757bd4f5c9dca0bd0b39a299c91f88f3addf6d"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/075.html",
+      "bytes": 194209,
+      "sha256": "f175cf683af4a771c8712a1fe1610da7f1c019392894a9acef0030ace7321ebf"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/076.html",
+      "bytes": 59084,
+      "sha256": "d69a4fe005265b616077309e599bd34942817bf25b19b52465bd87883ae23f5c"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/077.html",
+      "bytes": 43872,
+      "sha256": "3586d1df2f3b68646276a204e35879a1be0e5e823ed9b9d91d244a6acca5a322"
     },
     {
       "path": "readers/brecht/布莱希特诗选25首逐词译注读本.pdf",
@@ -3294,13 +4869,613 @@
     },
     {
       "path": "readers/celan-new/index.html",
-      "bytes": 15543725,
-      "sha256": "6ae7ff45b93623411980163287755fbf2d0b17efe808e162d89dbd87b498af25"
+      "bytes": 70428,
+      "sha256": "b255357ad74c42bbcd153ee1f2fdb250cc69c5353b27aba0c05b98d93d48f5b1"
+    },
+    {
+      "path": "readers/celan-new/reader.css",
+      "bytes": 19563,
+      "sha256": "7585e2650bf58909f70275e232e1e7c8261bcd1a3795d5820906340547f0b1cd"
     },
     {
       "path": "readers/celan-new/series.css",
       "bytes": 4166,
       "sha256": "7850cc299509f368df04a296378e41ab971f62452c0dd698e02f18bed650cb71"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/001.html",
+      "bytes": 20996,
+      "sha256": "46b613576ad4670401d4a079c1bf8a1f64ac1e446b2a4e76fbeb568a356cb46f"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/002.html",
+      "bytes": 47419,
+      "sha256": "e3f0adca5453e21c7f9cd5287c46869714fa882b886fb5c4a7b89ab273dccfb4"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/003.html",
+      "bytes": 90923,
+      "sha256": "3759ad0cee4654cca4d092067cf007f837d048f6b58769653f5383d8f7c8471c"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/004.html",
+      "bytes": 82680,
+      "sha256": "5eb038bc133de34b71c833ec6c39ffcb27f0198c05083593f01f9067f56d62de"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/005.html",
+      "bytes": 27538,
+      "sha256": "25edbbaef72be75f264d671821af35b046448626e3d49730c36a9b40d3fcf00f"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/006.html",
+      "bytes": 153485,
+      "sha256": "66bff6d04766a5e6f98217f511a1eab4b6704a5421d13103050370a7ab318007"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/007.html",
+      "bytes": 139886,
+      "sha256": "9519f6f8e85051024c74a5f45796991a69965155ce7aab445285a9ebd4d79641"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/008.html",
+      "bytes": 239577,
+      "sha256": "11e2bc9e0c5cadef87a9393f9d147fb52cbade9de1d42ebbd4a397db954a4810"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/009.html",
+      "bytes": 171531,
+      "sha256": "9f844ead11441765d009d757be4d25c702c51892455f6cb04563331aa4b7260c"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/010.html",
+      "bytes": 163620,
+      "sha256": "7dfb8c6b8cf944e25938d5a47547d0d63645367b6e26a37d9e5ea234677918ca"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/011.html",
+      "bytes": 161177,
+      "sha256": "ca5edb4c4851985761b860c5226a7f9687fad0779c357d09ed43ba97b1c2ce2b"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/012.html",
+      "bytes": 68574,
+      "sha256": "7ce022112e642144bcd1d26243bc316efe16bbe249314c039bc86c9ffc61178e"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/013.html",
+      "bytes": 202356,
+      "sha256": "bcff86b84d86ecea5dcdb95f2c301e45b8345826b1704a0641c75571427f0aca"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/014.html",
+      "bytes": 53601,
+      "sha256": "400a24ca8577e15f1c977142d2434ed6f4f03ff837cae9c3807e2c14f77a6a44"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/015.html",
+      "bytes": 280452,
+      "sha256": "98773c951e0400bb7d6246aed330ca11c5fa0b9477b413a980489aeb0ea3a129"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/016.html",
+      "bytes": 159917,
+      "sha256": "94d775d2a00e1801b3c55875e1280a11cf325acb4518e7d9d8914201ba47633a"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/017.html",
+      "bytes": 131778,
+      "sha256": "594e863196aa92fc859e30245f2c42db8f820ffa2f79c3f94477fee3923424fe"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/018.html",
+      "bytes": 96540,
+      "sha256": "c97c70c50ed5b5f0574a01af0b9b651faac9aeb725a53d3270baaa95ecb20eab"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/019.html",
+      "bytes": 205394,
+      "sha256": "a229b2dd1e03d22b8fa0f1be5a68772761bbc6a3e961df9029f5c18c8d6b04ee"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/020.html",
+      "bytes": 225057,
+      "sha256": "93478fd57ad6ddf61fdc9dd023b26db98c6393d3f3555a4f1f60db4bc945cde9"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/021.html",
+      "bytes": 167767,
+      "sha256": "3f54a081e32d6e20fd5a0698246e5dc94b9100d34720c0d1da38d7f20cc363fb"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/022.html",
+      "bytes": 143206,
+      "sha256": "83b9f5e75a20a0215dc4dd9326b916a1b0dc41146aa9ec39214e425f4a9fdf25"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/023.html",
+      "bytes": 107598,
+      "sha256": "4080a23281a9f93b9cd12ae15b21620351e31866928702c82b595b0adc26978a"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/024.html",
+      "bytes": 72438,
+      "sha256": "ff5ab4a69030b43c0e85e83a7ef56166955e06179a1d945df393bf86c51d5890"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/025.html",
+      "bytes": 121331,
+      "sha256": "0623234d47553fcb1cf99713e62375d9146a59d0edacc5b22bfb9d329f3cb9bb"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/026.html",
+      "bytes": 136368,
+      "sha256": "b7d9348778ecf01d651c0bf25dde37bd90a0b629a9e8df611d182588ce1c9235"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/027.html",
+      "bytes": 116092,
+      "sha256": "641b29d4ea8d693b019806b25243b39e93f5b278048719e055d6759eeb596f22"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/028.html",
+      "bytes": 98026,
+      "sha256": "5cb6284e1a3aca6bbd84051e0e91a5c831d844179da26d63e6fd3946ea4e42b9"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/029.html",
+      "bytes": 139663,
+      "sha256": "c9ba7bfb4e648c7bddfcae7e44e961ba36a5fcc0c8356bf72e96cabc62c6005c"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/030.html",
+      "bytes": 136969,
+      "sha256": "6797b59bcaadb91589f6a81b9464d757dac14895cee22fc37cfa7b0dc752dfed"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/031.html",
+      "bytes": 133357,
+      "sha256": "b5d8d41d9a7a53aef95b97c8e858172021093cb16b5037669487173cefe5e7ee"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/032.html",
+      "bytes": 90892,
+      "sha256": "4edd156802a80ac9a1931d0cc85fa4986c837d83a24944eec479131f44bf7a76"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/033.html",
+      "bytes": 93166,
+      "sha256": "a301f26258c254d79efeeea06b7eab91cf3516c47d2fcf1276ff420e7756839b"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/034.html",
+      "bytes": 93979,
+      "sha256": "af975a5be604fbbc95d88893e21c2d67ddba2607b441849599105b6ab1558b5f"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/035.html",
+      "bytes": 150037,
+      "sha256": "79b4305da01c3ff0a0a156a1856e94230a70f14d7fca3460dba9ff120e038e87"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/036.html",
+      "bytes": 90146,
+      "sha256": "1a3cc91e57f89127e0058ea44a6f5249ac2992fc05eda66aef455cb1f1db5be4"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/037.html",
+      "bytes": 115275,
+      "sha256": "2fada4fb94a8d6ffd5db432aa971c73f141976ab85b2f5809aa86b67ff3aa4f6"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/038.html",
+      "bytes": 152334,
+      "sha256": "db99ce5811c922c109dde8d3bb45f7fab1dbded0a87bb1a120f791b63184b53f"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/039.html",
+      "bytes": 74604,
+      "sha256": "8b05ded072cb51a74a7698ca3ca22e6186dc04e4d4a56e047f4deaecb77432c8"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/040.html",
+      "bytes": 111464,
+      "sha256": "e1420dd45e72561dd62075f853d3a65aa07aae1fba8f5b1103692ae9a85928bb"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/041.html",
+      "bytes": 126280,
+      "sha256": "3075b8cde6080eb00070fd14ed55070a92d76196be7a9030592374ad50d6737b"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/042.html",
+      "bytes": 156052,
+      "sha256": "2db0a930f89505d0f7a7e8d9358cf6d28868662b06d26def22d94f091fde925c"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/043.html",
+      "bytes": 187796,
+      "sha256": "a88cb82c1797b4218b277d912c438c9a954a63847372a58b08aa2bc4100c5b3c"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/044.html",
+      "bytes": 130425,
+      "sha256": "e07ca2fce1575cee1f2b90e8a4f043e5eab1c9a7d7b1e5c05e794ec0367a6ae6"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/045.html",
+      "bytes": 118417,
+      "sha256": "b80cbc47bac0728e6537bf285e00441f61fcddc0ede665654b7595626e332588"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/046.html",
+      "bytes": 162729,
+      "sha256": "5dcf8cd8c3729dc16a17bf79bab1ffc9db9cc3be2239a549cefa58435b6f4306"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/047.html",
+      "bytes": 133261,
+      "sha256": "f0be7a4f65e538acd40a99ce624f2d5aff96aebe969eddadf33b0a62a3701586"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/048.html",
+      "bytes": 101091,
+      "sha256": "d9ce83ea32c5cfd504d5f37a3f914f12f72a2b8cc4d69eea720a7f228e8e7861"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/049.html",
+      "bytes": 75800,
+      "sha256": "8bf9d6d0a2b851b3f2dbd131340a56f53f4aee0fb76432429abf2292ffb74f09"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/050.html",
+      "bytes": 124660,
+      "sha256": "38d8b7eab95b0546c96136917d3a005d373cb5acf585b47ca33d26d2321eef06"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/051.html",
+      "bytes": 154550,
+      "sha256": "02c2e4e19ddd64efcaaec5cc5979643e90143a98f5e4d5a470d1838cc1388395"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/052.html",
+      "bytes": 80473,
+      "sha256": "112fe83885d5ebf86ec9aa349bfd5b3c4a74fbddc69c7bdace04918beb9f7347"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/053.html",
+      "bytes": 247110,
+      "sha256": "65a2a035b8dbb9bf311a94a45def485e5c4fba74fd66bd7ef5e5c47eaa52031f"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/054.html",
+      "bytes": 139511,
+      "sha256": "c78420aa7a87d1dc95de94ee357c0d8c1490a4e6a6e214fd68be0463a6a25bc6"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/055.html",
+      "bytes": 66247,
+      "sha256": "dde53044c5a70ab4f20a7514f9a852e9062ea063bdb1b0140514febdadb8e588"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/056.html",
+      "bytes": 107603,
+      "sha256": "6a4f978ef503d6f0070f6352730a0bb3f552af90c6f1584383ac8345e14acd25"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/057.html",
+      "bytes": 144727,
+      "sha256": "4f11e26d19d1cd86e2bde3e80a2187b149dc935bad1c71ed39216ec64e7889b2"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/058.html",
+      "bytes": 177244,
+      "sha256": "b6bbf1700bce51582b267936200ba83dd7c946d6e5ab75cc4278f2a2c90a3868"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/059.html",
+      "bytes": 96956,
+      "sha256": "fc7db0e3a714f5e32bb0b38909141ac432c3067be891a325d1ab6ab969c5bf6b"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/060.html",
+      "bytes": 153236,
+      "sha256": "bff4fb396fecc86697be5c74cb1945d6628bd9efa573296046a11b6f9e97fcc8"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/061.html",
+      "bytes": 87353,
+      "sha256": "3f220a238bd63d6ad2871fe7271c03b22d1fc4ce673675f8334fb75450eeaedb"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/062.html",
+      "bytes": 91590,
+      "sha256": "b00171aa6e04b1f4eea1c223cf77e8b4be2bf14b5888956b29e0cc01aff93f87"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/063.html",
+      "bytes": 197395,
+      "sha256": "3846a26cd070d259e27503a1fc7e7178a6d5da9bef3d0aca75733e2b3ce2e855"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/064.html",
+      "bytes": 85812,
+      "sha256": "bb5e18c6276de5ff952001e23ff7953de919452d4ac70417507971aec54129c1"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/065.html",
+      "bytes": 83677,
+      "sha256": "f2a7de22da594b5497a80c63980b7c804bd784899fc3f2753ed80b9384198fc9"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/066.html",
+      "bytes": 107216,
+      "sha256": "b73900165af876a381eb3bfa208e50ab4c1ac5557bbb6f0d3e577bd5046ca12b"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/067.html",
+      "bytes": 132363,
+      "sha256": "46c36f946ac4d2e0cf3c8052295501c089e85d40df0549ba623e374a8fb35dca"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/068.html",
+      "bytes": 92467,
+      "sha256": "658f7f6063456fa67fa53e959286121c36cb9c6df77c89a86b1351c8c83c9426"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/069.html",
+      "bytes": 169110,
+      "sha256": "6cc07410c068f0e7ac82249c6cd435e5a7ea053f2671f7eaa44a0cf189168c97"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/070.html",
+      "bytes": 98622,
+      "sha256": "d97ef2f7d6fb35e983dbb74bee9beea7e443a17f15b568d05335a68ed2dba6ff"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/071.html",
+      "bytes": 76920,
+      "sha256": "4ba6358f0817d122ef046c5fc11180bc7bf7d6737c2832ca163a4c2508a38145"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/072.html",
+      "bytes": 100041,
+      "sha256": "7f80b5800511043110cdfe977a1a2acc7a736cc1275b93294f6d696f41443259"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/073.html",
+      "bytes": 134008,
+      "sha256": "91eb04391dafd4fa158f9834fb2fc73b56b9c79717c7b260248444a8ac3155c3"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/074.html",
+      "bytes": 116337,
+      "sha256": "344437d817a54bd29d84257c5b53acdf2c8fe9adb25ea1cb742e648e34b4c58b"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/075.html",
+      "bytes": 76234,
+      "sha256": "153b259c5e03a990fa8b93014442feefc94e731e80fa8f8317bde28e42958ae9"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/076.html",
+      "bytes": 190456,
+      "sha256": "2036c781720f0732331a8d2c3544a66211189cf7d47150280fd489c4d2fe1164"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/077.html",
+      "bytes": 133471,
+      "sha256": "6c87875e9983048b606698eadc0b17b20537f63f80952fe4d6db9764c25c2f54"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/078.html",
+      "bytes": 147734,
+      "sha256": "fb06b22a4fc577b543caf959dd2b6d442b3c615b5f23eb16a1d65e6d38f56aa2"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/079.html",
+      "bytes": 67259,
+      "sha256": "d051eee1a480076867dcd6e8d4c1c312ab6f26895b06374acc7fddfb0f8147a5"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/080.html",
+      "bytes": 116014,
+      "sha256": "be2e201a40002da0e1afb89e5df8cfc4d6f37bcd76a946dbbdb297b983f5b257"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/081.html",
+      "bytes": 118428,
+      "sha256": "c251b635017b8651950402fe320d4daab04039993af7c9ff9be54f383603d918"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/082.html",
+      "bytes": 83853,
+      "sha256": "423032ce66575b7cc89c833c7a9ea9f4f1cde49eb6c507377d20311719e0ba3b"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/083.html",
+      "bytes": 184306,
+      "sha256": "17fccbc0def6505c47391d5703869665dfdd820dfd42ba81b15f1eec8285eaf3"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/084.html",
+      "bytes": 137318,
+      "sha256": "5ee92f23cc30205e7b6b4662577af0080f9d7ea7d2490fa404347a94086d7a59"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/085.html",
+      "bytes": 94729,
+      "sha256": "dc724477d8c60b5707a74060e347fd13ed24fd18e9d82efe6656c9eec48c8f62"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/086.html",
+      "bytes": 100195,
+      "sha256": "93f396329c6126f214465e4348b242c092662e5a545a248da6760e98c2a838df"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/087.html",
+      "bytes": 109582,
+      "sha256": "4aa1c9c17c9d19f0d16a686410f73a4521ebb4f80c3fde5535535e22099e8e2c"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/088.html",
+      "bytes": 163461,
+      "sha256": "09eaad9ee1328a58770a234c6b13e2cbe3c82407570d99197a5eecaef52d4736"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/089.html",
+      "bytes": 366418,
+      "sha256": "80c20f009433fd68c26f17f0d9555e2182a5150e239f1db60242461dad5da024"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/090.html",
+      "bytes": 314609,
+      "sha256": "d4c1d9c2b516af5ec1973e2983cca5536e319fbfd10b4a44439333609bb6ca45"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/091.html",
+      "bytes": 127254,
+      "sha256": "7bd6ad51d56761a10e9ed77302ee95a5b4aef48645784998b78e2c678d9920bf"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/092.html",
+      "bytes": 240381,
+      "sha256": "f01c2b13362dc360e5b4db9dccd486df176c1191feb5d1075151abba57fcc807"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/093.html",
+      "bytes": 120864,
+      "sha256": "5a60293203b13ae9dc3050526e007e476c37c1f8d1e16178470acd4e798bf612"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/094.html",
+      "bytes": 145665,
+      "sha256": "fe95ee85feb139f6a56b2dabb8c02e7b1e9097d45f09e6664225d02c200a079d"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/095.html",
+      "bytes": 144935,
+      "sha256": "f1e180af4126ed305ff39c52e14b905cd9e4d09416017d4cd7344fea93b31308"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/096.html",
+      "bytes": 101966,
+      "sha256": "a1aa8ad8b6ca21ac30797c575b40450c313a598dd2f777098617a336c1483ada"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/097.html",
+      "bytes": 107698,
+      "sha256": "53e9f55bb3ba51d96c5a5d65919dd3a5c766a60d8070ce13f36e298f0e4cbf27"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/098.html",
+      "bytes": 136083,
+      "sha256": "a8c8fe2daf41758ac667b74726d4960a376c1d0b9211c0d27fbdbd65b3140766"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/099.html",
+      "bytes": 107263,
+      "sha256": "581f376c3905a9f899b6835e183463b223abb3afb8d25cc614bbdd1db71b5c14"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/100.html",
+      "bytes": 146416,
+      "sha256": "5db962073528a1b7a5d7fc488c76b6a4bd952a2b2df7b8db82f541e8a822d886"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/101.html",
+      "bytes": 91361,
+      "sha256": "38191c8ba895e3c5a0988385fface753ee8cac594ab51e274ee47f1d49a21877"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/102.html",
+      "bytes": 87413,
+      "sha256": "0335bcf3fd678c706ac6b80ad70f53b829a561c325d7381d43910196278366ca"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/103.html",
+      "bytes": 11462,
+      "sha256": "3216fe6810c0681f5736dc203c2efd5d8ce281a783970211841f092742b53635"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/104.html",
+      "bytes": 144657,
+      "sha256": "0978619d63455799b5f69e501b6742b53925537fbd958372ef63916b10f25239"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/105.html",
+      "bytes": 60661,
+      "sha256": "1dff6ed02b395755685a8e44177ab1d6704ca66bf792ce77404f1ec60879c0c3"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/106.html",
+      "bytes": 176212,
+      "sha256": "8806ca0f3919732f38c92d4ee0c8560e4c6e4bca8f760189f3461fd12351d776"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/107.html",
+      "bytes": 208401,
+      "sha256": "57811d9899d71c6edb8ae5fb1130d6013e7cace475d5da38a2e1621f7b2d9123"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/108.html",
+      "bytes": 210626,
+      "sha256": "bb79b0c642411c20b06bb8e791c60ce77db915d10057505366ab3bf4bfb0ed2e"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/109.html",
+      "bytes": 62514,
+      "sha256": "af9771089a3757b4b74ae6ece84f13d2e96c95a55a295846a9673aa1037fe911"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/110.html",
+      "bytes": 145660,
+      "sha256": "1dcc5b1cc2f3fabbb6a9607ee2bebd3c01217dcbcf06b197343da031c25dd8ce"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/111.html",
+      "bytes": 185930,
+      "sha256": "bb6b10783aafe8ec811eb4eeff46c494ab71e163672f5df143d46e3525ea0fa6"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/112.html",
+      "bytes": 141037,
+      "sha256": "1c30b20c436b07e27c5a2f65ff86872f2dd6e10b2c470b2b71c9b990899ec4d0"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/113.html",
+      "bytes": 152196,
+      "sha256": "1e87cb605be9353b07c9a7c92389d72cfcc741de8ce089501ca8b3da129d7167"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/114.html",
+      "bytes": 157425,
+      "sha256": "8ec82cf594101c541d5f797098a8471d1f08c44c0844a0a9cdece8ae9e8a7e70"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/115.html",
+      "bytes": 178193,
+      "sha256": "73282caed45c7258878de5eac95a3f7a4f60b90d901728c552d9c5adb14ea075"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/116.html",
+      "bytes": 171117,
+      "sha256": "43da6416598e3f6c2351237da080c56d1c373f3abc869ee20c82e2829239bdae"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/117.html",
+      "bytes": 180998,
+      "sha256": "2ee0e563fb47521d24b4a31e66eecd2d539afe8d5fbaf8d800bb726036594aae"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/118.html",
+      "bytes": 29890,
+      "sha256": "9f71cb82ee1b0ecf5794ccbe4d7257b89df8a803bf1dd9459514aaff2a207a63"
+    },
+    {
+      "path": "readers/celan-new/web/text-pages/119.html",
+      "bytes": 44462,
+      "sha256": "3c39e34633e548bc6787d47ff8ce4c973d2cd93d9faa2d71f7b782ef7cfd5be8"
     },
     {
       "path": "readers/celan-new/策兰新编31首逐词译注读本.pdf",
@@ -3489,13 +5664,463 @@
     },
     {
       "path": "readers/george-hofmannsthal/index.html",
-      "bytes": 12888637,
-      "sha256": "b8bd3b1e4d7e8b7c90e70b3ee8a203ca7f06084e774f1d3eacc984222baaad05"
+      "bytes": 65891,
+      "sha256": "69f0a62a675fe8da06df14352f56d07b0e261b4de58cd1ae6ccf9346c966eb69"
+    },
+    {
+      "path": "readers/george-hofmannsthal/reader.css",
+      "bytes": 19420,
+      "sha256": "0c4580c28c0e5b257431e5a04906ebb70b6d32dc5bbe44d75fc7c7bc394cb273"
     },
     {
       "path": "readers/george-hofmannsthal/series.css",
       "bytes": 4166,
       "sha256": "7850cc299509f368df04a296378e41ab971f62452c0dd698e02f18bed650cb71"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/001.html",
+      "bytes": 24796,
+      "sha256": "89152d44c585b20cf3e46501207577032e54f05c085649f4e4e38072555fcdd7"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/002.html",
+      "bytes": 53117,
+      "sha256": "27609417a7f0c5299a95b2e829c1bd523ee9e3d1b02e675901b836214d481569"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/003.html",
+      "bytes": 90942,
+      "sha256": "0ed857134da2da46ea685764175d429256d6c9246fdd21bf28037a51ef694c2c"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/004.html",
+      "bytes": 135187,
+      "sha256": "c31edf21a2b645479b5826254b40cd06a096c0ce6ced0f327b666ceaa985dd15"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/005.html",
+      "bytes": 203023,
+      "sha256": "4a25c35838667cfabd1c9fb94df7f5afb8fe7fb5c9404a8d9fa0145242648734"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/006.html",
+      "bytes": 139867,
+      "sha256": "3352566f72b9a279f7084fd70d6bfc146ce5b1ce016c434616aa74a2f1eeed59"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/007.html",
+      "bytes": 210485,
+      "sha256": "fd4da92ef18e2c7549c22235d34750d9977cb7b173b5b340da7e3a9af6823898"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/008.html",
+      "bytes": 182026,
+      "sha256": "f194616d923bb9b24233012a523b27abf6f40ad2b374b406ed596fdb41e32ac2"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/009.html",
+      "bytes": 211127,
+      "sha256": "25d8950aab8927cc2efe89f601498d50a1cfecb984f4884bac2fdd1ac7278af1"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/010.html",
+      "bytes": 121120,
+      "sha256": "a13468618370a1d9e1da4f9c8fb0de0ef1f44614f2ec13cc40be18d373f58e2b"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/011.html",
+      "bytes": 219378,
+      "sha256": "8b03852fd8802635bf819f2b55db0873027879f1fd316a34d580c90c8dd3461e"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/012.html",
+      "bytes": 100564,
+      "sha256": "5c0fe587380af4b608930f6db1e896b703b1df059394122da4b4ee354cab9c71"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/013.html",
+      "bytes": 123306,
+      "sha256": "ae2321a95bfa66c4a59e6caa48f94e73247b4e9d3e834e53568ecec28689288d"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/014.html",
+      "bytes": 222608,
+      "sha256": "8e845185e36f200d7d59ae66e2933ad8cfd0cdb7e02a7fc3b8b97a600d888cd6"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/015.html",
+      "bytes": 111837,
+      "sha256": "55b026a9cb4f8a2832dc9a103cd46f09d30be68bb710c80ebdcdeda520dda4f9"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/016.html",
+      "bytes": 89995,
+      "sha256": "3985a60834fa51b9a88058d8d82cc307546d549bb17eed9555536ffd521f8389"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/017.html",
+      "bytes": 121937,
+      "sha256": "cfeb3769eabaff4e737ae503a97fb70909f1ebcc5c71df3c319d6a9441cd4053"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/018.html",
+      "bytes": 67876,
+      "sha256": "9290a29ae155d5def4dd765048c959da21dea51a628817ed5cb0f6970577018f"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/019.html",
+      "bytes": 97630,
+      "sha256": "5f4101cf24e85d9a905fe60ef34f7a4104ddcf6ba646a5374ed4baafeb96d008"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/020.html",
+      "bytes": 118031,
+      "sha256": "d586491c03e32870e42beb2daa74f2f9454ceeac51d6aa037de90b4776749272"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/021.html",
+      "bytes": 112500,
+      "sha256": "58d085c5640584819f941a97e7bfeebe3144f542de4f77ea63eabb04b2a1dbfc"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/022.html",
+      "bytes": 101473,
+      "sha256": "6894d1e8bac9d2b450aa54d38def0538f167923a9549d14c3606fedd17b72c82"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/023.html",
+      "bytes": 97956,
+      "sha256": "0775e30cc6d5ff9fffd184918fe4b331883012ed5395df8ba2331578b7e37b77"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/024.html",
+      "bytes": 90763,
+      "sha256": "298d3973a654ee0b9b6035686b19b8fc68e468e8a3ab9c7cde2d5390d1832899"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/025.html",
+      "bytes": 191800,
+      "sha256": "649588eba1136683b3df74bc92880ed64ff976d8aaf0d1b69e8f79d6ddea5ae9"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/026.html",
+      "bytes": 174343,
+      "sha256": "92be8417dd28707c7b92632ca1c0abe875eaf9a00dc1b56e1d29ff3db870b993"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/027.html",
+      "bytes": 87916,
+      "sha256": "e63d54a327f6789ceef9d52887de6fcea1cbcd5d85ec3b4361ba86cdb796d7c9"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/028.html",
+      "bytes": 128626,
+      "sha256": "b76b726c50d31100f1b58bd501ce97ab61820a5ca7bbd9ef91074ad46880f5e1"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/029.html",
+      "bytes": 136952,
+      "sha256": "a506fe433755e650815c084fb4e1221caf5754a649bfb0033d7f8da5219187a6"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/030.html",
+      "bytes": 85923,
+      "sha256": "083ff264a4c2661fabc161e76883ae07e1a3ee92927140e668beaee1a6522f0d"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/031.html",
+      "bytes": 200852,
+      "sha256": "f023035e17c1b387034f86b9cc0a31ce86e04ce1ebb07e781244fbf2961957f8"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/032.html",
+      "bytes": 149293,
+      "sha256": "e559f9d7b9c54a675399b81004c64503e4a4a73da51772f523da43e32c8c8c66"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/033.html",
+      "bytes": 180215,
+      "sha256": "06eb324949bf8c6ea5f76a148cbe1a41ec4ac59ada5dc8808d3d5ca122c2831c"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/034.html",
+      "bytes": 78940,
+      "sha256": "1c53f40d59142503e62b802f871d7c365ed7dacf2e4bead36c2aa10e57cf2fd6"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/035.html",
+      "bytes": 95690,
+      "sha256": "17bf86e6337938578255819abb28c54756e635403be112bbdda6626f89a0dc10"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/036.html",
+      "bytes": 217125,
+      "sha256": "81bf4b074b9538070a1435381e128c1d48ff0177ed474e4b637358e3d884cc9d"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/037.html",
+      "bytes": 158523,
+      "sha256": "f9da30a2863e47c8e1ae802c26fbe190c255329cc0f5f156fec2005d83c62ea9"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/038.html",
+      "bytes": 113889,
+      "sha256": "0053b3bc36303ca6a4d44579e0778f620d13cd4121d9a88e869c15c2d224ebf4"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/039.html",
+      "bytes": 246739,
+      "sha256": "196c0cba9b3869ab632ed61732ddacff0b6b1463dc7ecd4f772e594328032b86"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/040.html",
+      "bytes": 84888,
+      "sha256": "0a1f511692748029520c9bea4f505b5f4a516cbf05524d6e2ccf73c8be5da459"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/041.html",
+      "bytes": 145595,
+      "sha256": "7e20967983819c992a9ac02dafb4048303789cd3d816baad8114e17b5bb03e63"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/042.html",
+      "bytes": 175144,
+      "sha256": "36b28eca5cf42240d07feb4690168179f00dc95f916dbdf0d26f4099d7805ed6"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/043.html",
+      "bytes": 217663,
+      "sha256": "92027e0886bd9f7ac477b3540e1a95196f4e3dc8fa156d5e8e1d52ceaa67bd23"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/044.html",
+      "bytes": 205684,
+      "sha256": "5ce824945cec8d514d0faac9b9facc0b4f8a253568c85da2b75b103ca7ad4d20"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/045.html",
+      "bytes": 138486,
+      "sha256": "a9e927d1aaa61d682b8c64ef3a2394bcf6154ae3e41c28e10bd332a97a15ef5c"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/046.html",
+      "bytes": 205646,
+      "sha256": "e4604bf41322f509ceaaf5a33e2139fdb33c373a67fe30056abae5dbfad8e84c"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/047.html",
+      "bytes": 107313,
+      "sha256": "2897158953bbdddc3eee5e8d9f8bfa1046c0490b2668ac4d2a9f1eec9a13fe64"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/048.html",
+      "bytes": 116171,
+      "sha256": "78d5025650ee263893dd834a6a8b426785524efd3d94f3698c1358f3156985f3"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/049.html",
+      "bytes": 178620,
+      "sha256": "d2f1485aafcf9b92149167230510dbac8bcf29f0f224d466432e5eb383495d9a"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/050.html",
+      "bytes": 143671,
+      "sha256": "8ae02274a7897d9b65f277e8bc3b9099a061014fabd9b12b622c0362d09da536"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/051.html",
+      "bytes": 159077,
+      "sha256": "9a1c9c404b748eac88817911052789090a399ede75492fc4cb3ca28ff84b3fc4"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/052.html",
+      "bytes": 161115,
+      "sha256": "46d0194493504396b45c5ba05ca7d13807021c4ec190f226cafc42e2269a3af9"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/053.html",
+      "bytes": 84940,
+      "sha256": "676ab326bc0ed3b357cef93cbc01dfe6511bf1a9b178cb7517a7ce9da1061a50"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/054.html",
+      "bytes": 197225,
+      "sha256": "2234f793b5dac2e3da2ecc054446f6880b6f6e069d475e9a302f401baa6af88b"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/055.html",
+      "bytes": 132270,
+      "sha256": "68b64d860400ab9b05a640abe13ae51dab5a99102156d20ea5969aa76b90eb1b"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/056.html",
+      "bytes": 224737,
+      "sha256": "712e50f73f642d8f33f73b0718c029abe763a99628fbd0bdc9e089116c3f31c3"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/057.html",
+      "bytes": 112795,
+      "sha256": "87e1c2f658c5e66c33c76e1c4c1e3abc55d14feb98689b0698c53ce02e6beee8"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/058.html",
+      "bytes": 109658,
+      "sha256": "cca0bb7ee380d0758caf01ee0470092c6a0d5d8be947e3c2b40e95397ed15394"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/059.html",
+      "bytes": 227787,
+      "sha256": "34133548eaf57a14b0926e83385c5c2898d9e9304333c78230e256704b732eab"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/060.html",
+      "bytes": 156700,
+      "sha256": "dd632d8b462c7571cc80d0a3394192497a9f691d13df6cac4f88ea9af7e294e7"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/061.html",
+      "bytes": 97803,
+      "sha256": "ca07ac59346e12620786c34fe1a8487e731be54d5d868f8f42404bc80b73b03b"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/062.html",
+      "bytes": 250407,
+      "sha256": "d35f35f00941051e15b4336e398f4e062e15168be8349fbc3ad01f1fb8b93251"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/063.html",
+      "bytes": 160439,
+      "sha256": "1a4f7c2e12b8b6ab65823c14bae358c991c9b04e21292e98e4945c7e518c47f9"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/064.html",
+      "bytes": 110721,
+      "sha256": "69062e9d5f5559a1915b9c47e505f65fec517b2d28c74bde30ed03e0d554b16c"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/065.html",
+      "bytes": 252996,
+      "sha256": "9bc6823a6109182f7bb692ead30171910ee4a2f232110955ff924d51e989ae62"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/066.html",
+      "bytes": 158605,
+      "sha256": "07323082aa0f7a707b12ffaa483a130e154475ede92179227d6fd6aed34d1a13"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/067.html",
+      "bytes": 135639,
+      "sha256": "60e727fde0a6418034d7bf9c37a7bf1281513ff07309e398296dff079af6fc4c"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/068.html",
+      "bytes": 76793,
+      "sha256": "9475920d64bf0501f6bfe56f9e26c16e616e4b0e3da1132b59f56b5a7f9e4db3"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/069.html",
+      "bytes": 208420,
+      "sha256": "4100a108ffbd057e39b38f8070d46ba9e05473945083a38603a3280a6ee60a82"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/070.html",
+      "bytes": 137261,
+      "sha256": "fcd1f80ba9938151aff194a3a90276e2193a0bed1e16c2226ee79e30d69360a7"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/071.html",
+      "bytes": 116701,
+      "sha256": "a91b065f4b035ab133fa3338be9ae181c21a685652e132b8795b81b10b0704d5"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/072.html",
+      "bytes": 136007,
+      "sha256": "7dc22af8b1f95e1ea937be8a19528977b42a6137808f8fa362ae4e44b87b4676"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/073.html",
+      "bytes": 104636,
+      "sha256": "c47cb423910e7b0001259258d8cdd5db53e3e9f7135ef266968f6095710182ca"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/074.html",
+      "bytes": 115243,
+      "sha256": "d52a536620335109bdbc44a5014776d21527786f37eabc4e58eb2228d00a5591"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/075.html",
+      "bytes": 269777,
+      "sha256": "54e0e472754996fc05090e1fb490fa32457044779a7569c75ee338e70bbf9057"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/076.html",
+      "bytes": 207808,
+      "sha256": "3db2107c8e858f2d64722e805cb134eb4ee3f7ca730427f129ba5d27ddfad326"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/077.html",
+      "bytes": 176002,
+      "sha256": "ed7af5532082a5b84f9103d94ca7e8a6625859b457bdbfe5ba15958e28ea41bc"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/078.html",
+      "bytes": 103259,
+      "sha256": "cbda144008f9fcf8ee33ad40cb2dba7b1466d27f9468580b699c04c5444fdfe0"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/079.html",
+      "bytes": 195511,
+      "sha256": "bb0d4a4d7658f16a86a1b6a5c4e0f12c6bfa81c704b7595e3c2de267b2275c53"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/080.html",
+      "bytes": 159620,
+      "sha256": "9738724a2ef0cbcfb0a4bf17266a33398da8927df588307330716e3bec94060e"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/081.html",
+      "bytes": 83651,
+      "sha256": "5d311eb01501bd6f733846e17b597ff522786eeab70c9463cdd8bf34d89ebc46"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/082.html",
+      "bytes": 149528,
+      "sha256": "aa22d1f8e409e413f2a96e763d1113b36b855944dabc5d9b64a3204f764e70c0"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/083.html",
+      "bytes": 173212,
+      "sha256": "ac95274a8881ce870e4cde8a31b2d3f71c5a7156293ef1a045351a30b00d2d25"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/084.html",
+      "bytes": 172041,
+      "sha256": "4f545bde8ae7a569bcbbc137e2462ca82fb893a183d2811712954125984770d1"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/085.html",
+      "bytes": 114071,
+      "sha256": "b9a020cb93e53340df2d156ac32a8acb411945a08327ccb11b0e6632c89c4849"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/086.html",
+      "bytes": 163243,
+      "sha256": "f7cfee8096573b1367826ca7342fee044eb3935d0084cf2ebcc06c50c77937eb"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/087.html",
+      "bytes": 132069,
+      "sha256": "86a0ec2cc23fafc3889681cb7c8ea3fb13e6dc73fb3f56014fdce5ce8bed3bb0"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/088.html",
+      "bytes": 104846,
+      "sha256": "e0a3a1865cfb1ba37c770e7e29ca0efa27e769310778694ee4d532e13d6a7f85"
+    },
+    {
+      "path": "readers/george-hofmannsthal/web/text-pages/089.html",
+      "bytes": 44372,
+      "sha256": "05ea4371d6008a76cd00c565a518b5955cae0765e249e808687e9dfebac27a0c"
     },
     {
       "path": "readers/george-hofmannsthal/格奥尔格／荷夫曼斯塔尔30首逐词译注读本.pdf",
@@ -3669,13 +6294,418 @@
     },
     {
       "path": "readers/lasker/index.html",
-      "bytes": 11616752,
-      "sha256": "8b65cb36cb108462ecbb37b18b94179d47be040299ba69e656bfc81976b55176"
+      "bytes": 62092,
+      "sha256": "4b0e361520938b0c0fe189e9a85de4067f899ff31bfbd6ddd2e9faedd2054e25"
+    },
+    {
+      "path": "readers/lasker/reader.css",
+      "bytes": 19420,
+      "sha256": "ea998cc34623380f4e3bf5e1f4319ba79a139b8e23021d6b739521ba1abc581b"
     },
     {
       "path": "readers/lasker/series.css",
       "bytes": 4166,
       "sha256": "7850cc299509f368df04a296378e41ab971f62452c0dd698e02f18bed650cb71"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/001.html",
+      "bytes": 24262,
+      "sha256": "db722f5027be0125db11a2576b9361b48b31a3f226f3646acdbdab57ca51c4d7"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/002.html",
+      "bytes": 47449,
+      "sha256": "eeff07c6b253d1b36a9a8a2f75995fb1081b9cfde363b588c0c8d88174878e79"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/003.html",
+      "bytes": 89862,
+      "sha256": "466bee70e3c707149b37cd8394f082918d6db24341d2f2f07ad99107e5c95d9b"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/004.html",
+      "bytes": 115188,
+      "sha256": "70a27fb0da4b307a67c13215a01c3c8fb632ec48d2733233c23cc1f2928c638a"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/005.html",
+      "bytes": 138662,
+      "sha256": "df315b3aa438612e376f859e624b6e66667fc263e766549bfdf90f4dd62fb99f"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/006.html",
+      "bytes": 137142,
+      "sha256": "32f41656bdc27bc9b557137e56fcac91fad1bae20dfc017fc8d1f30778ab86c8"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/007.html",
+      "bytes": 162378,
+      "sha256": "21b56318e2fd73b4e805ed18da9dd3fd1311a32ddbd9240b1afbee7682d4f35f"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/008.html",
+      "bytes": 105170,
+      "sha256": "d82cbed9c4c6414ef1abf285504792cf7ddf7f376db6440d35070c58b41522a2"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/009.html",
+      "bytes": 131786,
+      "sha256": "6491fd44a25a716569042934d5117568294c2969fde6474585c536edbc9d7b9c"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/010.html",
+      "bytes": 179826,
+      "sha256": "59c81a5e8d988c570ff960029d99b675b757a1e45927b0c59fee7c80a176b0af"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/011.html",
+      "bytes": 173130,
+      "sha256": "37751301c05c9670cc074f3a94e74536ca6f78a7fa18768f34a700d3efb37703"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/012.html",
+      "bytes": 127605,
+      "sha256": "cd0308c537465c8aa5404f9b7ad02fbc2dcc8d0c199675488ee8cd839b0832c0"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/013.html",
+      "bytes": 142551,
+      "sha256": "e7957c4fcb35fc3a8453694200ba08e55a7adc8d88d974ab5b4ddc79de5f87cc"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/014.html",
+      "bytes": 105984,
+      "sha256": "e7e40bf123b69d60ec9cdb073641d0ad06b242a43306e4a90878680a4017bced"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/015.html",
+      "bytes": 147289,
+      "sha256": "b40a6d1101909c8626a9c88cbe62e97c030d1a02ed67b2d20540135dc175fc78"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/016.html",
+      "bytes": 103318,
+      "sha256": "3cea23fa7c26c106c7b87381563fd089b125c0f71f4dec876c9c622c68e36eec"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/017.html",
+      "bytes": 147477,
+      "sha256": "a3c103d6636de746d53a87be1cfbf81080b20337e690d1b4f0e85c3ed5c319e8"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/018.html",
+      "bytes": 141193,
+      "sha256": "b702532dbf501c1fd03cd95a65627c1a2df2929d7a02ad3d29ac45903207d0f4"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/019.html",
+      "bytes": 148183,
+      "sha256": "00ce8bd5f13ba9b4154db43872dc246d34b0af3cd8902035354c344849325b9d"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/020.html",
+      "bytes": 95344,
+      "sha256": "0c91488a274e3cb39805b39c481adebd1cce4c7e961610d7856360785e9b3272"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/021.html",
+      "bytes": 74009,
+      "sha256": "842431e8653eaf70479f2fad45f0ab9a542664d7aa5cd3b6f38f105ddd63aaba"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/022.html",
+      "bytes": 155386,
+      "sha256": "9425238246af746972b023c29fbe0f79183b2a80ae7d56ab510ef1e57687f6d2"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/023.html",
+      "bytes": 105647,
+      "sha256": "6f98788cc7e62a467a8274cdf89a0074ef06ca46a810c998d60303986ccb53be"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/024.html",
+      "bytes": 155661,
+      "sha256": "d8cbe4ee2bc41b948d003c4e457caf4a05d8bd18d11a5492b44ddcb2dd114afe"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/025.html",
+      "bytes": 136562,
+      "sha256": "5b1d98b211c0883271544b9115eb7551ee46209defd8e437cdae5e052471aaa5"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/026.html",
+      "bytes": 149550,
+      "sha256": "6522bb1a9b799b3d2e7e75ef143325a4cdef717b6344ca35d1a7e650db482cc5"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/027.html",
+      "bytes": 169072,
+      "sha256": "2794fdac5fb9e5fb422a16003f36df04c91235816d28353db5d48ce7bb673248"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/028.html",
+      "bytes": 132043,
+      "sha256": "9ef93ed4c25e9c685eff74fe1d2a20192b2acc8d337efe745af6a15f1a4f6ff2"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/029.html",
+      "bytes": 225740,
+      "sha256": "b9637573cc0a88e7ab29c51acb5a881ab4e17356403acd6132fbbad2899145cd"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/030.html",
+      "bytes": 173280,
+      "sha256": "08e957d631b43c0e1fb977f0361bd212ee2fdf14899f1017a3d6d6317f903132"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/031.html",
+      "bytes": 152815,
+      "sha256": "4e0a96a5ba6ab709235ecf14d57252a36567225ced230c730cccb99758347088"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/032.html",
+      "bytes": 210385,
+      "sha256": "95c87e48ec8ea9a7340b3dfcd0c7344830c54d4955b718f74b8acba3c5416d33"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/033.html",
+      "bytes": 125278,
+      "sha256": "e199dfe7331ff9d7c6ab451880c038c4ef03bf0f9a1edf7659370e05ebca9b19"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/034.html",
+      "bytes": 123320,
+      "sha256": "7e63d8d79e22ea068951c88ac22fdc83d2fd7e46b3eac1339e26d75bc19f7ec6"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/035.html",
+      "bytes": 174378,
+      "sha256": "73d8476524ab97922604639ead2ec54a4a3ab25e5291ea36dd694e35b7259707"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/036.html",
+      "bytes": 106408,
+      "sha256": "6919999947e046539abd87d569ec6eedb226c905207a2fd1e427a85c5c163887"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/037.html",
+      "bytes": 139990,
+      "sha256": "46a7cd04eea39fc37ae40b74530228acf58afa7b14006fe764eae68d7023723f"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/038.html",
+      "bytes": 188525,
+      "sha256": "54ef2dfe3fc5488f0a9b056ae6b77b1e1cbc023d916850b9172a37112fb67042"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/039.html",
+      "bytes": 162014,
+      "sha256": "f48512b8ce39d8d1eedbd45fdb54a4f74159e74d6be4f50aae36f25dd0b86c21"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/040.html",
+      "bytes": 69421,
+      "sha256": "e8d2d7b691791accdb221b7fdbeff6947ab8d890613b74ad04f4421cd87e5f01"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/041.html",
+      "bytes": 219066,
+      "sha256": "bd42e3d16bd2594c6a34adbe27581b8610c6112483f4b970a04bf0baa2a4f398"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/042.html",
+      "bytes": 161128,
+      "sha256": "46b27f8e59904356a1c8f1ca3272c30c27d2ce9c3900569e5f5d2be7df5bee6a"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/043.html",
+      "bytes": 238849,
+      "sha256": "7d9fc84fcab31dc52872b0a81d616fe412ffd6657e126f62dacf9da87c547d86"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/044.html",
+      "bytes": 156582,
+      "sha256": "8ebc17b4f9249d3ab19eb2b1a871bed0bcb96d30e7ce62c7d6dd395bc5cbf4ef"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/045.html",
+      "bytes": 82250,
+      "sha256": "c99c18eca010091cd0f7419786f08f895b00e74c37ec672aca8d32cde256975f"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/046.html",
+      "bytes": 191028,
+      "sha256": "424e136e8093d557188abafd3ba73de3a718a9c842e81e10af481712cdf9a529"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/047.html",
+      "bytes": 226152,
+      "sha256": "bf616b1cef7e70b8028c773a4f7799d87ab620eb49ebadd607c6be1ca5d43fec"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/048.html",
+      "bytes": 71483,
+      "sha256": "233d9774ba0c3d6c23f934f64996bf2d858a8423e1f50f844a322a032f0152f0"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/049.html",
+      "bytes": 205821,
+      "sha256": "82616c4d9c45c74d249ade372a786e8ad6acecba09d1745802cf8bbd86da7846"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/050.html",
+      "bytes": 143158,
+      "sha256": "d1fd5b20ea59d16826dc86ad44b877909ec53f7f7ff7ae7cc9a88ebe64e0510a"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/051.html",
+      "bytes": 97458,
+      "sha256": "4c1fc3d699b08c523c4d815765e4211b9a2881562dae24c06bbb569f07be8431"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/052.html",
+      "bytes": 168389,
+      "sha256": "ec4c862613acbac25962fa4303e860c6bafb0a78f58432b9d33d8245192ce0b4"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/053.html",
+      "bytes": 215807,
+      "sha256": "6f5a98c9079b952c4fd38b1ff6a4cea07d85a6439644483ef999a5ac9fdcf98d"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/054.html",
+      "bytes": 215625,
+      "sha256": "9dd33ea7ae0c045f19b60b53830f70939dbfb53913dbd63d0614e7cd344b7fcd"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/055.html",
+      "bytes": 181936,
+      "sha256": "7c5984e6b9df62fe741715cf9b12f850dd772b208710712049da1415f39ac9f2"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/056.html",
+      "bytes": 192983,
+      "sha256": "d53423bf54f6c55cdf493376b144b9bd12b55d7784f84159b48fbcd5c0dcd9d5"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/057.html",
+      "bytes": 227959,
+      "sha256": "5c9839cfc039e9d3f8af80211ece793bbba9c47a3cd8783fa4b56a9362f51c5f"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/058.html",
+      "bytes": 80394,
+      "sha256": "404a6449b9f33aa7c3002e056aeac6d7c5cee5f235baa67865f6fe344d622edf"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/059.html",
+      "bytes": 142746,
+      "sha256": "24240fa31b74245d869600eb75f36f08c431fd6456ed5c90cfadd09d5d89540e"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/060.html",
+      "bytes": 161121,
+      "sha256": "e42acb7d65e89446af1be8be34131186cd49033643ac8cd47622ba5f91aa71ad"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/061.html",
+      "bytes": 87143,
+      "sha256": "fdf59729de83d4a086d8081cc3c9660a0e5cb0bee0957039d68e4a1ab09007c9"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/062.html",
+      "bytes": 163505,
+      "sha256": "18d1594760c9b0505c373451cc8d41aecf200eb48ef7b8bdacdabc5a6cd91de1"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/063.html",
+      "bytes": 162550,
+      "sha256": "7b8cc90bfbe5dcaa998839c379a1282bf386aab68cd023f5fbc5882d48bc3280"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/064.html",
+      "bytes": 142741,
+      "sha256": "f7ff8ddff618fd7bf10f4d2159f138fbb1ad35ebd2536b15c5a8ec8d8a348e20"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/065.html",
+      "bytes": 162744,
+      "sha256": "7525eabbdaf98c6f1be5a82400a4b51be1bb3bf8a52a7cb1efe853ae4929c4ff"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/066.html",
+      "bytes": 157911,
+      "sha256": "100828b0fc471c74201cf5513e9dcdee70d047edea028296dc666c7fe81f85fe"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/067.html",
+      "bytes": 123062,
+      "sha256": "b9255274b46593b6721c26f50d469527d7f608c4d288ab2d8ec80a0ad7a37a42"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/068.html",
+      "bytes": 68249,
+      "sha256": "57ae7f4ff6d8934d7f237670506015bbc63305095c002de3925d2ecbf080bc8f"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/069.html",
+      "bytes": 110406,
+      "sha256": "f890aced8b84210cf7a9f6110c6c086af62e1155ff4d120dfc843970595fc3f6"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/070.html",
+      "bytes": 161618,
+      "sha256": "34a34544b7b84c6ad59893f75707ca51bf340f1f2d86849794a974f4d8f5f3ab"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/071.html",
+      "bytes": 142745,
+      "sha256": "8b872f453a81104473beba789dc54f5aa37520948083ec0eb39c82ea2809f723"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/072.html",
+      "bytes": 82404,
+      "sha256": "fa849fbe5fad79e3de7d1b374817042db06a244e1e14e502910a3966650b6888"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/073.html",
+      "bytes": 258309,
+      "sha256": "5fe774c95e98a83b16eeb98c3adf049232438fe77096aa7708384c2a11f99ac8"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/074.html",
+      "bytes": 239857,
+      "sha256": "8faf78627cc6c9f486025b90999c211bbfb5fb0d3a65fe942fad666fd31c403a"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/075.html",
+      "bytes": 166523,
+      "sha256": "140659c84e5d374cc99a82dd0b44b382f11df700bf517fc8b672fb246fc96f75"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/076.html",
+      "bytes": 125675,
+      "sha256": "29ebeedb800b6d6109d0f4108a5642269d32387b59fe1855519fe4073e4232d1"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/077.html",
+      "bytes": 163588,
+      "sha256": "8d7ac66bf6f71f440660239c7fe4e7c34e9c3001fe738c2643547207b1b79cb8"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/078.html",
+      "bytes": 187981,
+      "sha256": "d4fa20e363a765a8c281c5565cab5d63ae0593984285b1586eb18207730cceb4"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/079.html",
+      "bytes": 92473,
+      "sha256": "ddea4f5479b326942d127caa4e066606fecf257308c44b6b5b02513705c8a6ec"
+    },
+    {
+      "path": "readers/lasker/web/text-pages/080.html",
+      "bytes": 44638,
+      "sha256": "e91a1a8ae13e6d957ed5b0c69e9335839233efa2e368b22ba370f125dbcad300"
     },
     {
       "path": "readers/lasker/拉斯克－许勒／萨克斯28首逐词译注读本.pdf",
@@ -3824,13 +6854,278 @@
     },
     {
       "path": "readers/rilke/index.html",
-      "bytes": 484,
-      "sha256": "f04d026e89e162ee79d616cd75dc669da6356af2e78a305699fbaf989e3981ce"
+      "bytes": 51696,
+      "sha256": "482f8dddaf611dd8a2b02223dc6c82f38ab132e75deaf0543d6bf32645100b80"
+    },
+    {
+      "path": "readers/rilke/reader.css",
+      "bytes": 19420,
+      "sha256": "d55b01f7b32b31bc7e44b4df687fc88e69eaea83d1593711e0530eac4505a2c0"
     },
     {
       "path": "readers/rilke/series.css",
       "bytes": 4166,
       "sha256": "7850cc299509f368df04a296378e41ab971f62452c0dd698e02f18bed650cb71"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/001.html",
+      "bytes": 21930,
+      "sha256": "a0e4f3a9e564ae32da592b9287411f7df6d6f5e40368f58f7975e805e9e8a6f6"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/002.html",
+      "bytes": 92709,
+      "sha256": "bf4a19a570d79d8bcd3ecbd1cf1b92e3631129a9c7e68204a66f4c6c33b6720a"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/003.html",
+      "bytes": 87945,
+      "sha256": "f5b1ef4be4e07bb8a44783015b6b4eea22e9a05325de320bf3b8df019c7aced1"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/004.html",
+      "bytes": 83388,
+      "sha256": "b8de13ec0cc6b3221079894d8b579c809d801115990b8055187bf261b2542265"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/005.html",
+      "bytes": 206658,
+      "sha256": "ce9623f691e5dba78079fd8202a560aa997a313ec4983c686149ae584980367b"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/006.html",
+      "bytes": 67995,
+      "sha256": "800e907e50a8b7fa83d910e0d3d6bd45f2276041b89caab0a674664cede178d4"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/007.html",
+      "bytes": 186238,
+      "sha256": "0f62a4e3e46b139ec07fa5c0bac87e46d05ada46d4794f94b07a84f803a7df16"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/008.html",
+      "bytes": 62763,
+      "sha256": "c758ca3b64f2aecef04adcedd9dda579236c8c7e360559e4eecbf67053c160e5"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/009.html",
+      "bytes": 163212,
+      "sha256": "dc8c58998232a0ed9655cfc44d27e3c75f5fa83f1d3c65922a4de6619a853f44"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/010.html",
+      "bytes": 37528,
+      "sha256": "37fe7c16a76f5a0b21fbe2c4a2a4fa2321442311491782074f91bb671ed545ba"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/011.html",
+      "bytes": 188916,
+      "sha256": "bbc43839526d868d1ce8ae1af7cd3c2122754802bf3672c4f43020582902c81c"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/012.html",
+      "bytes": 63325,
+      "sha256": "c2282d90e81d36d4c992f3edc8410ac0bc9c2d382cbec1ceb4f646cdecbff78f"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/013.html",
+      "bytes": 199688,
+      "sha256": "89ecb3437a5fef6ff557263f5737ddc50bed91df1e873ee188bed63c08a51fca"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/014.html",
+      "bytes": 86265,
+      "sha256": "a56d9ad0ad4eddc3e2d12d6b00566aa10f59e175c4262de2b254edd723b07bed"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/015.html",
+      "bytes": 145057,
+      "sha256": "76dc2e8567ff3e63402d77f5daf31fe12c6c20627a31b1b30fa129db060371a1"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/016.html",
+      "bytes": 57127,
+      "sha256": "af77a85600ba45d263e1458e185fda5a0f210859c6fca47bef2df0795df10a93"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/017.html",
+      "bytes": 190615,
+      "sha256": "b898cb125610a5a36401904c2c67adc57cbefb780092b42a42f1106660519858"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/018.html",
+      "bytes": 42323,
+      "sha256": "4313f04c683bfb76afa6e2b40e883133e56b6bf440922d6ccb1601af3c1d7a8b"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/019.html",
+      "bytes": 110223,
+      "sha256": "1614f019a41a7b166ac07e48224615f787c91b5c929fac4dd0c5e115c59fd357"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/020.html",
+      "bytes": 211587,
+      "sha256": "330ca96692cb9cd793a574c37cdde104b8fe7f7e1bb42815f034ae0f43027129"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/021.html",
+      "bytes": 101371,
+      "sha256": "474293f59f4d7b1d442fc563ec5ad0df829ccf7f5ad9756708b59b0974a91d1f"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/022.html",
+      "bytes": 170941,
+      "sha256": "59f0bd59f78c88055b45bd2cf6b29d69d4b24de1632b16814f0a7ea92ae6593a"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/023.html",
+      "bytes": 118420,
+      "sha256": "0c9bde122faf2b4194b7c29fa1e0dd980dd2378757b149517918831d7ac90246"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/024.html",
+      "bytes": 213361,
+      "sha256": "824ee3068edc936859344c00cfd2c9e57df74eac1033d9133558943dfba9a15c"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/025.html",
+      "bytes": 45635,
+      "sha256": "9578f70cb8d4042dc4f3a497a0730a5eedc1676ab64ee1bd462dca96d157d6d2"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/026.html",
+      "bytes": 197168,
+      "sha256": "07db2b6a1c06a6dc70f0dbce61469f43845877e297e9b2fbf309bb720d5e6dab"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/027.html",
+      "bytes": 108985,
+      "sha256": "b0451fc562fb938b29af6ff62810f11ea1c9127fa2225e8fb083acb25d6082aa"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/028.html",
+      "bytes": 217611,
+      "sha256": "f9efcd722b8d51290abf4e7bd5f95d37e48fc4e52f2e5801c46d93c8412c81c1"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/029.html",
+      "bytes": 75999,
+      "sha256": "c3db06dd5215259e4031c5983ad9b9cf320b4964067f7de10f819d90061ca80a"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/030.html",
+      "bytes": 180642,
+      "sha256": "8f4b481334c53880cea423db8b8f0c825139fc86d39c9a1ae57dba384d8a7690"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/031.html",
+      "bytes": 123049,
+      "sha256": "db8216cfc62f80f1130dc7f1bec1f06e21a606fd78b3394de2d0b659e7421e41"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/032.html",
+      "bytes": 222843,
+      "sha256": "5135e580bd0265fb7f5985805542896c31e13c76fa80e8ff2341e0dea9947b87"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/033.html",
+      "bytes": 93074,
+      "sha256": "9b0bd1b14619e060e41047008868b0d04a1ccf7172888a09d8c6348c3875f0a4"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/034.html",
+      "bytes": 139189,
+      "sha256": "d859148c03e6a21b1697133a79dd41e82a4354c582fda8ad6249691b390c48f8"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/035.html",
+      "bytes": 46136,
+      "sha256": "7e6bb4949c76cddd18544feb975680c0bbdc36375995b3e9a16a3af7542d4eae"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/036.html",
+      "bytes": 194808,
+      "sha256": "358ab48a12d13e796a573612506e5de5382df620c14642019bfc9267fe2ee8a5"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/037.html",
+      "bytes": 69313,
+      "sha256": "768c4b187db30fd8cdab50a62e7d80a0e4dff9206f5abd87d222c84b41f3f166"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/038.html",
+      "bytes": 239312,
+      "sha256": "8d1c232d6f546b5bead28d7109c6242326eddbc672c06b8e785d9c00faaceda3"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/039.html",
+      "bytes": 74502,
+      "sha256": "72798f21072c341615f8f4a0cf6fa411627bbfb0ec98d025a215040741b8138f"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/040.html",
+      "bytes": 129663,
+      "sha256": "4a585cb8566f1dbb5cb272c2d607b4d685559a17704e22e76e07c67993c2a553"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/041.html",
+      "bytes": 65695,
+      "sha256": "12cccf28ede947de64c7303a01a69f522acb2a97360ed96691efb0696ddcf658"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/042.html",
+      "bytes": 176947,
+      "sha256": "89be885d43ff34d044a318318acc040dd96b543e1d942430b959f773b82dab03"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/043.html",
+      "bytes": 68692,
+      "sha256": "873798379ac7c0d114c8a7b56869e23eb36021ced64fc8bb80544e80ee93bf93"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/044.html",
+      "bytes": 221530,
+      "sha256": "784f0067f4b9a888751550482f023c8e4e5754ddbb4f5c3e8e8a894702a806e7"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/045.html",
+      "bytes": 128631,
+      "sha256": "4b9cf778c36434f4ac318986194d24f0a3f06ed817b344d0eee2adcaf5683c69"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/046.html",
+      "bytes": 109902,
+      "sha256": "112bfaf81c5cc68fdcfff00f660a8c07d4371ba7cdf4bfc21ef97ab4ad464691"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/047.html",
+      "bytes": 229382,
+      "sha256": "92fa87c91093d7e1f17b3a250ab20042a26f14daed728b09c5011e3ea84f5b47"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/048.html",
+      "bytes": 149369,
+      "sha256": "4d059ed97fa99a1b02d5d3b293e08bea45be8dc1763908c8bc397e06d03c38f0"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/049.html",
+      "bytes": 141384,
+      "sha256": "3c5debc54606a2681e5f22f8d647f4c80b6cafff3b893ce1f44a67949c6ab497"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/050.html",
+      "bytes": 130842,
+      "sha256": "132a7f4f10708e8fdaf563f45ade9fed247c02f8b317ac8d9f5ce48b365fc84e"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/051.html",
+      "bytes": 23885,
+      "sha256": "f2ba7cdbac3795c10fda9c203dfa76efd5f76eefc5bde7694f32fda1d8cb09cb"
+    },
+    {
+      "path": "readers/rilke/web/text-pages/052.html",
+      "bytes": 44436,
+      "sha256": "7ecb4793242b81dee845db6dbbb7789f346302290c2711fde8552135a8ee6400"
     },
     {
       "path": "readers/rilke/里尔克诗选22首逐词译注读本.pdf",
@@ -3984,13 +7279,268 @@
     },
     {
       "path": "readers/trakl/index.html",
-      "bytes": 500,
-      "sha256": "ee319595123b389acf8c48f49b6f4be0e669ae911fc46ebdddd02356f9b8b698"
+      "bytes": 50637,
+      "sha256": "6dadcf9afe6bbdc865247c564699fc4f52d86ec38a07838330d159a09caf541d"
+    },
+    {
+      "path": "readers/trakl/reader.css",
+      "bytes": 19420,
+      "sha256": "010ee558a81f42e448d544ac88e43640af9d721d7ea25c1456022983a7bfaf23"
     },
     {
       "path": "readers/trakl/series.css",
       "bytes": 4166,
       "sha256": "7850cc299509f368df04a296378e41ab971f62452c0dd698e02f18bed650cb71"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/001.html",
+      "bytes": 21308,
+      "sha256": "06778602f0d29f2451b6467dc9b579f18a3186ada780bd883499224fb92113c0"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/002.html",
+      "bytes": 66662,
+      "sha256": "0d982ac3bd8a0a586fa56e39d137cbf099f5d6ed7167b32a495918746c0870ac"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/003.html",
+      "bytes": 85347,
+      "sha256": "2cbb78c51cbd8b602d92ac9263d7b5619aa898ae400fa734f439d95ea1883e26"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/004.html",
+      "bytes": 81451,
+      "sha256": "e31699d019e0f5ef8d4f1493b1a4c1375b2dfd7b913df4f486cca3b4008fef6e"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/005.html",
+      "bytes": 183048,
+      "sha256": "4871cb324ca252b12fc366b589ea727010c36a67c8c4c7aa97ffb7e4bf8b1cdb"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/006.html",
+      "bytes": 60236,
+      "sha256": "bc570cc2a972a39c826566a1ec06a5bf5b2a86fe7db3b181adff0aa26ebc80ca"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/007.html",
+      "bytes": 194995,
+      "sha256": "987892254d25dae17ee554d778d7c3d987165815e18f4ceeb3adb697dbc6a825"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/008.html",
+      "bytes": 88352,
+      "sha256": "ba799556bf8ad1163e854e41fd37ece4d15668029b15cc3764bacf5ac8d49e26"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/009.html",
+      "bytes": 115673,
+      "sha256": "6e27332d85b932cf5ab81115f3bd0c32698f19defe0f86d95be93626a77a4ae3"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/010.html",
+      "bytes": 185967,
+      "sha256": "cea6b94eec3ca2b02cc01af491072160aeb824ab840c9e92aa7531667d798168"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/011.html",
+      "bytes": 142865,
+      "sha256": "1d0a46c6168edfa4195620b8d30660cee9ec49ab9e948d967fccde460f2de9ca"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/012.html",
+      "bytes": 176985,
+      "sha256": "e73c36d64b9d9ae03218d0e6b451a66b2c33acb54aa0e50658838aaa2d8bdaec"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/013.html",
+      "bytes": 39920,
+      "sha256": "dd37d51993dcc9a875df6911f8d739a6e9924e7b5b38f37012d8375cbd1a845d"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/014.html",
+      "bytes": 176374,
+      "sha256": "3c876b52c3853cefd2685c308041c48ccd682e68b5005da19f51e4d80cd2b5ca"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/015.html",
+      "bytes": 189717,
+      "sha256": "e4a49100ff2fc3a757268de14fcc33f30b6490d570a180bc8c85659f97cfd46b"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/016.html",
+      "bytes": 45957,
+      "sha256": "3a78d2a1f8f275b0ae21beb22095395c2dec6bfdc5a56adc9c05526bc0426b06"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/017.html",
+      "bytes": 178682,
+      "sha256": "18df098aae45cb1e49c44b927d12b0e7ab436374611f58aa2d8c8825a1301eba"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/018.html",
+      "bytes": 48505,
+      "sha256": "b66f0d02414c64c7a8a97ed031d273b5b0a62541033de728480736d509dd8dbd"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/019.html",
+      "bytes": 171045,
+      "sha256": "085038c62b6f1190aa3b8770cdd950302eb38400fdccb0655ed2ebf67bb262dd"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/020.html",
+      "bytes": 51319,
+      "sha256": "3df169ab046ec1484632f103e01b79a0f66fb72a370eb62fd7fe87e16a6deea0"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/021.html",
+      "bytes": 158534,
+      "sha256": "76cd5b108a6a61c9c4d3b7c77af42986e5d3225d18d0633945252bfd929d6e4b"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/022.html",
+      "bytes": 55490,
+      "sha256": "cdac609a3852824f8c16e47ad8fe06ef39d7a0583dd0a1cd38c675fe7f620cee"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/023.html",
+      "bytes": 188185,
+      "sha256": "7325674d287769eb632a65811f9478d08383092d6a5360292bdb1c76861efe05"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/024.html",
+      "bytes": 62659,
+      "sha256": "0f069f847a34e6adcd88805ce9010663c22cdc77387a02b1c36b63e1aaf7b28d"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/025.html",
+      "bytes": 173477,
+      "sha256": "82909bd70f3e49ac458ea045defd9deab82e4d898ea05762fe85c123f7909f1f"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/026.html",
+      "bytes": 55361,
+      "sha256": "adb3fe610e45abd020d9108c6c4a3ca4c25e5f027e4c4a5dc33d710a4260bac3"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/027.html",
+      "bytes": 208178,
+      "sha256": "5e2d505663dacefe0a756360baba0766d428001bc55694cd68e3df66e9df876d"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/028.html",
+      "bytes": 144508,
+      "sha256": "99d79ad2d4562fec3e4f1d4c031cc497126e9cb04c0451e49f93d895ec2a8bad"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/029.html",
+      "bytes": 160129,
+      "sha256": "8dc0835fb3fb2df3fd4e5f6ed969ca517e500578a3d61abc3b867794fc89eaad"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/030.html",
+      "bytes": 49165,
+      "sha256": "9b561b549bd146f91db3515cff1bf3a5f2eac35c6d79bb75d07bbd57c5823f04"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/031.html",
+      "bytes": 178401,
+      "sha256": "27cc7265156d44b7bfd637292846ab66ef4561e6e7892523df51368b1ca9647d"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/032.html",
+      "bytes": 56587,
+      "sha256": "41c0c7f77ede2f3750be51da984412d97a5be5f5499962b56221006624a0827f"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/033.html",
+      "bytes": 166876,
+      "sha256": "03a0c202e3fe1c76b2bfb6d3f7dddf107e36bb6dc1ac470f11d6f0bfb62bc069"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/034.html",
+      "bytes": 91851,
+      "sha256": "916f088e2afd3bd95a6fa21778e1e3567bea70a3ab821dfd903f56b77adb892d"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/035.html",
+      "bytes": 194274,
+      "sha256": "8c7f34b6610682018ef08f10f1734fa26d24c774fcde06eb2129b98c7e749ac2"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/036.html",
+      "bytes": 101926,
+      "sha256": "0cd410bd081d29286a32e66583fa808b6dcf758c1edcc29ebd3236ec4770932f"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/037.html",
+      "bytes": 195854,
+      "sha256": "915e023ce507a00132e2131d4a7619e71b80256b32dfc200a2c8d082134034d4"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/038.html",
+      "bytes": 101646,
+      "sha256": "ef54d9f5ac162a7d235785ae6a4535c5fdb88665e34309e47b09f07802b6b92a"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/039.html",
+      "bytes": 220860,
+      "sha256": "24056fba5dbf82deb8f2377962ce749a945ef681e49607f20d04c05cb3535ac3"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/040.html",
+      "bytes": 73491,
+      "sha256": "3294f4dc70f9ad69123aa1418f282989c2dced7051a35953f58da4d52b61adb7"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/041.html",
+      "bytes": 145537,
+      "sha256": "f717696d74c7086314a9bc6665d574fb6187a1291a3c05b217a7bcb4fbc2b8ac"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/042.html",
+      "bytes": 56754,
+      "sha256": "8f2a9dec6d4c5d9d9696edd2c0218ffce2f697d120b6ea75bb1fe724f3a6a15e"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/043.html",
+      "bytes": 151674,
+      "sha256": "e4be30cc92ed9701729dcc796b4b3f8d3d256005e2fb1e914d11d6d86f0f9fca"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/044.html",
+      "bytes": 65492,
+      "sha256": "45b30627c4b9c4038617f4002ded6a4ca1032b1a5f1e593edde2aa1bbb7a0a87"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/045.html",
+      "bytes": 144570,
+      "sha256": "0b08084b6951047549db5cdb1d827506042472cc2691e5666413f7bfacea9d4f"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/046.html",
+      "bytes": 74886,
+      "sha256": "f8716cdb19f25ab6622e345000815cf9b0e7f4a96edaf4c301179c3a8b6d46a4"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/047.html",
+      "bytes": 260596,
+      "sha256": "88a811db07475d30a7a2c5f6030fd3d93dd8c4ff169daa60344b9f77f43c3643"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/048.html",
+      "bytes": 91392,
+      "sha256": "1b4668fa666f88008032beb3071915132f87ab5a8201c4c02f21d22e02eb9e7c"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/049.html",
+      "bytes": 110182,
+      "sha256": "cfa6ec08fd80f3ab051bb25c2d041ddec29f441d8eadcc3ec701cf56066939c7"
+    },
+    {
+      "path": "readers/trakl/web/text-pages/050.html",
+      "bytes": 41546,
+      "sha256": "888550c8b17dfb18bc9046aa187c208433098b67900d93e7dfdc53d7b2219ec7"
     },
     {
       "path": "readers/trakl/特拉克尔诗选23首逐词译注读本.pdf",
@@ -4016,46 +7566,6 @@
       "path": "tools/check_publications.py",
       "bytes": 4330,
       "sha256": "6aecb4c4dad580aa0a81a6bdd5f56fad0fbe3924c717bc6ec1997465e8973998"
-    },
-    {
-      "path": "assets/fonts/reader-ui-cfb74e90f916.woff2",
-      "bytes": 62708,
-      "sha256": "cfb74e90f916389837f7eb1dc02b7630a4d161921b38f89599114446b519eef3"
-    },
-    {
-      "path": "readers/atemkristall/ReaderBaskerville-9f428d2f27e5.woff2",
-      "bytes": 5036,
-      "sha256": "9f428d2f27e5b8dfd27e447ab31923cbde97502ffe7546f84fcf8c8085ae8be8"
-    },
-    {
-      "path": "readers/atemkristall/ReaderMinion-aa75b9b9635a.woff2",
-      "bytes": 7380,
-      "sha256": "aa75b9b9635a3e3162c166ca877c27881b2dfd6e09b72f268a8f1f2ddb15f627"
-    },
-    {
-      "path": "readers/atemkristall/ReaderSongLight-94983f1799a1.woff2",
-      "bytes": 176236,
-      "sha256": "94983f1799a145a47449dcc2e0e8c9480e98bc33a10d600ed93c24fcb1da067b"
-    },
-    {
-      "path": "readers/atemkristall/ReaderMinionSemibold-674c4882b41f.woff2",
-      "bytes": 1620,
-      "sha256": "674c4882b41f19c01be20802656de7e99d765baa2a84ef57f9207d4c2a8a0663"
-    },
-    {
-      "path": "readers/atemkristall/ReaderTimesBold-2a360dcd3413.woff2",
-      "bytes": 25464,
-      "sha256": "2a360dcd34137a7b23a165c61d758e1978c1119903fb1e89fa43bd3372426d73"
-    },
-    {
-      "path": "readers/atemkristall/ReaderSongBold-0251d74affc0.woff2",
-      "bytes": 62084,
-      "sha256": "0251d74affc0b3693c4c80ca0ca532cbf848bf7257937654fbf46cfc286d9676"
-    },
-    {
-      "path": "readers/atemkristall/ReaderTimes-82a248cfd4e0.woff2",
-      "bytes": 34092,
-      "sha256": "82a248cfd4e066ba2f90977b4c53a6152c61515d1bc9a3f81ecf6399732b03e2"
     }
   ],
   "updated": "2026-10-18",
