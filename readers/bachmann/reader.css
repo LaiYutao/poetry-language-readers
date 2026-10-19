@@ -40,3 +40,14 @@ header[data-layout="compact"] #playback{flex:0 0 100%;min-width:0;flex-wrap:wrap
 @font-face{font-family:"ReaderTimesItalic";font-weight:400;src:url("ReaderTimesItalic-84eabd8b5083.woff2") format("woff2");font-display:block}
 .sheet-vector{width:100%;height:auto;display:block}
 .audio-index{aspect-ratio:auto!important;min-height:400px;padding:40px;font:14px/1.7 system-ui,sans-serif}.audio-index h2{font-size:20px}.audio-index li{margin:18px 0}.audio-index a{color:#85644D}
+
+@font-face{font-family:"ReaderTimes";font-weight:400;src:url("ReaderTimes-0934f993fd18.woff2") format("woff2");font-display:block}
+@font-face{font-family:"ReaderSongBold";font-weight:700;src:url("ReaderSongBold-7f81703ff362.woff2") format("woff2");font-display:block}
+@font-face{font-family:"ReaderTimesBold";font-weight:700;src:url("ReaderTimesBold-d89755033b32.woff2") format("woff2");font-display:block}
+@font-face{font-family:"ReaderSongLight";font-weight:300;src:url("ReaderSongLight-4206691f953f.woff2") format("woff2");font-display:block}
+@font-face{font-family:"ReaderTimesItalic";font-weight:400;src:url("ReaderTimesItalic-14a5a62e4a8f.woff2") format("woff2");font-display:block}
+@font-face{font-family:"ReaderTimes";font-weight:400;src:url("ReaderTimes-0e69363001fb.woff2") format("woff2");font-display:block}
+@font-face{font-family:"ReaderSongBold";font-weight:700;src:url("ReaderSongBold-200fd95ee65b.woff2") format("woff2");font-display:block}
+@font-face{font-family:"ReaderTimesBold";font-weight:700;src:url("ReaderTimesBold-b26c36ef1c64.woff2") format("woff2");font-display:block}
+@font-face{font-family:"ReaderSongLight";font-weight:300;src:url("ReaderSongLight-c3c034e60efe.woff2") format("woff2");font-display:block}
+@font-face{font-family:"ReaderTimesItalic";font-weight:400;src:url("ReaderTimesItalic-483db4db09e4.woff2") format("woff2");font-display:block}
