@@ -1,0 +1,986 @@
+{
+  "reader": "bachmann-author-additions-local",
+  "folder": "bachmann-complete",
+  "date": "2026-10-19",
+  "entries": [
+    {
+      "folder": "bachmann-complete",
+      "n": 1,
+      "title": "Die große Fracht",
+      "performer": "Ingeborg Bachmann",
+      "kind": "author",
+      "source_url": "https://www.lyrikline.org/de/player/playautor/1122",
+      "status": "ready",
+      "verified_scope": "Lyrikline 作者播放器逐首下载；全文件解码通过；ASR辅助核对诗题、正文首尾和顺序。",
+      "alternatives": [
+        {
+          "folder": "bachmann-complete",
+          "n": 1,
+          "title": "Die große Fracht",
+          "performer": "Ingeborg Bachmann",
+          "kind": "author",
+          "source_url": "https://www.lyrikline.org/de/gedichte/die-grosse-fracht-262",
+          "audio_url": null,
+          "local_file": null,
+          "status": "source_only",
+          "verified_scope": "Lyrikline 作者目录与诗页元数据确认存在作者原声；网站终端访问403、IAB超时，未取得可核验音频文件。"
+        }
+      ],
+      "duration_seconds": 48.736875,
+      "sha256": "791426773aa7074f710873a394aaf77bd37f53cd4aeaf6d919ea40a83412f790",
+      "display_note": "作者原声采用异文：第二节读作“und auf den Lippen der Galionsfiguren / wächst riesenhaft das Lächeln der Lemuren”；本读本保留书面底本“und auf die Lippen … / tritt unverhüllt …”。",
+      "verification_file": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/audio-2026-10-18/retry-brecht-bachmann/bachmann-01-asr.json",
+      "provenance_urls": [
+        "https://www.lyrikline.org/de/gedichte/die-grosse-fracht-262",
+        "https://www.kulturkaufhaus.de/de/detail/ISBN-9783867172929/Bachmann-Ingeborg/Erkl%C3%A4r-mir-Liebe-Audio-CD"
+      ],
+      "recording_source": "Erklär mir, Liebe，Der Hörverlag，ISBN 9783899402669（视频注明）",
+      "start_page": 6,
+      "end_page": 7,
+      "playable": true,
+      "src": "audio/01.mp3",
+      "duration": 48.736875,
+      "original_file": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/author-audio-review-2026-10-19/bachmann-01-lyrikline.mp3",
+      "bytes": 783756,
+      "audio_processing": "Lyrikline 原始 MP3，未追加降噪或重编码",
+      "asr_evidence": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/author-audio-review-2026-10-19/bachmann-01-lyrikline-asr.json",
+      "verification_limits": "ASR用于辅助内容核对，不能替代逐字听校；保留原站音质。"
+    },
+    {
+      "folder": "bachmann-complete",
+      "n": 2,
+      "title": "Dunkles zu sagen",
+      "performer": "Selma Mahlknecht",
+      "kind": "human",
+      "source_url": "https://www.youtube.com/watch?v=LcSjkJ2Dq1Q",
+      "status": "ready",
+      "verified_scope": "朗读者自有频道发布并在说明署名；文件可完整解码，独立德语 ASR 核对全诗各节及首尾，未发现缺节或邻诗串入；不据 ASR 修改正文。",
+      "alternatives": [],
+      "leads": [
+        {
+          "source_url": "https://www.kulturkaufhaus.de/de/detail/ISBN-9783867172929/Bachmann-Ingeborg/Erkl%C3%A4r-mir-Liebe-Audio-CD",
+          "status": "catalog_only",
+          "performer": "Ingeborg Bachmann",
+          "note": "公开专辑曲目表证明作者录音存在，但商业专辑不是已获得的免费完整音频。"
+        }
+      ],
+      "duration_seconds": 96.853333,
+      "sha256": "65792ec77ac3bb3652ff9f10747b78f7093e40e38775450b7f173a9f113c12ea",
+      "verification_file": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/audio-2026-10-18/retry-brecht-bachmann/bachmann-02-asr.json",
+      "start_page": 8,
+      "end_page": 10,
+      "playable": true,
+      "src": "audio/02.mp3",
+      "duration": 96.853333
+    },
+    {
+      "folder": "bachmann-complete",
+      "n": 3,
+      "title": "Die gestundete Zeit",
+      "performer": "Ingeborg Bachmann",
+      "kind": "author",
+      "source_url": "https://www.lyrikline.org/de/player/playautor/1122",
+      "status": "ready",
+      "verified_scope": "Lyrikline 作者播放器逐首下载；全文件解码通过；ASR辅助核对诗题、正文首尾和顺序。",
+      "http_status": 200,
+      "content_type": "audio/mpeg",
+      "bytes": 1009353,
+      "sha256": "480e93b721bb18567bc8864b181d3fcc1572c8faf9a6c7d791d640092f446c21",
+      "duration_seconds": 62.836688,
+      "alternatives": [
+        {
+          "folder": "bachmann-complete",
+          "n": 3,
+          "title": "Die gestundete Zeit",
+          "source_url": "https://www.lyrikline.org/de/gedichte/die-gestundete-zeit-264",
+          "performer": "Ingeborg Bachmann",
+          "kind": "author",
+          "status": "source_only",
+          "audio_url": null,
+          "local_file": null,
+          "verified_scope": "Lyrikline 作者目录与诗页元数据确认存在作者原声；网站终端访问403、IAB超时，未取得可核验音频文件。"
+        }
+      ],
+      "start_page": 11,
+      "end_page": 13,
+      "playable": true,
+      "src": "audio/03.mp3",
+      "duration": 62.836688,
+      "original_file": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/author-audio-review-2026-10-19/bachmann-03-lyrikline.mp3",
+      "audio_processing": "Lyrikline 原始 MP3，未追加降噪或重编码",
+      "asr_evidence": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/author-audio-review-2026-10-19/bachmann-03-lyrikline-asr.json",
+      "verification_limits": "ASR用于辅助内容核对，不能替代逐字听校；保留原站音质。"
+    },
+    {
+      "folder": "bachmann-complete",
+      "n": 4,
+      "title": "Alle Tage",
+      "performer": "Ingeborg Bachmann",
+      "kind": "author",
+      "source_url": "https://www.lyrikline.org/de/player/playautor/1122",
+      "status": "ready",
+      "verified_scope": "Lyrikline 作者播放器逐首下载；全文件解码通过；ASR辅助核对诗题、正文首尾和顺序。",
+      "http_status": 200,
+      "content_type": "video/mp4",
+      "bytes": 910524,
+      "sha256": "bcd23946a9178a9813da95203b1409027c49c384d854966c7c1cb2ca041dc323",
+      "duration_seconds": 56.659875,
+      "alternatives": [
+        {
+          "folder": "bachmann-complete",
+          "n": 4,
+          "title": "Alle Tage",
+          "source_url": "https://www.lyrikline.org/de/gedichte/alle-tage-265",
+          "performer": "Ingeborg Bachmann",
+          "kind": "author",
+          "status": "source_only",
+          "audio_url": null,
+          "local_file": null,
+          "verified_scope": "Lyrikline 作者目录与诗页元数据确认存在作者原声；网站终端访问403、IAB超时，未取得可核验音频文件。"
+        },
+        {
+          "folder": "bachmann-complete",
+          "n": 4,
+          "title": "Alle Tage",
+          "performer": "Fritz Stavenhagen",
+          "kind": "human",
+          "source_url": "https://www.deutschelyrik.de/alle-tage.html",
+          "audio_url": "https://www.deutschelyrik.de/files/Gedichtvideos/Bachmann%20%E2%80%9EAlle%20Tage.mp4",
+          "local_file": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/audio-2026-10-18/brecht-bachmann/bachmann-04.mp3",
+          "status": "verified_download",
+          "verified_scope": "诗题及作者在原站页面匹配；播放器公开 MP3 已下载、HTTP200、ffprobe 检查时长；未逐字听校朗读与当前底本差异。",
+          "http_status": 200,
+          "content_type": "video/mp4",
+          "bytes": 11756979,
+          "sha256": "59c5feadce1ed47cc10e85b91f75cfb8cb3f34a608dbc7ee62dd0d98a241221d",
+          "duration_seconds": 73.52
+        }
+      ],
+      "display_note": "1961 年作者朗读；历史影像合集 14:51–16:02。",
+      "verification_file": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/audio-2026-10-18/retry-brecht-bachmann/bachmann-04-author-asr.json",
+      "clip_start": 891,
+      "clip_end": 962,
+      "start_page": 14,
+      "end_page": 16,
+      "playable": true,
+      "src": "audio/04.mp3",
+      "duration": 56.659875,
+      "original_file": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/author-audio-review-2026-10-19/bachmann-04-lyrikline.mp3",
+      "audio_processing": "Lyrikline 原始 MP3，未追加降噪或重编码",
+      "asr_evidence": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/author-audio-review-2026-10-19/bachmann-04-lyrikline-asr.json",
+      "verification_limits": "ASR用于辅助内容核对，不能替代逐字听校；保留原站音质。"
+    },
+    {
+      "folder": "bachmann-complete",
+      "n": 5,
+      "title": "Früher Mittag",
+      "performer": null,
+      "kind": null,
+      "source_url": "https://www.kulturkaufhaus.de/de/detail/ISBN-9783867172929/Bachmann-Ingeborg/Erkl%C3%A4r-mir-Liebe-Audio-CD",
+      "status": "source_candidate",
+      "verified_scope": "已检查 Lyrikline、Deutsche Lyrik 诗人目录，并对缺项检索其他朗读/官方档案。尚未获得明确对应、完整且可用的公开音频；不表示录音不存在。",
+      "alternatives": [],
+      "leads": [
+        {
+          "source_url": "https://www.kulturkaufhaus.de/de/detail/ISBN-9783867172929/Bachmann-Ingeborg/Erkl%C3%A4r-mir-Liebe-Audio-CD",
+          "status": "catalog_only",
+          "performer": "Ingeborg Bachmann",
+          "note": "公开专辑曲目表证明作者录音存在，但商业专辑不是已获得的免费完整音频。"
+        }
+      ],
+      "reason": "作者 CD 明确收录曲目 18，完整录音确实存在；公开候选为片段/解说/歌曲组合，尚未核到可直接用的完整音频。",
+      "coverage_note": "作者 CD 明确收录曲目 18，完整录音确实存在；公开候选为片段/解说/歌曲组合，尚未核到可直接用的完整音频。",
+      "search_sources": [
+        "https://www.kulturkaufhaus.de/de/detail/ISBN-9783867172929/Bachmann-Ingeborg/Erkl%C3%A4r-mir-Liebe-Audio-CD"
+      ],
+      "start_page": 17,
+      "end_page": 20,
+      "playable": false
+    },
+    {
+      "folder": "bachmann-complete",
+      "n": 6,
+      "title": "Herbstmanöver",
+      "performer": "Ingeborg Bachmann",
+      "kind": "author",
+      "source_url": "https://www.lyrikline.org/de/player/playautor/1122",
+      "status": "ready",
+      "verified_scope": "Lyrikline 作者播放器逐首下载；全文件解码通过；ASR辅助核对诗题、正文首尾和顺序。",
+      "alternatives": [],
+      "duration_seconds": 108.10725,
+      "sha256": "ed3b78c8f1797ee9c264fda8171fcfeb4a0ac2fe880469b1eef7b4157c76b7de",
+      "display_note": "完整朗读，上传频道为 Markus Egger，页面未署朗读者姓名。",
+      "verification_file": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/audio-2026-10-18/retry-brecht-bachmann/bachmann-06-asr.json",
+      "start_page": 21,
+      "end_page": 24,
+      "playable": true,
+      "src": "audio/06.mp3",
+      "duration": 108.10725,
+      "original_file": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/author-audio-review-2026-10-19/bachmann-06-lyrikline.mp3",
+      "bytes": 1733682,
+      "audio_processing": "Lyrikline 原始 MP3，未追加降噪或重编码",
+      "asr_evidence": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/author-audio-review-2026-10-19/bachmann-06-lyrikline-asr.json",
+      "verification_limits": "ASR用于辅助内容核对，不能替代逐字听校；保留原站音质。"
+    },
+    {
+      "folder": "bachmann-complete",
+      "n": 7,
+      "title": "Die Brücken",
+      "performer": null,
+      "kind": null,
+      "source_url": "https://www.kulturkaufhaus.de/de/detail/ISBN-9783867172929/Bachmann-Ingeborg/Erkl%C3%A4r-mir-Liebe-Audio-CD",
+      "status": "source_candidate",
+      "verified_scope": "已检查 Lyrikline、Deutsche Lyrik 诗人目录，并对缺项检索其他朗读/官方档案。尚未获得明确对应、完整且可用的公开音频；不表示录音不存在。",
+      "alternatives": [],
+      "leads": [
+        {
+          "source_url": "https://www.kulturkaufhaus.de/de/detail/ISBN-9783867172929/Bachmann-Ingeborg/Erkl%C3%A4r-mir-Liebe-Audio-CD",
+          "status": "catalog_only",
+          "performer": "Ingeborg Bachmann",
+          "note": "公开专辑曲目表证明作者录音存在，但商业专辑不是已获得的免费完整音频。"
+        }
+      ],
+      "reason": "作者 CD 曲目 20 明确存在；准确篇名和合集检索尚未找到可核完整公开音频。",
+      "coverage_note": "作者 CD 曲目 20 明确存在；准确篇名和合集检索尚未找到可核完整公开音频。",
+      "search_sources": [
+        "https://www.kulturkaufhaus.de/de/detail/ISBN-9783867172929/Bachmann-Ingeborg/Erkl%C3%A4r-mir-Liebe-Audio-CD"
+      ],
+      "start_page": 25,
+      "end_page": 27,
+      "playable": false
+    },
+    {
+      "folder": "bachmann-complete",
+      "n": 8,
+      "title": "Anrufung des Großen Bären",
+      "performer": "Fritz Stavenhagen",
+      "kind": "human",
+      "source_url": "https://www.deutschelyrik.de/anrufung-des-grossen-baeren.html",
+      "status": "ready",
+      "verified_scope": "诗题及作者在原站页面匹配；播放器公开 MP3 已下载、HTTP200、ffprobe 检查时长；未逐字听校朗读与当前底本差异。",
+      "http_status": 200,
+      "content_type": "audio/mpeg",
+      "bytes": 2828741,
+      "sha256": "3ba0bcfb8e425c4476430afc80ab265d96e678c73ef58ad0d98130bec0d10349",
+      "duration_seconds": 101.026464,
+      "alternatives": [],
+      "leads": [
+        {
+          "source_url": "https://www.kulturkaufhaus.de/de/detail/ISBN-9783867172929/Bachmann-Ingeborg/Erkl%C3%A4r-mir-Liebe-Audio-CD",
+          "status": "catalog_only",
+          "performer": "Ingeborg Bachmann",
+          "note": "公开专辑曲目表证明作者录音存在，但商业专辑不是已获得的免费完整音频。"
+        }
+      ],
+      "start_page": 28,
+      "end_page": 30,
+      "playable": true,
+      "src": "audio/08.mp3",
+      "duration": 101.026464
+    },
+    {
+      "folder": "bachmann-complete",
+      "n": 9,
+      "title": "Mein Vogel",
+      "performer": "Ingeborg Bachmann",
+      "kind": "author",
+      "source_url": "https://lyrikline.wordpress.com/2014/03/08/readings-to-remember-ingeborg-bachmann/",
+      "status": "ready",
+      "verified_scope": "官方项目网页直接嵌入或官方博客推荐该视频；视频元数据核实身份与题名。独立德语ASR逐段核对首尾及所有诗节，朗读完整，无邻诗串入。ASR仅核内容，不用于改正文。",
+      "alternatives": [],
+      "leads": [
+        {
+          "source_url": "https://www.kulturkaufhaus.de/de/detail/ISBN-9783867172929/Bachmann-Ingeborg/Erkl%C3%A4r-mir-Liebe-Audio-CD",
+          "status": "catalog_only",
+          "performer": "Ingeborg Bachmann",
+          "note": "公开专辑曲目表证明作者录音存在，但商业专辑不是已获得的免费完整音频。"
+        }
+      ],
+      "duration_seconds": 141.792979,
+      "sha256": "1a61af8ceae68ef20b22c1196bcf5392190d629789505cc32cc497abef3bc6b4",
+      "verification_file": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/audio-2026-10-18/retry-brecht-bachmann/bachmann-09-asr.json",
+      "audio_source_url": "https://www.youtube.com/watch?v=ug3rl8T-2U4",
+      "display_note": "1961年作者朗读；Lyrikline 官方博客收录的历史视频。",
+      "start_page": 31,
+      "end_page": 34,
+      "playable": true,
+      "src": "audio/09.mp3",
+      "duration": 141.792979
+    },
+    {
+      "folder": "bachmann-complete",
+      "n": 10,
+      "title": "Nebelland",
+      "performer": "Fritz Stavenhagen",
+      "kind": "human",
+      "source_url": "https://www.deutschelyrik.de/nebelland.html",
+      "status": "ready",
+      "verified_scope": "诗题及作者在原站页面匹配；播放器公开 MP3 已下载、HTTP200、ffprobe 检查时长；未逐字听校朗读与当前底本差异。",
+      "http_status": 200,
+      "content_type": "video/mp4",
+      "bytes": 37319383,
+      "sha256": "9ca9a4cc22a7537b99330336962988c2fabc9f6d5e6e2c3a37fbdfb7d0c5fc00",
+      "duration_seconds": 126.595193,
+      "alternatives": [],
+      "leads": [
+        {
+          "source_url": "https://www.kulturkaufhaus.de/de/detail/ISBN-9783867172929/Bachmann-Ingeborg/Erkl%C3%A4r-mir-Liebe-Audio-CD",
+          "status": "catalog_only",
+          "performer": "Ingeborg Bachmann",
+          "note": "公开专辑曲目表证明作者录音存在，但商业专辑不是已获得的免费完整音频。"
+        }
+      ],
+      "start_page": 35,
+      "end_page": 38,
+      "playable": true,
+      "src": "audio/10.mp3",
+      "duration": 126.595193
+    },
+    {
+      "folder": "bachmann-complete",
+      "n": 11,
+      "title": "Erklär mir, Liebe",
+      "performer": "Ingeborg Bachmann",
+      "kind": "author",
+      "source_url": "https://www.lyrikline.org/de/player/playautor/1122",
+      "status": "ready",
+      "verified_scope": "Lyrikline 作者播放器逐首下载；全文件解码通过；ASR辅助核对诗题、正文首尾和顺序。",
+      "error": "HTTP Error 404: Not Found",
+      "alternatives": [
+        {
+          "folder": "bachmann-complete",
+          "n": 11,
+          "title": "Erklär mir, Liebe",
+          "source_url": "https://www.lyrikline.org/de/gedichte/erklaer-mir-liebe-268",
+          "performer": "Ingeborg Bachmann",
+          "kind": "author",
+          "status": "source_only",
+          "audio_url": null,
+          "local_file": null,
+          "verified_scope": "Lyrikline 作者目录与诗页元数据确认存在作者原声；网站终端访问403、IAB超时，未取得可核验音频文件。"
+        }
+      ],
+      "duration_seconds": 129.765188,
+      "sha256": "6a5437bbc1cd6cc1ec0098e15aa4f496d90d3e12b8590cf762cf7e81da8342b2",
+      "verification_file": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/audio-2026-10-18/retry-brecht-bachmann/bachmann-11-asr.json",
+      "start_page": 39,
+      "end_page": 43,
+      "playable": true,
+      "src": "audio/11.mp3",
+      "duration": 129.765188,
+      "original_file": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/author-audio-review-2026-10-19/bachmann-11-lyrikline.mp3",
+      "bytes": 2080209,
+      "audio_processing": "Lyrikline 原始 MP3，未追加降噪或重编码",
+      "asr_evidence": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/author-audio-review-2026-10-19/bachmann-11-lyrikline-asr.json",
+      "verification_limits": "ASR用于辅助内容核对，不能替代逐字听校；保留原站音质。"
+    },
+    {
+      "folder": "bachmann-complete",
+      "n": 12,
+      "title": "Reklame",
+      "performer": "Fritz Stavenhagen",
+      "kind": "human",
+      "source_url": "https://www.deutschelyrik.de/reklame.html",
+      "status": "ready",
+      "verified_scope": "诗题及作者在原站页面匹配；播放器公开 MP3 已下载、HTTP200、ffprobe 检查时长；未逐字听校朗读与当前底本差异。",
+      "http_status": 200,
+      "content_type": "video/mp4",
+      "bytes": 10675723,
+      "sha256": "50fb046f850ac33dbd186a705939750929e5c79684bed24bf82e1c1299776caf",
+      "duration_seconds": 71.099501,
+      "alternatives": [],
+      "start_page": 44,
+      "end_page": 45,
+      "playable": true,
+      "src": "audio/12.mp3",
+      "duration": 71.099501
+    },
+    {
+      "folder": "bachmann-complete",
+      "n": 13,
+      "title": "Was wahr ist",
+      "performer": "Fritz Stavenhagen",
+      "kind": "human",
+      "source_url": "https://www.deutschelyrik.de/was-wahr-ist.html",
+      "status": "ready",
+      "verified_scope": "诗题及作者在原站页面匹配；播放器公开 MP3 已下载、HTTP200、ffprobe 检查时长；未逐字听校朗读与当前底本差异。",
+      "http_status": 200,
+      "content_type": "audio/mpeg",
+      "bytes": 4433850,
+      "sha256": "934252479ff0b25e8aac9b6514fe5e891f38075918b19a3754436554e6aaa4ea",
+      "duration_seconds": 138.557813,
+      "alternatives": [],
+      "leads": [
+        {
+          "source_url": "https://www.kulturkaufhaus.de/de/detail/ISBN-9783867172929/Bachmann-Ingeborg/Erkl%C3%A4r-mir-Liebe-Audio-CD",
+          "status": "catalog_only",
+          "performer": "Ingeborg Bachmann",
+          "note": "公开专辑曲目表证明作者录音存在，但商业专辑不是已获得的免费完整音频。"
+        }
+      ],
+      "start_page": 46,
+      "end_page": 49,
+      "playable": true,
+      "src": "audio/13.mp3",
+      "duration": 138.557813
+    },
+    {
+      "folder": "bachmann-complete",
+      "n": 14,
+      "title": "Das Spiel ist aus",
+      "performer": "Ingeborg Bachmann",
+      "kind": "author",
+      "source_url": "https://www.lyrikline.org/de/player/playautor/1122",
+      "status": "ready",
+      "verified_scope": "Lyrikline 作者播放器逐首下载；全文件解码通过；ASR辅助核对诗题、正文首尾和顺序。",
+      "alternatives": [
+        {
+          "folder": "bachmann-complete",
+          "n": 14,
+          "title": "Das Spiel ist aus",
+          "performer": "Ingeborg Bachmann",
+          "kind": "author",
+          "source_url": "https://www.lyrikline.org/de/gedichte/das-spiel-ist-aus-266",
+          "audio_url": null,
+          "local_file": null,
+          "status": "source_only",
+          "verified_scope": "Lyrikline 作者目录与诗页元数据确认存在作者原声；网站终端访问403、IAB超时，未取得可核验音频文件。"
+        }
+      ],
+      "duration_seconds": 129.843375,
+      "sha256": "7402c1906346f96ff1054f669c4448c8b17af800962a1dcb9378311794cc6641",
+      "verification_file": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/audio-2026-10-18/retry-brecht-bachmann/bachmann-14-asr.json",
+      "display_note": "出版社活动现场朗读，开头有约 14 秒题名及简短导语。",
+      "start_page": 50,
+      "end_page": 54,
+      "playable": true,
+      "audio_processing": "Lyrikline 原始 MP3，未追加降噪或重编码",
+      "src": "audio/14.mp3",
+      "duration": 129.843375,
+      "original_file": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/author-audio-review-2026-10-19/bachmann-14-lyrikline.mp3",
+      "bytes": 2081460,
+      "asr_evidence": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/author-audio-review-2026-10-19/bachmann-14-lyrikline-asr.json",
+      "verification_limits": "ASR用于辅助内容核对，不能替代逐字听校；保留原站音质。"
+    },
+    {
+      "folder": "bachmann-complete",
+      "n": 15,
+      "title": "Römisches Nachtbild",
+      "performer": "Ingeborg Bachmann",
+      "kind": "author",
+      "source_url": "https://www.lyrikline.org/de/player/playautor/1122",
+      "status": "ready",
+      "verified_scope": "Lyrikline 作者播放器逐首下载；全文件解码通过；ASR辅助核对诗题、正文首尾和顺序。",
+      "alternatives": [
+        {
+          "folder": "bachmann-complete",
+          "n": 15,
+          "title": "Römisches Nachtbild",
+          "performer": "Ingeborg Bachmann",
+          "kind": "author",
+          "source_url": "https://www.lyrikline.org/de/gedichte/roemisches-nachtbild-269",
+          "audio_url": null,
+          "local_file": null,
+          "status": "source_candidate",
+          "verified_scope": "Lyrikline 作者目录与诗页元数据确认存在作者原声；网站终端访问403、IAB超时，未取得可核验音频文件。",
+          "reason": "Lyrikline 原声页面存在但此前原站访问受限；CD 曲目 38 明确存在。公开视频主要为诗歌解说，未作为完整朗读收入。",
+          "coverage_note": "Lyrikline 原声页面存在但此前原站访问受限；CD 曲目 38 明确存在。公开视频主要为诗歌解说，未作为完整朗读收入。",
+          "search_sources": [
+            "https://www.lyrikline.org/de/gedichte/roemisches-nachtbild-269",
+            "https://www.kulturkaufhaus.de/de/detail/ISBN-9783867172929/Bachmann-Ingeborg/Erkl%C3%A4r-mir-Liebe-Audio-CD"
+          ]
+        }
+      ],
+      "search_sources": [
+        "https://www.lyrikline.org/de/gedichte/roemisches-nachtbild-269",
+        "https://www.kulturkaufhaus.de/de/detail/ISBN-9783867172929/Bachmann-Ingeborg/Erkl%C3%A4r-mir-Liebe-Audio-CD"
+      ],
+      "duration_seconds": 42.090938,
+      "sha256": "99d1beda3a6d05a4f3846ac7dd30607e4b66a69824b2e458531bb5baedb8e090",
+      "display_note": "取自 Zeichensetzung 节目的完整朗读段（约 1:18–2:08），不含随后解说。",
+      "verification_file": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/audio-2026-10-18/retry-round3-brecht-bachmann/bachmann-15-poem-asr.json",
+      "clip_start": 78.3,
+      "clip_end": 128.2,
+      "start_page": 55,
+      "end_page": 56,
+      "playable": true,
+      "src": "audio/15.mp3",
+      "duration": 42.090938,
+      "original_file": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/author-audio-review-2026-10-19/bachmann-15-lyrikline.mp3",
+      "bytes": 677421,
+      "audio_processing": "Lyrikline 原始 MP3，未追加降噪或重编码",
+      "asr_evidence": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/author-audio-review-2026-10-19/bachmann-15-lyrikline-asr.json",
+      "verification_limits": "ASR用于辅助内容核对，不能替代逐字听校；保留原站音质。"
+    },
+    {
+      "folder": "bachmann-complete",
+      "n": 16,
+      "title": "Toter Hafen",
+      "performer": null,
+      "kind": null,
+      "source_url": "https://www.kulturkaufhaus.de/de/detail/ISBN-9783867172929/Bachmann-Ingeborg/Erkl%C3%A4r-mir-Liebe-Audio-CD",
+      "status": "source_candidate",
+      "verified_scope": "已检查 Lyrikline、Deutsche Lyrik 诗人目录，并对缺项检索其他朗读/官方档案。尚未获得明确对应、完整且可用的公开音频；不表示录音不存在。",
+      "alternatives": [],
+      "leads": [
+        {
+          "source_url": "https://www.kulturkaufhaus.de/de/detail/ISBN-9783867172929/Bachmann-Ingeborg/Erkl%C3%A4r-mir-Liebe-Audio-CD",
+          "status": "catalog_only",
+          "performer": "Ingeborg Bachmann",
+          "note": "公开专辑曲目表证明作者录音存在，但商业专辑不是已获得的免费完整音频。"
+        }
+      ],
+      "reason": "作者 CD 曲目 33 明确存在；Denis Ivanov 官方 Topic 为谱曲演唱，未冒作朗读。",
+      "coverage_note": "作者 CD 曲目 33 明确存在；Denis Ivanov 官方 Topic 为谱曲演唱，未冒作朗读。",
+      "search_sources": [
+        "https://www.kulturkaufhaus.de/de/detail/ISBN-9783867172929/Bachmann-Ingeborg/Erkl%C3%A4r-mir-Liebe-Audio-CD",
+        "https://www.youtube.com/watch?v=MCU7v8dTfEA"
+      ],
+      "start_page": 57,
+      "end_page": 59,
+      "playable": false
+    },
+    {
+      "folder": "bachmann-complete",
+      "n": 17,
+      "title": "Ihr Worte",
+      "performer": "Fritz Stavenhagen",
+      "kind": "human",
+      "source_url": "https://www.deutschelyrik.de/ihr-worte.html",
+      "status": "ready",
+      "verified_scope": "诗题及作者在原站页面匹配；播放器公开 MP3 已下载、HTTP200、ffprobe 检查时长；未逐字听校朗读与当前底本差异。",
+      "http_status": 200,
+      "content_type": "video/mp4",
+      "bytes": 9384362,
+      "sha256": "15a3e0131f77116a34decd88377b410873e2cb2658be4256280e444631617266",
+      "duration_seconds": 106.858231,
+      "alternatives": [
+        {
+          "folder": "bachmann-complete",
+          "n": 17,
+          "title": "Ihr Worte",
+          "source_url": "https://www.mediathek.at/atom/145555F2-1B1-00760-00000728-14546246",
+          "kind": "author",
+          "performer": "Ingeborg Bachmann",
+          "status": "source_only",
+          "audio_url": "https://files.mediathek.at/audio/99/65/99-65028_B02/99-65028_b02.mp3",
+          "local_file": null,
+          "error": "HTTP Error 403: Forbidden",
+          "verified_scope": "机构公开页与真实播放器资源URL核对；媒体服务器403，未验证实际可播放。",
+          "coverage_note": "机构标题标Ausschnitt，未听校完整性。"
+        }
+      ],
+      "start_page": 60,
+      "end_page": 63,
+      "playable": true,
+      "src": "audio/17.mp3",
+      "duration": 106.858231
+    },
+    {
+      "folder": "bachmann-complete",
+      "n": 18,
+      "title": "Keine Delikatessen",
+      "performer": "Doris Wolters",
+      "kind": "human",
+      "source_url": "https://www.spinnert.de/kabarett/ingeborg-bachmann-keine-delikatessen",
+      "status": "ready",
+      "verified_scope": "完整德语全诗，各节与首尾均经转写核对；朗读者由视频说明及转载页署名确认。",
+      "alternatives": [
+        {
+          "folder": "bachmann-complete",
+          "n": 18,
+          "title": "Keine Delikatessen",
+          "performer": "Artarium节目朗读",
+          "kind": "human",
+          "source_url": "https://de.cba.media/457695",
+          "audio_url": null,
+          "local_file": null,
+          "status": "source_playable",
+          "verified_scope": "已检查 Lyrikline、Deutsche Lyrik 诗人目录，并对缺项检索其他朗读/官方档案。尚未获得明确对应、完整且可用的公开音频；不表示录音不存在。",
+          "leads": [
+            {
+              "source_url": "https://de.cba.media/457695?setlanguage=en",
+              "status": "unverified_program",
+              "note": "电台节目Bachmann Loops文字称读到这首，未定位片段，未用节目冒充单首。"
+            }
+          ],
+          "coverage_note": "原节目9:37–11:40为完整朗读；原站标注不提供下载，使用此入口收听。",
+          "reason": "Radiofabrik Artarium《Bachmann Loops》9:37–11:40 有完整朗读，ASR 核各节；节目署 Christopher Schmall/Norbert K. Hund，未判定单一声线。页面 no-download 标记，因此不向读本复制下载的审查片段，仅保留节目来源线索。"
+        }
+      ],
+      "leads": [
+        {
+          "source_url": "https://de.cba.media/457695?setlanguage=en",
+          "status": "unverified_program",
+          "note": "电台节目Bachmann Loops文字称读到这首，未定位片段，未用节目冒充单首。"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=padGU0NlRrk",
+      "duration_seconds": 117.806458,
+      "sha256": "690dde59b05b9bcb87a9806355c7e3075b8144a07757387d3ee0b3e3d89514e2",
+      "display_note": "Doris Wolters 朗诵，带音乐伴奏。出自《Eine einzige Stunde frei sein》。",
+      "verification_file": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/audio-2026-10-18/retry-round5-brecht-bachmann/bachmann-18-verification.json",
+      "start_page": 64,
+      "end_page": 68,
+      "playable": true,
+      "src": "audio/18.mp3",
+      "duration": 117.806458
+    },
+    {
+      "folder": "bachmann-complete",
+      "n": 19,
+      "title": "Enigma",
+      "performer": "Fritz Stavenhagen",
+      "kind": "human",
+      "source_url": "https://www.deutschelyrik.de/bachmann/enigma-1966-67.html",
+      "status": "ready",
+      "verified_scope": "朗读者官网题名、作者、音频链接匹配，官网声明由 Fritz Stavenhagen 朗读。文件完整解码并以独立德语ASR逐段复核，首句、末句和中间各节与诗页对应，无邻诗串入；ASR仅用于核内容，不据此改正文。",
+      "error": "HTTP Error 404: Not Found",
+      "alternatives": [],
+      "duration_seconds": 51.56125,
+      "sha256": "6956e6c8a35bb5d1b8eb367372a27355fdf72db761c636ab82a00f5b34c248fa",
+      "verification_file": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/audio-2026-10-18/retry-brecht-bachmann/bachmann-19-asr.json",
+      "start_page": 69,
+      "end_page": 70,
+      "playable": true,
+      "src": "audio/19.mp3",
+      "duration": 51.56125
+    },
+    {
+      "folder": "bachmann-complete",
+      "n": 20,
+      "title": "Böhmen liegt am Meer",
+      "performer": "Fritz Stavenhagen",
+      "kind": "human",
+      "source_url": "https://www.deutschelyrik.de/boehmen-liegt-am-meer.html",
+      "status": "ready",
+      "verified_scope": "诗题及作者在原站页面匹配；播放器公开 MP3 已下载、HTTP200、ffprobe 检查时长；未逐字听校朗读与当前底本差异。",
+      "http_status": 200,
+      "content_type": "video/mp4",
+      "bytes": 25218774,
+      "sha256": "587dba828ab61faaad1fcacabe27dd9be87e5dc26507605a7b1245ee009da355",
+      "duration_seconds": 166.022676,
+      "alternatives": [
+        {
+          "folder": "bachmann-complete",
+          "n": 20,
+          "title": "Böhmen liegt am Meer",
+          "source_url": "https://www.mediathek.at/atom/1455550E-11A-0075B-00000728-14546246",
+          "kind": "author",
+          "performer": "Ingeborg Bachmann",
+          "status": "source_only",
+          "audio_url": "https://files.mediathek.at/audio/99/65/99-65028_B01/99-65028_b01.mp3",
+          "local_file": null,
+          "error": "HTTP Error 403: Forbidden",
+          "verified_scope": "机构公开页与真实播放器资源URL核对；媒体服务器403，未验证实际可播放。"
+        }
+      ],
+      "start_page": 71,
+      "end_page": 74,
+      "playable": true,
+      "src": "audio/20.mp3",
+      "duration": 166.022676
+    },
+    {
+      "folder": "bachmann-complete",
+      "n": 21,
+      "title": "Wahrlich",
+      "performer": null,
+      "kind": null,
+      "source_url": "https://www.mediathek.at/atom/0639F2BF-343-000C2-0000086C-06394AD5/pool/bibl",
+      "status": "source_candidate",
+      "verified_scope": "已检查 Lyrikline、Deutsche Lyrik 诗人目录，并对缺项检索其他朗读/官方档案。尚未获得明确对应、完整且可用的公开音频；不表示录音不存在。",
+      "alternatives": [],
+      "reason": "Doris Wolters《Eine einzige Stunde frei sein》目录含此诗；公开 Street Fable 候选为音乐版本，未收入。",
+      "coverage_note": "Doris Wolters《Eine einzige Stunde frei sein》目录含此诗；公开 Street Fable 候选为音乐版本，未收入。",
+      "search_sources": [
+        "https://www.mediathek.at/atom/0639F2BF-343-000C2-0000086C-06394AD5/pool/bibl"
+      ],
+      "start_page": 75,
+      "end_page": 76,
+      "playable": false
+    },
+    {
+      "folder": "bachmann-complete",
+      "n": 22,
+      "title": "Prag Jänner 64",
+      "performer": null,
+      "kind": null,
+      "source_url": "https://www.rebuy.de/i%2C1623784/hoerspiele/todesarten-edition-3",
+      "status": "source_candidate",
+      "verified_scope": "已检查 Lyrikline、Deutsche Lyrik 诗人目录，并对缺项检索其他朗读/官方档案。尚未获得明确对应、完整且可用的公开音频；不表示录音不存在。",
+      "alternatives": [],
+      "reason": "《Todesarten (Edition 3)》ISBN 9783899403602 收录作者朗读；研究/出版信息确认 1966-01-09 Zürich DRS 录音，未取得对应完整公开文件。",
+      "coverage_note": "《Todesarten (Edition 3)》ISBN 9783899403602 收录作者朗读；研究/出版信息确认 1966-01-09 Zürich DRS 录音，未取得对应完整公开文件。",
+      "search_sources": [
+        "https://www.rebuy.de/i%2C1623784/hoerspiele/todesarten-edition-3"
+      ],
+      "start_page": 77,
+      "end_page": 79,
+      "playable": false
+    },
+    {
+      "folder": "bachmann-complete",
+      "n": 23,
+      "title": "Eine Art Verlust",
+      "performer": "Friederike Ott",
+      "kind": "human",
+      "source_url": "https://www.youtube.com/watch?v=fmUwaYjiA-k",
+      "status": "ready",
+      "verified_scope": "Schauspiel Frankfurt 官方频道发布并署名；文件可完整解码，独立德语 ASR 核对全诗各节及首尾，未发现缺节或邻诗串入；不据 ASR 修改正文。",
+      "alternatives": [],
+      "leads": [
+        {
+          "source_url": "https://religion.orf.at/radio/stories/3232517/",
+          "status": "expired",
+          "note": "原站明确音频已不可用，且节目含解读；不采用。"
+        }
+      ],
+      "duration_seconds": 153.240979,
+      "sha256": "40a55ba19e075e9c4ab83c814b04d2d1d5f0e3a0c5b0f3b9d5342fb97d794510",
+      "verification_file": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/audio-2026-10-18/retry-brecht-bachmann/bachmann-23-asr.json",
+      "display_note": "剧院官方朗读，开头约 15 秒导语，末尾有简短收语。",
+      "start_page": 80,
+      "end_page": 82,
+      "playable": true,
+      "src": "audio/23.mp3",
+      "duration": 153.240979
+    },
+    {
+      "folder": "bachmann-complete",
+      "n": 24,
+      "title": "Freies Geleit",
+      "performer": "Ingeborg Bachmann（转载页署名）",
+      "kind": "author",
+      "source_url": "https://www.youtube.com/watch?v=3D7xDwTEJyA",
+      "status": "ready",
+      "verified_scope": "Lyrik für Puristen页面署作者原声；实际音轨报题后依次读六节，首末句和顺序经ASR与读本对照。标题II是比较朗读版本编号，不是半首。",
+      "alternatives": [
+        {
+          "folder": "bachmann-complete",
+          "n": 24,
+          "title": "Freies Geleit",
+          "performer": "Ingeborg Bachmann",
+          "kind": "author",
+          "source_url": "https://www.mediathek.at/atom/151DC763-0F8-00156-0000074C-151CB836",
+          "audio_url": "https://files.mediathek.at/audio/99/65/99-65028_B03/99-65028_b03_k02.mp3",
+          "local_file": null,
+          "status": "source_playable",
+          "verified_scope": "Chrome原站实际点击播放；播放器duration229.093878，currentTime从0推进至7.464再至26.564秒，readyState4，无媒体error；机构页面明确作者为 Vortragende、原始录制日期及曲目。未下载媒体，不把外链计为本地音轨。",
+          "error": "HTTP Error 403: Forbidden",
+          "coverage_note": "作者1965年5月10日朗读；原站播放器可正常收听（同轨还含 Exil、Geh, Gedanke），馆方不提供音频下载。",
+          "leads": [
+            {
+              "source_url": "https://www.kulturkaufhaus.de/de/detail/ISBN-9783867172929/Bachmann-Ingeborg/Erkl%C3%A4r-mir-Liebe-Audio-CD",
+              "status": "catalog_only",
+              "performer": "Ingeborg Bachmann",
+              "note": "公开专辑曲目表证明作者录音存在，但商业专辑不是已获得的免费完整音频。"
+            }
+          ],
+          "reason": "Mediathek 作者原声来源存在，馆方下载限制仍按原记录遵守；不列成从未找到。",
+          "search_sources": [
+            "https://www.mediathek.at/atom/151DC763-0F8-00156-0000074C-151CB836"
+          ],
+          "display_note": "作者1965年5月10日朗读；原站播放器可正常收听（同轨还含 Exil、Geh, Gedanke），馆方不提供音频下载。",
+          "browser_evidence": {
+            "duration": 229.093878,
+            "currentTime_samples": [
+              7.464278,
+              26.564361
+            ],
+            "readyState": 4,
+            "error": null,
+            "stopped_after_check": true
+          }
+        }
+      ],
+      "error": "HTTP Error 403: Forbidden",
+      "leads": [
+        {
+          "source_url": "https://www.kulturkaufhaus.de/de/detail/ISBN-9783867172929/Bachmann-Ingeborg/Erkl%C3%A4r-mir-Liebe-Audio-CD",
+          "status": "catalog_only",
+          "performer": "Ingeborg Bachmann",
+          "note": "公开专辑曲目表证明作者录音存在，但商业专辑不是已获得的免费完整音频。"
+        }
+      ],
+      "reason": null,
+      "search_sources": [
+        "https://www.mediathek.at/atom/151DC763-0F8-00156-0000074C-151CB836"
+      ],
+      "display_note": "作者原声（转载页署名）",
+      "browser_evidence": {
+        "duration": 229.093878,
+        "currentTime_samples": [
+          7.464278,
+          26.564361
+        ],
+        "readyState": 4,
+        "error": null,
+        "stopped_after_check": true
+      },
+      "language": "de",
+      "duration_seconds": 81.107302,
+      "bytes": 984203,
+      "sha256": "ae1fdc889e8d624c790e653591f910c0f3bf2985fd4fcb8e8f10477307494386",
+      "source_evidence": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/audio-2026-10-18/retry-round5-originals/freies-0.info.json",
+      "asr_evidence": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/audio-2026-10-18/retry-round5-originals/freies-0-asr.json",
+      "verification_limits": "作者身份依转载页署名，未与档案原轨比对；ASR有漏词和误识，不称人工逐字听校。",
+      "start_page": 83,
+      "end_page": 85,
+      "playable": true,
+      "src": "audio/24.mp3",
+      "duration": 81.107302
+    },
+    {
+      "folder": "bachmann-complete",
+      "n": 25,
+      "title": "Rede und Nachrede",
+      "performer": null,
+      "kind": null,
+      "source_url": "https://www.mediathek.at/atom/0639F807-350-00110-0000086C-06394AD5/pool/bibl",
+      "status": "source_candidate",
+      "verified_scope": "已检查 Lyrikline、Deutsche Lyrik 诗人目录，并对缺项检索其他朗读/官方档案。尚未获得明确对应、完整且可用的公开音频；不表示录音不存在。",
+      "alternatives": [],
+      "leads": [
+        {
+          "source_url": "https://www.mediathek.at/atom/0639F2BF-343-000C2-0000086C-06394AD5/pool/bibl",
+          "status": "catalog_only",
+          "performer": "Doris Wolters",
+          "note": "档案书目可确认商业专辑含这首朗读；没有可核验公开完整音频。"
+        }
+      ],
+      "reason": "Doris Wolters CD 馆藏有明确曲目；Silke Gonska/Frieder Bergner 官方 Topic 是音乐编排版本，未冒作纯朗读。",
+      "coverage_note": "Doris Wolters CD 馆藏有明确曲目；Silke Gonska/Frieder Bergner 官方 Topic 是音乐编排版本，未冒作纯朗读。",
+      "search_sources": [
+        "https://www.mediathek.at/atom/0639F807-350-00110-0000086C-06394AD5/pool/bibl",
+        "https://www.youtube.com/watch?v=NCO4UgCofic"
+      ],
+      "start_page": 86,
+      "end_page": 90,
+      "playable": false
+    },
+    {
+      "folder": "bachmann-complete",
+      "n": 26,
+      "title": "Reigen",
+      "performer": "Doris Wolters",
+      "kind": "human",
+      "source_url": "https://www.youtube.com/watch?v=3DYGX61nbMg",
+      "status": "ready",
+      "verified_scope": "视频注明朗读者、唱片《Eine einzige Stunde frei sein》及 ISBN 9783829116596；奥地利 Mediathek 馆藏目录及 jpc 曲目目录独立确认同名唱片、朗读者和曲目。独立 ASR 核完整三节与首尾；未据 ASR 修改正文。",
+      "alternatives": [],
+      "leads": [
+        {
+          "source_url": "https://www.mediathek.at/atom/0639F2BF-343-000C2-0000086C-06394AD5/pool/bibl",
+          "status": "catalog_only",
+          "performer": "Doris Wolters",
+          "note": "档案书目可确认商业专辑含这首朗读；没有可核验公开完整音频。"
+        }
+      ],
+      "duration_seconds": 55.623417,
+      "sha256": "fc137c47cc28420ff25854f5d31d43fa9d25f5f2cb960676a0cc4cfde3975de1",
+      "verification_file": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/audio-2026-10-18/retry-brecht-bachmann/bachmann-26-asr.json",
+      "provenance_urls": [
+        "https://www.mediathek.at/atom/0639F796-044-00103-0000086C-06394AD5/pool/bibl",
+        "https://www.jpc.de/jpcng/books/detail/-/art/BachmannIngeborgGedichte-Prosa/hnum/4373995"
+      ],
+      "start_page": 91,
+      "end_page": 92,
+      "playable": true,
+      "src": "audio/26.mp3",
+      "duration": 55.623417
+    },
+    {
+      "folder": "bachmann-complete",
+      "n": 27,
+      "title": "Nach dieser Sintflut",
+      "performer": "Fritz Stavenhagen",
+      "kind": "human",
+      "source_url": "https://www.deutschelyrik.de/nach-dieser-flut-1957.html",
+      "status": "ready",
+      "verified_scope": "诗题及作者在原站页面匹配；播放器公开 MP3 已下载、HTTP200、ffprobe 检查时长；未逐字听校朗读与当前底本差异。",
+      "http_status": 200,
+      "content_type": "audio/mpeg",
+      "bytes": 835000,
+      "sha256": "4cf563e38b3dd1fd749177a9784f705b832a25948a538c82ca3b8a769aac8450",
+      "duration_seconds": 26.09375,
+      "alternatives": [],
+      "leads": [
+        {
+          "source_url": "https://www.kulturkaufhaus.de/de/detail/ISBN-9783867172929/Bachmann-Ingeborg/Erkl%C3%A4r-mir-Liebe-Audio-CD",
+          "status": "catalog_only",
+          "performer": "Ingeborg Bachmann",
+          "note": "公开专辑曲目表证明作者录音存在，但商业专辑不是已获得的免费完整音频。"
+        }
+      ],
+      "start_page": 93,
+      "end_page": 94,
+      "playable": true,
+      "src": "audio/27.mp3",
+      "duration": 26.09375
+    },
+    {
+      "n": 28,
+      "title": "Hôtel de la Paix",
+      "performer": "Ingeborg Bachmann",
+      "kind": "author",
+      "status": "ready",
+      "playable": true,
+      "src": "audio/bachmann-hotel.mp3",
+      "source_url": "https://www.lyrikline.org/de/gedichte/hotel-de-la-paix-270",
+      "duration": 30.701625,
+      "duration_seconds": 30.701625,
+      "sha256": "d0789aadab7fcb4d25c743d2e87717184af687d2e42e687e55593c43134601af",
+      "bytes": 495192,
+      "original_file": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/author-additions-2026-10-19/author-audio/bachmann-hotel.mp3",
+      "audio_processing": "Lyrikline原始MP3，保留现有原声音质，未重编码。",
+      "verified_scope": "从对应诗篇页面的原生音频元素下载；完整解码与ASR首尾辅助核验。",
+      "verification_limits": "原声可能采用不同于书面底本的唱词或读法，不能据自动转写反改原文。",
+      "start_page": 95,
+      "end_page": 95,
+      "display_note": "诗末保留原文件中的广播版权口播。"
+    },
+    {
+      "n": 29,
+      "title": "[Die Häfen waren geöffnet]",
+      "performer": "Ingeborg Bachmann",
+      "kind": "author",
+      "status": "ready",
+      "playable": true,
+      "src": "audio/bachmann-haefen.mp3",
+      "source_url": "https://www.lyrikline.org/de/gedichte/die-haefen-waren-geoeffnet-261",
+      "duration": 59.73525,
+      "duration_seconds": 59.73525,
+      "sha256": "5d3013385b77a7817129f77324648c886e2fbcb5dd0f9adf226567a1ca2bd370",
+      "bytes": 959730,
+      "original_file": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/author-additions-2026-10-19/author-audio/bachmann-haefen.mp3",
+      "audio_processing": "Lyrikline原始MP3，保留现有原声音质，未重编码。",
+      "verified_scope": "从对应诗篇页面的原生音频元素下载；完整解码与ASR首尾辅助核验。",
+      "verification_limits": "原声可能采用不同于书面底本的唱词或读法，不能据自动转写反改原文。",
+      "start_page": 96,
+      "end_page": 97
+    },
+    {
+      "n": 30,
+      "title": "Curriculum Vitae",
+      "performer": "Ingeborg Bachmann",
+      "kind": "author",
+      "status": "ready",
+      "playable": true,
+      "src": "audio/bachmann-curriculum.mp3",
+      "source_url": "https://www.lyrikline.org/de/gedichte/curriculum-vitae-267",
+      "duration": 219.576563,
+      "duration_seconds": 219.576563,
+      "sha256": "d2766c1a9e38036b93b3c138c871f2a1d5bc309b711a0bc38b98ff2b55f64796",
+      "bytes": 3517191,
+      "original_file": "/Users/letter/.codex/.chatgpt-projects/g-p-6ad0841f406c819191ffa5b4ad56db9d/work/nine-readers/author-additions-2026-10-19/author-audio/bachmann-curriculum.mp3",
+      "audio_processing": "Lyrikline原始MP3，保留现有原声音质，未重编码。",
+      "verified_scope": "从对应诗篇页面的原生音频元素下载；完整解码与ASR首尾辅助核验。",
+      "verification_limits": "原声可能采用不同于书面底本的唱词或读法，不能据自动转写反改原文。",
+      "start_page": 98,
+      "end_page": 105
+    }
+  ],
+  "policy": "作者原声优先；未找到可靠录音时留缺，不使用合成语音。",
+  "limits": "新下载的部分真人录音完成来源、篇目和文件技术检查，尚未逐字听校。版本差异不据录音静默改正文。"
+}

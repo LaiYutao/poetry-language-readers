@@ -37,3 +37,20 @@
  .series-george-hofmannsthal .book-details h3,.series-lasker .book-details h3{font-size:19px;line-height:1.4}
  .series-george-hofmannsthal .author,.series-lasker .author{margin-bottom:6px}
 }
+
+.series-heine{--button-color:#D97757;--cover-ink:#915947}.series-heine .author{color:#915947}.series-heine .book-art{background:#D9CAC5}.series-heine .cover-sheet{transform:rotate(-3deg);left:22%;background:#FBF5F4}
+
+.series-hoelderlin{--button-color:#A39D58;--cover-ink:#726E41}.series-hoelderlin .author{color:#726E41}.series-hoelderlin .book-art{background:#CFCFC1}.series-hoelderlin .cover-sheet{transform:rotate(3deg);left:22%;background:#F7F7F2}
+
+.series-nietzsche{--button-color:#5E5D59;--cover-ink:#4F4E49}.series-nietzsche .author{color:#4F4E49}.series-nietzsche .book-art{background:#D5D3CB}.series-nietzsche .cover-sheet{transform:rotate(-4deg);left:22%;background:#FAF9F5}
+
+.series-romantics{--button-color:#9B88AA;--cover-ink:#6E5C7D}.series-romantics .author{color:#6E5C7D}.series-romantics .book-art{background:#D1CBD7}.series-romantics .cover-sheet{transform:rotate(5deg);left:22%;background:#F8F6FA}
+
+.series-enzensberger-jandl{--button-color:#559C9D;--cover-ink:#396C6D}.series-enzensberger-jandl .author{color:#396C6D}.series-enzensberger-jandl .book-art{background:#C1D2D2}.series-enzensberger-jandl .cover-sheet{transform:rotate(-2deg);left:22%;background:#F2F8F8}
+
+.series-gruenbein{--button-color:#778DA8;--cover-ink:#49617E}.series-gruenbein .author{color:#49617E}.series-gruenbein .book-art{background:#C6CFDA}.series-gruenbein .cover-sheet{transform:rotate(4deg);left:22%;background:#F4F7FB}
+
+.series-multi .author{font-size:20px;line-height:1.35}
+.series-multi .book-details h3{font-size:19px;line-height:1.4}
+@media(max-width:700px){.series-multi .author{font-size:clamp(9px,2.8vw,15px);line-height:1.35;margin-bottom:8px}.series-multi .book-details h3{font-size:clamp(12px,3.4vw,18px);line-height:1.45;margin-bottom:10px}}
+@media(min-width:901px){.deck-enabled .series-multi .author{font-size:13px;white-space:nowrap}.deck-enabled .series-multi .book-details h3{font-size:16px;line-height:1.4;margin-bottom:10px}}

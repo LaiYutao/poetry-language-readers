@@ -1,0 +1,590 @@
+{
+  "pages": 102,
+  "poems": 27,
+  "layout": [
+    {
+      "n": 1,
+      "title": "Wenn nicht mehr Zahlen und Figuren",
+      "start": 5,
+      "end": 6,
+      "bottom": 210.09,
+      "lines": 12
+    },
+    {
+      "n": 2,
+      "title": "Kenne dich Selbst",
+      "start": 7,
+      "end": 9,
+      "bottom": 397.19,
+      "lines": 16
+    },
+    {
+      "n": 3,
+      "title": "Hymnen an die Nacht · III",
+      "start": 10,
+      "end": 12,
+      "bottom": 412.49,
+      "lines": 28
+    },
+    {
+      "n": 4,
+      "title": "Hymnen an die Nacht · VI",
+      "start": 13,
+      "end": 18,
+      "bottom": 325.29,
+      "lines": 60
+    },
+    {
+      "n": 5,
+      "title": "Wenn ich ihn nur habe",
+      "start": 19,
+      "end": 21,
+      "bottom": 165.09,
+      "lines": 30
+    },
+    {
+      "n": 6,
+      "title": "Ich sehe dich in tausend Bildern",
+      "start": 22,
+      "end": 23,
+      "bottom": 495.09,
+      "lines": 8
+    },
+    {
+      "n": 7,
+      "title": "Mondnacht",
+      "start": 24,
+      "end": 25,
+      "bottom": 322.69,
+      "lines": 12
+    },
+    {
+      "n": 8,
+      "title": "Zwielicht",
+      "start": 26,
+      "end": 27,
+      "bottom": 247.79,
+      "lines": 16
+    },
+    {
+      "n": 9,
+      "title": "Sehnsucht",
+      "start": 28,
+      "end": 30,
+      "bottom": 525.69,
+      "lines": 24
+    },
+    {
+      "n": 10,
+      "title": "Wünschelrute",
+      "start": 31,
+      "end": 31,
+      "bottom": 108.14,
+      "lines": 4
+    },
+    {
+      "n": 11,
+      "title": "In der Fremde · Aus der Heimat hinter den Blitzen rot",
+      "start": 32,
+      "end": 33,
+      "bottom": 540.99,
+      "lines": 8
+    },
+    {
+      "n": 12,
+      "title": "In der Fremde · Ich hör die Bächlein rauschen",
+      "start": 34,
+      "end": 35,
+      "bottom": 176.79,
+      "lines": 16
+    },
+    {
+      "n": 13,
+      "title": "Im Walde",
+      "start": 36,
+      "end": 37,
+      "bottom": 566.99,
+      "lines": 8
+    },
+    {
+      "n": 14,
+      "title": "Lockung",
+      "start": 38,
+      "end": 39,
+      "bottom": 303.69,
+      "lines": 16
+    },
+    {
+      "n": 15,
+      "title": "Im Abendrot",
+      "start": 40,
+      "end": 41,
+      "bottom": 150.49,
+      "lines": 16
+    },
+    {
+      "n": 16,
+      "title": "Am Thurme",
+      "start": 42,
+      "end": 44,
+      "bottom": 247.09,
+      "lines": 32
+    },
+    {
+      "n": 17,
+      "title": "Das Spiegelbild",
+      "start": 45,
+      "end": 48,
+      "bottom": 469.09,
+      "lines": 42
+    },
+    {
+      "n": 18,
+      "title": "Im Moose",
+      "start": 49,
+      "end": 52,
+      "bottom": 100.49,
+      "lines": 48
+    },
+    {
+      "n": 19,
+      "title": "Im Grase",
+      "start": 53,
+      "end": 55,
+      "bottom": 240.39,
+      "lines": 32
+    },
+    {
+      "n": 20,
+      "title": "Die Mergelgrube",
+      "start": 56,
+      "end": 64,
+      "bottom": 309.99,
+      "lines": 122
+    },
+    {
+      "n": 21,
+      "title": "Der Weiher",
+      "start": 65,
+      "end": 71,
+      "bottom": 397.19,
+      "lines": 83
+    },
+    {
+      "n": 22,
+      "title": "Der Knabe im Moor",
+      "start": 72,
+      "end": 75,
+      "bottom": 217.39,
+      "lines": 48
+    },
+    {
+      "n": 23,
+      "title": "Die Taxuswand",
+      "start": 76,
+      "end": 79,
+      "bottom": 217.39,
+      "lines": 48
+    },
+    {
+      "n": 24,
+      "title": "Die Unbesungenen",
+      "start": 80,
+      "end": 81,
+      "bottom": 146.89,
+      "lines": 20
+    },
+    {
+      "n": 25,
+      "title": "Mein Beruf",
+      "start": 82,
+      "end": 87,
+      "bottom": 412.49,
+      "lines": 72
+    },
+    {
+      "n": 26,
+      "title": "Abschied von der Jugend",
+      "start": 88,
+      "end": 91,
+      "bottom": 495.09,
+      "lines": 40
+    },
+    {
+      "n": 27,
+      "title": "Am letzten Tage des Jahres · Silvester",
+      "start": 92,
+      "end": 96,
+      "bottom": 70.79,
+      "lines": 54
+    }
+  ],
+  "poem_pages": {
+    "1": [
+      5
+    ],
+    "2": [
+      7
+    ],
+    "3": [
+      10,
+      11
+    ],
+    "4": [
+      13,
+      14,
+      15
+    ],
+    "5": [
+      19,
+      20
+    ],
+    "6": [
+      22
+    ],
+    "7": [
+      24
+    ],
+    "8": [
+      26
+    ],
+    "9": [
+      28,
+      29
+    ],
+    "10": [
+      31
+    ],
+    "11": [
+      32
+    ],
+    "12": [
+      34
+    ],
+    "13": [
+      36
+    ],
+    "14": [
+      38
+    ],
+    "15": [
+      40
+    ],
+    "16": [
+      42,
+      43
+    ],
+    "17": [
+      45,
+      46,
+      47
+    ],
+    "18": [
+      49,
+      50,
+      51
+    ],
+    "19": [
+      53,
+      54
+    ],
+    "20": [
+      56,
+      57,
+      58,
+      59,
+      60,
+      61
+    ],
+    "21": [
+      65,
+      66,
+      67,
+      68
+    ],
+    "22": [
+      72,
+      73,
+      74
+    ],
+    "23": [
+      76,
+      77,
+      78
+    ],
+    "24": [
+      80
+    ],
+    "25": [
+      82,
+      83,
+      84,
+      85
+    ],
+    "26": [
+      88,
+      89
+    ],
+    "27": [
+      92,
+      93,
+      94
+    ]
+  },
+  "issues": [],
+  "font_size": 12.1,
+  "row_height": 29,
+  "gloss_font_size": 7.6,
+  "poem_spacing": {
+    "1": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "2": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "3": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "4": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "5": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "6": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "7": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "8": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "9": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "10": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "11": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "12": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "13": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "14": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "15": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "16": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "17": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "18": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "19": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "20": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "21": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "22": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "23": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "24": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "25": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "26": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "27": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    }
+  },
+  "line_styles": {
+    "1": {},
+    "2": {},
+    "3": {},
+    "4": {},
+    "5": {},
+    "6": {},
+    "7": {},
+    "8": {},
+    "9": {},
+    "10": {},
+    "11": {},
+    "12": {},
+    "13": {},
+    "14": {},
+    "15": {},
+    "16": {},
+    "17": {},
+    "18": {},
+    "19": {},
+    "20": {},
+    "21": {},
+    "22": {},
+    "23": {},
+    "24": {},
+    "25": {},
+    "26": {},
+    "27": {}
+  },
+  "soft_wraps": {},
+  "stanza_continuations": [
+    {
+      "poem": 3,
+      "page": 10,
+      "after_line": 21
+    },
+    {
+      "poem": 4,
+      "page": 13,
+      "after_line": 16
+    },
+    {
+      "poem": 4,
+      "page": 14,
+      "after_line": 38
+    },
+    {
+      "poem": 9,
+      "page": 28,
+      "after_line": 19
+    },
+    {
+      "poem": 16,
+      "page": 42,
+      "after_line": 19
+    },
+    {
+      "poem": 17,
+      "page": 45,
+      "after_line": 19
+    },
+    {
+      "poem": 17,
+      "page": 46,
+      "after_line": 40
+    },
+    {
+      "poem": 18,
+      "page": 50,
+      "after_line": 40
+    },
+    {
+      "poem": 19,
+      "page": 53,
+      "after_line": 19
+    },
+    {
+      "poem": 20,
+      "page": 56,
+      "after_line": 21
+    },
+    {
+      "poem": 20,
+      "page": 58,
+      "after_line": 68
+    },
+    {
+      "poem": 20,
+      "page": 59,
+      "after_line": 92
+    },
+    {
+      "poem": 20,
+      "page": 60,
+      "after_line": 114
+    },
+    {
+      "poem": 21,
+      "page": 65,
+      "after_line": 19
+    },
+    {
+      "poem": 21,
+      "page": 66,
+      "after_line": 42
+    },
+    {
+      "poem": 21,
+      "page": 67,
+      "after_line": 65
+    },
+    {
+      "poem": 22,
+      "page": 72,
+      "after_line": 19
+    },
+    {
+      "poem": 23,
+      "page": 76,
+      "after_line": 19
+    },
+    {
+      "poem": 25,
+      "page": 82,
+      "after_line": 19
+    },
+    {
+      "poem": 25,
+      "page": 84,
+      "after_line": 62
+    },
+    {
+      "poem": 26,
+      "page": 88,
+      "after_line": 19
+    },
+    {
+      "poem": 27,
+      "page": 93,
+      "after_line": 40
+    }
+  ]
+}

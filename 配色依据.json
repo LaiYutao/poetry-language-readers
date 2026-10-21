@@ -1,0 +1,167 @@
+{
+  "source": "https://www.anthropic.com/",
+  "stylesheet": "https://cdn.prod.website-files.com/67ce28cfec624e2b733f8a52/css/ant-brand.shared.67f55a9666b2ae2332f5f893.fa6b3aa41.min.css",
+  "sha256": "c348ca56855e09ebdd2349451a9cfbec8ee7104ab22c54a643ca6dffe4d8e523",
+  "retrieved": "2026-10-21",
+  "note": "主页浏览成功，直接抓取主页403；公开品牌样式表可正常读取。六册中陶土橙与石墨灰为官网原色，另外四色为同风格合成。书页主色保持同色相，降低明度与彩度。",
+  "colors": [
+    {
+      "slug": "heine",
+      "name": "海涅诗选",
+      "short_name": "海涅",
+      "author": "Heinrich Heine",
+      "cover_lines": [
+        "海涅诗选"
+      ],
+      "total": 27,
+      "theme": {
+        "main": "#915947",
+        "aux": "#89798D",
+        "ink": "#3A302D",
+        "pale": "#F4EDEA",
+        "rule": "#D9CAC5",
+        "cover": "#FBF5F4"
+      },
+      "button_color": "#D97757",
+      "button_text": "#FFFFFF",
+      "color_name": "陶土橙",
+      "motto": "在歌声里翻转世界",
+      "cover_poem": "Die Lore-Ley",
+      "color_reference": "clay",
+      "reference_hex": "#d97757",
+      "color_method": "官网原色"
+    },
+    {
+      "slug": "hoelderlin",
+      "name": "荷尔德林诗选",
+      "short_name": "荷尔德林",
+      "author": "Friedrich Hölderlin",
+      "cover_lines": [
+        "荷尔德林诗选"
+      ],
+      "total": 27,
+      "theme": {
+        "main": "#726E41",
+        "aux": "#89798D",
+        "ink": "#34332B",
+        "pale": "#EFEFE8",
+        "rule": "#CFCFC1",
+        "cover": "#F7F7F2"
+      },
+      "button_color": "#A39D58",
+      "button_text": "#FFFFFF",
+      "color_name": "苔金",
+      "motto": "在失去中追问神圣",
+      "cover_poem": "Hälfte des Lebens",
+      "color_reference": "matcha",
+      "reference_hex": "#ced6bf",
+      "color_method": "基于官网色系合成；不是官网原色"
+    },
+    {
+      "slug": "nietzsche",
+      "name": "尼采诗选",
+      "short_name": "尼采",
+      "author": "Friedrich Nietzsche",
+      "cover_lines": [
+        "尼采诗选"
+      ],
+      "total": 18,
+      "theme": {
+        "main": "#4F4E49",
+        "aux": "#8A8278",
+        "ink": "#34332F",
+        "pale": "#F0EFEB",
+        "rule": "#D5D3CB",
+        "cover": "#FAF9F5"
+      },
+      "button_color": "#5E5D59",
+      "button_text": "#FFFFFF",
+      "color_name": "石墨灰",
+      "motto": "向自己的深处远行",
+      "cover_poem": "Der Freigeist",
+      "color_reference": "slate-light",
+      "reference_hex": "#5e5d59",
+      "color_method": "官网原色"
+    },
+    {
+      "slug": "romantics",
+      "name": "诺瓦利斯／艾兴多夫／德罗斯特诗选",
+      "short_name": "诺瓦利斯／艾兴多夫／德罗斯特",
+      "author": "Novalis / Eichendorff / Droste",
+      "cover_lines": [
+        "诺瓦利斯／艾兴多夫",
+        "德罗斯特诗选"
+      ],
+      "total": 27,
+      "theme": {
+        "main": "#6E5C7D",
+        "aux": "#89798D",
+        "ink": "#353139",
+        "pale": "#F0EDF3",
+        "rule": "#D1CBD7",
+        "cover": "#F8F6FA"
+      },
+      "button_color": "#9B88AA",
+      "button_text": "#FFFFFF",
+      "color_name": "石南紫",
+      "motto": "让夜与清醒彼此照见",
+      "cover_poem": "Mondnacht / Am Turme",
+      "color_reference": "heather",
+      "reference_hex": "#cbcadb",
+      "color_method": "基于官网色系合成；不是官网原色"
+    },
+    {
+      "slug": "enzensberger-jandl",
+      "name": "恩岑斯贝格尔／杨德尔诗选",
+      "short_name": "恩岑斯贝格尔／杨德尔",
+      "author": "Enzensberger / Jandl",
+      "cover_lines": [
+        "恩岑斯贝格尔",
+        "杨德尔诗选"
+      ],
+      "total": 36,
+      "theme": {
+        "main": "#396C6D",
+        "aux": "#89798D",
+        "ink": "#2A3535",
+        "pale": "#E8F0F0",
+        "rule": "#C1D2D2",
+        "cover": "#F2F8F8"
+      },
+      "button_color": "#559C9D",
+      "button_text": "#FFFFFF",
+      "color_name": "水蓝绿",
+      "motto": "让语言改变方向",
+      "cover_poem": "Utopia / lichtung",
+      "color_reference": "cactus",
+      "reference_hex": "#bcd1ca",
+      "color_method": "基于官网色系合成；不是官网原色"
+    },
+    {
+      "slug": "gruenbein",
+      "name": "格林拜恩诗选",
+      "short_name": "格林拜恩",
+      "author": "Durs Grünbein",
+      "cover_lines": [
+        "格林拜恩诗选"
+      ],
+      "total": 18,
+      "theme": {
+        "main": "#49617E",
+        "aux": "#89798D",
+        "ink": "#2E333B",
+        "pale": "#EAEFF5",
+        "rule": "#C6CFDA",
+        "cover": "#F4F7FB"
+      },
+      "button_color": "#778DA8",
+      "button_text": "#FFFFFF",
+      "color_name": "雾钢蓝",
+      "motto": "在身体里辨认时代",
+      "cover_poem": "Schädelbasislektion",
+      "color_reference": "cloud",
+      "reference_hex": "#c5d3e0",
+      "color_method": "基于官网色系合成；不是官网原色"
+    }
+  ]
+}

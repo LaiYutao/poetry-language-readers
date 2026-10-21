@@ -1,0 +1,534 @@
+{
+  "pages": 86,
+  "poems": 28,
+  "layout": [
+    {
+      "n": 1,
+      "title": "Erinnerung an die Marie A.",
+      "start": 6,
+      "end": 8,
+      "bottom": 303.89,
+      "lines": 24
+    },
+    {
+      "n": 2,
+      "title": "Vom ertrunkenen Mädchen",
+      "start": 9,
+      "end": 11,
+      "bottom": 277.89,
+      "lines": 16
+    },
+    {
+      "n": 3,
+      "title": "Gegen Verführung",
+      "start": 12,
+      "end": 14,
+      "bottom": 273.29,
+      "lines": 20
+    },
+    {
+      "n": 4,
+      "title": "Die Liebenden",
+      "start": 15,
+      "end": 17,
+      "bottom": 497.39,
+      "lines": 20
+    },
+    {
+      "n": 5,
+      "title": "Fragen eines lesenden Arbeiters",
+      "start": 18,
+      "end": 21,
+      "bottom": 479.79,
+      "lines": 27
+    },
+    {
+      "n": 6,
+      "title": "Der Pflaumenbaum",
+      "start": 22,
+      "end": 24,
+      "bottom": 381.89,
+      "lines": 12
+    },
+    {
+      "n": 7,
+      "title": "Die Bücherverbrennung",
+      "start": 25,
+      "end": 27,
+      "bottom": 440.79,
+      "lines": 13
+    },
+    {
+      "n": 8,
+      "title": "General, dein Tank ist ein starker Wagen",
+      "start": 28,
+      "end": 30,
+      "bottom": 212.09,
+      "lines": 12
+    },
+    {
+      "n": 9,
+      "title": "Schlechte Zeit für Lyrik",
+      "start": 31,
+      "end": 33,
+      "bottom": 381.89,
+      "lines": 21
+    },
+    {
+      "n": 10,
+      "title": "Über die Bezeichnung Emigranten",
+      "start": 34,
+      "end": 36,
+      "bottom": 510.39,
+      "lines": 21
+    },
+    {
+      "n": 11,
+      "title": "Hollywood",
+      "start": 37,
+      "end": 37,
+      "bottom": 155.44,
+      "lines": 4
+    },
+    {
+      "n": 12,
+      "title": "Auf den kleinen Radioapparat",
+      "start": 38,
+      "end": 39,
+      "bottom": 510.39,
+      "lines": 8
+    },
+    {
+      "n": 13,
+      "title": "Die Maske des Bösen",
+      "start": 40,
+      "end": 41,
+      "bottom": 510.39,
+      "lines": 5
+    },
+    {
+      "n": 14,
+      "title": "Kinderhymne",
+      "start": 42,
+      "end": 43,
+      "bottom": 202.79,
+      "lines": 16
+    },
+    {
+      "n": 15,
+      "title": "Der Blumengarten",
+      "start": 44,
+      "end": 45,
+      "bottom": 495.09,
+      "lines": 8
+    },
+    {
+      "n": 16,
+      "title": "Der Rauch",
+      "start": 46,
+      "end": 46,
+      "bottom": 102.44,
+      "lines": 5
+    },
+    {
+      "n": 17,
+      "title": "Der Radwechsel",
+      "start": 47,
+      "end": 48,
+      "bottom": 497.39,
+      "lines": 6
+    },
+    {
+      "n": 18,
+      "title": "Die Lösung",
+      "start": 49,
+      "end": 50,
+      "bottom": 232.69,
+      "lines": 10
+    },
+    {
+      "n": 19,
+      "title": "Vergnügungen",
+      "start": 51,
+      "end": 52,
+      "bottom": 337.69,
+      "lines": 16
+    },
+    {
+      "n": 20,
+      "title": "Als ich in weißem Krankenzimmer der Charité",
+      "start": 53,
+      "end": 54,
+      "bottom": 169.09,
+      "lines": 9
+    },
+    {
+      "n": 21,
+      "title": "Vom armen B. B.",
+      "start": 55,
+      "end": 58,
+      "bottom": 399.49,
+      "lines": 36
+    },
+    {
+      "n": 22,
+      "title": "Aus dem Lesebuch für Städtebewohner, 1",
+      "start": 59,
+      "end": 61,
+      "bottom": 236.39,
+      "lines": 30
+    },
+    {
+      "n": 23,
+      "title": "Entdeckung an einer jungen Frau",
+      "start": 62,
+      "end": 63,
+      "bottom": 87.29,
+      "lines": 14
+    },
+    {
+      "n": 24,
+      "title": "Rudern, Gespräche",
+      "start": 64,
+      "end": 64,
+      "bottom": 84.24,
+      "lines": 5
+    },
+    {
+      "n": 25,
+      "title": "An die Nachgeborenen",
+      "start": 65,
+      "end": 71,
+      "bottom": 342.19,
+      "lines": 74
+    },
+    {
+      "n": 26,
+      "title": "Die Moritat von Mackie Messer",
+      "start": 72,
+      "end": 74,
+      "bottom": 89.99,
+      "lines": 36
+    },
+    {
+      "n": 27,
+      "title": "Der Kälbermarsch",
+      "start": 75,
+      "end": 76,
+      "bottom": 122.64,
+      "lines": 24
+    },
+    {
+      "n": 28,
+      "title": "Ballade von der Unzulänglichkeit menschlichen Planens",
+      "start": 77,
+      "end": 79,
+      "bottom": 380.69,
+      "lines": 32
+    }
+  ],
+  "poem_pages": {
+    "1": [
+      6,
+      7
+    ],
+    "2": [
+      9
+    ],
+    "3": [
+      12,
+      13
+    ],
+    "4": [
+      15
+    ],
+    "5": [
+      18,
+      19
+    ],
+    "6": [
+      22
+    ],
+    "7": [
+      25
+    ],
+    "8": [
+      28
+    ],
+    "9": [
+      31,
+      32
+    ],
+    "10": [
+      34
+    ],
+    "11": [
+      37
+    ],
+    "12": [
+      38
+    ],
+    "13": [
+      40
+    ],
+    "14": [
+      42
+    ],
+    "15": [
+      44
+    ],
+    "16": [
+      46
+    ],
+    "17": [
+      47
+    ],
+    "18": [
+      49
+    ],
+    "19": [
+      51
+    ],
+    "20": [
+      53
+    ],
+    "21": [
+      55,
+      56
+    ],
+    "22": [
+      59,
+      60
+    ],
+    "23": [
+      62
+    ],
+    "24": [
+      64
+    ],
+    "25": [
+      65,
+      66,
+      67,
+      68
+    ],
+    "26": [
+      72,
+      73
+    ],
+    "27": [
+      75,
+      76
+    ],
+    "28": [
+      77,
+      78
+    ]
+  },
+  "issues": [],
+  "font_size": 12.1,
+  "row_height": 29,
+  "gloss_font_size": 7.6,
+  "poem_spacing": {
+    "1": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "2": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "3": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "4": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "5": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "6": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "7": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "8": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "9": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "10": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "11": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "12": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "13": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "14": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "15": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "16": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "17": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "18": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "19": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "20": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "21": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "22": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "23": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "24": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "25": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "26": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "27": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "28": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    }
+  },
+  "line_styles": {
+    "1": {},
+    "2": {},
+    "3": {},
+    "4": {},
+    "5": {},
+    "6": {},
+    "7": {},
+    "8": {},
+    "9": {},
+    "10": {},
+    "11": {},
+    "12": {},
+    "13": {},
+    "14": {},
+    "15": {},
+    "16": {},
+    "17": {},
+    "18": {},
+    "19": {},
+    "20": {},
+    "21": {},
+    "22": {},
+    "23": {},
+    "24": {},
+    "25": {},
+    "26": {},
+    "27": {},
+    "28": {}
+  },
+  "soft_wraps": {},
+  "stanza_continuations": [
+    {
+      "poem": 1,
+      "page": 6,
+      "after_line": 19
+    },
+    {
+      "poem": 3,
+      "page": 12,
+      "after_line": 18
+    },
+    {
+      "poem": 5,
+      "page": 18,
+      "after_line": 19
+    },
+    {
+      "poem": 9,
+      "page": 31,
+      "after_line": 18
+    },
+    {
+      "poem": 21,
+      "page": 55,
+      "after_line": 18
+    },
+    {
+      "poem": 25,
+      "page": 65,
+      "after_line": 18
+    },
+    {
+      "poem": 25,
+      "page": 66,
+      "after_line": 40
+    },
+    {
+      "poem": 25,
+      "page": 67,
+      "after_line": 62
+    },
+    {
+      "poem": 26,
+      "page": 72,
+      "after_line": 18
+    },
+    {
+      "poem": 27,
+      "page": 75,
+      "after_line": 19
+    },
+    {
+      "poem": 28,
+      "page": 77,
+      "after_line": 19
+    }
+  ]
+}

@@ -2,63 +2,99 @@
   "snapshot": "2026-10-13",
   "documents": [
     {
-      "name": "里尔克诗选",
-      "version": "2026-10-18",
-      "pdf_pages": 52,
-      "path": "readers/rilke/里尔克诗选22首逐词译注读本.pdf"
-    },
-    {
-      "name": "特拉克尔诗选",
-      "version": "2026-10-20",
-      "pdf_pages": 50,
-      "path": "readers/trakl/特拉克尔诗选23首逐词译注读本.pdf"
+      "name": "策兰《呼吸结晶》德语语法阅读手册",
+      "version": "2.1",
+      "pdf_pages": 98
     },
     {
       "name": "策兰《呼吸结晶》",
-      "version": "2026-10-18",
+      "version": "2026-10-21",
       "pdf_pages": 50,
       "path": "readers/atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0.pdf"
     },
     {
+      "name": "巴赫曼诗选",
+      "version": "2026-10-21",
+      "pdf_pages": 111,
+      "path": "readers/bachmann/巴赫曼诗选30首逐词译注读本.pdf"
+    },
+    {
+      "name": "贝恩诗选",
+      "version": "2026-10-21",
+      "pdf_pages": 98,
+      "path": "readers/benn/贝恩诗选32首逐词译注读本.pdf"
+    },
+    {
       "name": "布莱希特诗选",
-      "version": "2026-10-20",
+      "version": "2026-10-21",
       "pdf_pages": 86,
       "path": "readers/brecht/布莱希特诗选28首逐词译注读本.pdf"
     },
     {
       "name": "策兰诗选",
-      "version": "2026-10-20",
+      "version": "2026-10-21",
       "pdf_pages": 134,
       "path": "readers/celan-new/策兰诗选34首逐词译注读本.pdf"
     },
     {
-      "name": "贝恩诗选",
-      "version": "2026-10-20",
-      "pdf_pages": 98,
-      "path": "readers/benn/贝恩诗选32首逐词译注读本.pdf"
-    },
-    {
-      "name": "巴赫曼诗选",
-      "version": "2026-10-20",
-      "pdf_pages": 111,
-      "path": "readers/bachmann/巴赫曼诗选30首逐词译注读本.pdf"
+      "name": "恩岑斯贝格尔／杨德尔诗选",
+      "version": "2026-10-21",
+      "pdf_pages": 112,
+      "path": "readers/enzensberger-jandl/恩岑斯贝格尔_杨德尔诗选_逐词译注读本.pdf"
     },
     {
       "name": "格奥尔格／荷夫曼斯塔尔诗选",
-      "version": "2026-10-20",
+      "version": "2026-10-21",
       "pdf_pages": 88,
       "path": "readers/george-hofmannsthal/格奥尔格／荷夫曼斯塔尔30首逐词译注读本.pdf"
     },
     {
+      "name": "格林拜恩诗选",
+      "version": "2026-10-21",
+      "pdf_pages": 57,
+      "path": "readers/gruenbein/格林拜恩诗选_逐词译注读本.pdf"
+    },
+    {
+      "name": "海涅诗选",
+      "version": "2026-10-21",
+      "pdf_pages": 76,
+      "path": "readers/heine/海涅诗选_逐词译注读本.pdf"
+    },
+    {
+      "name": "荷尔德林诗选",
+      "version": "2026-10-21",
+      "pdf_pages": 140,
+      "path": "readers/hoelderlin/荷尔德林诗选_逐词译注读本.pdf"
+    },
+    {
       "name": "拉斯克－许勒／萨克斯诗选",
-      "version": "2026-10-20",
+      "version": "2026-10-21",
       "pdf_pages": 80,
       "path": "readers/lasker/拉斯克－许勒／萨克斯28首逐词译注读本.pdf"
     },
     {
-      "name": "策兰《呼吸结晶》德语语法阅读手册",
-      "version": "2.1",
-      "pdf_pages": 98
+      "name": "尼采诗选",
+      "version": "2026-10-21",
+      "pdf_pages": 66,
+      "path": "readers/nietzsche/尼采诗选_逐词译注读本.pdf"
+    },
+    {
+      "name": "里尔克诗选",
+      "version": "2026-10-21",
+      "pdf_pages": 52,
+      "path": "readers/rilke/里尔克诗选22首逐词译注读本.pdf"
+    },
+    {
+      "name": "诺瓦利斯／艾兴多夫／德罗斯特诗选",
+      "version": "2026-10-21",
+      "pdf_pages": 102,
+      "path": "readers/romantics/诺瓦利斯_艾兴多夫_德罗斯特诗选_逐词译注读本.pdf"
+    },
+    {
+      "name": "特拉克尔诗选",
+      "version": "2026-10-21",
+      "pdf_pages": 50,
+      "path": "readers/trakl/特拉克尔诗选23首逐词译注读本.pdf"
     }
   ],
   "files": [
@@ -79,8 +115,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 8138,
-      "sha256": "108ebb50c6727464a27ee123000cb21c32020a8dec4f0d41746918612908228e"
+      "bytes": 8697,
+      "sha256": "ede42871db69d8103c0eac45987bd643fe9ce8ecf2e187fa4d6cc5336f8b424e"
     },
     {
       "path": "COPYRIGHT.md",
@@ -89,8 +125,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3247,
-      "sha256": "8ce9aaa84f3cd3b15822cf45ac82271fac82aec9793aff4d0236db54ac9870ba"
+      "bytes": 4340,
+      "sha256": "498a10ea9adfd7b9fb6f24539c44fa3f630c41d76a6b6edc5a7f93bca2d08757"
     },
     {
       "path": "SOURCES.md",
@@ -128,14 +164,29 @@
       "sha256": "47048b07c36a95c8ff0957879b8de221e6de2aa9286cb766ecc2aac380225b98"
     },
     {
+      "path": "assets/fonts/NotesLatin-fifteen-47a0e444da06.woff2",
+      "bytes": 34920,
+      "sha256": "47a0e444da0650725a45e428ec3e149237bf6535d073241e3ac49b931a6aca2b"
+    },
+    {
       "path": "assets/fonts/NotesLatin.woff2",
       "bytes": 35268,
       "sha256": "3b6a83b804525941cd1b98e5064ff775d92ca6b3ed05addb7eec50b3009f863c"
     },
     {
+      "path": "assets/fonts/NotesSong-fifteen-b2d209c1110e.woff2",
+      "bytes": 33756,
+      "sha256": "b2d209c1110e052db42d8e34ce346646ca3034d3263caeaf57989f2a094f9edb"
+    },
+    {
       "path": "assets/fonts/NotesSong.woff2",
       "bytes": 28472,
       "sha256": "8553ef94aa3e6829106b919b9c58c7adf3891055f265057ecdd994e772709c52"
+    },
+    {
+      "path": "assets/fonts/NotesSongBold-fifteen-49d83047a59d.woff2",
+      "bytes": 3080,
+      "sha256": "49d83047a59dfdf50671e93bf04fa9e39ee2e3ff0b1991a4868d8bf9b29b0f09"
     },
     {
       "path": "assets/fonts/NotesSongBold.woff2",
@@ -223,6 +274,11 @@
       "sha256": "a7673b4fb394e679ecb0c41a1b6d2706b3b4e927bf4467bcba0c78e78880d719"
     },
     {
+      "path": "assets/fonts/listening-notes-fifteen-1581bf346a7a.css",
+      "bytes": 596,
+      "sha256": "1581bf346a7ab0c2f9df0971bd9cca3baeec45a5c0d7bacfe75dfaf8545abc5e"
+    },
+    {
       "path": "assets/fonts/listening-notes.css",
       "bytes": 579,
       "sha256": "35d7a11053dcfd754ceff78f05d1cc5d578b749b404d282ae5c48ee9c90ff0ca"
@@ -241,6 +297,11 @@
       "path": "assets/fonts/reader-ui-cfb74e90f916.woff2",
       "bytes": 62708,
       "sha256": "cfb74e90f916389837f7eb1dc02b7630a4d161921b38f89599114446b519eef3"
+    },
+    {
+      "path": "assets/fonts/reader-ui-fifteen-d52a0fb64a23.woff2",
+      "bytes": 63396,
+      "sha256": "d52a0fb64a23379d6f9a1b6d784c3a500e951b041b6cdbe0bbcff34a309adf7e"
     },
     {
       "path": "assets/home-title-letter-lai.svg",
@@ -288,9 +349,29 @@
       "sha256": "83ec3ecfbc7a03b0cdfed271f0c0b6fd7812ab6759b33505a29d1b779fe56ebc"
     },
     {
+      "path": "assets/homepage/assets/cover-enzensberger-jandl.svg",
+      "bytes": 29915,
+      "sha256": "60317390167927bd449b34d57fef4e0953bf718557201a6b00792230f977e086"
+    },
+    {
       "path": "assets/homepage/assets/cover-george-hofmannsthal.svg",
       "bytes": 30687,
       "sha256": "f18c7d1d38733ac4cb66ab28b077e4017811959673aad50d71ac2965bc7181c6"
+    },
+    {
+      "path": "assets/homepage/assets/cover-gruenbein.svg",
+      "bytes": 26652,
+      "sha256": "7a6bcb0f2d88c54da90133c1b69e298393f1681b87d18ff77c890040c2895d46"
+    },
+    {
+      "path": "assets/homepage/assets/cover-heine.svg",
+      "bytes": 18910,
+      "sha256": "84557b4c7ad67f7044bbab2346a62f94da6f5fb0dcaa396becbf93d9dc324d34"
+    },
+    {
+      "path": "assets/homepage/assets/cover-hoelderlin.svg",
+      "bytes": 26450,
+      "sha256": "b88eae5483a465b8c40faf945f97ad8c9d8dbab0d4ba417126300c704d8af108"
     },
     {
       "path": "assets/homepage/assets/cover-lasker.svg",
@@ -298,9 +379,19 @@
       "sha256": "50b171b93f2cc4047b7775d365dbca9f95be3aa01a252fe17c868445d908842a"
     },
     {
+      "path": "assets/homepage/assets/cover-nietzsche.svg",
+      "bytes": 23704,
+      "sha256": "16a0a57fb052a2dc5c92456f2ef71546bb5b7626309b2b21a69e08323eb467c9"
+    },
+    {
       "path": "assets/homepage/assets/cover-rilke.svg",
       "bytes": 51641,
       "sha256": "e713eda01911bb24a6b2cd1bead6b6268e45a9f8e9f0f07466a6ee2a07755396"
+    },
+    {
+      "path": "assets/homepage/assets/cover-romantics.svg",
+      "bytes": 31554,
+      "sha256": "9deced1249000ee76d656037d37853b624e2ed8b575eeca6f2ab225e60563311"
     },
     {
       "path": "assets/homepage/assets/cover-trakl.svg",
@@ -329,18 +420,18 @@
     },
     {
       "path": "assets/homepage/assets/home-title-songti.woff2",
-      "bytes": 43628,
-      "sha256": "e198d9028cced4a7c12b9303b0380ef02d3aa702a20d59f28e7907036c808e9f"
+      "bytes": 50436,
+      "sha256": "3859745187fb0d7166eb669b368d8579132d4e49906bad68da209a33efeef9de"
     },
     {
       "path": "assets/homepage/assets/homepage-heiti.woff2",
-      "bytes": 72420,
-      "sha256": "4e89338bccf72fdcdcd6dc228d8ef2e00f12ef5693fd3b0cfaa2e1572539d0b4"
+      "bytes": 83336,
+      "sha256": "24f7f67d1363c8a10ba7e57a44be29b6868b4bf65ae772e9a93dac2eda44371a"
     },
     {
       "path": "assets/homepage/assets/paper-song.woff2",
-      "bytes": 46540,
-      "sha256": "e1784bd76a2c3aaf9d3d79478a8096c21924c088d9951870a89e9be1ff762914"
+      "bytes": 53300,
+      "sha256": "a489f5ed9e0c712735e5759b42f257838a45c10c3375d0b627c38811b59279b3"
     },
     {
       "path": "assets/homepage/deck-controls-heiti.woff2",
@@ -349,23 +440,23 @@
     },
     {
       "path": "assets/homepage/deck.css",
-      "bytes": 4902,
-      "sha256": "ae16b4f51a6c056c4900e06a68999de2ebb9afe573474b9d206108da8a2ffc14"
+      "bytes": 5571,
+      "sha256": "c5f1b2e21e5f2994e5f95f88e0e0517e1799b56eb5f98eb28037499459217c27"
     },
     {
       "path": "assets/homepage/deck.js",
-      "bytes": 8994,
-      "sha256": "8082d95e95bc5d28ee08b78184fa233f3ba0accdb0327bfe53640588fe89e3da"
+      "bytes": 10569,
+      "sha256": "3384d143106b411038c990670a7168884c5dde6fc056ab242d1e2e83e51f2493"
     },
     {
       "path": "assets/homepage/series-cards.css",
-      "bytes": 3493,
-      "sha256": "aa2f472cd1ca81d659e2d011382696c0e853f358417447ead73fda9a92200f08"
+      "bytes": 5437,
+      "sha256": "1145f1763acb3c103bf0fc90d36e7912d4107dde5aa7882bb7ff68a262298e9c"
     },
     {
       "path": "assets/homepage/style.css",
       "bytes": 22607,
-      "sha256": "1f697dc5dcca97b412dab526f66351097521fa68e570bff42b79c43e77d4c604"
+      "sha256": "5ecc2542b33692e4df57c015c6053acbe303cd7b7f15d4efb286184bdeb2a84c"
     },
     {
       "path": "assets/reader.js",
@@ -376,6 +467,11 @@
       "path": "copyright.html",
       "bytes": 4651,
       "sha256": "625adf3acf5926d33a8ae73582dab940e270e351e906fc4233e1d51d33e0e855"
+    },
+    {
+      "path": "design-preview/new-six.html",
+      "bytes": 4382,
+      "sha256": "ff1c98cbb77a2a906f257fdbb96c19640809404c6c5419f5411bcac69c7ba42e"
     },
     {
       "path": "docs/Lyrik字标设计说明.md",
@@ -414,8 +510,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 30580,
-      "sha256": "8a97b9fc0d771d5eaefd01ed8aab38ab6a172960d2a6f0435a63a0552b9a4c5b"
+      "bytes": 36295,
+      "sha256": "5ee0a1b27576c8e315ffe784b828631b117855859ce026800899dc83f0a9b91f"
     },
     {
       "path": "letter-lai.html",
@@ -2604,13 +2700,13 @@
     },
     {
       "path": "readers/atemkristall/index.html",
-      "bytes": 70869,
-      "sha256": "fb9962b08d88a9d1de24b3638b75b067f2822808ba576a593a5ecee4a2ef2c26"
+      "bytes": 70875,
+      "sha256": "bdc9be6913d29ac79b7981cfc2908280fefc464ed25d0948373eac5e83723041"
     },
     {
       "path": "readers/atemkristall/reader.css",
-      "bytes": 19845,
-      "sha256": "41e2643faf96407098b51a995f110eeea7f59e8452f7e4022166cbda172dfb53"
+      "bytes": 19853,
+      "sha256": "bc79518818636ec5b06f3b97b18b7e1d5cc0962823fba92499d56111bae0582b"
     },
     {
       "path": "readers/atemkristall/series.css",
@@ -3023,14 +3119,19 @@
       "sha256": "e0032262176dae08a97cce80b34ec3c3e02965d235f92f299b4490085223b77b"
     },
     {
+      "path": "readers/bachmann/audio-manifest.json",
+      "bytes": 49606,
+      "sha256": "74483347955514cf9c3da858a246a19e1e39c12df5c6b9d6b8f1761061587bcc"
+    },
+    {
       "path": "readers/bachmann/audio-player.css",
       "bytes": 1162,
       "sha256": "eab06e4752ab22adaf0283fbe132abb7c21a417655747779f8a64c2be578d946"
     },
     {
       "path": "readers/bachmann/audio-player.js",
-      "bytes": 3536,
-      "sha256": "8743eeafcf34c52e30212931cae3b16cdeaa292da894909f8258983e2c9ab9a4"
+      "bytes": 2385,
+      "sha256": "53e02c12bf4ff5bc73072d8898ffbac2f6e2ab4b8bc3d00dfb5f355bfcab6f42"
     },
     {
       "path": "readers/bachmann/audio/01.mp3",
@@ -3153,19 +3254,34 @@
       "sha256": "d0789aadab7fcb4d25c743d2e87717184af687d2e42e687e55593c43134601af"
     },
     {
+      "path": "readers/bachmann/content.json",
+      "bytes": 497992,
+      "sha256": "ef5f3f8fb787d9481fddb14a8f1f329c995b9f0c20faed6957e77f2547de3a05"
+    },
+    {
       "path": "readers/bachmann/index.html",
-      "bytes": 90489,
-      "sha256": "34f81beb6f31ba3926c898b97e348f5cfc0909fb0e5456b08f9ea74d4d8675f1"
+      "bytes": 90482,
+      "sha256": "0a7123c71df8fc7759ddb2322ff02d4aef3177d9851cca3561c31e95ac721275"
+    },
+    {
+      "path": "readers/bachmann/layout.json",
+      "bytes": 9696,
+      "sha256": "a44320c34dbf7ce53b4ed4dc5259d3d314c800bb08c41aaa1fd5a1bde11666c1"
     },
     {
       "path": "readers/bachmann/reader.css",
-      "bytes": 22319,
-      "sha256": "2a09ce78afe67d380aba440c5f7d9a01fd6ff130c1e764d9de91e3b0950ce9bd"
+      "bytes": 22327,
+      "sha256": "16665aad0cdde548bced5720ffebcbff274ed0f9b6971f56bb9c539ce976a5fb"
     },
     {
       "path": "readers/bachmann/series.css",
       "bytes": 4166,
       "sha256": "7850cc299509f368df04a296378e41ab971f62452c0dd698e02f18bed650cb71"
+    },
+    {
+      "path": "readers/bachmann/web-validation.json",
+      "bytes": 9184,
+      "sha256": "45abd5c8a23263d3ee092cc4294230910b90c00c5dd12395b83c5d1dc6907193"
     },
     {
       "path": "readers/bachmann/web/text-pages/001.html",
@@ -3863,6 +3979,11 @@
       "sha256": "fb87bb88d205d932c34d94f7c37a6fe827f407fb2af5264228f0cf241d8d9702"
     },
     {
+      "path": "readers/benn/audio-manifest.json",
+      "bytes": 52693,
+      "sha256": "714c3549947738046d61437d2fe8b15b292bb61246992a6501aced1c00a7c5e4"
+    },
+    {
       "path": "readers/benn/audio-player.css",
       "bytes": 1162,
       "sha256": "eab06e4752ab22adaf0283fbe132abb7c21a417655747779f8a64c2be578d946"
@@ -4018,19 +4139,34 @@
       "sha256": "48ceb1177856fb90a90110783b11b781722d0163b1380f2d4b360e402a646dd3"
     },
     {
+      "path": "readers/benn/content.json",
+      "bytes": 419777,
+      "sha256": "8ff581de28bb6f8aafcfd8d26b81af286812f9d8f365307643b985ec6d813625"
+    },
+    {
       "path": "readers/benn/index.html",
-      "bytes": 88325,
-      "sha256": "1991c198c509dcfe19680a4401e280481b90d8f856e33cb1b99bec796ed0300c"
+      "bytes": 88318,
+      "sha256": "4fa25067474b47b4fe5631c21d5abe1f198a0788e6736e02eb932a4dc0b6cbdd"
+    },
+    {
+      "path": "readers/benn/layout.json",
+      "bytes": 9370,
+      "sha256": "4cd5c08eaba12789bc20c649194c66f167df11e638674983a4300a9d3e16d163"
     },
     {
       "path": "readers/benn/reader.css",
-      "bytes": 20941,
-      "sha256": "92e95a4ed14dd8379bd1278d56c81a5bf4bae65b2be217af5345e2f6f42dce66"
+      "bytes": 20949,
+      "sha256": "b0986080657a4234ccc524eda892d52af38fc1fa2a3cbe0b1a33bdb29d884e6d"
     },
     {
       "path": "readers/benn/series.css",
       "bytes": 4166,
       "sha256": "7850cc299509f368df04a296378e41ab971f62452c0dd698e02f18bed650cb71"
+    },
+    {
+      "path": "readers/benn/web-validation.json",
+      "bytes": 8193,
+      "sha256": "8499e29a608fff4b0776e603aa405e93ad68814807d62e8e211afecb7032a5ed"
     },
     {
       "path": "readers/benn/web/text-pages/001.html",
@@ -4648,6 +4784,11 @@
       "sha256": "cd98c2817c4bc1b947d697714ece7f5341f68c37011dc0e0f4e0f3ef11bb8062"
     },
     {
+      "path": "readers/brecht/audio-manifest.json",
+      "bytes": 32055,
+      "sha256": "927a9729d3bc247d4b89277b74657e8b2ef5bcc22897d8b1532deaba6bdb6507"
+    },
+    {
       "path": "readers/brecht/audio-player.css",
       "bytes": 1162,
       "sha256": "eab06e4752ab22adaf0283fbe132abb7c21a417655747779f8a64c2be578d946"
@@ -4793,19 +4934,34 @@
       "sha256": "afb51e71a3777cb3d21fe59855228c5a0f1df0e0b907706dc5d0d6809a566827"
     },
     {
+      "path": "readers/brecht/content.json",
+      "bytes": 403352,
+      "sha256": "51d18934d133b1b80d9b20158e9651dfceb7d06e57c19440e602d3bb9dee631d"
+    },
+    {
       "path": "readers/brecht/index.html",
-      "bytes": 83530,
-      "sha256": "28b101e9962cd8166bceab43f55d3f3948d27d863a9472ca196d7d46299945fb"
+      "bytes": 83523,
+      "sha256": "1aa11d0aa1c1a558ccb90fe6d3c8a3f7c417ed27bc987bc67b1288fc4646417c"
+    },
+    {
+      "path": "readers/brecht/layout.json",
+      "bytes": 8390,
+      "sha256": "367f22dac0c8f5d57db18ec05cc4ce09ea61034b75c0b0e058ace36494de3120"
     },
     {
       "path": "readers/brecht/reader.css",
-      "bytes": 20512,
-      "sha256": "a10f814ef05bcca707c2d7a6cc705ecbc7d140a79a8f2352a30992853ba8e08e"
+      "bytes": 20520,
+      "sha256": "3ff2185e97ff593209557c088b4c1e7d5e60d9d243e1b12858f915e084ffcef9"
     },
     {
       "path": "readers/brecht/series.css",
       "bytes": 4166,
       "sha256": "7850cc299509f368df04a296378e41ab971f62452c0dd698e02f18bed650cb71"
+    },
+    {
+      "path": "readers/brecht/web-validation.json",
+      "bytes": 7086,
+      "sha256": "0b37999c67401a2b6b5f611a78f8dec33b2168ed665dd3cc39a089bcf341b9ba"
     },
     {
       "path": "readers/brecht/web/text-pages/001.html",
@@ -5403,6 +5559,11 @@
       "sha256": "c308c0b36cfd8e2820a158ba38e09346f9bff2014910257851ca8645a4856d60"
     },
     {
+      "path": "readers/celan-new/audio-manifest.json",
+      "bytes": 68470,
+      "sha256": "19a5e26c2e720ca747babac416eb37c3399a874d44a07a201929251f86f7e06c"
+    },
+    {
       "path": "readers/celan-new/audio-player.css",
       "bytes": 1162,
       "sha256": "eab06e4752ab22adaf0283fbe132abb7c21a417655747779f8a64c2be578d946"
@@ -5578,19 +5739,34 @@
       "sha256": "24cbf14ecb10b25ce5fac4f1b3f16f0c15b261d402164b82df62361e198d2860"
     },
     {
+      "path": "readers/celan-new/content.json",
+      "bytes": 516770,
+      "sha256": "b2dbc21722fd57bf96d0e445cf7355287d197b5d3cdd1f0f8ff479074d2c7045"
+    },
+    {
       "path": "readers/celan-new/index.html",
-      "bytes": 98954,
-      "sha256": "a22256c94bf49b05b6f3420d1e93dbf8c5b059139410fb88938dd366257c7dfd"
+      "bytes": 98947,
+      "sha256": "5a574d80429b2df95d9f43d4d81f1d0730eb65b177bccbb39dd0a501912ac79f"
+    },
+    {
+      "path": "readers/celan-new/layout.json",
+      "bytes": 17228,
+      "sha256": "1c8bdfc3913da4eba4481c280c2fde9132a14137148e3ea2fac8d5d4ab0af9c1"
     },
     {
       "path": "readers/celan-new/reader.css",
-      "bytes": 20941,
-      "sha256": "a519a8491579935c6c1bb808ad29816f11b393c452b639c79df962130791e903"
+      "bytes": 20949,
+      "sha256": "cb24dfb9c6091aca47595bc3919a6180c238cdaa385a63140423ac18e4b46233"
     },
     {
       "path": "readers/celan-new/series.css",
       "bytes": 4166,
       "sha256": "7850cc299509f368df04a296378e41ab971f62452c0dd698e02f18bed650cb71"
+    },
+    {
+      "path": "readers/celan-new/web-validation.json",
+      "bytes": 11112,
+      "sha256": "b6403fca7a5f1df85a696b782e153e0458f618438d6148cae3bc21d44355b290"
     },
     {
       "path": "readers/celan-new/web/text-pages/001.html",
@@ -6288,6 +6464,751 @@
       "sha256": "c3c20f784c66b6c531f8ae6114198313d83f3703a7a36485dbe92a3df7ae55e5"
     },
     {
+      "path": "readers/enzensberger-jandl/ReaderSongBold-a870a634dda8.woff2",
+      "bytes": 71836,
+      "sha256": "a870a634dda809a81cd5c638445c0d1778fc9842a0b62ec210152c33000db59f"
+    },
+    {
+      "path": "readers/enzensberger-jandl/ReaderSongLight-8c4b03ddbb45.woff2",
+      "bytes": 327820,
+      "sha256": "8c4b03ddbb459d494c34ddb1fbc90fe9c05208197f6be57c7513b14f30f28f30"
+    },
+    {
+      "path": "readers/enzensberger-jandl/ReaderTimes-8758938e1b28.woff2",
+      "bytes": 36840,
+      "sha256": "8758938e1b28cbbc372742b27942c2a9c43b59c36424b4e89cc1492af02cd305"
+    },
+    {
+      "path": "readers/enzensberger-jandl/ReaderTimesBold-b776224ad534.woff2",
+      "bytes": 26980,
+      "sha256": "b776224ad534a7a518064acfec7ed37661c52883029c31e775730f415d0490b6"
+    },
+    {
+      "path": "readers/enzensberger-jandl/audio-manifest.json",
+      "bytes": 23419,
+      "sha256": "ad8f3f6dd6e2959880fdd3028220b34eb8ee9303b9eb37eaa9e86587a386dbd5"
+    },
+    {
+      "path": "readers/enzensberger-jandl/audio/enzensberger-01-dla1962.mp3",
+      "bytes": 2812176,
+      "sha256": "da4f047fffff79c8b60370f7cc10307bf7dcb7ae5949365a94d87c18d5101803"
+    },
+    {
+      "path": "readers/enzensberger-jandl/audio/enzensberger-02-dla1962.mp3",
+      "bytes": 3388176,
+      "sha256": "800cf18b6231496e15da8e62ae6eb81e8270cd554237896005a548d8f61f24fb"
+    },
+    {
+      "path": "readers/enzensberger-jandl/audio/enzensberger-03-dla1962.mp3",
+      "bytes": 3066768,
+      "sha256": "94fa1af7715ba75d0bc175520ddc96d63c9285f2bff2cabd286aabb9ea6dd95e"
+    },
+    {
+      "path": "readers/enzensberger-jandl/audio/enzensberger-07-lyrikschule.mp3",
+      "bytes": 1488815,
+      "sha256": "fa55d69ffd522f1a47ccd74c0ee01acc493cd8b73a15ec783b0e7ff1f217fbf3"
+    },
+    {
+      "path": "readers/enzensberger-jandl/audio/enzensberger-08-bruenner.mp3",
+      "bytes": 1423997,
+      "sha256": "1a367cbd7fe947a0c98dac2c9cf789f98e1ff8a0027b503e75a70598a91739dd"
+    },
+    {
+      "path": "readers/enzensberger-jandl/audio/enzensberger-10-dla1962.mp3",
+      "bytes": 5214096,
+      "sha256": "0dce2f6a49622c8a045b5c37cd50ba11f1327ff6f7beae972ca41a5f86bea7e3"
+    },
+    {
+      "path": "readers/enzensberger-jandl/audio/enzensberger-16-lyrikline.mp3",
+      "bytes": 847620,
+      "sha256": "162195780277ec03214b959d7808552b7bd602be04a08e6f6197c96958181c51"
+    },
+    {
+      "path": "readers/enzensberger-jandl/audio/enzensberger-17-lyrikline.mp3",
+      "bytes": 372191,
+      "sha256": "6a41a7bd38d9c133fbc5b0a5de89da5565a3ac983409c7be91e926c7e5f28694"
+    },
+    {
+      "path": "readers/enzensberger-jandl/audio/enzensberger-18-lyrikline.mp3",
+      "bytes": 758594,
+      "sha256": "a7e7472c130736d3c3cc9c6f714c89c858bc3916f8ab95caf1b0e53bc3918b58"
+    },
+    {
+      "path": "readers/enzensberger-jandl/audio/enzensberger-19-lyrikline.mp3",
+      "bytes": 357354,
+      "sha256": "a5c004d4578e9ef946d9dcc74693e713748357e14f3663cd93c83e08665799ea"
+    },
+    {
+      "path": "readers/enzensberger-jandl/audio/enzensberger-jandl-04-youtube-t1PvslGlcnY.m4a",
+      "bytes": 1090627,
+      "sha256": "09c8fd7b4c8ab8c2fb645947abfca643ee990d356841eede64c40aa61f13fde8"
+    },
+    {
+      "path": "readers/enzensberger-jandl/audio/enzensberger-jandl-15-youtube-dpKs8arsVYY.m4a",
+      "bytes": 1802236,
+      "sha256": "cd4b2ce7f9295d6ea13241d1738f584b0a7f8cc5d8f32f537a725a968b5ac75b"
+    },
+    {
+      "path": "readers/enzensberger-jandl/audio/enzensberger-jandl-28-youtube-s7iSJkxkXBg.m4a",
+      "bytes": 517569,
+      "sha256": "3ce2195cb4e2696f6ed6599e2ea5a4445c2227d4fd80340cf84bffdb25c88cbb"
+    },
+    {
+      "path": "readers/enzensberger-jandl/audio/enzensberger-jandl-32-youtube-k_ZsMWPwAIQ.m4a",
+      "bytes": 5639914,
+      "sha256": "affbda2161fca44737f9305749cd34b447e20b14c257c0db2a18e2a62a12b111"
+    },
+    {
+      "path": "readers/enzensberger-jandl/audio/jandl-01-lyrikline.mp3",
+      "bytes": 357354,
+      "sha256": "17b4cc23b1d1b1d9f53babb077800775814eec69e3b1eecbd6584702363f7d50"
+    },
+    {
+      "path": "readers/enzensberger-jandl/audio/jandl-02-lyrikline.mp3",
+      "bytes": 862457,
+      "sha256": "3f9cb697a080639e99d1256c6a8e15705d27a42a42a79b330e78d479f09b4a7a"
+    },
+    {
+      "path": "readers/enzensberger-jandl/audio/jandl-03-ubu.mp3",
+      "bytes": 442506,
+      "sha256": "4e8d78b7cef06b542ebce59283680d724d27c42c09ae2e1db47f3ec4856ba7ca"
+    },
+    {
+      "path": "readers/enzensberger-jandl/audio/jandl-04-lyrikline.mp3",
+      "bytes": 491101,
+      "sha256": "318907d2287ab454543969826c3902a8998ee73af1f6bb2a13c2f80c501de1aa"
+    },
+    {
+      "path": "readers/enzensberger-jandl/audio/jandl-05-lyrikline.mp3",
+      "bytes": 773432,
+      "sha256": "102c3f326cac24e4d3a4de8a7c9b13172e10021f2101c469a362f1d26a7a36b7"
+    },
+    {
+      "path": "readers/enzensberger-jandl/audio/jandl-06-ubu.mp3",
+      "bytes": 1339530,
+      "sha256": "7a62c6c11f6e63ba8e07863a6cd22a4eb129e3058ea02b23a137f6bd3936cf36"
+    },
+    {
+      "path": "readers/enzensberger-jandl/audio/jandl-07-orf.mp3",
+      "bytes": 611308,
+      "sha256": "19010c4725b7282dd71fba08d0f2bc2624710462abcbe2e2aca6a0f28d2bf487"
+    },
+    {
+      "path": "readers/enzensberger-jandl/audio/jandl-08-lyrikline.mp3",
+      "bytes": 401866,
+      "sha256": "495d37902225837578df0dad3024a2a1ebe20316563db55414bc3e27abb1a56b"
+    },
+    {
+      "path": "readers/enzensberger-jandl/audio/jandl-11-ubu.mp3",
+      "bytes": 4341679,
+      "sha256": "51581859e2d6752a245df927cc1613f1409af24be466cdf30ab7e647aafd486a"
+    },
+    {
+      "path": "readers/enzensberger-jandl/audio/jandl-16-lyrikline.mp3",
+      "bytes": 862457,
+      "sha256": "d903665e6ab1884eec80e35eab8263bcebbc22fb869850d670260761e12448bd"
+    },
+    {
+      "path": "readers/enzensberger-jandl/audio/jandl-17-lyrikline.mp3",
+      "bytes": 253282,
+      "sha256": "d788134f3729ded373122d587c73598ef22cb9592cd70ba29a4da4fdf6c2291e"
+    },
+    {
+      "path": "readers/enzensberger-jandl/audio/jandl-31-hanflang.mp3",
+      "bytes": 627669,
+      "sha256": "21dd4296dbdb654c10394f2f134595e9a397adf15e60263cd5076a76944e6e1f"
+    },
+    {
+      "path": "readers/enzensberger-jandl/content.json",
+      "bytes": 426778,
+      "sha256": "e991c2096a64336170f7310fd8e488e0ea46c56230e52496a7c0551360a5a7c0"
+    },
+    {
+      "path": "readers/enzensberger-jandl/index.html",
+      "bytes": 97468,
+      "sha256": "4e038e735d6b41e647aa1ee24c86712f259c13741a859d5949cb49820a7daa38"
+    },
+    {
+      "path": "readers/enzensberger-jandl/layout.json",
+      "bytes": 10483,
+      "sha256": "63350d894a0c0c336908e4c11daacc9eeb3090ded7bf015d68f6cee23152801d"
+    },
+    {
+      "path": "readers/enzensberger-jandl/reader.css",
+      "bytes": 19428,
+      "sha256": "c3ea8abc40703306d2d005d5f67cfb37f7bfa439a89209d8c5cdcfbb6fd8ad0a"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web-validation.json",
+      "bytes": 9204,
+      "sha256": "4f09215a349cc6f823cd88340825a55ef4cf1926c8c6d8906ad33ef675106853"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/001.html",
+      "bytes": 24907,
+      "sha256": "2e83887a17501d1ca64991b551e1ccf53af0e667f1fec288fdb9c307ac8a1f04"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/002.html",
+      "bytes": 35495,
+      "sha256": "5d12fab7337c212f68405353858e02af51e01b8bf27e4d053f1138c7413fb4ea"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/003.html",
+      "bytes": 96482,
+      "sha256": "7a59f4746c9b7a0e1f8a3d50b5384e85e4ff8958ce29843b58c1b9e84dfac9a9"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/004.html",
+      "bytes": 139093,
+      "sha256": "796bb2e9adc8cf8ab72c4e498f3939d511bfdee0b5257165a7fd8a2e45f707e1"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/005.html",
+      "bytes": 223709,
+      "sha256": "2674437263e60c3c6789ad8dbc6ef5a44d40b487322cf6d3893c54ee5315b709"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/006.html",
+      "bytes": 147610,
+      "sha256": "aba1922d8b4403f09006b65b88a4a32bea46961a0e32285a28402fd596d6351e"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/007.html",
+      "bytes": 192915,
+      "sha256": "4cc56bdbbd0841ce50ba3d89796c8a4a168b79a78ef77f1ec39670459799bbd8"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/008.html",
+      "bytes": 247668,
+      "sha256": "e21f72c77bc1b4be63411f7044c16dfbddb2758fe3614fd58c1a16f08de1bc51"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/009.html",
+      "bytes": 241893,
+      "sha256": "7cff1652263cb0d24accbaebfaa935cf181372d921cd64560fed90a34ae34783"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/010.html",
+      "bytes": 152436,
+      "sha256": "a1687a2a41fd81320b8c586defac244f754b23d92ae59af5a742a3d7c97e9b23"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/011.html",
+      "bytes": 78470,
+      "sha256": "dbd0c356e5110df27a045b90d9d6569f2f932f7999e3233749c8279b3c7cdc1c"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/012.html",
+      "bytes": 218929,
+      "sha256": "7fbcc75294a9d684ec12ede031bb4036e4d7e6283d7371d7cb00d3b82507c7a2"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/013.html",
+      "bytes": 180858,
+      "sha256": "937356d122ff9714bbdb4a41076c41179b39f28b01634ac30203127632c8ffff"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/014.html",
+      "bytes": 200850,
+      "sha256": "e3854f94123546b124d247264643616e3873dec5b47404093fac3de78d4ff85c"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/015.html",
+      "bytes": 91314,
+      "sha256": "e8d9c3c5ab8006c4bb2514010a37d8dfd5d55c5e068c24a96465246d1e0f0ba0"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/016.html",
+      "bytes": 263365,
+      "sha256": "04c53bffd1d7618d7130ad2e0b6d8f30558e90ffd635cfeac66d30d12b3836ac"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/017.html",
+      "bytes": 196381,
+      "sha256": "b8d97b8889b9eeb95364de779ac52c865bc7decaced83ad360a328e3070660b8"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/018.html",
+      "bytes": 232315,
+      "sha256": "15a6ea3a84044d24fa7ba27e151c9d727aa5ee9c386acd5f7bfa05cfc2f236f6"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/019.html",
+      "bytes": 182399,
+      "sha256": "a070196124cb9c7110eef262486be3c7b46020b311603557cb1930bae5d32d04"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/020.html",
+      "bytes": 96456,
+      "sha256": "bc497fabdd5a82d57ea73f5a60de600e8fbd69f108eda59c187faff2e9659296"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/021.html",
+      "bytes": 155433,
+      "sha256": "0f8ab4a239bc35e86314d8ec21c524b304bed728d262ae25485246c385751424"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/022.html",
+      "bytes": 194412,
+      "sha256": "0454bc68194b91873dd3fa8aae31969df835fe50e436a7e521d3bdfe7ee37c8f"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/023.html",
+      "bytes": 88346,
+      "sha256": "0b062f855947548c0a060b2de2e91ba057a04bd3a9f7b586f9d48fb9a8691767"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/024.html",
+      "bytes": 163675,
+      "sha256": "20512b264a7cc1e5f071639069ad832f4edb6cbe90d19e51654e070837bee665"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/025.html",
+      "bytes": 99913,
+      "sha256": "bffc6be595c9bcc486324f59f3cb16ea5cc0d7e79d21a253eb4085deb6fb1c23"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/026.html",
+      "bytes": 218848,
+      "sha256": "3cc6aed0a03a33cb5c1c01886be4a44d9c0bbb8b93d7a4c2e11c1f2006da1ace"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/027.html",
+      "bytes": 209137,
+      "sha256": "5252a5acbf814f5f225c6084ca91bb4d44406e566a466b34259d2a011c38f6c0"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/028.html",
+      "bytes": 224033,
+      "sha256": "2747307db6b5f36d4624a1786626e73052d7b80166e04923f8a6c17b700fad98"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/029.html",
+      "bytes": 140263,
+      "sha256": "3f0ab5bb7c501f49d2b93d084036f7da830ae3d42839bf636507c12d334a56d0"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/030.html",
+      "bytes": 105402,
+      "sha256": "2331aa34e95478cd00c075269a94a98d0b9e2c48aec9b563ee44f2045837d502"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/031.html",
+      "bytes": 162754,
+      "sha256": "19a7a27f371e2b3ad5875626b1c22d22c1a80456a3ad6e268672d3c7943b18ba"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/032.html",
+      "bytes": 66549,
+      "sha256": "383a0a5f85e6577a110879d60481af965de5451981332edd1c3a2286705c4831"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/033.html",
+      "bytes": 120435,
+      "sha256": "30bad07e80487cb5c3255784b9517e208cdaf5a510be6f1da07cd87c41213e63"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/034.html",
+      "bytes": 157618,
+      "sha256": "bb0b1dc628dab711f640bbd4a8334c650c786201978add91e3fe533f9396358e"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/035.html",
+      "bytes": 73363,
+      "sha256": "f2f428f01cf17a83198e5aa4f6a31ad3ac58aa7f0f43cdbba147cdff6b00e267"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/036.html",
+      "bytes": 188106,
+      "sha256": "8ce94488d007f21cbeb30975cd29916315a5a8cdf9d0337062087e40298033ba"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/037.html",
+      "bytes": 237158,
+      "sha256": "ed1d696b8ec45f7b3dd2250e3cc3b98a239fab9cefb4e70cce86cf112016122b"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/038.html",
+      "bytes": 192357,
+      "sha256": "4fb130977742ca8ebe47ecfa7bd76e2aad2102f07c316b0245245bb44d096986"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/039.html",
+      "bytes": 104838,
+      "sha256": "36f5d7dbf528c7d64f12e06cde22aa1b7ff8ef39a4ae8d319bc8ffb1ddd13506"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/040.html",
+      "bytes": 195191,
+      "sha256": "b185cc97f7ac59079bf4031e7091383fdbbb1a05ebe16684e2721aac8f7ea26c"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/041.html",
+      "bytes": 92365,
+      "sha256": "1fad1ad6e9490a9c4bd60e5781ffad59dec79da4feaa1a4fe4af17c168518db6"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/042.html",
+      "bytes": 212113,
+      "sha256": "df7718303351716f829710e45df0cd301c1e0d2a1191da1518a0fd4ee1d420f4"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/043.html",
+      "bytes": 198572,
+      "sha256": "ac1300078ea98c07d119d256582b080e8edfe574b2971325258e95bc507cb6cf"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/044.html",
+      "bytes": 164457,
+      "sha256": "2f867a1ac49d6bfa4fcf291538d1b9e6d98c83d313dcac3060a74b80884c1f78"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/045.html",
+      "bytes": 164366,
+      "sha256": "4a520f8e0afe75c101167b63046e2c96a69cc7c97f435e98ae80d09a2fa83701"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/046.html",
+      "bytes": 152176,
+      "sha256": "186656c290ac2619051e4e6a9a402af143ea8d1d6e7f9aa858f78890a2eb05c5"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/047.html",
+      "bytes": 142914,
+      "sha256": "ac71bf4451816079ba0c0fdf018e7ffb96d2ac0b07d0ee5b2b5dcedd29538fdf"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/048.html",
+      "bytes": 77691,
+      "sha256": "11c3c16b015193b68173d4ae8ec270fde0f38867857851522a59d006fdb12e72"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/049.html",
+      "bytes": 135344,
+      "sha256": "f1aabe2c1b516cd7eca182328520d6991d9b2ebdb0a95d46ed87e8f5e0358a9f"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/050.html",
+      "bytes": 125845,
+      "sha256": "e7bc6206763b3f02631cf925459bce6b6e47af1d49cd94e3900a3fb7cca3ebf1"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/051.html",
+      "bytes": 195987,
+      "sha256": "f978bc2d9ec618d2f7052a8423b285ec02f02cff63a86e7f99a00ee2540b1143"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/052.html",
+      "bytes": 255945,
+      "sha256": "b402af61257792f264420e725c1195e609bf19e78affbc9b8861e211865a64fb"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/053.html",
+      "bytes": 205537,
+      "sha256": "90481eb027f5165327add5ab48cd1a7f6272154b38063dbb7de4e34508fad365"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/054.html",
+      "bytes": 181403,
+      "sha256": "a4398a16eefe23e2a2e36b64f2170c6c2903d48acf5ec46cb6434cb747150dfc"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/055.html",
+      "bytes": 168241,
+      "sha256": "10656e743a63e23021fd0c516eaacf0529652b013626c8af6d49db0805597cb2"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/056.html",
+      "bytes": 211790,
+      "sha256": "c12e20b0f77d22b0d2c93886d59786da7d7fc2dbfe2b4a5e3c56880de22598d0"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/057.html",
+      "bytes": 189375,
+      "sha256": "9f81d61afce88a649bc8b81ed67607643f1d6188ad26b004d9b0862afec4cdab"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/058.html",
+      "bytes": 62328,
+      "sha256": "46f7d461cdc05d70e64deb38225939f5c0f1cdd29b5b85ef4ed79bb2c00dae71"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/059.html",
+      "bytes": 190499,
+      "sha256": "4a9215bcaf9d9c0098fabca842318618874ed70c3111f20c51d6ce555e730049"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/060.html",
+      "bytes": 113109,
+      "sha256": "85fee85be5fb3731485a4935c3ab88538d9d8bfca4de02724e4707ccc42c2d36"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/061.html",
+      "bytes": 195464,
+      "sha256": "2e6c2f9fcf7b18d83a4f7ac44bd30236cd24629aa94e182458db3e755c1c977c"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/062.html",
+      "bytes": 117149,
+      "sha256": "664bada594c36765a6393d8603b09402affce06bcf4bd2e9a4c3238e47981a8a"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/063.html",
+      "bytes": 164124,
+      "sha256": "d374d969c020e72bbc3956410b15d2eb1103228a1843c0e3dae88166d70e1f39"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/064.html",
+      "bytes": 76193,
+      "sha256": "47df559b7644074dc90a8c75311f842069d06223064eca82064304485a154c29"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/065.html",
+      "bytes": 122657,
+      "sha256": "1baf6f12a2320b9f2094ddd9dfec3e17e08de0d7b9defc783365a8d58cfca5c9"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/066.html",
+      "bytes": 52885,
+      "sha256": "766e194b05dafad47369a0ce01ece387b846dc6d73e2ffeeda7ebdc5a994371c"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/067.html",
+      "bytes": 210165,
+      "sha256": "4b4d102a2d837857bea0cd61a551ee0bb79bccd32bf302d5d2ebac1e2db32821"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/068.html",
+      "bytes": 144253,
+      "sha256": "197eae765505b710dd208bc70965a5e7aa6f84c760c7dee8b1e060a6fccd53b4"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/069.html",
+      "bytes": 116223,
+      "sha256": "081ee231a78a4127dfda10e411b4230f675fa41f57b7bb4ead4bcdc4f2533df4"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/070.html",
+      "bytes": 179172,
+      "sha256": "1327bdd3046129c509faef75d1fd0fa7b02366aed2bf1aeee0dfda2b6a9f8f42"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/071.html",
+      "bytes": 107798,
+      "sha256": "fe3342623cfd6ff016f4dc91e94e003b8d23cc2f379bbad3d885a99fd5a19842"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/072.html",
+      "bytes": 128437,
+      "sha256": "4d4a9a14c00b6787abfedc3699e9c164a1e935e3c33a6d184bf91b93ec2e1e40"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/073.html",
+      "bytes": 92223,
+      "sha256": "e9dc7d41a63ac915e7f30dbfb4ab1d8e28b987ea452d4214fa4f2a8ebd2419d3"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/074.html",
+      "bytes": 108540,
+      "sha256": "cd06b2c082b0c7d5a444814149e53293fed547e857302c4069092ea73618b4e0"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/075.html",
+      "bytes": 49724,
+      "sha256": "3c54d1e5d08a417605775fa0f16f05d069e174d68aec388bbd73be2c589a7a5b"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/076.html",
+      "bytes": 121152,
+      "sha256": "b936f2c1057d3b36f254071e6191f379130927925ea0daf5c974d75dcab18e38"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/077.html",
+      "bytes": 152941,
+      "sha256": "d88ba6a87ea5dc3462fa22c8c036a29e7e976630fc1c7d6c3f2361d3581def5c"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/078.html",
+      "bytes": 67108,
+      "sha256": "60aec629eabd4c931c55e9176269bc762da40cef235a04d8a3eade70869d4abd"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/079.html",
+      "bytes": 79147,
+      "sha256": "b4330ea5b708cbaf7d0512b182a8d9044ad31b8c7ebaba765edcc5cea5a0a126"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/080.html",
+      "bytes": 130230,
+      "sha256": "7f0f47c998715bbf3ea2fad8e24d35308b552b4b44ec04754acab675af727bb5"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/081.html",
+      "bytes": 105888,
+      "sha256": "7ec4dc848482c37491c64e6c8dce7c72dbe9633ea6f5ca071988f3f595dcdd1c"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/082.html",
+      "bytes": 112214,
+      "sha256": "79c199e78fc0eac1db9a13216790facb3e9379202669426579a1ef221ae3afdf"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/083.html",
+      "bytes": 49685,
+      "sha256": "6fd111270fa74cf5ceea751b380c4e02d10f61dd95d00dcbfcc4f3cc88ae0133"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/084.html",
+      "bytes": 135458,
+      "sha256": "d27f0ac4693f69a478f6d1a4a4600aa429198848042db8a92dcb2bdada270c0f"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/085.html",
+      "bytes": 57863,
+      "sha256": "fee4c4496c306106fe197280284738889d17cbf1f566ecae33c35d8644232ea4"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/086.html",
+      "bytes": 123101,
+      "sha256": "5e96c6ce5302034d2dc6d2f3cfd8ed7252d1be101a72a0eba52004b94739b616"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/087.html",
+      "bytes": 131276,
+      "sha256": "7065e723ccf6e8c11046da51a2b52017628c0864d6142059bf06ebc2ab9772f8"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/088.html",
+      "bytes": 224477,
+      "sha256": "4600b276d8f710018385b3e303ad0fa352c4afde03d5f0f4e6fb2ab0e8d18056"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/089.html",
+      "bytes": 49524,
+      "sha256": "1a8d420155a401029cf37c48a5c3a281fa36d5af7ae39202aa523cf14ab4ae31"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/090.html",
+      "bytes": 191453,
+      "sha256": "abb0e3c2d39e9a0d5aadd0a1a142b8123329630c97decd453a337a103662041d"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/091.html",
+      "bytes": 183106,
+      "sha256": "bf4c6dbbd6403f3a358853acb50dd7f0a50aab581e2340c68f524cb7a44d772d"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/092.html",
+      "bytes": 231945,
+      "sha256": "4eed450a5694ef1c5ad97a0fcde35b5ce4834b5f3e8de04b7841b7b95d09392a"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/093.html",
+      "bytes": 179240,
+      "sha256": "41adf3bde69b617cc55016bebb4e34fba773d04dabafaf2328dad38908c43772"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/094.html",
+      "bytes": 146599,
+      "sha256": "f8e54a6e3a6b73bc94753114056fcb982e103edde41f8f40ff177bd09bf91f3d"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/095.html",
+      "bytes": 41403,
+      "sha256": "4aa95e1fb649d692ea1ca1ff7cd755c4a178847bd833e78f5a72ea6dff3c783e"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/096.html",
+      "bytes": 119299,
+      "sha256": "2bae7f605b21303c5ba6fb94ccda7a00bf7e2802b253288fbda9b352a0d2ff4e"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/097.html",
+      "bytes": 46891,
+      "sha256": "949fbc5ef7e57e1c994e12830d971dbd2c05e30b8f547f1e8e98b2fed1f2c3f8"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/098.html",
+      "bytes": 195567,
+      "sha256": "0fad55201906bc1a2bedc1aa821b05473fb5489d9245e3698831824627f4bcc8"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/099.html",
+      "bytes": 152043,
+      "sha256": "d8f60c990ebd35bec7f99cc0fe2887dcb835351568fa7e5c26ea68eb2fad24bd"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/100.html",
+      "bytes": 87570,
+      "sha256": "ac9e00696cc94b499f0b0d640e12f7fbd4b3fad1059bec932159e3a959313475"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/101.html",
+      "bytes": 90250,
+      "sha256": "e275563173a26063fe1d337d7d54c250eec69eeb27bca6a8f2c3b95fa39f7a09"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/102.html",
+      "bytes": 69636,
+      "sha256": "736154d692bb0bd86bed05c4a6cf7e64f34fac54b0d328307cdd92fc62b47713"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/103.html",
+      "bytes": 142529,
+      "sha256": "7aad1cc5ff938d07b9da2d8f272fdbe75179331fb746f4d67f64179c1e15ad38"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/104.html",
+      "bytes": 81298,
+      "sha256": "e5733e9f207bcad98af386033e9463f0b7f9b4a10b8046b219ed702f811dfd25"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/105.html",
+      "bytes": 204950,
+      "sha256": "38b9499d05e12628b8fe8447cca2d51ed2099ea75c5b1a2ba02b63943163a9f1"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/106.html",
+      "bytes": 162921,
+      "sha256": "25e177a6cbea2d240330603b4f904577a656b6a853f756c38406b16f9e434536"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/107.html",
+      "bytes": 197499,
+      "sha256": "ff402442857650dc994a8e33d494aa2311cec08235c962ed8be9410391a7f6d4"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/108.html",
+      "bytes": 169006,
+      "sha256": "0b892acb530ab5e072aaa8ffcb5c1876eef0cccf91695180d560e3f84ac7f200"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/109.html",
+      "bytes": 170920,
+      "sha256": "b75aefa82f8f7ecb1a833bcbe69b82601eac218b9d45b53f60cf6914542d997b"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/110.html",
+      "bytes": 190194,
+      "sha256": "818e31bbac6ccf5a57af1935e67b5b48b9ebe2e3bbc804bdca9139b76226715e"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/111.html",
+      "bytes": 65271,
+      "sha256": "6b9b371dbbedad660a472b07105fa601c31b74c870185b86ab9a83bf19ab2e44"
+    },
+    {
+      "path": "readers/enzensberger-jandl/web/text-pages/112.html",
+      "bytes": 44285,
+      "sha256": "ea9a33537d378d18c0157e00aea0b415764b2b706546d58e0a741c78f257beb6"
+    },
+    {
+      "path": "readers/enzensberger-jandl/恩岑斯贝格尔_杨德尔诗选_逐词译注读本.pdf",
+      "bytes": 1184488,
+      "sha256": "23a6de352ab45591fba1aa7c0670048c287374689a87b56b5849978184bd8009"
+    },
+    {
       "path": "readers/george-hofmannsthal/ReaderSongBold-068172873bf1.woff2",
       "bytes": 78332,
       "sha256": "068172873bf11755cfe3b1b457005422be9d705b4f973bab867e4035a3821f34"
@@ -6509,13 +7430,18 @@
     },
     {
       "path": "readers/george-hofmannsthal/index.html",
-      "bytes": 86914,
-      "sha256": "3e1a109ef30ae616064572b9ac4b36ec80c7e5ebed4606557fbbf0cc8c7883c3"
+      "bytes": 86907,
+      "sha256": "e47e49c423d21eb08a324f4781bb3d26c3c92697b8a05b7c2333e573481b47d4"
+    },
+    {
+      "path": "readers/george-hofmannsthal/layout.json",
+      "bytes": 8275,
+      "sha256": "71c32382585f3eb5bd44af1f6f2f5b14cff03ae333ba3ec43436e92ff4cc8c83"
     },
     {
       "path": "readers/george-hofmannsthal/reader.css",
-      "bytes": 20512,
-      "sha256": "fd498e786dd80e1a90e21f46dd8ab21404699a1b6bbaf1763fc1fa431a23471c"
+      "bytes": 20520,
+      "sha256": "2cb2fc99119e151ad5885eeee6c7bae9662d728be6e5c06f81b50f0db171d4d5"
     },
     {
       "path": "readers/george-hofmannsthal/series.css",
@@ -6973,6 +7899,1836 @@
       "sha256": "d70c49559e3328b3986cdaf96f72b4a94ac0c0b9a3694d4ec97447b1c5d4fe40"
     },
     {
+      "path": "readers/gruenbein/ReaderSongBold-4800abc7f949.woff2",
+      "bytes": 50004,
+      "sha256": "4800abc7f94904aa2cd64b0b77b97a152c8fd8d6a01a6b961d58cd04461bc3a1"
+    },
+    {
+      "path": "readers/gruenbein/ReaderSongLight-9f7b804decc2.woff2",
+      "bytes": 274416,
+      "sha256": "9f7b804decc2092961d606ccdafe73d979b2dbee8b85d9801de44b26b070811e"
+    },
+    {
+      "path": "readers/gruenbein/ReaderTimes-28d2b7e49a2d.woff2",
+      "bytes": 36696,
+      "sha256": "28d2b7e49a2d5b330993f678b4d1d9c5fcb3899e82ffb0a636e49c0e09de6c30"
+    },
+    {
+      "path": "readers/gruenbein/ReaderTimesBold-5b74562f56a6.woff2",
+      "bytes": 27440,
+      "sha256": "5b74562f56a65ea37a45056798f70c1f1e23ad4abfaeb3547be50d4b5d56360d"
+    },
+    {
+      "path": "readers/gruenbein/ReaderTimesItalic-08dd57cf037c.woff2",
+      "bytes": 7596,
+      "sha256": "08dd57cf037c8ef951f25e8f10a3f20af25c1aa60a91d8473b40b952c5cdffe5"
+    },
+    {
+      "path": "readers/gruenbein/audio-manifest.json",
+      "bytes": 11975,
+      "sha256": "bc225ee076b00bf1db479b62f3fdcb2b79e7384353a261c1015505cff388093c"
+    },
+    {
+      "path": "readers/gruenbein/audio/gruenbein-01-lyrikline.mp3",
+      "bytes": 951692,
+      "sha256": "29f074aa0b6ceb1ae6d9f633e27b43e7f1f4461531d9e0b68b19d83f1f451d3a"
+    },
+    {
+      "path": "readers/gruenbein/audio/gruenbein-02-lyrikline.mp3",
+      "bytes": 476263,
+      "sha256": "11f3adb16fe91b597ffc1dbd3304ba9adfecf7c44dbefbd75685ddc2cc868996"
+    },
+    {
+      "path": "readers/gruenbein/audio/gruenbein-03-lyrikline.mp3",
+      "bytes": 223607,
+      "sha256": "dd9fd523d3d6c5a8e9f16660687cdd47dcd15917af640ae8e3523d5987ec3412"
+    },
+    {
+      "path": "readers/gruenbein/audio/gruenbein-04-lyrikline.mp3",
+      "bytes": 565288,
+      "sha256": "e8dd38a5bd3821b1b5b9c4ac7ee57d56ca47df5084e3ee14dc6147c684291dc9"
+    },
+    {
+      "path": "readers/gruenbein/audio/gruenbein-05-lyrikline.mp3",
+      "bytes": 624848,
+      "sha256": "037c20cfd5165c10465de0423036f5f809dee273f27af7fac092c072743a1d72"
+    },
+    {
+      "path": "readers/gruenbein/audio/gruenbein-06-johkey.mp3",
+      "bytes": 1289755,
+      "sha256": "fb8593642801bb01ebf874c5e69171cf62e9d99635edc0938d9c3266d662599f"
+    },
+    {
+      "path": "readers/gruenbein/audio/gruenbein-08-atelier.mp3",
+      "bytes": 350000,
+      "sha256": "7d5375eacbbc6257029dbac922cf1a7be64a4bbf76b2298b9a6cf6389a8315e3"
+    },
+    {
+      "path": "readers/gruenbein/audio/gruenbein-11-lyrikline.mp3",
+      "bytes": 550451,
+      "sha256": "98dfbd3f3960af7aaeebc36a006cf3e845757933219ebd3c2569598984dc47af"
+    },
+    {
+      "path": "readers/gruenbein/audio/gruenbein-12-lyrikline.mp3",
+      "bytes": 684198,
+      "sha256": "c4ac8ead2b7c42d22215ad2818423e4fd05e56ebd07f85838aab1959a2caf4d9"
+    },
+    {
+      "path": "readers/gruenbein/audio/gruenbein-13-lyrikline.mp3",
+      "bytes": 491101,
+      "sha256": "3ab6be4b1cf449af642dbaa67ee0354f29f770aa8a60d8aff8621c63d6073c2a"
+    },
+    {
+      "path": "readers/gruenbein/audio/gruenbein-14-atelier.mp3",
+      "bytes": 894818,
+      "sha256": "cba822675f2e0ec48ff7bbda4aa53b3340fe44c8b434111220f3f06b2269b1a5"
+    },
+    {
+      "path": "readers/gruenbein/audio/gruenbein-16-2022.mp3",
+      "bytes": 1813549,
+      "sha256": "ae166db1784b69147ef7d55f5d622113795329e07ed84493401e490ec9db70ac"
+    },
+    {
+      "path": "readers/gruenbein/audio/gruenbein-17-atelier.mp3",
+      "bytes": 554298,
+      "sha256": "32509c8f88f151c06e103d044dcdfb8b116a78006add9c7e92d8c60d51c3b5cf"
+    },
+    {
+      "path": "readers/gruenbein/content.json",
+      "bytes": 246561,
+      "sha256": "78ac12f7e362281c430c0d1b48b420e70ce16d6ac13de3bf2f26034480b27e21"
+    },
+    {
+      "path": "readers/gruenbein/index.html",
+      "bytes": 63789,
+      "sha256": "5d72cbeb39666a8d645e8b4ddb41dc025a9c28a20c3fbae621eb97d896acb791"
+    },
+    {
+      "path": "readers/gruenbein/layout.json",
+      "bytes": 4975,
+      "sha256": "0677a556ecfaf0537021bfa8085fb0d48c8eef28422fe9b658b46c42337903c3"
+    },
+    {
+      "path": "readers/gruenbein/reader.css",
+      "bytes": 19571,
+      "sha256": "28fd79b522a2436f24752f9c4f96e9a91e397652a4dc9cc44b824e52c247ff88"
+    },
+    {
+      "path": "readers/gruenbein/web-validation.json",
+      "bytes": 4763,
+      "sha256": "76a2f45a168658fcca8b07d319c02aaabba8c4239949f8b05404fead9d18bae7"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/001.html",
+      "bytes": 21602,
+      "sha256": "006cab9911f926e7d74b0064afee707a9272029d644ddfcd3a4aa053e021c6f6"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/002.html",
+      "bytes": 35712,
+      "sha256": "067224462a9a6c5a2f8aaadde9c04331eeb3b0381ffe2ef65e0bb3f67a08e210"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/003.html",
+      "bytes": 95955,
+      "sha256": "0224d80a7b1ab20125d080c094f04eb111c3870cca09a1ea9657e7ced54bb24e"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/004.html",
+      "bytes": 71258,
+      "sha256": "dfe03994e7cdf41f267e114994f90778185c09993d9643f97583799f64b25c09"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/005.html",
+      "bytes": 290640,
+      "sha256": "9c2a60c3a49a43ccdab69a18bdee57fda9fa467cc6499d301dbb73ef53ebfc74"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/006.html",
+      "bytes": 218623,
+      "sha256": "5d219c0d99bc8f1da85ee8107dd04e958168757cc06cbbe521e59e2b0932ca65"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/007.html",
+      "bytes": 157956,
+      "sha256": "9c3c5aa1dc8d55db9e90223624767408724e01d3f4c3ecec44970dcda4ec5ac0"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/008.html",
+      "bytes": 92044,
+      "sha256": "7eff0cb26dbfb3af19040f8882e37d38826007785bdc82593b3e5e75c7f35fd8"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/009.html",
+      "bytes": 217454,
+      "sha256": "78e60424a5645c3fe3587c4427717c27f1cb05f37ec77867d70b524d0aac475f"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/010.html",
+      "bytes": 152241,
+      "sha256": "fd61d7bbc51fbf17d09ad533930d665826ead5904d24ac64c6478996359063e6"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/011.html",
+      "bytes": 79088,
+      "sha256": "08c734490053ca0680a177a8095e0f0c380697c29adc7acd2cf582562cd7a9ca"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/012.html",
+      "bytes": 220731,
+      "sha256": "50d16dd39fa19f8c2f98f28b14e295ae8a6b5e6015f2f450533db593e0b730c9"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/013.html",
+      "bytes": 66409,
+      "sha256": "f8ba958231bb165a88090be43bed0f0b7113a85d2f9f731ce7213a446d686e75"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/014.html",
+      "bytes": 257058,
+      "sha256": "32ea1dbf7e986369bda5ceec174b6f08fe195b4bb75dab590b8d20f41f5656c5"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/015.html",
+      "bytes": 164405,
+      "sha256": "44a63ea70ec9577d0e1f40b412a6a6f8361298fe6003674183ac9375b6526be2"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/016.html",
+      "bytes": 65183,
+      "sha256": "85e1786272aa7cad0afe23b487a68484a4a991fcb63159034bcdc71a6b9132b1"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/017.html",
+      "bytes": 277501,
+      "sha256": "6d472724e5f1fef6372c5ba314bb096eca6bb952066567db017119328468f70d"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/018.html",
+      "bytes": 215054,
+      "sha256": "1ae45e67e14db97c8ed13361f5a15d4f08ecb4d6d91a4f6bc2e3068a247c14fa"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/019.html",
+      "bytes": 79946,
+      "sha256": "1f54a0644bec65a5c40119978c090acbfd71536c4e0b7aa18c4044b4930e1b53"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/020.html",
+      "bytes": 288241,
+      "sha256": "3b0ca82354622080346620687337fd7eced988ddfcb88c4d24ae6e89091258f8"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/021.html",
+      "bytes": 203123,
+      "sha256": "99e7fcefe98888b9cfcdb1a79d51f5d985aa6da3900b8495ca4646fbc550401a"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/022.html",
+      "bytes": 176477,
+      "sha256": "26a2b097b0dd353787ee19b55b93259ece815822ba370ffc1573054cc0c9f4fe"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/023.html",
+      "bytes": 85409,
+      "sha256": "7b3d64038b153b265aa139af710db2f6f5e087525ef6e05517fefcf4f0e633c6"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/024.html",
+      "bytes": 169833,
+      "sha256": "6662fe78ad2959aa29134099955c7df9b790b8dd9395cd74511aa9972984c86c"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/025.html",
+      "bytes": 72473,
+      "sha256": "b13536410d34e987871fb292c4a95ebfea58e9086d8142831eb1728c5e1fbf8a"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/026.html",
+      "bytes": 175680,
+      "sha256": "978b317949d5cf225b178c3343327ec338fa1b2c4aab8a960ff17538cf008a6a"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/027.html",
+      "bytes": 195122,
+      "sha256": "821c3428dc9f6734b34442572616ddea78c66379df85fe7324952fb7d08a2fd1"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/028.html",
+      "bytes": 272700,
+      "sha256": "ed4e26e424f8b61f42e0f0995185cca2e6f5e92d419ee83e99b4281c631d8a7e"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/029.html",
+      "bytes": 217570,
+      "sha256": "ebb40505e8c338fb4749eaabe11b68dbdd8f96c1b0f34e815b8c3d75b6eada49"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/030.html",
+      "bytes": 262488,
+      "sha256": "c333a9b8d61e312e4c51a62c7e42b13cd4229e05aa4a7f9f4254dba120d3c6e0"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/031.html",
+      "bytes": 163584,
+      "sha256": "b932b4395245a5659163c81999a795671cd288eb5c399a6636339f12a82be6ef"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/032.html",
+      "bytes": 69878,
+      "sha256": "64cee82466bea381e034452753572d024680f4f8ba3fc8429f8645c9b3039419"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/033.html",
+      "bytes": 370049,
+      "sha256": "cb10844d8a77a3d30fbf4df317f21c8387d3528efea8ae7ef105693a6ce5a74e"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/034.html",
+      "bytes": 188328,
+      "sha256": "4a44ce7762e21090983881b6655a745c0d57052c2c85dd2c5b12812e60c69fa5"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/035.html",
+      "bytes": 66193,
+      "sha256": "f730fde10285e6edd6599b67da437b067b894d3c69d286b2348341055b7c7dce"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/036.html",
+      "bytes": 296050,
+      "sha256": "69c79bd5cda3e720741b624f7b8a4efd51665c22289cc545081ad3807ceafc0e"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/037.html",
+      "bytes": 191855,
+      "sha256": "82ec2811e8fd6c4400a6a6d868ce902a0f91e9d14c0bfb45925490f08e82df6b"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/038.html",
+      "bytes": 277906,
+      "sha256": "15c38dc6979a6758b919e784e83c008043b832cb8a6a43bd72f99bc161c8653a"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/039.html",
+      "bytes": 195113,
+      "sha256": "007e5007fd92e7f7696db315149d50a8c6ce7da58107b0770265e4339ae617a6"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/040.html",
+      "bytes": 87237,
+      "sha256": "ac3255c348c33bcbfdd00e6bd6e0799815bf5a07357b1627d49d7327d77b3745"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/041.html",
+      "bytes": 172806,
+      "sha256": "069bfcd3d7bfa9abacebb24a0ed5aca4fe4054c3f728df78fb0cfa74903f78e2"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/042.html",
+      "bytes": 192122,
+      "sha256": "de6fe1f0da5720eaaca6ddbd5a60379fe52f899e7f8c52672ea552b3a405e079"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/043.html",
+      "bytes": 178391,
+      "sha256": "155bcdd31d5f1d09ac22be5c1aa4a4ef329c2ca3558cec0a14f9380d14e94343"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/044.html",
+      "bytes": 208079,
+      "sha256": "c04d3dfb0f36fe9acb9b474b14ed65d405a39d902c1f229868c14c1f4b7d6a4e"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/045.html",
+      "bytes": 133415,
+      "sha256": "3e5c3b7d9950b9d72f56c18880bf5576c467b6fa7bf7d5f9f73836f470585e40"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/046.html",
+      "bytes": 182237,
+      "sha256": "881fb78875ea4af63c56e1df390c745d2c8ebd0abdffa08243e91064554e89c7"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/047.html",
+      "bytes": 147861,
+      "sha256": "24b9cd3239b5758be962b84709f2ddb7f501e11160e056e860a14a5714c04a9a"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/048.html",
+      "bytes": 199669,
+      "sha256": "b2ca8f19d5ca3c71bd5e050ecc2369560223f349b588795658061abbe10eaa5e"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/049.html",
+      "bytes": 128120,
+      "sha256": "384a3e9586a862831da96926d31a17bdfa2e034162e9de6d80b88859302f3e31"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/050.html",
+      "bytes": 59977,
+      "sha256": "04f116a6e4242bfb820d861572d67f142ed8ebe7f9b4b55ceb9ec8af0bc48c63"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/051.html",
+      "bytes": 179600,
+      "sha256": "ba5b79b1cc0905ef47b231a0798515a48deaf995f3f4b08f52894bd533fef059"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/052.html",
+      "bytes": 209572,
+      "sha256": "cf4f2e6e968691177d7e079420ff0e29633b2f2d765d1e73b026d80d4f0e53a3"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/053.html",
+      "bytes": 176663,
+      "sha256": "bb15cc8f5fef59a5ec6088a71cf1fcfc4a2f8d434cd295b7c31c5443d76a273a"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/054.html",
+      "bytes": 197540,
+      "sha256": "c28791341a0b88a1ee5deeb336924c3a01e3425a6a0f08226debd77647a2d290"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/055.html",
+      "bytes": 177023,
+      "sha256": "dbd63d5eca5a4a57260f014e83a7b7304750f91ae1b1be6c7804126fa2dc6012"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/056.html",
+      "bytes": 42938,
+      "sha256": "5f0cda4fdfec416df92147a83cf7bdce2ee2d506f8a9309b2e19b80386aeca37"
+    },
+    {
+      "path": "readers/gruenbein/web/text-pages/057.html",
+      "bytes": 43879,
+      "sha256": "e79c79d79932cb9fd9a557bbc3eb60d8924de5ebfa08fa6fa553eeeb01352c9e"
+    },
+    {
+      "path": "readers/gruenbein/格林拜恩诗选_逐词译注读本.pdf",
+      "bytes": 900181,
+      "sha256": "42ef7dbae1a2222012d016459d2c46c95f691d7a4c9cfd4057c5217c217729a1"
+    },
+    {
+      "path": "readers/heine/ReaderSongBold-d61d74ba1374.woff2",
+      "bytes": 61484,
+      "sha256": "d61d74ba137484f602e9c06dc9642f27070ecda1ad26fdc3cccf351152f51d5b"
+    },
+    {
+      "path": "readers/heine/ReaderSongLight-dadf67ee027a.woff2",
+      "bytes": 260960,
+      "sha256": "dadf67ee027a35ef20b1ad1547b37ca22faa757f001117f521c3a14c177a90c9"
+    },
+    {
+      "path": "readers/heine/ReaderTimes-18c2f5ffe05f.woff2",
+      "bytes": 36260,
+      "sha256": "18c2f5ffe05f67d4df38246b3107c8db57ce72718da81263fdf7d14d3f4b8931"
+    },
+    {
+      "path": "readers/heine/ReaderTimesBold-1b382df55026.woff2",
+      "bytes": 25812,
+      "sha256": "1b382df550267c04cb682642d9a383090bd4c2fd74b1e9a1abfbae0f7c115ab2"
+    },
+    {
+      "path": "readers/heine/audio-manifest.json",
+      "bytes": 20666,
+      "sha256": "c272af4a85aafb44da9816b6ba01393719e368aee5d6082e11581c64ee9eaad9"
+    },
+    {
+      "path": "readers/heine/audio/heine-01-lesedusche.mp3",
+      "bytes": 312968,
+      "sha256": "6641a0a6ad1a9291fb9b583d2221672a562b239c40ec2facae71dcc947823836"
+    },
+    {
+      "path": "readers/heine/audio/heine-02-stavenhagen.mp3",
+      "bytes": 781835,
+      "sha256": "74fb9bb22a7044aebcccd53e421b68cf288c346e27092471670498607b18b303"
+    },
+    {
+      "path": "readers/heine/audio/heine-03-youtube-0jU_SKfoXqY.m4a",
+      "bytes": 1082366,
+      "sha256": "88e7bef997d0270c45bdb04a8bdafbaf6860ec20624a838821dc7fe234dfa60e"
+    },
+    {
+      "path": "readers/heine/audio/heine-04-librivox.mp3",
+      "bytes": 223972,
+      "sha256": "078c20d1aaec14544b0c4323660ec12b8f6488f6d8b15075318a793a92354aeb"
+    },
+    {
+      "path": "readers/heine/audio/heine-06-stavenhagen.mp3",
+      "bytes": 1213796,
+      "sha256": "7117948210bc74c72cd1fab35bdc38462f3f50d16da48d8797c933ca9095b09f"
+    },
+    {
+      "path": "readers/heine/audio/heine-07-lesedusche.mp3",
+      "bytes": 726957,
+      "sha256": "4527c1aad4c2aedb4743a86146b6760b112429fd5e97058be3ac93c38da9c07b"
+    },
+    {
+      "path": "readers/heine/audio/heine-08-lesedusche.mp3",
+      "bytes": 273262,
+      "sha256": "f0a26e7bfcb1fc47b563eca0c171f817b71caee4fd341e3bff7ae47072f85e8e"
+    },
+    {
+      "path": "readers/heine/audio/heine-09-lesedusche.mp3",
+      "bytes": 847956,
+      "sha256": "f47dc5550f5c281b5fd4d11f5368d555af104f5ad6b3e94be4b4e667cf3638ba"
+    },
+    {
+      "path": "readers/heine/audio/heine-10-youtube-DAIu_h1oGPU.m4a",
+      "bytes": 519822,
+      "sha256": "b424664afbcc128f9ff49c126ae4fd4933e9b224850ece059066160814661897"
+    },
+    {
+      "path": "readers/heine/audio/heine-12-youtube-ebV3O8cSG3E.m4a",
+      "bytes": 891586,
+      "sha256": "b8889980714478d04cb71c3c67ff7d17cb3a01ed2cc1e41b8fce81c96ab920ad"
+    },
+    {
+      "path": "readers/heine/audio/heine-13-librivox.mp3",
+      "bytes": 245427,
+      "sha256": "6af54e52bf481f8534d713db3aa8fdcde63730848da9a416e2d534d4a9418318"
+    },
+    {
+      "path": "readers/heine/audio/heine-18-youtube-aaQTRoAHRSY.m4a",
+      "bytes": 1371747,
+      "sha256": "94ff0f3271504214963d34bcb82cac88b65707040e6d27b3623a8e2ae878f982"
+    },
+    {
+      "path": "readers/heine/audio/heine-24-youtube-0zPJzw1Hjf0.m4a",
+      "bytes": 1889365,
+      "sha256": "d631d0a7f2856a96e0624ade2bb43265a98e0998d49e702ee46d2b55174934f5"
+    },
+    {
+      "path": "readers/heine/audio/heine-anno-1839-1839-stavenhagen.mp3",
+      "bytes": 3658970,
+      "sha256": "de9b8c1866620d14bc3ea53e43364180e4855cb950686fe291ad831346c498dc"
+    },
+    {
+      "path": "readers/heine/audio/heine-belsazar-stavenhagen.mp3",
+      "bytes": 3878976,
+      "sha256": "1cf3c72bd7744aded2a10a493f90dd19ef726e22e18f4d7ca5adbdb55b18024e"
+    },
+    {
+      "path": "readers/heine/audio/heine-der-tod-das-ist-die-kuehle-nacht-stavenhagen.mp3",
+      "bytes": 1441303,
+      "sha256": "0b94a4a1452ef041a1b50c2d8a260213d9d6cfc0f48bd1cf9a27b59ddbba5558"
+    },
+    {
+      "path": "readers/heine/audio/heine-die-grenadiere-stavenhagen.mp3",
+      "bytes": 3333632,
+      "sha256": "83a02829aaf9f40a8d0dcb407ea08627259c36a1f38b0244031ba9ac042e466c"
+    },
+    {
+      "path": "readers/heine/audio/heine-die-loreley-1824-stavenhagen.mp3",
+      "bytes": 2738800,
+      "sha256": "afbc37b4772791069116ed42e72f26ed65eb6dc60cc3341a48990374854f16ff"
+    },
+    {
+      "path": "readers/heine/audio/heine-die-schlesischen-weber-stavenhagen.mp3",
+      "bytes": 2498432,
+      "sha256": "a31a82ac9aaf39dc1485098c3c4ad031bd487b8f5fbc14de38c0c958fbc34ad5"
+    },
+    {
+      "path": "readers/heine/audio/heine-du-bist-wie-eine-blume-stavenhagen.mp3",
+      "bytes": 1061914,
+      "sha256": "c68d7b565b5204fff8a8f0bc035d78b422209b739238a57d9fd941f9db111393"
+    },
+    {
+      "path": "readers/heine/audio/heine-heine_der-asra-stavenhagen.mp3",
+      "bytes": 2068295,
+      "sha256": "4a5fee5bbbbd238913d07f7f6d0e2dc1f618e99cac82acfb3625bccc5d430755"
+    },
+    {
+      "path": "readers/heine/audio/heine-lass-die-heilgen-parabolen-stavenhagen.mp3",
+      "bytes": 1756005,
+      "sha256": "f33366663408026c41484ad09f7f47b9e38c1ba68e24c8b8dc1ca8353f541c16"
+    },
+    {
+      "path": "readers/heine/audio/heine-nachtgedanken-stavenhagen.mp3",
+      "bytes": 3587361,
+      "sha256": "19003d480dc93b28245d6ae1f88613fce7b6f201bf3bc04110657216999a422c"
+    },
+    {
+      "path": "readers/heine/audio/heine-wo-stavenhagen.mp3",
+      "bytes": 1622405,
+      "sha256": "78e4b6bbe173518cb97cdbc2c98ecf1ec4e0193ef87521ae29a50f32ebb1da1a"
+    },
+    {
+      "path": "readers/heine/content.json",
+      "bytes": 309831,
+      "sha256": "ae19f48e5a28db63e178b617444ac215c07ea6d8bb4c46e04e6a48f79d0459f2"
+    },
+    {
+      "path": "readers/heine/index.html",
+      "bytes": 79450,
+      "sha256": "2c46f339f923e9ca3d9d0eb51669f7515131207f52c68291a3e0321e9760793e"
+    },
+    {
+      "path": "readers/heine/layout.json",
+      "bytes": 8058,
+      "sha256": "6d58e4e6ce3d9a7ee460507df3ffdb1ffbe687908ae10d314c114c5b83c1f122"
+    },
+    {
+      "path": "readers/heine/reader.css",
+      "bytes": 19428,
+      "sha256": "dfbebeab50283733f0bc712be3827f8436c2d56081d2e4208477535d1f36b655"
+    },
+    {
+      "path": "readers/heine/web-validation.json",
+      "bytes": 6266,
+      "sha256": "e5183431f82d14dd5d0ce88ec80bc217af6a559317f3cb6a5e5555a067d89636"
+    },
+    {
+      "path": "readers/heine/web/text-pages/001.html",
+      "bytes": 21509,
+      "sha256": "e343a6c1702f03bb47bccca15cd6f548a11a6b1c359e3a5cb2a72166c0c4de20"
+    },
+    {
+      "path": "readers/heine/web/text-pages/002.html",
+      "bytes": 63108,
+      "sha256": "a9569c15b2b51466cb71b1d0523e46640581bf49a90ace2c6c5c094976f5fc63"
+    },
+    {
+      "path": "readers/heine/web/text-pages/003.html",
+      "bytes": 97621,
+      "sha256": "ca424b1c15e2cb2d20cc0bc7ca5c5d4250184dc49c384736cb2c291e3c6c5ab5"
+    },
+    {
+      "path": "readers/heine/web/text-pages/004.html",
+      "bytes": 121168,
+      "sha256": "8c333bcb7d79c8bfd3b1b8cf164d9a6a40d8685abf43a32adb2aa80e8f73eb36"
+    },
+    {
+      "path": "readers/heine/web/text-pages/005.html",
+      "bytes": 147969,
+      "sha256": "3a1dd721debb0b7bdd86e65aff48b7c54ba582024fee032d8f1e2ad6780fb064"
+    },
+    {
+      "path": "readers/heine/web/text-pages/006.html",
+      "bytes": 52375,
+      "sha256": "349506747554e1419f353ece07d8d15e87ada3c637d2bfd3dddf319a1ca6dff8"
+    },
+    {
+      "path": "readers/heine/web/text-pages/007.html",
+      "bytes": 167401,
+      "sha256": "1c34d1455afb8bbb6fbc4442519d0ce4d426e9caea6f6c0cb3996ad908e4d518"
+    },
+    {
+      "path": "readers/heine/web/text-pages/008.html",
+      "bytes": 50104,
+      "sha256": "4e28ac4ef5d14465f751f918eced0a1a69e3fdde9d68a7b7f3701448e4de58e8"
+    },
+    {
+      "path": "readers/heine/web/text-pages/009.html",
+      "bytes": 188935,
+      "sha256": "dbc112b14d342d4a1617b3d7fa2d1c2648b9d27bdeb8ac7b9d8e22c35ac6aa75"
+    },
+    {
+      "path": "readers/heine/web/text-pages/010.html",
+      "bytes": 146645,
+      "sha256": "e7b90413bd70184458fe27d348a53369884706ed0aecc6f68fd33c06ff36d944"
+    },
+    {
+      "path": "readers/heine/web/text-pages/011.html",
+      "bytes": 69245,
+      "sha256": "42cfffdb3f3eb66bbcebc497733e3b321a0b3ea1a15126d2cf2031629f438dfb"
+    },
+    {
+      "path": "readers/heine/web/text-pages/012.html",
+      "bytes": 147705,
+      "sha256": "554aac985176bddda5d315388473a652094e91ff87e1c84a80562abe9970e753"
+    },
+    {
+      "path": "readers/heine/web/text-pages/013.html",
+      "bytes": 108180,
+      "sha256": "cf655098659515884f32f7f2152bb069afc9638c0e33cbe0917edfe2eacdd218"
+    },
+    {
+      "path": "readers/heine/web/text-pages/014.html",
+      "bytes": 180605,
+      "sha256": "4eb7fb42c00ea52f573bd2b80ad2335153484d590789c960657c37f0b9c18752"
+    },
+    {
+      "path": "readers/heine/web/text-pages/015.html",
+      "bytes": 47969,
+      "sha256": "ae9b636a397a0a90c3b26c582766e882380ab8ddd90f0a4486ec4f0226f5a19a"
+    },
+    {
+      "path": "readers/heine/web/text-pages/016.html",
+      "bytes": 153407,
+      "sha256": "7f0db48cc4da5230dd5fb5a8db2f32937f4047d7949fd0facb57e5e73bfe5922"
+    },
+    {
+      "path": "readers/heine/web/text-pages/017.html",
+      "bytes": 145896,
+      "sha256": "b9b1d0b5d8f18c47f6b89782f53c69cadc644c7ddb9b12f586d18abc1d4e3818"
+    },
+    {
+      "path": "readers/heine/web/text-pages/018.html",
+      "bytes": 151452,
+      "sha256": "60582dfbda151bcfe08c3843c4b9cfea267d389f7caa9e8d19921e723a7bf7ff"
+    },
+    {
+      "path": "readers/heine/web/text-pages/019.html",
+      "bytes": 136317,
+      "sha256": "5a54105262dd21ddae1d3d8b393bc4837d6aab93e2dcf505f81f5270f8ff1e9d"
+    },
+    {
+      "path": "readers/heine/web/text-pages/020.html",
+      "bytes": 153892,
+      "sha256": "35eb3daa4ba4718dfb84c9dfade2ba6eef9fe965a575808e8fb006f13f0d3d57"
+    },
+    {
+      "path": "readers/heine/web/text-pages/021.html",
+      "bytes": 66750,
+      "sha256": "b4dd1d60c80a9a80cbf224b5dbf77c711a964b8a40f5e0f4bc9cc53ae2685a63"
+    },
+    {
+      "path": "readers/heine/web/text-pages/022.html",
+      "bytes": 197377,
+      "sha256": "0c6e6eb5113c2231a478b01ca961ae8c4083611b7f7c0b2b85fc2472081b4e00"
+    },
+    {
+      "path": "readers/heine/web/text-pages/023.html",
+      "bytes": 185491,
+      "sha256": "2874b29aeac66f826df70fd797c01d906303dce656777256b3d8bb37531efbff"
+    },
+    {
+      "path": "readers/heine/web/text-pages/024.html",
+      "bytes": 142683,
+      "sha256": "17c4f10604c57021fb26f30c70926126a75b33ed3e9df5c445fd4a568a8e8f0c"
+    },
+    {
+      "path": "readers/heine/web/text-pages/025.html",
+      "bytes": 66841,
+      "sha256": "59f3742a03934280cb15b11b0c791c40e94be194ee33e9a956e1aebf784ec3dc"
+    },
+    {
+      "path": "readers/heine/web/text-pages/026.html",
+      "bytes": 190864,
+      "sha256": "2ef0598ea52da143d069d10f9c00faf7c8338aa88b7b0c6b5f6376ad2943e868"
+    },
+    {
+      "path": "readers/heine/web/text-pages/027.html",
+      "bytes": 193012,
+      "sha256": "a1430d35d12fdfe30cbc93b06970f7cb57b834116feb46140c8673f909aefaf7"
+    },
+    {
+      "path": "readers/heine/web/text-pages/028.html",
+      "bytes": 72883,
+      "sha256": "39031df9ef695f1456e3c4678cdb97d39b442915076f430b236f6d3996dc19b9"
+    },
+    {
+      "path": "readers/heine/web/text-pages/029.html",
+      "bytes": 203727,
+      "sha256": "7670de132b1412a4f0d9c81aa1b846a42cf9067d9c9dee0402915a8b1e7d2990"
+    },
+    {
+      "path": "readers/heine/web/text-pages/030.html",
+      "bytes": 157971,
+      "sha256": "73e7d4fb4ca035e58d9b512d7ae5fabd493b1adeb8d37daa6ca6ee4fc622c655"
+    },
+    {
+      "path": "readers/heine/web/text-pages/031.html",
+      "bytes": 138372,
+      "sha256": "07127eebb35e36f2a39768e9b5ad418d2b04c43bd824cc5ee0b556b60ae5472e"
+    },
+    {
+      "path": "readers/heine/web/text-pages/032.html",
+      "bytes": 116472,
+      "sha256": "c7382a1793c85d9840374e21965632d6bb35d1d3515ce24817cc6c23e7af142f"
+    },
+    {
+      "path": "readers/heine/web/text-pages/033.html",
+      "bytes": 176014,
+      "sha256": "83b199717eb53e73af08f89577532683457fc9ae93970909785a969662cf44b4"
+    },
+    {
+      "path": "readers/heine/web/text-pages/034.html",
+      "bytes": 67342,
+      "sha256": "79d0b344137e7d9b0a1ccc145b365a24069c3cd646deeea2339ffd7b6a54d6ab"
+    },
+    {
+      "path": "readers/heine/web/text-pages/035.html",
+      "bytes": 176438,
+      "sha256": "8f8c825946cd6758acf97faf56c756dd0b6f566eb7e5ea06e3192aa536bcd807"
+    },
+    {
+      "path": "readers/heine/web/text-pages/036.html",
+      "bytes": 167171,
+      "sha256": "2c95f0d1a4d6c56ed311afdd53f65f4e2def6611264bc6e7bbd2b9887f5f7806"
+    },
+    {
+      "path": "readers/heine/web/text-pages/037.html",
+      "bytes": 212558,
+      "sha256": "b46b9ced9eca48cbbdd8b762d9fb833b488094b7056bf236aa76eb61ef1285b3"
+    },
+    {
+      "path": "readers/heine/web/text-pages/038.html",
+      "bytes": 206456,
+      "sha256": "8a7f61572416e83b1bbe0a3b29df42b23f8f828a977874bf01b45a0d8e864657"
+    },
+    {
+      "path": "readers/heine/web/text-pages/039.html",
+      "bytes": 165722,
+      "sha256": "ed1ded83e8afeb16d375a9859f9828e0023852646244dc4cad28d8a8bdccfe43"
+    },
+    {
+      "path": "readers/heine/web/text-pages/040.html",
+      "bytes": 83770,
+      "sha256": "f6a9b0430cdb22e79cdf7bc1e9ab878cfe730f5ab7e51b1acc7e27eb373c6648"
+    },
+    {
+      "path": "readers/heine/web/text-pages/041.html",
+      "bytes": 200606,
+      "sha256": "97ae931d1c41be13a330c50914e95fee3cb6edefcbe88843213ecf19273123d4"
+    },
+    {
+      "path": "readers/heine/web/text-pages/042.html",
+      "bytes": 227321,
+      "sha256": "b137ed3b9a736b9a13595e30c06ea70f0fe3b5dac20dec433adeb25bf48ce0db"
+    },
+    {
+      "path": "readers/heine/web/text-pages/043.html",
+      "bytes": 167601,
+      "sha256": "475f2fea859a60e40f89152fd63b580fcc4ec8f108adf25523aa12cb40a45ff0"
+    },
+    {
+      "path": "readers/heine/web/text-pages/044.html",
+      "bytes": 178731,
+      "sha256": "18ec30455f48ea43363c55b0a491e5efad500e55ce95d4863959350f4f2b6ad6"
+    },
+    {
+      "path": "readers/heine/web/text-pages/045.html",
+      "bytes": 218767,
+      "sha256": "2cf76b387f28f0d651768a3b522744ca0d8649dd964207eefd7035330ccd74f8"
+    },
+    {
+      "path": "readers/heine/web/text-pages/046.html",
+      "bytes": 184334,
+      "sha256": "11231b9838e0822f6c3af49fc4535dc669bbe39757faa388f4c801ee145a13ce"
+    },
+    {
+      "path": "readers/heine/web/text-pages/047.html",
+      "bytes": 157559,
+      "sha256": "9d4c652ff4ce9ba9d7548e3eb324c6d40da95e494b7516589db3b123311bb8d9"
+    },
+    {
+      "path": "readers/heine/web/text-pages/048.html",
+      "bytes": 130927,
+      "sha256": "3464f6b34af6e656d9b604cbbc36709b18512fe39bc523b97cbbad289a19b80a"
+    },
+    {
+      "path": "readers/heine/web/text-pages/049.html",
+      "bytes": 171067,
+      "sha256": "09dfdde81d5ff72ba3c12747febd5a99cb4b0917c07e51bff0d320a9c8836e61"
+    },
+    {
+      "path": "readers/heine/web/text-pages/050.html",
+      "bytes": 131832,
+      "sha256": "3a1604800f9c4f8c2d9801538441998adc35484681e5420ddadfc9bb68de2916"
+    },
+    {
+      "path": "readers/heine/web/text-pages/051.html",
+      "bytes": 76183,
+      "sha256": "bf8e60ac519a2f61096bb5684d0167eae52e58b94cc92f95722b75aa7ddd7d55"
+    },
+    {
+      "path": "readers/heine/web/text-pages/052.html",
+      "bytes": 220901,
+      "sha256": "edca70c4beda736a9ba7623b9526c2541c4092bb4fd6b067c62f3efb40106530"
+    },
+    {
+      "path": "readers/heine/web/text-pages/053.html",
+      "bytes": 201779,
+      "sha256": "3d590f0362a2827398b5090c30a4964a64a6d5387b0461fddaec1ff865fd2971"
+    },
+    {
+      "path": "readers/heine/web/text-pages/054.html",
+      "bytes": 65990,
+      "sha256": "72fab858092f52097818cc642cdae8d21a9a6beabb928f5ef51394473da4c03a"
+    },
+    {
+      "path": "readers/heine/web/text-pages/055.html",
+      "bytes": 206197,
+      "sha256": "ae67265e0262240e46d29692a6e261b82ac95041be4c0d84420c502c3a2613d6"
+    },
+    {
+      "path": "readers/heine/web/text-pages/056.html",
+      "bytes": 160903,
+      "sha256": "904e903d88659a704f436ecad74a45d58c26e3b1710a9451ae38c01d4d62bc1d"
+    },
+    {
+      "path": "readers/heine/web/text-pages/057.html",
+      "bytes": 152694,
+      "sha256": "1a2286b93f72cb0d828aace0d5623267a2d97682c18d7567c67c41443b86d967"
+    },
+    {
+      "path": "readers/heine/web/text-pages/058.html",
+      "bytes": 212929,
+      "sha256": "d11747e1ddfd4203fca852545ed68d97d07365a73304d6dde15c1e758ffc1e16"
+    },
+    {
+      "path": "readers/heine/web/text-pages/059.html",
+      "bytes": 220911,
+      "sha256": "396e66f0544f2880e7847d392393253536a96f22fbd48d03cf32652653f9d0d3"
+    },
+    {
+      "path": "readers/heine/web/text-pages/060.html",
+      "bytes": 218563,
+      "sha256": "354019660bad63a22b2f8342ac96db1d9e984e656e8e3ca12123d2e6411ec3b9"
+    },
+    {
+      "path": "readers/heine/web/text-pages/061.html",
+      "bytes": 72954,
+      "sha256": "c2b6112553cf3d4cd4646fbe2fa50ff8f493211b4627babf68118c220166b260"
+    },
+    {
+      "path": "readers/heine/web/text-pages/062.html",
+      "bytes": 255427,
+      "sha256": "b66b478cb2d69e65ad46b46f65d2a6614143c4843b02796a9bbbe5a4f1d727b6"
+    },
+    {
+      "path": "readers/heine/web/text-pages/063.html",
+      "bytes": 232071,
+      "sha256": "c5b88f7dcca5ef76eb2a2b3b4bc4518e86465e650b15c5c2708884d0924cdbbf"
+    },
+    {
+      "path": "readers/heine/web/text-pages/064.html",
+      "bytes": 88045,
+      "sha256": "1f1014745af2b3b450e70718b426733d29371e559425661d8f0ff91f1aa5f55e"
+    },
+    {
+      "path": "readers/heine/web/text-pages/065.html",
+      "bytes": 171053,
+      "sha256": "6d399c2bb8b3b60542998e6cdf0235cdc718aef2fff35b710ebf2586f17d5b22"
+    },
+    {
+      "path": "readers/heine/web/text-pages/066.html",
+      "bytes": 181608,
+      "sha256": "a0d5824c6c5989206e8457fb24100d9504abe61d4b6de148bdcb50bc671f52ce"
+    },
+    {
+      "path": "readers/heine/web/text-pages/067.html",
+      "bytes": 189540,
+      "sha256": "bb4df0923ec200a2b4e79466a5fbeb8abf0e528f19d89865f34f505c5176e8b0"
+    },
+    {
+      "path": "readers/heine/web/text-pages/068.html",
+      "bytes": 131721,
+      "sha256": "04032e65ca60b708913b90f5fff0542c1a6d9bf80faa7d77d702e5837860615b"
+    },
+    {
+      "path": "readers/heine/web/text-pages/069.html",
+      "bytes": 83420,
+      "sha256": "5c2b277a8c2e30c845303522fad60deacac10379c5b5db0acf23d3b360de4257"
+    },
+    {
+      "path": "readers/heine/web/text-pages/070.html",
+      "bytes": 142449,
+      "sha256": "82277300fc4933468131e73a7f09cf5f054f796a755ecbdde6428442e96371ce"
+    },
+    {
+      "path": "readers/heine/web/text-pages/071.html",
+      "bytes": 140250,
+      "sha256": "bfbd9a7d42634b9b46942ba2d42197e313d45dea1b21e2fd13b95b8a393a6bc6"
+    },
+    {
+      "path": "readers/heine/web/text-pages/072.html",
+      "bytes": 193776,
+      "sha256": "2023335e04502989c1453252669e862b490cd844631f1331da7f6c47603449c0"
+    },
+    {
+      "path": "readers/heine/web/text-pages/073.html",
+      "bytes": 189446,
+      "sha256": "276d668735e3dbc9b0d57ff041c390ad5287da481e48020601ba244a84660b87"
+    },
+    {
+      "path": "readers/heine/web/text-pages/074.html",
+      "bytes": 164288,
+      "sha256": "a0ef3094b1543ad86847c9858b213d123bb43390142981c3f96d95fd63175d41"
+    },
+    {
+      "path": "readers/heine/web/text-pages/075.html",
+      "bytes": 153085,
+      "sha256": "5f941bf1a43d929aad1fee8ca9a665e6aa52086fc6c0683d6ba4216bbdef386f"
+    },
+    {
+      "path": "readers/heine/web/text-pages/076.html",
+      "bytes": 43961,
+      "sha256": "9b124541886c226aa96c1d03b47951cf4f369fa5889cf8abe8708f7eb47a5107"
+    },
+    {
+      "path": "readers/heine/海涅诗选_逐词译注读本.pdf",
+      "bytes": 932928,
+      "sha256": "4bf210b1482e1a7e3b42649469bbe518c5aa6c844bce0b6faacf2ed9f26a8817"
+    },
+    {
+      "path": "readers/hoelderlin/ReaderSongBold-313d9c6bb851.woff2",
+      "bytes": 81152,
+      "sha256": "313d9c6bb851000ca2be192be4e0a14a8182103b680d601f49c3c9ddbb1efb0d"
+    },
+    {
+      "path": "readers/hoelderlin/ReaderSongLight-5594de456a6a.woff2",
+      "bytes": 323664,
+      "sha256": "5594de456a6a3e086014acfc3008e9f6cab8a35cba016a5caeef30b78a2eca2c"
+    },
+    {
+      "path": "readers/hoelderlin/ReaderTimes-648779acabb8.woff2",
+      "bytes": 36172,
+      "sha256": "648779acabb85a75cc36ca806a75f6d835811eac746389e45cf3b422c49b7110"
+    },
+    {
+      "path": "readers/hoelderlin/ReaderTimesBold-11ebadb79b58.woff2",
+      "bytes": 26252,
+      "sha256": "11ebadb79b5804da57f7f2a0039e8a03152f75d4666170f12224d53d3d36124c"
+    },
+    {
+      "path": "readers/hoelderlin/audio-manifest.json",
+      "bytes": 19457,
+      "sha256": "30897abad31e464674298e6b2f535b078fbed4e2e4a3714a0c72cad1894a5f65"
+    },
+    {
+      "path": "readers/hoelderlin/audio/hoelderlin-04-youtube-xmwpuW-jlRs.m4a",
+      "bytes": 2326477,
+      "sha256": "8f3baefb6108b8b20ea094cfb18c896d706aa6dacf5657c248433c9f0dc44d3c"
+    },
+    {
+      "path": "readers/hoelderlin/audio/hoelderlin-06-youtube-58EkW9aaEuk.m4a",
+      "bytes": 496540,
+      "sha256": "a08c69b4f2bedbf8766725ec67da14ca8e8211a71f61bd772ba12f8d912772aa"
+    },
+    {
+      "path": "readers/hoelderlin/audio/hoelderlin-08-wikisource.ogg",
+      "bytes": 326260,
+      "sha256": "1ff4e1db4e60f52ff399f359bd87bbd94ee4c0019a7fd207a09c39c6fd0bf925"
+    },
+    {
+      "path": "readers/hoelderlin/audio/hoelderlin-11-youtube-rEATWTU_qn0.m4a",
+      "bytes": 774424,
+      "sha256": "44cffa26b1c6ea549da6364561ccf16be6b3ba52dcf6406589ff9fb999819e3a"
+    },
+    {
+      "path": "readers/hoelderlin/audio/hoelderlin-14-librivox.ogg",
+      "bytes": 1768166,
+      "sha256": "779dbd9eec314fefc5aaac4e3d62f77bc8c7265a02f2b1563d4f66f6f4fadd81"
+    },
+    {
+      "path": "readers/hoelderlin/audio/hoelderlin-15-youtube-4zRTV6gDh3k.m4a",
+      "bytes": 10492560,
+      "sha256": "657eb7b563d1db4f9058a956efc6e37f1a64dc676ca31f142b6632e43611be54"
+    },
+    {
+      "path": "readers/hoelderlin/audio/hoelderlin-16-youtube-BVJbPVqN5EM.m4a",
+      "bytes": 6581139,
+      "sha256": "3c87cebde7fe7e179828ac2f74f4d06713d7af04d39209d20ac3ae4d992ce33f"
+    },
+    {
+      "path": "readers/hoelderlin/audio/hoelderlin-17-deepfilternet3.mp3",
+      "bytes": 7819772,
+      "sha256": "7f67281fe3563c835299d48c0b259f275ae8091831e070a69c71689db1369c6e"
+    },
+    {
+      "path": "readers/hoelderlin/audio/hoelderlin-19-youtube-33A98-VhlcA.m4a",
+      "bytes": 4158264,
+      "sha256": "96a39f6c6ee9ae41f32e14b8fe82d81def4b10c04e3dc0bbbd893d90df157165"
+    },
+    {
+      "path": "readers/hoelderlin/audio/hoelderlin-20-patmos-ploderer.m4a",
+      "bytes": 11017927,
+      "sha256": "90c4053f2e19c1866af0f5d94ff3a318d2489b58ef1261b2db3cead9bfbe189d"
+    },
+    {
+      "path": "readers/hoelderlin/audio/hoelderlin-21-youtube-hagNYWRdsSM.m4a",
+      "bytes": 3576261,
+      "sha256": "d1a3a304b0156b58765dbab9032d43c813c7abf7aac1229df316ee0cf1825541"
+    },
+    {
+      "path": "readers/hoelderlin/audio/hoelderlin-22-youtube-i1th1zRf6Mw.m4a",
+      "bytes": 6085801,
+      "sha256": "e06f3617cc112bbc8dca998c3fbd4585bf26b84041e7a01af8a81da3fedfc208"
+    },
+    {
+      "path": "readers/hoelderlin/audio/hoelderlin-25-bruno-ganz.mp3",
+      "bytes": 1776470,
+      "sha256": "ffb4fb5ca0b55d40d9329296a82a84fe556d4e2fc0ab8356762edffdfaa61253"
+    },
+    {
+      "path": "readers/hoelderlin/audio/hoelderlin-27-youtube-iSuk5p8E5KA.m4a",
+      "bytes": 1176997,
+      "sha256": "5d248fb1c655f65f9391f4e30c55d6ca9dbfe9975b728a54c70f183c8365f138"
+    },
+    {
+      "path": "readers/hoelderlin/audio/hoelderlin-abbitte-stavenhagen.mp3",
+      "bytes": 1117603,
+      "sha256": "1b8e43530533a9567fb7c89069fe704e487070fefab13319f49de3a1344aa959"
+    },
+    {
+      "path": "readers/hoelderlin/audio/hoelderlin-abendphantasie-stavenhagen.mp3",
+      "bytes": 3277619,
+      "sha256": "c5dbd6726bccd4777cea3432611b22f21f3a90fc2d48d0ecb24c955ce65476ca"
+    },
+    {
+      "path": "readers/hoelderlin/audio/hoelderlin-an-die-parzen-stavenhagen.mp3",
+      "bytes": 1569043,
+      "sha256": "f6a40e2753dd47cbfa3def5d24c85277bd3bfb7b57f720789821cf803f06e0bf"
+    },
+    {
+      "path": "readers/hoelderlin/audio/hoelderlin-da-ich-ein-knabe-war-stavenhagen.mp3",
+      "bytes": 2704471,
+      "sha256": "bf6c824149f5377126bd06d17251ef8f10a74ba8df0423f23832c98a240500e9"
+    },
+    {
+      "path": "readers/hoelderlin/audio/hoelderlin-haelfte-des-lebens-stavenhagen.mp3",
+      "bytes": 1298179,
+      "sha256": "0863fa2f9db4aa27d248575e7144cc62a05b795c3d3d70d2ad2203b8b48167e8"
+    },
+    {
+      "path": "readers/hoelderlin/audio/hoelderlin-hyperions-schicksalslied-stavenhagen.mp3",
+      "bytes": 1859513,
+      "sha256": "96a51dd136ff3eb1451ed821d7360c908c449102513077c35f4426d71a22474c"
+    },
+    {
+      "path": "readers/hoelderlin/audio/hoelderlin-lebenslauf-1825-stavenhagen.mp3",
+      "bytes": 1878781,
+      "sha256": "894536211eff4c99c0abd9b90d6aef934dd6450e03e1d28d350701b6c944e4cd"
+    },
+    {
+      "path": "readers/hoelderlin/audio/hoelderlin-menschenbeifall-stavenhagen.mp3",
+      "bytes": 1485614,
+      "sha256": "63f2b80def2adbd8ea9cb4a0979ebcc704aa182bda70b5ca0e8c7511b4b6c9d4"
+    },
+    {
+      "path": "readers/hoelderlin/content.json",
+      "bytes": 792435,
+      "sha256": "772a7816b53c7728bf53192074f0a8b3d2bacb75adaa33ee645247314eca81a7"
+    },
+    {
+      "path": "readers/hoelderlin/index.html",
+      "bytes": 93452,
+      "sha256": "93561c432ff66cc240cbd83981daa0aaad4366d90d63253747a0b3069ae5d629"
+    },
+    {
+      "path": "readers/hoelderlin/layout.json",
+      "bytes": 10286,
+      "sha256": "4c283902ec9c5d600752cd46c36faaa106fd8b37f394f32ffc6bd4ee9805fa8d"
+    },
+    {
+      "path": "readers/hoelderlin/reader.css",
+      "bytes": 19428,
+      "sha256": "29012af9c0e522eb6fc8aa6c65f1b188a2ad20a56d7a0099a4d2f484d2b03d9f"
+    },
+    {
+      "path": "readers/hoelderlin/web-validation.json",
+      "bytes": 11498,
+      "sha256": "ae7c0c93bbb5a7a2f41cb1767caf45e2f1d74e87632fa1ff1620ea13ebc7906e"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/001.html",
+      "bytes": 22233,
+      "sha256": "1db74bf3a28c5e9477b381f5b84d76e8de95665cf4158b5d9bd0b27dafc0d121"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/002.html",
+      "bytes": 40424,
+      "sha256": "e00bd9511d24fb7a3dda47caa6b5a0011edd93fedc7b4a63efe25bc304254799"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/003.html",
+      "bytes": 96592,
+      "sha256": "b965cb29f0197be6763000f5aa5b499e10922f839c7ba71d5e620e571dc8f936"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/004.html",
+      "bytes": 105259,
+      "sha256": "163eb9ec6968eb29358abf72f64c7b2da97ea6b8ed1cfe37111b25d1081031d8"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/005.html",
+      "bytes": 147670,
+      "sha256": "f8ef03f28e50ffce80047526f3da4389774010310881653e58ce10696b1a8231"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/006.html",
+      "bytes": 144811,
+      "sha256": "9981a6490e126babab0b8c91ef1ac7cddacdc5afab64e620db416995e5da48bb"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/007.html",
+      "bytes": 243374,
+      "sha256": "2d0c7803de1d3e70968cd52b0946441732668ffe61251146466999b23c410311"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/008.html",
+      "bytes": 123190,
+      "sha256": "8b9e6b0f24555bfc3c4022ecd3262f70491d1451507d91b76e58b2dc531862f5"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/009.html",
+      "bytes": 182608,
+      "sha256": "3849ea8401b131000fd7eebf092fdd603c006f590ce1445a526cf244f74f9a61"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/010.html",
+      "bytes": 197815,
+      "sha256": "2c0834632500f09bbdb7e11f651ba1664b8542c1432e41beb75e535d07b58c7b"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/011.html",
+      "bytes": 180516,
+      "sha256": "0b8b4a26391c44e7ebc1c6977687d4311aa64b3ec3693df1c0f13ad373c8d790"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/012.html",
+      "bytes": 255916,
+      "sha256": "8c8cba2d5e10b4ab097042f3f558b249b9c94ffecd724c61ced936d66c75e41c"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/013.html",
+      "bytes": 223872,
+      "sha256": "e6b2860fe3e4718229f389ef3cbe3bbbbd46b8bfb0e8afb880ddd0625bacb8ce"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/014.html",
+      "bytes": 160202,
+      "sha256": "4eb1a28459d130c3c73aa05836d7d76931735790b13a3bec49de6d640a69ad5e"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/015.html",
+      "bytes": 100674,
+      "sha256": "f08b22e7c065a489ef9c3edccadd56d30bbd7efb65ee9ac0e67c76e7033a3a14"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/016.html",
+      "bytes": 136860,
+      "sha256": "d804fe754d09a4ec139fdf1e6579cd6ba54e01456e590e0e446678defedcd4e8"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/017.html",
+      "bytes": 160582,
+      "sha256": "df3e065edea82a85b0586015c0f6a0cbe892c4e871bcd9d7e8385096741e28bb"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/018.html",
+      "bytes": 140171,
+      "sha256": "bdc642d7c0bf925bf625fcea3b7d74b12d289fd08bab86055d72381a6424a0ae"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/019.html",
+      "bytes": 64016,
+      "sha256": "9b394bfb1655c21d98e9354b514178d21731650b48fa20d392d6287b24986301"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/020.html",
+      "bytes": 191641,
+      "sha256": "f88179aa584dae89c3d36be84bfe7637d7141fbf6759a8b7047d48f83f8c85e0"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/021.html",
+      "bytes": 71879,
+      "sha256": "657431bf25b0639eb0414535d3490919c61a06c5933f2d7a710bdf04d993c449"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/022.html",
+      "bytes": 212578,
+      "sha256": "d6001dec812fb987fc6dce2e6c8c6388e38cdde85052e461b6ca01bee1ef0716"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/023.html",
+      "bytes": 75618,
+      "sha256": "9f82be9f0a53eeaa4943b8631dc9a20787a8d9cfcd9f839cd6e63d4c8db79a77"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/024.html",
+      "bytes": 130135,
+      "sha256": "dc98c941361d6d8029fff7be4e2f146427e3fbd37a686e036b708295ccec3277"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/025.html",
+      "bytes": 183200,
+      "sha256": "e6d7f2ffbed8f15fa44090ac1110529f6be786dcb6e3f5549aafd6861cf69042"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/026.html",
+      "bytes": 212716,
+      "sha256": "45ae4d7d7ce0204e0aaa61b4b62cf25e8254b28691e847f7ba09f3787a823cd6"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/027.html",
+      "bytes": 58184,
+      "sha256": "8f0f2ac8b567422e69ae67bb834b98ed9cc9c6f2df6df73d7a9357fa5800af46"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/028.html",
+      "bytes": 146954,
+      "sha256": "087399282506010346a24f45a0c919cc5683009c24a63b2fce62d98011bd9730"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/029.html",
+      "bytes": 182974,
+      "sha256": "3fc24de553d27be0067901dd43ece1b96c4a16dd6dcbabbce09e9c5dfd863808"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/030.html",
+      "bytes": 201030,
+      "sha256": "35d3311b0e367f890b01e8bd65ca1e346bd25e123d0108d1e1703706a0a80943"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/031.html",
+      "bytes": 176572,
+      "sha256": "81bbb9b740b375901807b5481efaa3aff454427d6f39ecdab4aeb7fcc7c8391c"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/032.html",
+      "bytes": 85626,
+      "sha256": "970a44518544f5c8a3d5139c700f7853f43b4e63ae43946012ffa4469b2d0ef9"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/033.html",
+      "bytes": 167906,
+      "sha256": "40bd867dce0ce72d8ac3fe3ad2d72d9895d73831955fb15ee44257cbd4add191"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/034.html",
+      "bytes": 147118,
+      "sha256": "c5177582d804c37df681687df0394d50f2db3c8b06f3f362e0920cdac2fa5fbc"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/035.html",
+      "bytes": 180941,
+      "sha256": "51bb146a2ba92e174c85e4f88c15926037fd60045f56e435e5551c2c7b546f4a"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/036.html",
+      "bytes": 76858,
+      "sha256": "b4a72b918d13570d93f84db521bc489294775b8ff2d1785863afccbc5f871347"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/037.html",
+      "bytes": 200215,
+      "sha256": "0d4ee6c2dbcfb6ad87b98b857253a897d5f9fbff520dd34d8f9a6d6be0b1b29c"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/038.html",
+      "bytes": 213226,
+      "sha256": "1d4ae5d21dd995b124128590057bc704cc3220c339ce7fa905b55260574f5a1d"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/039.html",
+      "bytes": 162918,
+      "sha256": "22816f7861510ec79b1915e97bfc1faabef1e1bbd59393e87d454582ed5457da"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/040.html",
+      "bytes": 90518,
+      "sha256": "a063e27f3e3dd32f5b439bb094d3f8b35d4fbd095c342000aa59114b3b5929a4"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/041.html",
+      "bytes": 198624,
+      "sha256": "2ae3ee215465a6c436bb3e9be16938472151cf5ad5c01b33a79e9871b2b313c1"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/042.html",
+      "bytes": 118253,
+      "sha256": "480e0c86a89cb69d200325e2cbbb42b3d0e11a59713b660bf8ec630471f7fa96"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/043.html",
+      "bytes": 330880,
+      "sha256": "bfc7e4eeace7b5ac6830250e23716f7edbe555f527ba5bdb54067d9a6afa0f04"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/044.html",
+      "bytes": 365642,
+      "sha256": "b90992477be76a1f312bb08a31d0048f2828d5fbae620a00e5dc331a31f4ec0d"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/045.html",
+      "bytes": 390185,
+      "sha256": "874cd479c0196ba6a7b17db1f6d725a38ec9212a7dbf27697c7ea56aa6ecddc4"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/046.html",
+      "bytes": 405685,
+      "sha256": "64a1d87c954d0334231a5b9e9e93785a5de0d2042cd11843f37d33b82622909c"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/047.html",
+      "bytes": 371373,
+      "sha256": "7193e38cfe6b0b0a12957a824b0f7ded2a2052eced3bca7dc2a88832248fe94d"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/048.html",
+      "bytes": 304582,
+      "sha256": "3dce6512ff47dd31edc6ecc4a4eb56e8e8c5eac5b2b8b06aa4817bf06eeaa3b9"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/049.html",
+      "bytes": 203137,
+      "sha256": "2029d356e7d102e22347ce10fdae6a6eb75d123c5e3e89f7769b112b205391aa"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/050.html",
+      "bytes": 196298,
+      "sha256": "0d1a0aa37ea7b942926af6f9e2dec0f5cd897bf21b4d615da88b33c1f3c93fa4"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/051.html",
+      "bytes": 124321,
+      "sha256": "8287168938ea987c3e69b6ff3cf64c06820d54dcf29d39448d986a7554d2d113"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/052.html",
+      "bytes": 261524,
+      "sha256": "64d62e573657a07bae281836ee1f359372e7a407145051994f697d67866aba79"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/053.html",
+      "bytes": 334401,
+      "sha256": "b12c72e894e0bd7043e7270d0f98c406c60d07463042019696f95b0ab6dbf4a3"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/054.html",
+      "bytes": 284561,
+      "sha256": "f5f77a67eac0c045cf90e07a6c6dae73d4a2631da6294b8c51076baf27dde031"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/055.html",
+      "bytes": 144636,
+      "sha256": "046671cf59802854b8bfd96378c2c20246174a37b4e8733b5f2e3734f9a4a98e"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/056.html",
+      "bytes": 170068,
+      "sha256": "43ab501a6f28486fb75ec7266a124235bacb9afe7652918aaf4b508a36b72e8b"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/057.html",
+      "bytes": 201934,
+      "sha256": "73ee266264779f18a539b0757688ef99a501b07565873ff5ef756438e3dbe776"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/058.html",
+      "bytes": 156521,
+      "sha256": "3644f55b22e5c7b9373e294a080b0a3245893a52e6b5b37e918bb73e8fc6ad5e"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/059.html",
+      "bytes": 281591,
+      "sha256": "df3c15b4dd07cae3706d90515f48ebb36c9d5ce27a5eebec5737334818e3e8c9"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/060.html",
+      "bytes": 336675,
+      "sha256": "e06cd246a08205edbf8ab4cf5a46bbd8b2db2fe810d1b7c2dbf27c6382b10cb5"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/061.html",
+      "bytes": 307923,
+      "sha256": "6a1c1a34e0b6ee5410f5fb08477cb6b686dd592011a08bf1370dc7874917001a"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/062.html",
+      "bytes": 307382,
+      "sha256": "3a27610f14519af09b70a422bccf4e2ab111a565742623271ae2899a292bb395"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/063.html",
+      "bytes": 236835,
+      "sha256": "105458569734a12aac31e7d88c7c04ce03bcdc8ef0c08d7ec48acc885d749fe2"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/064.html",
+      "bytes": 248144,
+      "sha256": "28679ad73dbfe13701f2be5e308e026bf4bd3dc571064d0db52054949cd87af0"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/065.html",
+      "bytes": 208913,
+      "sha256": "45b25c0653a252375f7347aa9ec5f9899357715745b81ebdc7159d01b48f4b4a"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/066.html",
+      "bytes": 201271,
+      "sha256": "464bb150b9be8eeccdeec182a6fd9e12998e9471c4c7eaf5196fdbb6b96fd20a"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/067.html",
+      "bytes": 75360,
+      "sha256": "4faa18a637c6d30d45466d3d19578ab4c8eba2762e4c0e50bf642d4f130dba81"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/068.html",
+      "bytes": 126999,
+      "sha256": "dc2f8517c07be4bbe532b016b06a426858f19fbfc81c91632b11515de7585c16"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/069.html",
+      "bytes": 221609,
+      "sha256": "a91dfa3219d9ca8514f5415b9a369944010de69583e785658179678b69da6912"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/070.html",
+      "bytes": 248029,
+      "sha256": "c2652d9bfcd6d272f31be1561f158c4a97221e66bb264e43cef0f68b4fbfe7c5"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/071.html",
+      "bytes": 230428,
+      "sha256": "44f84cd2e39d9c8983f5df69131d4b322b880fcbddcae0e9eb755239a68fcb44"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/072.html",
+      "bytes": 267318,
+      "sha256": "227d46541d6a401f1abc5564dd84255e59f42f0e5e5b81beb47085ca522d63e6"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/073.html",
+      "bytes": 257760,
+      "sha256": "44d43f354615893df258d8214c9620cca5b290c71d6c04e1fec4def461091a81"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/074.html",
+      "bytes": 241875,
+      "sha256": "e224e019a53608951eb65cb07fdfdbf5d85a8339eed34b60d4fbf115b140d371"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/075.html",
+      "bytes": 256630,
+      "sha256": "2c9e9bb6c318acdf704c8cdf8f3133bd5161ce80dbc559b207f0d71d7e6a4c7c"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/076.html",
+      "bytes": 238951,
+      "sha256": "905c2036069a20c4f3fda3d17918b3b0f0214c6f2b14fc7b59d1f5e5bad07b37"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/077.html",
+      "bytes": 253783,
+      "sha256": "93ec7fd50b64240a519c8a424a6a40ab4ab39ff781d4891d486f917e8cc305f1"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/078.html",
+      "bytes": 155058,
+      "sha256": "6b86d28c2fb81ae81b4f5ce2ca6b43a911310349ed6662f48a4b9707905c2407"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/079.html",
+      "bytes": 262013,
+      "sha256": "a2f8a0027309686d01fc1d319356e5eb72d092750e83e5bc2516c8f6bde8ff54"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/080.html",
+      "bytes": 124769,
+      "sha256": "4e6855725f3b542f2e1af9bc8e2e4720aafb9b1727932dde80884f56d42518a0"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/081.html",
+      "bytes": 193132,
+      "sha256": "ba98b1775e7bff21089c1eb339db1d73ffc164deb925c3322c6c484ee3c940ae"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/082.html",
+      "bytes": 166963,
+      "sha256": "b132489dd5addb2f1836af2952b77f8cce08b8e4d41deba6c5bf4cb58b45bf76"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/083.html",
+      "bytes": 180191,
+      "sha256": "e777f89b3bd3134bf744b81dc7ca4fce51e16c825b2ef6ee46ff6c5dca0fa9f6"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/084.html",
+      "bytes": 178155,
+      "sha256": "34128fbfa76076212e6aecd8a8766ee535d5ee871e65bcfbd148958885cea36c"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/085.html",
+      "bytes": 156713,
+      "sha256": "f9f6dec1132e71c6206fb5db5acd981edfb2070de004db57183c46dce25bd455"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/086.html",
+      "bytes": 147355,
+      "sha256": "8af889a0350ddefe41bece83ff169d617a692b9d242868e1baab4414af651808"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/087.html",
+      "bytes": 186034,
+      "sha256": "5c4b2074553274aab3119b60f22c7105e3b876fd0786400d8357383bf42a082f"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/088.html",
+      "bytes": 249604,
+      "sha256": "0772d1d6475764de50a7a456fe7ef9a198fbc06c709c9aac762c6f35cfa2d0bc"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/089.html",
+      "bytes": 275168,
+      "sha256": "5e065006fb97c4987fcc82ee25ef781f4ceb307aef77d02254e0abbfd4f80493"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/090.html",
+      "bytes": 156239,
+      "sha256": "291a113dd4a23b60e6aa7ab73f822681bcddef4bf141005a9137f32251dba71e"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/091.html",
+      "bytes": 176795,
+      "sha256": "8665ae3f9437445c86d415d2408ca1aa67c535606664a9a0d1d4d18157698d26"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/092.html",
+      "bytes": 113735,
+      "sha256": "5b0d63615330d67374a9fbdb3194d1cf08e136281543937277af6f134bf91904"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/093.html",
+      "bytes": 198362,
+      "sha256": "2811e112542e8f43875467a113a3f0e6aa3614b4c69cc98deb152dacfe8e83ac"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/094.html",
+      "bytes": 227167,
+      "sha256": "3f0673b73c452c70b35166dd601d8ccaf51c257fd602786a35ee3b7cb8f5ab57"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/095.html",
+      "bytes": 180972,
+      "sha256": "eb0b22cd765df750d3985d1f5f86ab2069d9dadcc5928a28fd68229226cd3290"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/096.html",
+      "bytes": 303110,
+      "sha256": "5944b211d070421ea3b3f5a63e300e48484355b9532bb7f7a80916b026a4a1ec"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/097.html",
+      "bytes": 250898,
+      "sha256": "aec6f57e0cc9827ae495ff8b8a288cc9c3c7922f53d07e088c2267cc2c46805a"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/098.html",
+      "bytes": 238552,
+      "sha256": "ca16e17e9d029d103dc921d64ffec0fd183ad0124caf5ab1f5e4d0c692b05eb3"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/099.html",
+      "bytes": 286054,
+      "sha256": "eeb30212de2c2e6c1ffe6667f9be705a9f5d75efe392d460b46a9a0d6b02a36b"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/100.html",
+      "bytes": 303834,
+      "sha256": "4ada4b9301314158199bedceb653e6bf862702bf04c1eafd28b8fc27292eca67"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/101.html",
+      "bytes": 251386,
+      "sha256": "cada2c1b31138ffcbdf47e63826ab3d8cb74dbce8a057fa93e59b284c09f4345"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/102.html",
+      "bytes": 199996,
+      "sha256": "e22e7dbbbf4a3476884df0c9e8912562a4d52e06bc830adeda4d33580caa1694"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/103.html",
+      "bytes": 249798,
+      "sha256": "5c74d1ad6cfc2f669833bef8a036552134576598e88e34ca3bffe6bea337c2c8"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/104.html",
+      "bytes": 144042,
+      "sha256": "a10b93733a135efe9ed6cbe251af847127558c6f4efbb36f7566170c77286435"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/105.html",
+      "bytes": 195178,
+      "sha256": "7c841ff356d3925582d757f1f5e05857a430ab826c854a8777a066178bbb72a7"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/106.html",
+      "bytes": 211405,
+      "sha256": "fb0f4e2cff7631a25ece8d17fa368d28e309289aebedb65dde4c9c48f9546ed3"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/107.html",
+      "bytes": 208852,
+      "sha256": "7a6a5a8f8a2f9472fb51f18cc692596adf79177b57ac010593fd7fe1927977f6"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/108.html",
+      "bytes": 47519,
+      "sha256": "f25ccbab613cd11088eb05488f998dccf3b8c01b2188fb28c59b336fe8ebdb44"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/109.html",
+      "bytes": 148393,
+      "sha256": "d5d1d5b04dc6c7139b7bbf19dd75308af0508149b10561e75659212311444cb4"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/110.html",
+      "bytes": 246661,
+      "sha256": "759eb08ddc85477137c89f21aabdc54622195851e13615a59a735f1a485923ba"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/111.html",
+      "bytes": 245852,
+      "sha256": "d798b7970eed1e2ab89df753593176949e5b04a8da504118690b54df5aecf1e5"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/112.html",
+      "bytes": 178728,
+      "sha256": "98c9fc76258fc6d8179c2ece8ef3e20b52cc0377a4913434f62b072b2241e941"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/113.html",
+      "bytes": 135407,
+      "sha256": "b8aa54e270ad300b1140f5fca7e3f5356232c6d608f7fe7f12027f984b2e51f9"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/114.html",
+      "bytes": 102527,
+      "sha256": "f984bd456f0c708638457216aafcd655a333455461fbcdcf47711b3dba5a24d9"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/115.html",
+      "bytes": 295312,
+      "sha256": "4e19561ccd5a67e61d95d3c6475274d8c0e6b19c45ae526c16b183e6965caefd"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/116.html",
+      "bytes": 379152,
+      "sha256": "2671a3fb3aa0536c2cd727c322b39c46306e8a46343a4a8e5b1d811f205aa7ed"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/117.html",
+      "bytes": 369652,
+      "sha256": "c140100dd7809cbd28c19424fa6aebabafd084a2d58058e3b0d58546900b4bec"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/118.html",
+      "bytes": 265174,
+      "sha256": "8ea444f244b21764fc0515919988d66ccbb56d4489bf29764ae994880340b6b1"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/119.html",
+      "bytes": 206062,
+      "sha256": "ddf23cbc5ca82962cab7d7698274b649667a46fd6c1bc8758b7d751b717e7fcd"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/120.html",
+      "bytes": 142671,
+      "sha256": "5c1c567fd27367a778b5e5fb9f0b2985e7bb21fe96d153c2192453fc112fbb1e"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/121.html",
+      "bytes": 138230,
+      "sha256": "d8f5b675a8e09b1f2b296ef5faf0d1572de75ada8fcda83584a1799269565947"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/122.html",
+      "bytes": 254906,
+      "sha256": "0e808e91387406bb082ab3e6cd13fa2363520e2d9b340dd7652d13ce3e47e2d4"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/123.html",
+      "bytes": 253968,
+      "sha256": "7701c44181952c70b3e512326f6915117d2de2626f7f23e6d4633666061018db"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/124.html",
+      "bytes": 198361,
+      "sha256": "b3008079d9418e6d5fa8711e98a41d6519258d8f1781f9d321b38853d6482c3f"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/125.html",
+      "bytes": 121544,
+      "sha256": "1ee62966496a99b8f2765341183048828e864ec4bb58c2eab2b4be26d3434510"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/126.html",
+      "bytes": 124652,
+      "sha256": "e226f82d68fe05fe72fc21e61eea318e3a3bd32c5ed48e64e1d08a1958ea14dd"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/127.html",
+      "bytes": 157017,
+      "sha256": "46b254791bf218ef5fc86e2d77a02d1076d1dbe264845ee432ddb0dd742a8be7"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/128.html",
+      "bytes": 174394,
+      "sha256": "29ef88bac47346366261206c559e085607790d89c9f7d99dece7431a0489d730"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/129.html",
+      "bytes": 338417,
+      "sha256": "6eb0a09717fbc1f878cb7fc3c8bd87ce5a91babc4aa0ca3593e939b27724ac3f"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/130.html",
+      "bytes": 134708,
+      "sha256": "83b9e0fb9ba71872d83aff1ff66711536d81992b72d3f96917987bbc89473aa3"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/131.html",
+      "bytes": 193229,
+      "sha256": "2b5f8e57294551f992cd9664426072c93e95393ffd6592792caa729b6e8efcb0"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/132.html",
+      "bytes": 58985,
+      "sha256": "8b9f5587272909fa3e3a2e37fdfe0a62114bbfaa2b9f4c796d9e3a066342b262"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/133.html",
+      "bytes": 218162,
+      "sha256": "54b9c8bfe426d0f611ccdb7df13ddeff2c86268ec3a57018f0fc0f24b0bb07d5"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/134.html",
+      "bytes": 101879,
+      "sha256": "a2d230821aa46429d68f2f5d5139d6451f7d709dd8256c0a2be22d66bf6d2ea1"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/135.html",
+      "bytes": 173358,
+      "sha256": "86674c096295b49cdf098959cb42f982b19bbc5a1d21426132ae2524ef010a9f"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/136.html",
+      "bytes": 193302,
+      "sha256": "a4b8738cab444910549455dfd8eca28ae5de2d0eed01dba8defe3e7f43659e3d"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/137.html",
+      "bytes": 165987,
+      "sha256": "9750a991b185afd2b69662feb5f18c3b001f3e56179e399af5050a064ab690c6"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/138.html",
+      "bytes": 157544,
+      "sha256": "eb1e412acc13c8071b312e77e703495f6b2dedd8811a56b1d40ba3b10d7f4433"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/139.html",
+      "bytes": 86475,
+      "sha256": "d303ea7673652054601f5cac6e3405f4b11a7bc834e69374a33cd6945b252dd3"
+    },
+    {
+      "path": "readers/hoelderlin/web/text-pages/140.html",
+      "bytes": 44026,
+      "sha256": "abe68d9dd46532e067a783077de2527f5c02afb7b7148f7226036b3c835120a7"
+    },
+    {
+      "path": "readers/hoelderlin/荷尔德林诗选_逐词译注读本.pdf",
+      "bytes": 1625177,
+      "sha256": "059426805a60d66c620cf93ffe12b50e7933883bbb4ae021110a29a5b4be0b82"
+    },
+    {
       "path": "readers/lasker/ReaderSongBold-3bab0d4bf5c7.woff2",
       "bytes": 64852,
       "sha256": "3bab0d4bf5c7183cb04a4d229d28134489d60d4c16a61c83b8175f68fbd85c9b"
@@ -7159,13 +9915,18 @@
     },
     {
       "path": "readers/lasker/index.html",
-      "bytes": 81499,
-      "sha256": "25bfa89256eeb9acbebeaedc1d1790d6d542415e8b3329cd3961a0aed6c77ed7"
+      "bytes": 81492,
+      "sha256": "ecf09b5a25f1fa862b37aefefefdba0a6b81df0bd233936592944bab4856c91a"
+    },
+    {
+      "path": "readers/lasker/layout.json",
+      "bytes": 7649,
+      "sha256": "72e8a72349be13dd11e98398ff792702c6f18829920feb7e9dcf8f7bd600e929"
     },
     {
       "path": "readers/lasker/reader.css",
-      "bytes": 19966,
-      "sha256": "6f1f616412518c553566358065e1885f16efd969c9eeef8fb00d5223eca85d0f"
+      "bytes": 19974,
+      "sha256": "5ecbfec9db50c39ff4526577585efd7aed1796ee05f718bb5971b63c9a5e6b36"
     },
     {
       "path": "readers/lasker/series.css",
@@ -7578,6 +10339,471 @@
       "sha256": "d89d121f1c09138b54f179dd2e300933ea40d2a1abf0eccd48f7dbb5f1dc3265"
     },
     {
+      "path": "readers/nietzsche/ReaderSongBold-65d556ea4ec8.woff2",
+      "bytes": 43388,
+      "sha256": "65d556ea4ec8439ec9b004e4b22823c7b5ec01e44a23d20a50a86de6c2cff5d7"
+    },
+    {
+      "path": "readers/nietzsche/ReaderSongLight-5f7602b5cb3e.woff2",
+      "bytes": 249136,
+      "sha256": "5f7602b5cb3eee635e5beecb0d6775e2a990eecdb34906ec498cb527f41a94fe"
+    },
+    {
+      "path": "readers/nietzsche/ReaderTimes-7feabe3f0e03.woff2",
+      "bytes": 35720,
+      "sha256": "7feabe3f0e03e405117d41e78ab6bee3ecdbeaeeaf934a181813b393ebe5fb22"
+    },
+    {
+      "path": "readers/nietzsche/ReaderTimesBold-99eff5f6e924.woff2",
+      "bytes": 26368,
+      "sha256": "99eff5f6e92428232bc38b5411c1496ae0ed9f4f7545f7893b2333398ff14966"
+    },
+    {
+      "path": "readers/nietzsche/audio-manifest.json",
+      "bytes": 13667,
+      "sha256": "aaf2a0dc235cd4be1449f569325223173cf60ddab3133e59920c55e07b0e8360"
+    },
+    {
+      "path": "readers/nietzsche/audio/nietzsche-04-youtube-iARmQup_gic.m4a",
+      "bytes": 1488678,
+      "sha256": "3842e8c91247a55a01b1597f3a9d19cb1052326446536a7a0fdf9034542ec609"
+    },
+    {
+      "path": "readers/nietzsche/audio/nietzsche-06-dubath.mp3",
+      "bytes": 2870541,
+      "sha256": "c1b0e8d7553bd493a4f93117debee5ab7e72412792a12cccd6300584cd0af6b5"
+    },
+    {
+      "path": "readers/nietzsche/audio/nietzsche-07-librivox.ogg",
+      "bytes": 1809405,
+      "sha256": "b75fd024536bc15b7976ad98b30ee3c1f64c4b8e5838ea995d1e49917f82096b"
+    },
+    {
+      "path": "readers/nietzsche/audio/nietzsche-08-youtube-LnMP4Yys9BE.m4a",
+      "bytes": 730113,
+      "sha256": "1256caa814518be01528db6b26f7500a49876a611f1722410c89b4ac00d169ae"
+    },
+    {
+      "path": "readers/nietzsche/audio/nietzsche-09-youtube-Nrfo-CZf2BU.m4a",
+      "bytes": 810474,
+      "sha256": "126e80e3c54e66d642d363ba57a38c113c8d7176a21c324c447a93d6f77a6768"
+    },
+    {
+      "path": "readers/nietzsche/audio/nietzsche-10-prinz.mp3",
+      "bytes": 2235861,
+      "sha256": "c70d9a4adb495e93b6e0b39185cbcfe3fb674d0af48c8bc7d1eeab5cb6409720"
+    },
+    {
+      "path": "readers/nietzsche/audio/nietzsche-11-youtube-FY6VqZKOkAY.m4a",
+      "bytes": 1261113,
+      "sha256": "ca80a14147c289534846f3083835534fbc7d3e6e6cfb678e1f537ebc12ff198a"
+    },
+    {
+      "path": "readers/nietzsche/audio/nietzsche-12-saywhat.mp3",
+      "bytes": 432450,
+      "sha256": "3654fd967bd43aa4b639689b6a01620dbab64346bf63ce658e2873c77a49f03b"
+    },
+    {
+      "path": "readers/nietzsche/audio/nietzsche-13-youtube-EnA5ZMtvWA4.m4a",
+      "bytes": 567889,
+      "sha256": "5540a238f7743a1024963455b0c71a8004da4b2eee4986dbc7fa20d8933ec2ac"
+    },
+    {
+      "path": "readers/nietzsche/audio/nietzsche-14-youtube-NKeSgY4cep8.m4a",
+      "bytes": 5865762,
+      "sha256": "58cdfc990d2cc50dab9e8de3bcd0fb44771c0c42c24de2ae2b6e34d9de59eaf2"
+    },
+    {
+      "path": "readers/nietzsche/audio/nietzsche-16-youtube-s94LCEkfT2Q.m4a",
+      "bytes": 1699720,
+      "sha256": "d196324df1c2ea44213effcb3412775b696b7ea66b86f87c6994a2ca5a1eff38"
+    },
+    {
+      "path": "readers/nietzsche/audio/nietzsche-17-youtube-iqW3ph7eefc.m4a",
+      "bytes": 2427480,
+      "sha256": "cd2c0de3dbf869278cf6d84880ae5add56a94368593a8f25b6c9cd955dde6694"
+    },
+    {
+      "path": "readers/nietzsche/audio/nietzsche-18-youtube-7HA_uB9N7oI.m4a",
+      "bytes": 4772642,
+      "sha256": "0e29501327847fc8145f920b5a1c5a074d90b2279c81fc4785335c59008bddf9"
+    },
+    {
+      "path": "readers/nietzsche/audio/nietzsche-das-trunkene-lied-stavenhagen.mp3",
+      "bytes": 1177664,
+      "sha256": "60e8754d9678965c3360c0d10459a57f0e1a5f169cc1bbdb86dfd9404712aa5b"
+    },
+    {
+      "path": "readers/nietzsche/audio/nietzsche-ecce-homo-stavenhagen.mp3",
+      "bytes": 449024,
+      "sha256": "a53454cd2d0f8a0354b14a0138219278eba70dfd3da17113b875294f9bcc6476"
+    },
+    {
+      "path": "readers/nietzsche/audio/nietzsche-venedig-stavenhagen.mp3",
+      "bytes": 1092992,
+      "sha256": "e5e3ef98bf08bff6909141d866def2a9e4b8fcfd0e2c931728a4dbb66cb09009"
+    },
+    {
+      "path": "readers/nietzsche/content.json",
+      "bytes": 277345,
+      "sha256": "b04f2d305cf1e92de91bdc8c40c101a10b654bbaf3c948053c1451874f304061"
+    },
+    {
+      "path": "readers/nietzsche/index.html",
+      "bytes": 68077,
+      "sha256": "49f4bb0869ba65550019f682449f3cd90f8cd8ea5732f74cd0bab892ec047f03"
+    },
+    {
+      "path": "readers/nietzsche/layout.json",
+      "bytes": 5738,
+      "sha256": "54aa21069c21dc9e1ddd670272c09f8d0e6c0d43e1ca458e59c5d62888afdf07"
+    },
+    {
+      "path": "readers/nietzsche/reader.css",
+      "bytes": 19428,
+      "sha256": "34b43561189a16254796d998ec72388c1ee4de72c8d66fa4e4e77121e8d15eff"
+    },
+    {
+      "path": "readers/nietzsche/web-validation.json",
+      "bytes": 5467,
+      "sha256": "6115e22cfd337035b93a8f93170b71e849dcfcf0691532debe95be72018862b1"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/001.html",
+      "bytes": 22036,
+      "sha256": "a3844d5d30ff002ee621a03fb47c67b8308bc02c4d5727225f543be6e6e02c1e"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/002.html",
+      "bytes": 30833,
+      "sha256": "90602e11348d16e70203dffbd420517d0e14cd822e8fd393561d691b408a1c4e"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/003.html",
+      "bytes": 94209,
+      "sha256": "f4d978a181516fb78b784c116fa52a705a1a2da7f6d95a90de15a65f235184aa"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/004.html",
+      "bytes": 81835,
+      "sha256": "a0b3280e5dddb523cee32822a28b275140050dbabc7e78dd5f32035f6773eb19"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/005.html",
+      "bytes": 116136,
+      "sha256": "37de848a33befefce2b9dac5f02aa8255b6662e455f187ab1411b08d5c4abace"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/006.html",
+      "bytes": 71983,
+      "sha256": "fcb9b074395f5e764334d594239d290b5bf947b4349f97701989cc909e0f84c3"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/007.html",
+      "bytes": 148947,
+      "sha256": "421144d6b82b0c07dc920d4f1e347f452785d299d9142b7e1c2ca430ee3c4d16"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/008.html",
+      "bytes": 140817,
+      "sha256": "5522c3312d7ba3dcff2655d270fbf3085285453c0e9c2f599200bbd2c5f8f5aa"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/009.html",
+      "bytes": 188847,
+      "sha256": "2429728411df28ae3d5aafaf1f6fa206cd4cc25166dab0c45708e92e8c2b4dda"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/010.html",
+      "bytes": 155907,
+      "sha256": "9cfbd4520194e4827b8f01f87d7d5ee87d360ee25440c6ca9ec7359590821d73"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/011.html",
+      "bytes": 139634,
+      "sha256": "b46ca4c6e5095ea6d97947e9e3f9dcdc498f546dea57fdef1b6916ee75dccef8"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/012.html",
+      "bytes": 166728,
+      "sha256": "9e3d58409404624a8ca0e2d99c36112a56e3048ba017c9f25be95d0901484413"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/013.html",
+      "bytes": 85275,
+      "sha256": "85087bf501d61b2a655edbec0a984926da611712ac3c6068eaae7d6dc8e0b3fb"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/014.html",
+      "bytes": 182590,
+      "sha256": "423b683727971bf544557e6b5b77328f53171e4648d5af98c493325986daefb7"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/015.html",
+      "bytes": 66044,
+      "sha256": "20721135a763a994124681d1640840909c00c3e083c2a65d3aa45dcd793c1956"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/016.html",
+      "bytes": 144716,
+      "sha256": "8e4619bb46988cba395ecfd86006b216ff07a4a998d34640e1490462176406af"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/017.html",
+      "bytes": 168486,
+      "sha256": "7520833defd14b28a01d97a288982526fad2f5bd9b84835bb50ffd7c65a565ab"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/018.html",
+      "bytes": 176131,
+      "sha256": "a620071b82341d06d5ffe5682994f5554101cdd836ac3da55cd12d774243db7e"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/019.html",
+      "bytes": 209302,
+      "sha256": "7c89d8eebb68b5f55a75635685a24aab1d3bb5e2c22a42fd24bb007509f8760b"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/020.html",
+      "bytes": 205121,
+      "sha256": "d5cff7a61802ea09914e451107dd415fcc18fd20a4429fcc0914a7f4e59a9a94"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/021.html",
+      "bytes": 149797,
+      "sha256": "bbc3ac4ab3ae9c919638a51c7a163e95ffcc08b0fcbfb59646d9ff08fbc38658"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/022.html",
+      "bytes": 194611,
+      "sha256": "7d7ce231ef9c8ccc55d65a2985f74acafb8ff19f350a631e77dafd783385d9d3"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/023.html",
+      "bytes": 93687,
+      "sha256": "95f9c844bc4d3ab4c0e8735c8e923e43c28d354f9283ed99018ac1318c71ef04"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/024.html",
+      "bytes": 186400,
+      "sha256": "f6473ca148667b804eec75e4d1832291a7446de36508422e10e4d38d38751c9d"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/025.html",
+      "bytes": 149502,
+      "sha256": "ec8c140849ef06ef0c0ec286d88860ffdee11ae243c778ed2276ac6850221fa7"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/026.html",
+      "bytes": 60961,
+      "sha256": "4d1a79590ff16677106548709fefbb1c2e264fc39103500dddfc2244d8bd3292"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/027.html",
+      "bytes": 168273,
+      "sha256": "f658a0cba5546969b8ff1ab30e635fab0d969cf819718a957ab8f0a1cf342932"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/028.html",
+      "bytes": 62717,
+      "sha256": "57c256f28acaf997893639ff01b51b0d4c02c5fcc69f41d99698abfc803afaa7"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/029.html",
+      "bytes": 231042,
+      "sha256": "7c4a6c0082998f1949c09b07eeee52efa4b35851af8d6a7182dbd2b5fbd03ca6"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/030.html",
+      "bytes": 169475,
+      "sha256": "63eff3a7ca4d719cef8a1d7e71428c950f6a2d50aff9f4a350661a175264f910"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/031.html",
+      "bytes": 162390,
+      "sha256": "3027afedd9cdcac2d13da18ed3a89d038536597dd4b3b31447505d650aac27e9"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/032.html",
+      "bytes": 224719,
+      "sha256": "3a21ab54c72712c48823648c1ae92429e028bd34bb3cd1dc7773590d0731ac59"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/033.html",
+      "bytes": 162954,
+      "sha256": "3a69dbd1215e9937cf09b7eeebddc7b482f23fd6e481688a03bbc584e35df4ec"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/034.html",
+      "bytes": 70617,
+      "sha256": "23d88aa45ca9f9e7314932e5a335b6ceffd7d5974cdad4ca38bb06e6382b370e"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/035.html",
+      "bytes": 147852,
+      "sha256": "54824b0b46b35b770d21d8999080361e93f63f87573bea5817c8e8868f8ca56d"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/036.html",
+      "bytes": 154178,
+      "sha256": "eff75def7739dd5ba09f605e9a7054e3063d9713293d907f0ba666ece5741bc6"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/037.html",
+      "bytes": 49338,
+      "sha256": "a331dd0975b552fcec43cfde025659f736dfa9eea2abcb067af3a293c7da114a"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/038.html",
+      "bytes": 248378,
+      "sha256": "c72b0755dae07aa6c772d4ab50d004be1377be4e16c4d7836de4c0826d76192f"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/039.html",
+      "bytes": 272430,
+      "sha256": "7c65446228c28f4d71c43c577777e26c33c24df4e25093c95be98f30eba796d2"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/040.html",
+      "bytes": 263023,
+      "sha256": "8191404606a6b7649becb28942c83190d8d5cba0f1471b44454156e8219bdaaa"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/041.html",
+      "bytes": 174597,
+      "sha256": "ddc20129d80422a01121f39479461e964f5bf99b6445d9205ea28531c5a17549"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/042.html",
+      "bytes": 183975,
+      "sha256": "45f61570c5c115ab2155e1c361d567333486df33d8402079818894c6e03b0a4b"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/043.html",
+      "bytes": 222498,
+      "sha256": "b5771e1c8c178d4fc254d22aa15dc987af73243f9ec429f0f64dae81d94f3d73"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/044.html",
+      "bytes": 130061,
+      "sha256": "f547f3b7e0d2b023026433e2560293c050a6c0bbe4abc9bff347005ee16f06d9"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/045.html",
+      "bytes": 122756,
+      "sha256": "3c8670db89dcfc12fffdcf7b265c28f7808c41b0c1d737e1650561d41837cba0"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/046.html",
+      "bytes": 156035,
+      "sha256": "de4abd441c236573840f1ce1e9a3ccd106cf490b670ea5520719ebbcfbcdc75c"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/047.html",
+      "bytes": 244219,
+      "sha256": "51c9c955f8dbb0f8863ec977c8c701e83bdf28c6939a3f47b961cf855c71e5ae"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/048.html",
+      "bytes": 156734,
+      "sha256": "581cd79e34c69e3f7719d1ff7abd4d53408fd882ca991cd9257cc2bfbccaf0d0"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/049.html",
+      "bytes": 182197,
+      "sha256": "f4e75fde4b02e07bf49e85a83afd65acef6272c72ada6d754fe16be21c5681dc"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/050.html",
+      "bytes": 157475,
+      "sha256": "a8ebcce12d1c7ce88978f9f299aedf446c3022effa0899f72b109f1314a1ed39"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/051.html",
+      "bytes": 161281,
+      "sha256": "683326511c053687195d189c6d543940fa58ac83b60464148c5a2563ba52f42e"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/052.html",
+      "bytes": 139415,
+      "sha256": "97b57ef9b7c39d5ae3f4d403e492b8f0b5497d7b7376b88cb267e20621a0adbd"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/053.html",
+      "bytes": 198598,
+      "sha256": "344b2509cfa15f2b27cdd0e690422fdc305c706e972d79f25413d8678d4455c2"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/054.html",
+      "bytes": 85579,
+      "sha256": "036f84d2ce902ff7e770454de97bc9a5c2f504f3442adefbb4b2cc58bda41e54"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/055.html",
+      "bytes": 197751,
+      "sha256": "bbafc39071d4331dd421f4694364802d0885367f7e422d1b88aa2e1669190240"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/056.html",
+      "bytes": 191388,
+      "sha256": "d9a483b93306e98cbfc0bd7e68c7267e06a1b89051fdb8d3c36745076b3d87cd"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/057.html",
+      "bytes": 176403,
+      "sha256": "dd81ede616dd78989747cb86bf0fd47f3ec8c6fd2e2b14db1f2c3c6f673102da"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/058.html",
+      "bytes": 170550,
+      "sha256": "4bc679ca2befdd9fedbfa1a1183ee6d9ec2c0a5162114f02fe17f0f9f9baf11c"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/059.html",
+      "bytes": 99625,
+      "sha256": "0205f22947acabf50cd24a3427d34b9599ba515d7c09f986e1807a7031b01ea9"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/060.html",
+      "bytes": 169375,
+      "sha256": "de0f5c6ce7cfecc978a80fc50054050d614a11fee9e80ccb0d06a4135e260835"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/061.html",
+      "bytes": 157686,
+      "sha256": "583554587a7a02132ab25de0da9da9704c14d3b0dcc02bb87b9298af4bf98d54"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/062.html",
+      "bytes": 92764,
+      "sha256": "a46247dcb7c3b24dc8f9e7b8b0636f8f51b40e799fb2fd3c921723092f2e9d41"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/063.html",
+      "bytes": 161433,
+      "sha256": "b7dcf2a80da111eaf8111eb08d9cfca4eb30ece08e4b305d1c2d593f79d32b0f"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/064.html",
+      "bytes": 141091,
+      "sha256": "4c6a32bc17bf43b5440ad5c6f6710c565979ef6c8782feb5bc42e3ba036aa96b"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/065.html",
+      "bytes": 39861,
+      "sha256": "25f420952f32f904367ee8c0e280f8516e50d79e0a43d3e8d4aaa73cde9a8edb"
+    },
+    {
+      "path": "readers/nietzsche/web/text-pages/066.html",
+      "bytes": 43092,
+      "sha256": "6e30b87c069d6d40adca2f8c3c75ea189315961a9660dbc9bcced61bb7ba5a7b"
+    },
+    {
+      "path": "readers/nietzsche/尼采诗选_逐词译注读本.pdf",
+      "bytes": 854660,
+      "sha256": "9488f8d1810d6a0ffbb2a300f30b8456352c25a74429fd35b7237f469976d011"
+    },
+    {
       "path": "readers/rilke/ReaderSongBold-114b53083365.woff2",
       "bytes": 42184,
       "sha256": "114b530833654782f46c1209507e9f27badd9bf91c53323ed8d2467c2ca6a8df"
@@ -7719,13 +10945,18 @@
     },
     {
       "path": "readers/rilke/index.html",
-      "bytes": 67826,
-      "sha256": "f2d1341319dca7e3a367c6e68c5454087fe156c33f64dd7eec91d7e8a67af2c7"
+      "bytes": 67832,
+      "sha256": "e62e919632ba6f2d9b274441eb197c2adc216693421c5f91db7ef0fc78c4717e"
+    },
+    {
+      "path": "readers/rilke/layout.json",
+      "bytes": 5724,
+      "sha256": "7662820ec457b4e74777728a1b7caeccf173f5907aab48540b1b34302ba92bc6"
     },
     {
       "path": "readers/rilke/reader.css",
-      "bytes": 19420,
-      "sha256": "d55b01f7b32b31bc7e44b4df687fc88e69eaea83d1593711e0530eac4505a2c0"
+      "bytes": 19428,
+      "sha256": "50b80928c17e704feee3d7a4311a04eff1d058b0185fb7157879e0f7764a2766"
     },
     {
       "path": "readers/rilke/series.css",
@@ -7998,6 +11229,691 @@
       "sha256": "54b2a13adbd688466d9d5dcedeceb1afc1872954f0f0b589ddd47ebf0b5b9ade"
     },
     {
+      "path": "readers/romantics/ReaderSongBold-f9e08c0dca66.woff2",
+      "bytes": 66152,
+      "sha256": "f9e08c0dca662ad46fbefce2e868c1625b041f706cb8ba676bdb4a4c0057419e"
+    },
+    {
+      "path": "readers/romantics/ReaderSongLight-4967e06e597c.woff2",
+      "bytes": 321100,
+      "sha256": "4967e06e597ccdf5e82cb9ce742257c758a5567c025597357d1d437007d39873"
+    },
+    {
+      "path": "readers/romantics/ReaderTimes-c21ec06b2723.woff2",
+      "bytes": 34744,
+      "sha256": "c21ec06b272338f741d8a62240f31f6acc52da89e08b1558eda7a8b6b987b56d"
+    },
+    {
+      "path": "readers/romantics/ReaderTimesBold-ad32e6e0f174.woff2",
+      "bytes": 26356,
+      "sha256": "ad32e6e0f174b9c95dff3b47369f03dc016f4219adf08287185f19f4c1a80681"
+    },
+    {
+      "path": "readers/romantics/audio-manifest.json",
+      "bytes": 20930,
+      "sha256": "8207e36ad19e5bec861e092d52665bcb519357b63111b844fbc06e2454f2af71"
+    },
+    {
+      "path": "readers/romantics/audio/novalis-03-librivox.mp3",
+      "bytes": 2379982,
+      "sha256": "1615276a3274aee9c00a1e754ed8aad81ffc5f3a8620d6f6c873fcd882764acd"
+    },
+    {
+      "path": "readers/romantics/audio/novalis-06-librivox.mp3",
+      "bytes": 3063840,
+      "sha256": "54a8f600d1d881c6719727a6907c0c341eaa5ed5397d7e214a47f197d10a0508"
+    },
+    {
+      "path": "readers/romantics/audio/romantics-05-ialenti.mp3",
+      "bytes": 1016606,
+      "sha256": "1d335a73082aaa61af7415893bcbcb9b3189af6afaa82253153a9e53084030ac"
+    },
+    {
+      "path": "readers/romantics/audio/romantics-13-ebbertz.mp3",
+      "bytes": 613147,
+      "sha256": "1cf37d32cfd535d55f9e15019536d0af03edcb2681dcf29eac9fb6f19554f04f"
+    },
+    {
+      "path": "readers/romantics/audio/romantics-15-librivox.mp3",
+      "bytes": 1296718,
+      "sha256": "8123a1ba332d32d2fc25aa03c4d278e738edc396eafb581cdd9ca7c3fe92ca7e"
+    },
+    {
+      "path": "readers/romantics/audio/romantics-16-youtube-kXue5v6Sci8.m4a",
+      "bytes": 1506327,
+      "sha256": "d6d7eb821c160b6176f18e6b764dcd0b98226cb349044b681b906de847fe9168"
+    },
+    {
+      "path": "readers/romantics/audio/romantics-17-youtube-aYXRENo6D_k.m4a",
+      "bytes": 2352013,
+      "sha256": "74765085e4b838545adb82d59c94a559216f36ec37985ee21a3e1e77256a6f65"
+    },
+    {
+      "path": "readers/romantics/audio/romantics-18-lesedusche.mp3",
+      "bytes": 2680289,
+      "sha256": "d24ebb8bf78bf5a2c8c638f75cd60dbe3f699048242aa4fb3216b3c1ada9bd25"
+    },
+    {
+      "path": "readers/romantics/audio/romantics-20-barg.mp3",
+      "bytes": 7620410,
+      "sha256": "78ffbe3c06cb21a7e9ecdbbd75ea51b0ab5010cff154919927f63a6645746854"
+    },
+    {
+      "path": "readers/romantics/audio/romantics-23-youtube-js2pgeieTnI.m4a",
+      "bytes": 2551421,
+      "sha256": "6d3c96c50daf486b0ccb51c5a0a37ed4f343b1e6083de7f3134771e0e799ec36"
+    },
+    {
+      "path": "readers/romantics/audio/romantics-24-youtube-yjojs609PRk.m4a",
+      "bytes": 1123673,
+      "sha256": "0eff5398cd1f18f4f733cd60901fac1522407763c1473e3c62be4e2120c5b88b"
+    },
+    {
+      "path": "readers/romantics/audio/romantics-26-youtube-NZBQbIGpXNU.m4a",
+      "bytes": 2663535,
+      "sha256": "2cb8166cacb40e0556d987eaf63cb7fcee669b2fdd94df9808831306734eb656"
+    },
+    {
+      "path": "readers/romantics/audio/romantics-27-youtube-gDdeI8VewSA.m4a",
+      "bytes": 2831926,
+      "sha256": "6bfff8c7537f26b8935ef630f79e91a43b84bad60722e4b21b87f2f024ad13b4"
+    },
+    {
+      "path": "readers/romantics/audio/romantics-der-knabe-im-moor-stavenhagen.mp3",
+      "bytes": 3820352,
+      "sha256": "88e34f437574de37e79347be89dd679f0c6a7d7393ecbcb2790c5389343b3b7d"
+    },
+    {
+      "path": "readers/romantics/audio/romantics-im-grase-stavenhagen.mp3",
+      "bytes": 3838983,
+      "sha256": "5e801921b85aa3be1b617040c99efb6eed1a3e9bf706f8b438ac231ca9c30aa9"
+    },
+    {
+      "path": "readers/romantics/audio/romantics-in-der-fremde-1823-stavenhagen.mp3",
+      "bytes": 1180690,
+      "sha256": "3e3167409925752aa326f83862f2f507bc5f5c7938861141f17d69ac812528d8"
+    },
+    {
+      "path": "readers/romantics/audio/romantics-in-der-fremde-1833-stavenhagen.mp3",
+      "bytes": 1996485,
+      "sha256": "88b23249606ef7b70dd8f7858dda7829758194780ce4b70933312a2d8074b848"
+    },
+    {
+      "path": "readers/romantics/audio/romantics-lockung-stavenhagen.mp3",
+      "bytes": 1590427,
+      "sha256": "9eea1171779140e1ca263b47e8ace22c183fe3f741c299f2f88598e195bed0a7"
+    },
+    {
+      "path": "readers/romantics/audio/romantics-marienlied-stavenhagen.mp3",
+      "bytes": 946435,
+      "sha256": "4182fe513922d0241fcc6b26249c70499ac5b5d687f2c0e3a72ab23ab64b9613"
+    },
+    {
+      "path": "readers/romantics/audio/romantics-mondnacht-stavenhagen.mp3",
+      "bytes": 1404727,
+      "sha256": "daee351faaf948d8a57f0a0693b0c565e8ceffc922385298d562cc79c6761c55"
+    },
+    {
+      "path": "readers/romantics/audio/romantics-sehnsucht-stavenhagen.mp3",
+      "bytes": 1971480,
+      "sha256": "6abb419b17127e21b0511edeb62c891b6af3fa65159d45c16749147c1ae6ac66"
+    },
+    {
+      "path": "readers/romantics/audio/romantics-wenn-nicht-mehr-zahlen-und-figuren-stavenhagen.mp3",
+      "bytes": 1605047,
+      "sha256": "83e90cc9b20b34f8917f9e5bcac02378f8f17e7e1842e32a06fbd07817b23e6c"
+    },
+    {
+      "path": "readers/romantics/audio/romantics-wuenschelrute-1835-stavenhagen.mp3",
+      "bytes": 482500,
+      "sha256": "9f4606fbf59aacdb803cb2e23873826301fe53eb9b9a9188ef6a552d77235586"
+    },
+    {
+      "path": "readers/romantics/audio/romantics-zwielicht-stavenhagen.mp3",
+      "bytes": 2047302,
+      "sha256": "1f8eed64fe7367c84c298957fe7c3f176d92abe3e2d91116f20530b96dddff28"
+    },
+    {
+      "path": "readers/romantics/content.json",
+      "bytes": 528362,
+      "sha256": "53fd511cab300917c77425bfc24a2203d9fbf4f0c9eeed75d9200267f94c54ae"
+    },
+    {
+      "path": "readers/romantics/index.html",
+      "bytes": 91936,
+      "sha256": "6dd2e1bf02e20d0b8dc1df39ed2d1ff8743737f0ab30d4bd0cbfa25bba1b04ed"
+    },
+    {
+      "path": "readers/romantics/layout.json",
+      "bytes": 8985,
+      "sha256": "ba542f8aa50a89566653cfad1c18ed416ca01f78468547b1d464a31e771cda67"
+    },
+    {
+      "path": "readers/romantics/reader.css",
+      "bytes": 19428,
+      "sha256": "c12051ba5720e946263ee9a73e082f8f6813b983c0634e14c30aa941eedbec92"
+    },
+    {
+      "path": "readers/romantics/web-validation.json",
+      "bytes": 8415,
+      "sha256": "c6f2297a14f42f8db8667fa27adf20cffdae32a2857e96700f74543e01057906"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/001.html",
+      "bytes": 27859,
+      "sha256": "708f3dcba6da1441f412f2897faca28ea49d859d6b9c1dd432c84726bd73e8df"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/002.html",
+      "bytes": 40464,
+      "sha256": "cb28578f78562c2621d0931d0c8377b8e21e136d5f7ed71a66ffb2f8e5d200e1"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/003.html",
+      "bytes": 96838,
+      "sha256": "17dde27c8f794648005518054e8cff4f8b3b2a5053354553e0eefe0296fe7d43"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/004.html",
+      "bytes": 118610,
+      "sha256": "259c6daa9534700916808970db63381702437be82fd7dd34a9872568d53e6694"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/005.html",
+      "bytes": 179042,
+      "sha256": "218712e7ae90fd41a9c5f025e40f12048fc52ce51c5ae6adb5884f9fd0a91d8c"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/006.html",
+      "bytes": 163113,
+      "sha256": "42ebe569df4754ae66d9a3f9402d1891f8eccdac92d86eac3b283bbff1aeb540"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/007.html",
+      "bytes": 299744,
+      "sha256": "7d47f311ee9c772fc7db1706c20eedfd1392dbd3ff02caf42406144db4534fda"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/008.html",
+      "bytes": 156974,
+      "sha256": "ab73b10c468979bf5ac76b4e98d857d8c6ab943986e058838307000088285190"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/009.html",
+      "bytes": 92094,
+      "sha256": "e86b8f6b0f0ab379042dca9cbd224344905c56e275d106d1c129a8b8592d190e"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/010.html",
+      "bytes": 319591,
+      "sha256": "778e67158ff450829e53509f790a8b3bfe5c068b91a856ce77687146b441d145"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/011.html",
+      "bytes": 272583,
+      "sha256": "0259ec154e90fa9215b24d18f4c9991699cf47eb4ea8897afd92c950c9862b57"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/012.html",
+      "bytes": 82741,
+      "sha256": "1d9ab95c5fe007796a1f0cd052f4710c7c52e97bdab697eda17dcb103f350ba3"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/013.html",
+      "bytes": 191687,
+      "sha256": "fa61853a164468128114144486a6ef1510cc57b5c038ff5a0de0ab8125f5e990"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/014.html",
+      "bytes": 229342,
+      "sha256": "ffd1cb68acd24aabc83e2ee2956d62b5345f8710a73a0a4e2d1fe868fb0a18c4"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/015.html",
+      "bytes": 220432,
+      "sha256": "1cd6547887ab67b353f412fb933bc6446d4dc9de7dee733aee092d614b5c9e6b"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/016.html",
+      "bytes": 107966,
+      "sha256": "f1d6a197e25060a7da578d1d5e86fc99143f13d22591887afaed07ca028fe8ba"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/017.html",
+      "bytes": 127257,
+      "sha256": "0bc8d96eced4b9a5b910df7f1d9af7f5c57c73bd46e5d79eb9d38acb05659df0"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/018.html",
+      "bytes": 102413,
+      "sha256": "d6f63dc710365afe2ecc886bea15122827e64acb3c728fc0bbd33c2d72df3d0f"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/019.html",
+      "bytes": 181340,
+      "sha256": "f1113de395aa7d0e143eefeed941a859db38faf3904b979b8baada9e3b96fc93"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/020.html",
+      "bytes": 160827,
+      "sha256": "4f5bed7797026216035ae441ad04310218e90937ec8046e38b22140d50e01357"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/021.html",
+      "bytes": 154481,
+      "sha256": "d765a8629af02fc99491eaa68ec41e5b4ed29f6023245a1f77bc14c9e3cbe738"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/022.html",
+      "bytes": 184352,
+      "sha256": "86c24f21f5c2c542be3f0a046b5246cb14c69c78bcb2057ece258a4f102be49d"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/023.html",
+      "bytes": 62771,
+      "sha256": "ea3fa2c8f566ee39c700080cfd48b970ed72502a15f6b0a5ed3c3a4e2abe341b"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/024.html",
+      "bytes": 136419,
+      "sha256": "f7a5664330a40b5db55b319207bb17b588f96dcb50ad0059c28ea8346d51db7d"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/025.html",
+      "bytes": 115953,
+      "sha256": "a13e94f920d67aff07785d27a2c4c59298f81db9342766762183f2f15506ed24"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/026.html",
+      "bytes": 176769,
+      "sha256": "75cec99e349963c0628a3492510f66982c1362ca56a5a1dc397ca0b6edfdb19c"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/027.html",
+      "bytes": 137538,
+      "sha256": "e37a75346ccbdd5321de0b3a89661decf77cab82073b6d68f4ca11da7925cfc1"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/028.html",
+      "bytes": 205431,
+      "sha256": "7defef40618e10b5d450566fee6267338ed1df67d233098cdffa4f6147e3aa7c"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/029.html",
+      "bytes": 186650,
+      "sha256": "cc3335a76163863b36f85397821890812ba47c586581b450d6716f1c12ef6172"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/030.html",
+      "bytes": 50734,
+      "sha256": "3caf57fe84e37901bc507823284821f0efdaf22693e62b28cf87dbc485aead50"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/031.html",
+      "bytes": 157869,
+      "sha256": "9e999963a98cd6dc5c8a4982d7aff7a4760572216adbf53b4f4107e03a73b30f"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/032.html",
+      "bytes": 198772,
+      "sha256": "2c44cccc588d0e364ae5812f8bd6f2ed1060c83861e3d786301a931e34dcb875"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/033.html",
+      "bytes": 61147,
+      "sha256": "9da788be4b8080399a29b69712126970cdf35b5608eda6cfd2a3173b9eb48992"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/034.html",
+      "bytes": 169897,
+      "sha256": "20e7af4945f6e3b92a153a7dbe916b25a9fe562f631e456d40124367b282f68f"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/035.html",
+      "bytes": 160850,
+      "sha256": "9795a251895878c72d92a2905f51d0e4a72d938f0342b926a7e2729b57d7e8b3"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/036.html",
+      "bytes": 185016,
+      "sha256": "84918990b33c0d947466f4d6cbd3df484e31ed60329a8ecc9552d220f417923e"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/037.html",
+      "bytes": 43012,
+      "sha256": "eaa55be3708cb138b97320b3df95b22d4df8e60c7b5a997a8a133cdc1443f2ca"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/038.html",
+      "bytes": 195567,
+      "sha256": "0fbc0185a90818bc05a47fefd38cbc290ff5d2ef2c2904dfce03d2081eb41924"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/039.html",
+      "bytes": 121714,
+      "sha256": "4eb46fe3f2c0892e7f3a46102ef28b62f3d5a71f6b01e7cd3cd961a82bf7f8d9"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/040.html",
+      "bytes": 153152,
+      "sha256": "40102e0da803a458b03e1abe048bb01b66f7388ed71ddd16910ca986e7386d84"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/041.html",
+      "bytes": 165578,
+      "sha256": "43f68d671d6e617460dce86af6683cb1b2abce103cc40f40e3872b7ad2b68be7"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/042.html",
+      "bytes": 230235,
+      "sha256": "a767d61d7ea1bbda3cbfc5b8dd6a8a39f11b254dce799d8917b2db1caefbd22b"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/043.html",
+      "bytes": 195922,
+      "sha256": "a27abedae77312215403118ca92f5752ae8c1e3e385f2f5a812c8a8b0c8e8199"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/044.html",
+      "bytes": 158089,
+      "sha256": "60796cbd0f19408e16a7d2fb2f961dddd82e4b59c118ad88907c4dd1e3347c7c"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/045.html",
+      "bytes": 216363,
+      "sha256": "732d7e9c2f5b1ffb377cf492d27b05c2a38003b3062f59bfcec50f2696fc64d0"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/046.html",
+      "bytes": 242424,
+      "sha256": "988930f39ba1265a02f058010eae8a67452afa393b3eec56fff51e94582685db"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/047.html",
+      "bytes": 227529,
+      "sha256": "2e7a928c683112b602fffb641c9215d5a01d95f9634552217016a0c0adf64209"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/048.html",
+      "bytes": 72674,
+      "sha256": "b7defa9b4c7cf41447b22dd9549b8dda05fbfac0741e4952fce4b0d3dee1694f"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/049.html",
+      "bytes": 244819,
+      "sha256": "66a6c02a11e0e40fcd2df05f53a0dcc5cd5fe22bfc517867d4103373ff8c6183"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/050.html",
+      "bytes": 285030,
+      "sha256": "c5c9f3de8643d4ef2e009e16036afaf636fa15026b7ea34f2c4db9bf82b70a42"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/051.html",
+      "bytes": 198217,
+      "sha256": "3fb68eed652a5d46d97f855099ec8c14d5033b7882d32038add8789098595f2b"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/052.html",
+      "bytes": 194537,
+      "sha256": "543d4db39b6c211eb725c6239e377ddb010885f0ea3531238b951aee16ebda69"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/053.html",
+      "bytes": 221059,
+      "sha256": "bafe8519aa92998c7e2c91b0200e505802d1eb4be3c8f3c12800ec1f501785d6"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/054.html",
+      "bytes": 191692,
+      "sha256": "0767b5fed1e7f0542310148527b8a666ab575807f9030fdf860304a9997c5599"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/055.html",
+      "bytes": 160430,
+      "sha256": "9ddee8cd5a3203e55e81415f7a08f503f6f5b240fb4388dbc8c16f5a95bd244a"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/056.html",
+      "bytes": 275284,
+      "sha256": "b231756998269fb6bea3791ad2988f915d866250ba7ed239f056ff0ad8aa4b02"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/057.html",
+      "bytes": 299852,
+      "sha256": "6834ca01be7657d36bccb86addec4035a4ef3f64d25a55df983ab115af384b37"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/058.html",
+      "bytes": 322993,
+      "sha256": "a8fa04ec840b1a7576b5cd1cdd8d51d9d363ea2e54fd90ac69566d7b24630d33"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/059.html",
+      "bytes": 305927,
+      "sha256": "078f57254d2692371218247ce7830f61107bc9f03a0a30f4ba52248102ed48e3"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/060.html",
+      "bytes": 334113,
+      "sha256": "a74b3bb573767a29203897b6e0b62541008c7187f7a23ced787da6c71421f81b"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/061.html",
+      "bytes": 114698,
+      "sha256": "abe6d41c925f4373ad5f0155945264512f527bb95f9a081fc301e48602158307"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/062.html",
+      "bytes": 219827,
+      "sha256": "06ca275bef20b4f85286eae9aa410dec8d03ee59a9c5ae4dacb249bc1e6189aa"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/063.html",
+      "bytes": 188761,
+      "sha256": "1020b888251704e86c07b9202b68ac9ff06e909690d464372c182f042cc7e4ff"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/064.html",
+      "bytes": 125172,
+      "sha256": "f72c1412bbc8f307089e76ab3a8bddeda19d75905fa6bd8d60103ec2162447d5"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/065.html",
+      "bytes": 209675,
+      "sha256": "263b945f6ed5587848c01492d2b58c0124b9092288c54a03d4c769ac4b50967d"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/066.html",
+      "bytes": 286936,
+      "sha256": "592a27f8dc0a3f77b1e5b706c2df6e870e3f2b0b4942e2fcac1bec38e1e99f9b"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/067.html",
+      "bytes": 300211,
+      "sha256": "71b8bbb6e21627233bfd4fdf06f5e29b39eb954f9db4b42222ee88ff5728e344"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/068.html",
+      "bytes": 237374,
+      "sha256": "2a3f7c888e4b098e9351c49781aef3c9f3dc6453381f19b0e641d2c7a1c2c463"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/069.html",
+      "bytes": 148773,
+      "sha256": "7bb72a88746e8d0780f567cf1a3409c6b69ff11fe2681f270a62c98cfe399595"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/070.html",
+      "bytes": 163789,
+      "sha256": "ed9f5e57c4e6653cf6c45e2e3eabc65ac93348f32cd96abc9fbc93c111cf7fa9"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/071.html",
+      "bytes": 94878,
+      "sha256": "f36d1ee30c65ab42df0ca6a1fbd2cb48fd38691e99831672e3dd8d748121f496"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/072.html",
+      "bytes": 246890,
+      "sha256": "cfa94a9bed91620d4f23b4c4eefe08e0f88974721e82ed2b5268c5e48129fe4f"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/073.html",
+      "bytes": 229459,
+      "sha256": "323b691006b63cb2d99b71fc67a09800451660f5044504a05ba5fedf7b1cb9fc"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/074.html",
+      "bytes": 169129,
+      "sha256": "df7c1e0bd504e9a4ae3fe4d29c434650e8ea13dce6c7eb10a2be5e6e461cde48"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/075.html",
+      "bytes": 172297,
+      "sha256": "83d8708998f9fab1e674b2c7dee71b37a2f2cc6ec05e6a343c0dbfa8f1c679d2"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/076.html",
+      "bytes": 169428,
+      "sha256": "4eb4833abd9d4b2675f76152defc54e8c0b5b7c72cdfc03d4459756927e1124b"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/077.html",
+      "bytes": 188246,
+      "sha256": "be7775faa541e2c6154b8c7e06e5b949398aabaff4d1d06d0a8c067d553f6288"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/078.html",
+      "bytes": 142317,
+      "sha256": "63acf56612fc013556626f222cce839f47eebc294667bb512e4ea8cc9213fbfd"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/079.html",
+      "bytes": 165954,
+      "sha256": "f57470c3125f45ed52e3f80abdc8817b0118d134631e9ec4a87567128a788b95"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/080.html",
+      "bytes": 233405,
+      "sha256": "d144c7cdefa7a2106a7e87ab217c4dc6287259bbd3b5a9128f81fc49d50a7f18"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/081.html",
+      "bytes": 174460,
+      "sha256": "11da3fb5f751d538e974a09ff25072326b48f0dcc2311d45f40965aacd599a64"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/082.html",
+      "bytes": 219676,
+      "sha256": "776601d8357a23b6ec13fd0c4230266ff615adb40475ca730b7bb8a4e6e3ca4b"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/083.html",
+      "bytes": 229234,
+      "sha256": "a124e47736977119c17a3bf88364bca05eb8c9fef34e61cd18de54296ea60eb9"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/084.html",
+      "bytes": 248597,
+      "sha256": "b699858ec1b2dd1f493982fd39c4d1d5fd88382ec47569255375c678b8a2056c"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/085.html",
+      "bytes": 232524,
+      "sha256": "b1ca291788813b2bd4d8702001c947c2a7bbf6dcf1422f43b6ea2ff0b7ed54df"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/086.html",
+      "bytes": 157868,
+      "sha256": "99f5a06fc239f82a1bd77ce9b84db26b1563a291b9c281d607c55772b884c66a"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/087.html",
+      "bytes": 84439,
+      "sha256": "a3d2732e08d500c0ae5f3ad966c675026974cd0fef8a7ce2b576fc60a4218d0c"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/088.html",
+      "bytes": 201926,
+      "sha256": "662ce01c4f96bf4119c0dcf1b893844519dc8d5f6791078ea53b860362177185"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/089.html",
+      "bytes": 208927,
+      "sha256": "21ac02dfd033b5c17d2aba2a0e66efcaaca109796b43c78070df0640bf6d6fef"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/090.html",
+      "bytes": 164350,
+      "sha256": "40b43d78e579e70afd5b8290e0321c0c6401c5e5fb056655af2b5a47674c9942"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/091.html",
+      "bytes": 65238,
+      "sha256": "c1efdf2271d0130d17b6da5936a9fd11d8162aba7ff0f0dca7fb53eec8823ce0"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/092.html",
+      "bytes": 184746,
+      "sha256": "022021dd59040425cde0162c9363512cf30cf55e7095470cdb63c3e5ac4ab405"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/093.html",
+      "bytes": 199412,
+      "sha256": "f298633469d196c0e4dc042ccb751611337692a746d255bef7bae342f778656e"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/094.html",
+      "bytes": 131642,
+      "sha256": "e3bc30f6c69d710392c5442ce21eb82337eba153ceca915f87a53366453a195b"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/095.html",
+      "bytes": 98082,
+      "sha256": "75c35c0da1e34693d42af8609dc82ac5d3fbbb00edc7c8ae790a26e7c27c18d4"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/096.html",
+      "bytes": 220236,
+      "sha256": "0c7559aae2b2c502f635a5e5c63507025599568275f47e97a1c75ca9aae88bf3"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/097.html",
+      "bytes": 163870,
+      "sha256": "5cd91edc35a41ceb872e632acce1fdf9863d17b8b1e258aa976142a50bb0a62f"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/098.html",
+      "bytes": 153147,
+      "sha256": "cc8aaf4194bdae17f77bdb61421e7c808b07576b24913cf5d6b4071f3dfbabd9"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/099.html",
+      "bytes": 154048,
+      "sha256": "088fb75cae3cd48237bdb6a925dc9e8d73bd4a0930bf5553073ba46f10352b54"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/100.html",
+      "bytes": 153374,
+      "sha256": "c499f4def0b18e812b0ddcf011c13ed987781c3d1fcf3dc41bf1ee49b6ac254a"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/101.html",
+      "bytes": 90645,
+      "sha256": "6765e6cc00036a05143c56c8ab9c81d94239272df67fd596e73a9988360421d5"
+    },
+    {
+      "path": "readers/romantics/web/text-pages/102.html",
+      "bytes": 43787,
+      "sha256": "ed8f68a66d4cb067168966b5f7b57910dfa441dcf158ee3b2b9fc667052ac5d6"
+    },
+    {
+      "path": "readers/romantics/诺瓦利斯_艾兴多夫_德罗斯特诗选_逐词译注读本.pdf",
+      "bytes": 1282440,
+      "sha256": "5a95437774f4eb683fc977cf0f9b19bfbce6179a2f30834ffb31f28d39cee61c"
+    },
+    {
       "path": "readers/trakl/ReaderSongBold-38dc57e0510f.woff2",
       "bytes": 36760,
       "sha256": "38dc57e0510f228a64cc301bddee131858393c084875bbb77b7a4924dd5cb71f"
@@ -8204,13 +12120,18 @@
     },
     {
       "path": "readers/trakl/index.html",
-      "bytes": 67514,
-      "sha256": "18238c2a70437f2693d8d5cfc172c764392b11267aefcf25c1a93d1fb8ee4366"
+      "bytes": 67507,
+      "sha256": "caf8e12f132e48b70ff986e0f1e0e6f45a6a0aee9e7dfcc18b18190500c7ebcd"
+    },
+    {
+      "path": "readers/trakl/layout.json",
+      "bytes": 5959,
+      "sha256": "c434286f16272d38e39c471943c3ccfe6cea9ee4eb7f1a5c447e8f5887e13061"
     },
     {
       "path": "readers/trakl/reader.css",
-      "bytes": 20512,
-      "sha256": "6093aa15ab1a1579624d7bfd1b5c9e9e162f756212731485ee1426178c2dfe6e"
+      "bytes": 20520,
+      "sha256": "d4ba9acd4d2d5ac57f5ec2ce8befcc4d3315ab885c3aadb6b0cf3784e3966602"
     },
     {
       "path": "readers/trakl/series.css",
@@ -8474,8 +12395,8 @@
     },
     {
       "path": "release.json",
-      "bytes": 4608,
-      "sha256": "831206967e1dfa3c84ac77d9aa340a4adb8c533705361d7ac18ba1d94bf85c19"
+      "bytes": 6943,
+      "sha256": "6a364914ba04edd43fa07b9ac7fa50e65931b6910c79ba470eb086a5eea257f9"
     },
     {
       "path": "templates/语法手册项目模板.md",
@@ -8491,34 +12412,20 @@
       "path": "tools/check_publications.py",
       "bytes": 4330,
       "sha256": "6aecb4c4dad580aa0a81a6bdd5f56fad0fbe3924c717bc6ec1997465e8973998"
+    },
+    {
+      "path": "整合核验.json",
+      "bytes": 5823,
+      "sha256": "a390390d6e55fc34d908cec63b74968c024a2c83ae1f1bf78c83fa3116425bf5"
+    },
+    {
+      "path": "配色依据.json",
+      "bytes": 5043,
+      "sha256": "b43553460742dff618459da308cc9fa603e1575c86078a881cad2d42371e5b30"
     }
   ],
-  "updated": "2026-10-18",
+  "updated": "2026-10-21",
   "web_audio_readers": [
-    {
-      "name": "里尔克诗选",
-      "poems": 22,
-      "pdf_pages": 52,
-      "recordings": 22,
-      "author_recordings": 0,
-      "path": "readers/rilke/index.html",
-      "pdf": "readers/rilke/里尔克诗选22首逐词译注读本.pdf",
-      "pdf_sha256": "54b2a13adbd688466d9d5dcedeceb1afc1872954f0f0b589ddd47ebf0b5b9ade",
-      "button_color": "#C46849",
-      "page_main_color": "#8B6041"
-    },
-    {
-      "name": "特拉克尔诗选",
-      "poems": 23,
-      "pdf_pages": 50,
-      "recordings": 23,
-      "author_recordings": 0,
-      "path": "readers/trakl/index.html",
-      "pdf": "readers/trakl/特拉克尔诗选23首逐词译注读本.pdf",
-      "pdf_sha256": "2d9a0a3a3f363f2b4f354be2eba2970d6df7d4fb48daeee1a097737f461960d8",
-      "button_color": "#6A9BCC",
-      "page_main_color": "#355570"
-    },
     {
       "name": "策兰《呼吸结晶》",
       "poems": 21,
@@ -8532,64 +12439,112 @@
       "page_main_color": "#2A7775"
     },
     {
-      "name": "布莱希特诗选",
-      "poems": 25,
-      "pdf_pages": 77,
+      "name": "巴赫曼诗选",
+      "poems": 30,
+      "pdf_pages": 111,
       "recordings": 24,
-      "author_recordings": 0,
+      "author_recordings": 12,
+      "path": "readers/bachmann/index.html",
+      "pdf": "readers/bachmann/巴赫曼诗选30首逐词译注读本.pdf",
+      "pdf_sha256": "a0ba131590729807c795980c91de141b53c68758fe4b4f1022c4ac904490990b",
+      "button_color": "#D4A27F",
+      "page_main_color": "#85644D"
+    },
+    {
+      "name": "贝恩诗选",
+      "poems": 32,
+      "pdf_pages": 98,
+      "recordings": 29,
+      "author_recordings": 11,
+      "path": "readers/benn/index.html",
+      "pdf": "readers/benn/贝恩诗选32首逐词译注读本.pdf",
+      "pdf_sha256": "d9ab36df79c13e86c8a6bbda798049755a2034c471d1ab5fa1b0bf11bf01e5b9",
+      "button_color": "#C46686",
+      "page_main_color": "#82495C"
+    },
+    {
+      "name": "布莱希特诗选",
+      "poems": 28,
+      "pdf_pages": 86,
+      "recordings": 27,
+      "author_recordings": 4,
       "path": "readers/brecht/index.html",
-      "pdf": "readers/brecht/布莱希特诗选25首逐词译注读本.pdf",
-      "pdf_sha256": "458e022eb64f13d62ccf4eb5c175dc9d8a76d969876f207e71ba92dfcdb4c80b",
+      "pdf": "readers/brecht/布莱希特诗选28首逐词译注读本.pdf",
+      "pdf_sha256": "e766007d55b50c6fbde927c7d4798942385b63652dfd5fdf7944776327b5f3d0",
       "button_color": "#DE6262",
       "page_main_color": "#8B504E"
     },
     {
       "name": "策兰诗选",
-      "poems": 31,
-      "pdf_pages": 119,
-      "recordings": 30,
-      "author_recordings": 9,
+      "poems": 34,
+      "pdf_pages": 134,
+      "recordings": 33,
+      "author_recordings": 15,
       "path": "readers/celan-new/index.html",
-      "pdf": "readers/celan-new/策兰新编31首逐词译注读本.pdf",
-      "pdf_sha256": "c7abc3038f2ae7ca7c9f1d6821565af0c902422a4b2ed55eec09705718efdb68",
+      "pdf": "readers/celan-new/策兰诗选34首逐词译注读本.pdf",
+      "pdf_sha256": "c3c20f784c66b6c531f8ae6114198313d83f3703a7a36485dbe92a3df7ae55e5",
       "button_color": "#788C5D",
       "page_main_color": "#52613F"
     },
     {
-      "name": "贝恩诗选",
-      "poems": 25,
-      "pdf_pages": 75,
-      "recordings": 22,
-      "author_recordings": 3,
-      "path": "readers/benn/index.html",
-      "pdf": "readers/benn/贝恩诗选25首逐词译注读本.pdf",
-      "pdf_sha256": "509bc47320448579734c988358ab4a9e2e185bd023d10ce85a69622c1c5db2cb",
-      "button_color": "#C46686",
-      "page_main_color": "#82495C"
-    },
-    {
-      "name": "巴赫曼诗选",
-      "poems": 27,
-      "pdf_pages": 101,
-      "recordings": 21,
-      "author_recordings": 4,
-      "path": "readers/bachmann/index.html",
-      "pdf": "readers/bachmann/巴赫曼诗选27首逐词译注读本.pdf",
-      "pdf_sha256": "0b3a1cbbe48cb6371ca72ba6ae6f3a0f1903cd180d5a6fa78e2fe68a64fc7d84",
-      "button_color": "#D4A27F",
-      "page_main_color": "#85644D"
+      "name": "恩岑斯贝格尔／杨德尔诗选",
+      "poems": 36,
+      "pdf_pages": 112,
+      "recordings": 26,
+      "author_recordings": 21,
+      "path": "readers/enzensberger-jandl/index.html",
+      "pdf": "readers/enzensberger-jandl/恩岑斯贝格尔_杨德尔诗选_逐词译注读本.pdf",
+      "pdf_sha256": "23a6de352ab45591fba1aa7c0670048c287374689a87b56b5849978184bd8009",
+      "button_color": "#559C9D",
+      "page_main_color": "#396C6D"
     },
     {
       "name": "格奥尔格／荷夫曼斯塔尔诗选",
       "poems": 30,
-      "pdf_pages": 89,
+      "pdf_pages": 88,
       "recordings": 26,
       "author_recordings": 1,
       "path": "readers/george-hofmannsthal/index.html",
       "pdf": "readers/george-hofmannsthal/格奥尔格／荷夫曼斯塔尔30首逐词译注读本.pdf",
-      "pdf_sha256": "1cbe31ce39a71cc54712a7c13f282ed336026f717c4917b6cca20ce3b8930b17",
+      "pdf_sha256": "d70c49559e3328b3986cdaf96f72b4a94ac0c0b9a3694d4ec97447b1c5d4fe40",
       "button_color": "#F0AC54",
       "page_main_color": "#92702F"
+    },
+    {
+      "name": "格林拜恩诗选",
+      "poems": 18,
+      "pdf_pages": 57,
+      "recordings": 13,
+      "author_recordings": 11,
+      "path": "readers/gruenbein/index.html",
+      "pdf": "readers/gruenbein/格林拜恩诗选_逐词译注读本.pdf",
+      "pdf_sha256": "42ef7dbae1a2222012d016459d2c46c95f691d7a4c9cfd4057c5217c217729a1",
+      "button_color": "#778DA8",
+      "page_main_color": "#49617E"
+    },
+    {
+      "name": "海涅诗选",
+      "poems": 27,
+      "pdf_pages": 76,
+      "recordings": 24,
+      "author_recordings": 0,
+      "path": "readers/heine/index.html",
+      "pdf": "readers/heine/海涅诗选_逐词译注读本.pdf",
+      "pdf_sha256": "4bf210b1482e1a7e3b42649469bbe518c5aa6c844bce0b6faacf2ed9f26a8817",
+      "button_color": "#D97757",
+      "page_main_color": "#915947"
+    },
+    {
+      "name": "荷尔德林诗选",
+      "poems": 27,
+      "pdf_pages": 140,
+      "recordings": 22,
+      "author_recordings": 0,
+      "path": "readers/hoelderlin/index.html",
+      "pdf": "readers/hoelderlin/荷尔德林诗选_逐词译注读本.pdf",
+      "pdf_sha256": "059426805a60d66c620cf93ffe12b50e7933883bbb4ae021110a29a5b4be0b82",
+      "button_color": "#A39D58",
+      "page_main_color": "#726E41"
     },
     {
       "name": "拉斯克－许勒／萨克斯诗选",
@@ -8599,12 +12554,61 @@
       "author_recordings": 5,
       "path": "readers/lasker/index.html",
       "pdf": "readers/lasker/拉斯克－许勒／萨克斯28首逐词译注读本.pdf",
-      "pdf_sha256": "a43d06d974737e9ea067d708634c3cd96d545114b381ebc8a3b976762cec96e2",
+      "pdf_sha256": "d89d121f1c09138b54f179dd2e300933ea40d2a1abf0eccd48f7dbb5f1dc3265",
       "button_color": "#827DBD",
       "page_main_color": "#58557F"
+    },
+    {
+      "name": "尼采诗选",
+      "poems": 18,
+      "pdf_pages": 66,
+      "recordings": 16,
+      "author_recordings": 0,
+      "path": "readers/nietzsche/index.html",
+      "pdf": "readers/nietzsche/尼采诗选_逐词译注读本.pdf",
+      "pdf_sha256": "9488f8d1810d6a0ffbb2a300f30b8456352c25a74429fd35b7237f469976d011",
+      "button_color": "#5E5D59",
+      "page_main_color": "#4F4E49"
+    },
+    {
+      "name": "里尔克诗选",
+      "poems": 22,
+      "pdf_pages": 52,
+      "recordings": 22,
+      "author_recordings": 0,
+      "path": "readers/rilke/index.html",
+      "pdf": "readers/rilke/里尔克诗选22首逐词译注读本.pdf",
+      "pdf_sha256": "54b2a13adbd688466d9d5dcedeceb1afc1872954f0f0b589ddd47ebf0b5b9ade",
+      "button_color": "#C46849",
+      "page_main_color": "#8B6041"
+    },
+    {
+      "name": "诺瓦利斯／艾兴多夫／德罗斯特诗选",
+      "poems": 27,
+      "pdf_pages": 102,
+      "recordings": 24,
+      "author_recordings": 0,
+      "path": "readers/romantics/index.html",
+      "pdf": "readers/romantics/诺瓦利斯_艾兴多夫_德罗斯特诗选_逐词译注读本.pdf",
+      "pdf_sha256": "5a95437774f4eb683fc977cf0f9b19bfbce6179a2f30834ffb31f28d39cee61c",
+      "button_color": "#9B88AA",
+      "page_main_color": "#6E5C7D"
+    },
+    {
+      "name": "特拉克尔诗选",
+      "poems": 23,
+      "pdf_pages": 50,
+      "recordings": 23,
+      "author_recordings": 0,
+      "path": "readers/trakl/index.html",
+      "pdf": "readers/trakl/特拉克尔诗选23首逐词译注读本.pdf",
+      "pdf_sha256": "8b16029d9d0562e906617609c9bca18e68365a9f9f95b49310a8fe08e53e8286",
+      "button_color": "#6A9BCC",
+      "page_main_color": "#355570"
     }
   ],
   "website": "https://laiyutao.github.io/poetry-language-readers/",
-  "web_format": "nine-readers-selectable-svg",
-  "current_release": "release.json"
+  "web_format": "fifteen-readers-selectable-svg",
+  "current_release": "release.json",
+  "preview_only": false
 }

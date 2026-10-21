@@ -44,3 +44,13 @@
 
 }
 @media(prefers-reduced-motion:reduce){.deck-enabled .book-grid>.book{transition:none}}
+
+/* Five aligned columns, sized to their longest title rather than equal widths. */
+@media(min-width:901px){
+ .deck-enabled .book-grid{overflow:clip;overflow-clip-margin:40px}
+ .deck-index{display:grid;grid-template-columns:repeat(5,max-content);justify-content:space-between;gap:0 12px;width:calc(100% - 32px);max-width:100%;margin:0 auto 12px;transform:translateX(5px)}
+ .deck-index-row{display:contents;margin:0;padding:0;list-style:none}
+ .deck-index-row>li{display:block}
+ .deck-index a{gap:7px;padding:7px 3px;font-size:13px;line-height:1.55;min-height:35px;white-space:nowrap}
+ .deck-index .deck-no{font-size:10px;width:14px;font-variant-numeric:tabular-nums}
+}

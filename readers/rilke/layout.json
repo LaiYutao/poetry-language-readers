@@ -1,0 +1,370 @@
+{
+  "pages": 52,
+  "poems": 22,
+  "layout": [
+    {
+      "n": 1,
+      "title": "Eingang",
+      "start": 5,
+      "end": 6,
+      "bottom": 514.99,
+      "lines": 12
+    },
+    {
+      "n": 2,
+      "title": "Herbsttag",
+      "start": 7,
+      "end": 8,
+      "bottom": 427.99,
+      "lines": 12
+    },
+    {
+      "n": 3,
+      "title": "Herbst",
+      "start": 9,
+      "end": 10,
+      "bottom": 582.29,
+      "lines": 9
+    },
+    {
+      "n": 4,
+      "title": "Einsamkeit",
+      "start": 11,
+      "end": 12,
+      "bottom": 427.99,
+      "lines": 12
+    },
+    {
+      "n": 5,
+      "title": "Abend",
+      "start": 13,
+      "end": 14,
+      "bottom": 371.39,
+      "lines": 12
+    },
+    {
+      "n": 6,
+      "title": "Ernste Stunde",
+      "start": 15,
+      "end": 16,
+      "bottom": 469.29,
+      "lines": 12
+    },
+    {
+      "n": 7,
+      "title": "Vorgefühl",
+      "start": 17,
+      "end": 18,
+      "bottom": 540.99,
+      "lines": 9
+    },
+    {
+      "n": 8,
+      "title": "Schlußstück",
+      "start": 19,
+      "end": 19,
+      "bottom": 170.74,
+      "lines": 6
+    },
+    {
+      "n": 9,
+      "title": "Der Panther",
+      "start": 20,
+      "end": 21,
+      "bottom": 299.49,
+      "lines": 12
+    },
+    {
+      "n": 10,
+      "title": "Der Schwan",
+      "start": 22,
+      "end": 23,
+      "bottom": 306.49,
+      "lines": 12
+    },
+    {
+      "n": 11,
+      "title": "Liebes-Lied",
+      "start": 24,
+      "end": 25,
+      "bottom": 540.99,
+      "lines": 13
+    },
+    {
+      "n": 12,
+      "title": "Blaue Hortensie",
+      "start": 26,
+      "end": 27,
+      "bottom": 265.89,
+      "lines": 14
+    },
+    {
+      "n": 13,
+      "title": "Vor dem Sommerregen",
+      "start": 28,
+      "end": 29,
+      "bottom": 386.69,
+      "lines": 14
+    },
+    {
+      "n": 14,
+      "title": "Römische Fontäne",
+      "start": 30,
+      "end": 31,
+      "bottom": 250.59,
+      "lines": 14
+    },
+    {
+      "n": 15,
+      "title": "Früher Apollo",
+      "start": 32,
+      "end": 33,
+      "bottom": 373.69,
+      "lines": 14
+    },
+    {
+      "n": 16,
+      "title": "Der Dichter",
+      "start": 34,
+      "end": 35,
+      "bottom": 540.99,
+      "lines": 8
+    },
+    {
+      "n": 17,
+      "title": "Abschied",
+      "start": 36,
+      "end": 37,
+      "bottom": 412.69,
+      "lines": 12
+    },
+    {
+      "n": 18,
+      "title": "Archaïscher Torso Apollos",
+      "start": 38,
+      "end": 39,
+      "bottom": 427.99,
+      "lines": 14
+    },
+    {
+      "n": 19,
+      "title": "Lied vom Meer",
+      "start": 40,
+      "end": 41,
+      "bottom": 427.99,
+      "lines": 14
+    },
+    {
+      "n": 20,
+      "title": "Buddha in der Glorie",
+      "start": 42,
+      "end": 43,
+      "bottom": 427.99,
+      "lines": 12
+    },
+    {
+      "n": 21,
+      "title": "I.3 · Ein Gott vermags.",
+      "start": 44,
+      "end": 46,
+      "bottom": 316.89,
+      "lines": 14
+    },
+    {
+      "n": 22,
+      "title": "II.13 · Sei allem Abschied voran",
+      "start": 47,
+      "end": 49,
+      "bottom": 199.09,
+      "lines": 14
+    }
+  ],
+  "poem_pages": {
+    "1": [
+      5
+    ],
+    "2": [
+      7
+    ],
+    "3": [
+      9
+    ],
+    "4": [
+      11
+    ],
+    "5": [
+      13
+    ],
+    "6": [
+      15
+    ],
+    "7": [
+      17
+    ],
+    "8": [
+      19
+    ],
+    "9": [
+      20
+    ],
+    "10": [
+      22
+    ],
+    "11": [
+      24
+    ],
+    "12": [
+      26
+    ],
+    "13": [
+      28
+    ],
+    "14": [
+      30
+    ],
+    "15": [
+      32
+    ],
+    "16": [
+      34
+    ],
+    "17": [
+      36
+    ],
+    "18": [
+      38
+    ],
+    "19": [
+      40
+    ],
+    "20": [
+      42
+    ],
+    "21": [
+      44
+    ],
+    "22": [
+      47
+    ]
+  },
+  "issues": [],
+  "font_size": 12.1,
+  "row_height": 29,
+  "gloss_font_size": 7.6,
+  "poem_spacing": {
+    "1": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "2": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "3": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "4": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "5": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "6": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "7": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "8": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "9": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "10": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "11": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "12": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "13": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "14": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "15": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "16": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "17": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "18": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "19": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "20": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "21": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "22": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    }
+  },
+  "line_styles": {
+    "1": {},
+    "2": {},
+    "3": {},
+    "4": {},
+    "5": {},
+    "6": {},
+    "7": {},
+    "8": {},
+    "9": {},
+    "10": {},
+    "11": {},
+    "12": {},
+    "13": {},
+    "14": {},
+    "15": {},
+    "16": {},
+    "17": {},
+    "18": {},
+    "19": {},
+    "20": {},
+    "21": {},
+    "22": {}
+  },
+  "soft_wraps": {},
+  "stanza_continuations": []
+}

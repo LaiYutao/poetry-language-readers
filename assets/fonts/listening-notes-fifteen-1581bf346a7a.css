@@ -1,0 +1,4 @@
+@font-face{font-family:NotesSong;src:url("NotesSong-fifteen-b2d209c1110e.woff2") format("woff2");font-display:block}
+@font-face{font-family:NotesSongBold;src:url("NotesSongBold-fifteen-49d83047a59d.woff2") format("woff2");font-display:block}
+@font-face{font-family:NotesLatin;src:url("NotesLatin-fifteen-47a0e444da06.woff2") format("woff2");font-display:block}
+.page.audio-index{padding:0;min-height:0;font:inherit}.listening-sheet text{font-kerning:none;font-variant-ligatures:none}.listening-sheet a:hover rect,.listening-sheet a:focus rect{fill:#80808012}.listening-sheet a:focus{outline:none}

@@ -1,0 +1,378 @@
+{
+  "pages": 66,
+  "poems": 18,
+  "layout": [
+    {
+      "n": 1,
+      "title": "Wer viel einst zu verkünden hat",
+      "start": 5,
+      "end": 6,
+      "bottom": 453.79,
+      "lines": 4
+    },
+    {
+      "n": 2,
+      "title": "Ecce homo",
+      "start": 7,
+      "end": 7,
+      "bottom": 92.84,
+      "lines": 6
+    },
+    {
+      "n": 3,
+      "title": "An der Brücke stand",
+      "start": 8,
+      "end": 9,
+      "bottom": 89.49,
+      "lines": 12
+    },
+    {
+      "n": 4,
+      "title": "Der Freigeist",
+      "start": 10,
+      "end": 13,
+      "bottom": 438.49,
+      "lines": 32
+    },
+    {
+      "n": 5,
+      "title": "Der Wanderer und sein Schatten",
+      "start": 14,
+      "end": 15,
+      "bottom": 510.39,
+      "lines": 6
+    },
+    {
+      "n": 6,
+      "title": "An — — —",
+      "start": 16,
+      "end": 17,
+      "bottom": 100.49,
+      "lines": 12
+    },
+    {
+      "n": 7,
+      "title": "An den Mistral",
+      "start": 18,
+      "end": 23,
+      "bottom": 381.89,
+      "lines": 66
+    },
+    {
+      "n": 8,
+      "title": "Vogel Albatross",
+      "start": 24,
+      "end": 26,
+      "bottom": 510.39,
+      "lines": 16
+    },
+    {
+      "n": 9,
+      "title": "Sils-Maria",
+      "start": 27,
+      "end": 28,
+      "bottom": 469.09,
+      "lines": 6
+    },
+    {
+      "n": 10,
+      "title": "„Mein Glück!“",
+      "start": 29,
+      "end": 31,
+      "bottom": 138.19,
+      "lines": 28
+    },
+    {
+      "n": 11,
+      "title": "Das Wort",
+      "start": 32,
+      "end": 34,
+      "bottom": 495.09,
+      "lines": 22
+    },
+    {
+      "n": 12,
+      "title": "Vademecum — Vadetecum",
+      "start": 35,
+      "end": 35,
+      "bottom": 176.84,
+      "lines": 4
+    },
+    {
+      "n": 13,
+      "title": "Sternen-Moral",
+      "start": 36,
+      "end": 37,
+      "bottom": 525.69,
+      "lines": 7
+    },
+    {
+      "n": 14,
+      "title": "Aus hohen Bergen. Nachgesang",
+      "start": 38,
+      "end": 44,
+      "bottom": 268.89,
+      "lines": 75
+    },
+    {
+      "n": 15,
+      "title": "Oh Mensch! Gieb Acht!",
+      "start": 45,
+      "end": 46,
+      "bottom": 132.49,
+      "lines": 11
+    },
+    {
+      "n": 16,
+      "title": "Das Feuerzeichen",
+      "start": 47,
+      "end": 49,
+      "bottom": 88.89,
+      "lines": 27
+    },
+    {
+      "n": 17,
+      "title": "Die Sonne sinkt",
+      "start": 50,
+      "end": 54,
+      "bottom": 381.89,
+      "lines": 54
+    },
+    {
+      "n": 18,
+      "title": "Nur Narr! Nur Dichter!",
+      "start": 55,
+      "end": 62,
+      "bottom": 381.89,
+      "lines": 101
+    }
+  ],
+  "poem_pages": {
+    "1": [
+      5
+    ],
+    "2": [
+      7
+    ],
+    "3": [
+      8
+    ],
+    "4": [
+      10,
+      11
+    ],
+    "5": [
+      14
+    ],
+    "6": [
+      16
+    ],
+    "7": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "8": [
+      24
+    ],
+    "9": [
+      27
+    ],
+    "10": [
+      29,
+      30
+    ],
+    "11": [
+      32,
+      33
+    ],
+    "12": [
+      35
+    ],
+    "13": [
+      36
+    ],
+    "14": [
+      38,
+      39,
+      40,
+      41
+    ],
+    "15": [
+      45
+    ],
+    "16": [
+      47,
+      48
+    ],
+    "17": [
+      50,
+      51,
+      52
+    ],
+    "18": [
+      55,
+      56,
+      57,
+      58,
+      59
+    ]
+  },
+  "issues": [],
+  "font_size": 12.1,
+  "row_height": 29,
+  "gloss_font_size": 7.6,
+  "poem_spacing": {
+    "1": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "2": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "3": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "4": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "5": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "6": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "7": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "8": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "9": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "10": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "11": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "12": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "13": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "14": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "15": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "16": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "17": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    },
+    "18": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
+    }
+  },
+  "line_styles": {
+    "1": {},
+    "2": {},
+    "3": {},
+    "4": {},
+    "5": {},
+    "6": {},
+    "7": {},
+    "8": {},
+    "9": {},
+    "10": {},
+    "11": {},
+    "12": {},
+    "13": {},
+    "14": {},
+    "15": {},
+    "16": {},
+    "17": {},
+    "18": {}
+  },
+  "soft_wraps": {},
+  "stanza_continuations": [
+    {
+      "poem": 7,
+      "page": 19,
+      "after_line": 40
+    },
+    {
+      "poem": 7,
+      "page": 20,
+      "after_line": 62
+    },
+    {
+      "poem": 10,
+      "page": 29,
+      "after_line": 19
+    },
+    {
+      "poem": 11,
+      "page": 32,
+      "after_line": 20
+    },
+    {
+      "poem": 14,
+      "page": 38,
+      "after_line": 18
+    },
+    {
+      "poem": 14,
+      "page": 40,
+      "after_line": 62
+    },
+    {
+      "poem": 16,
+      "page": 47,
+      "after_line": 19
+    },
+    {
+      "poem": 17,
+      "page": 50,
+      "after_line": 17
+    },
+    {
+      "poem": 17,
+      "page": 51,
+      "after_line": 38
+    },
+    {
+      "poem": 18,
+      "page": 55,
+      "after_line": 20
+    },
+    {
+      "poem": 18,
+      "page": 56,
+      "after_line": 44
+    }
+  ]
+}
