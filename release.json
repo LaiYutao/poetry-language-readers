@@ -226,5 +226,8 @@
   "index_offset_x_px": 5,
   "index_slash": "half_width",
   "index_aperture_reduction_px": 0,
-  "index_right_edge_reference": "george-hofmannsthal"
+  "index_right_edge_reference": "george-hofmannsthal",
+  "manual_version": "v2.2",
+  "manual_pages": 103,
+  "manual_path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.2.pdf"
 }

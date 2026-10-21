@@ -3,8 +3,16 @@
   "documents": [
     {
       "name": "策兰《呼吸结晶》德语语法阅读手册",
-      "version": "2.1",
-      "pdf_pages": 98
+      "version": "2.2",
+      "pdf_pages": 103,
+      "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.2.pdf",
+      "previous_versions": [
+        {
+          "version": "2.1",
+          "pdf_pages": 98,
+          "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.1.pdf"
+        }
+      ]
     },
     {
       "name": "策兰《呼吸结晶》",
@@ -115,8 +123,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 9051,
-      "sha256": "64776580eb47a3ed47d4f10ecdd645633f757fafc176640e757b5d35fafb0bc6"
+      "bytes": 9492,
+      "sha256": "0e236956ff6ff1b12b3686b2219f80198bc06daa33d5b974657a50ba07bc0c3a"
     },
     {
       "path": "COPYRIGHT.md",
@@ -125,8 +133,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4340,
-      "sha256": "498a10ea9adfd7b9fb6f24539c44fa3f630c41d76a6b6edc5a7f93bca2d08757"
+      "bytes": 4524,
+      "sha256": "456e87b67b0cab3d626fb968e7c8144e6eb12839bb584bca646f45359ffaf7ca"
     },
     {
       "path": "SOURCES.md",
@@ -1222,6 +1230,16 @@
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.1.pdf",
       "bytes": 3092212,
       "sha256": "98a3fc3575a2067e4ae705968f07f59ee22d651c2a8ce622e8605952918af5ce"
+    },
+    {
+      "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.2.md",
+      "bytes": 262701,
+      "sha256": "ae267b715bd8823eb705454e4133c0ba3b2c0db240edfd8ffb6ca2813fff3706"
+    },
+    {
+      "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.2.pdf",
+      "bytes": 3125936,
+      "sha256": "d32954bd6119715195e17c37c87bb4b1ed06b449b6dca4750422821820cf29a8"
     },
     {
       "path": "publications/de/rilke-selected/alignment.json",
@@ -12425,8 +12443,8 @@
     },
     {
       "path": "release.json",
-      "bytes": 6943,
-      "sha256": "15fa400b7f003c9fb31709520fafac219dd02e3d142a6eb497712f6a42773646"
+      "bytes": 7107,
+      "sha256": "af534361284b14e1c4529602bd0e3174e4646358823127b499a760bfaefc8e44"
     },
     {
       "path": "templates/语法手册项目模板.md",
