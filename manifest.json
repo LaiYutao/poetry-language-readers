@@ -446,7 +446,7 @@
     {
       "path": "assets/homepage/deck.css",
       "bytes": 5571,
-      "sha256": "c5f1b2e21e5f2994e5f95f88e0e0517e1799b56eb5f98eb28037499459217c27"
+      "sha256": "564986b1478cb4bafd12f22fefe6153d09aa4a73565c00e9b99e7900b9d3cd40"
     },
     {
       "path": "assets/homepage/deck.js",
@@ -516,7 +516,7 @@
     {
       "path": "index.html",
       "bytes": 36295,
-      "sha256": "5ee0a1b27576c8e315ffe784b828631b117855859ce026800899dc83f0a9b91f"
+      "sha256": "5463c057168566f2b14a4a363ced9f7aee6633923985013bbf88cbf5bb057ebd"
     },
     {
       "path": "letter-lai.html",
