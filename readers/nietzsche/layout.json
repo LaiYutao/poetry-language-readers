@@ -15,7 +15,7 @@
       "title": "Ecce homo",
       "start": 7,
       "end": 7,
-      "bottom": 92.84,
+      "bottom": 67.84,
       "lines": 6
     },
     {
@@ -95,7 +95,7 @@
       "title": "Vademecum — Vadetecum",
       "start": 35,
       "end": 35,
-      "bottom": 176.84,
+      "bottom": 137.84,
       "lines": 4
     },
     {
@@ -229,7 +229,7 @@
       "stanza_gap": 21.0
     },
     "2": {
-      "row_height": 29.0,
+      "row_height": 27.0,
       "stanza_gap": 21.0
     },
     "3": {

@@ -115,8 +115,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 8697,
-      "sha256": "ede42871db69d8103c0eac45987bd643fe9ce8ecf2e187fa4d6cc5336f8b424e"
+      "bytes": 9051,
+      "sha256": "64776580eb47a3ed47d4f10ecdd645633f757fafc176640e757b5d35fafb0bc6"
     },
     {
       "path": "COPYRIGHT.md",
@@ -10349,14 +10349,34 @@
       "sha256": "65d556ea4ec8439ec9b004e4b22823c7b5ec01e44a23d20a50a86de6c2cff5d7"
     },
     {
+      "path": "readers/nietzsche/ReaderSongBold-e4df13844779.woff2",
+      "bytes": 43380,
+      "sha256": "e4df138447790a7d277b8ba42493205dacb6ada8fc9891ed2a59e8d0eb649c6f"
+    },
+    {
       "path": "readers/nietzsche/ReaderSongLight-5f7602b5cb3e.woff2",
       "bytes": 249136,
       "sha256": "5f7602b5cb3eee635e5beecb0d6775e2a990eecdb34906ec498cb527f41a94fe"
     },
     {
+      "path": "readers/nietzsche/ReaderSongLight-e67d2a26ebc8.woff2",
+      "bytes": 249064,
+      "sha256": "e67d2a26ebc8544a7507262f21fc54ed50b9b51b5c4f2d0f35a796876c20b109"
+    },
+    {
       "path": "readers/nietzsche/ReaderTimes-7feabe3f0e03.woff2",
       "bytes": 35720,
       "sha256": "7feabe3f0e03e405117d41e78ab6bee3ecdbeaeeaf934a181813b393ebe5fb22"
+    },
+    {
+      "path": "readers/nietzsche/ReaderTimes-af5f1d1a270d.woff2",
+      "bytes": 35732,
+      "sha256": "af5f1d1a270df2f195430203b7303115931ee73972060388d96785a7e95adfab"
+    },
+    {
+      "path": "readers/nietzsche/ReaderTimesBold-3659bc669c68.woff2",
+      "bytes": 26392,
+      "sha256": "3659bc669c68f7c339681f5dbe155dc68b733498e82e6b4a89a9b093ecf18703"
     },
     {
       "path": "readers/nietzsche/ReaderTimesBold-99eff5f6e924.woff2",
@@ -10450,28 +10470,33 @@
     },
     {
       "path": "readers/nietzsche/content.json",
-      "bytes": 277345,
-      "sha256": "b04f2d305cf1e92de91bdc8c40c101a10b654bbaf3c948053c1451874f304061"
+      "bytes": 277833,
+      "sha256": "5895bb33acc48422715cc1b12769af260a1f7cc4bf784ba802f17ecbc409c925"
     },
     {
       "path": "readers/nietzsche/index.html",
-      "bytes": 68077,
-      "sha256": "32ba6802ba4ead66ad836112e3ab1c7d122e43e164bf7d5c8d841aef51c97e2a"
+      "bytes": 68195,
+      "sha256": "c33f71122c2aa6c394313b7690bf68396dfb72a09df9d9cc747254b1716d3562"
     },
     {
       "path": "readers/nietzsche/layout.json",
       "bytes": 5738,
-      "sha256": "54aa21069c21dc9e1ddd670272c09f8d0e6c0d43e1ca458e59c5d62888afdf07"
+      "sha256": "0a77f6a5bba5df02a6f94e5fd6abd07375bd0b7da3facb1157ad9213b0081cda"
+    },
+    {
+      "path": "readers/nietzsche/pdf-validation.json",
+      "bytes": 157,
+      "sha256": "b54ca4d06631ad7df65299ab4a0c31e46cf87f0f7eeb89052fa39490efc0dfd5"
     },
     {
       "path": "readers/nietzsche/reader.css",
-      "bytes": 19439,
-      "sha256": "af500c95bfc2b9cb906ca857183de3b67c926ce1dffd84d252820231a4a82732"
+      "bytes": 19985,
+      "sha256": "57eb89112f69f2e7c333d76440e631036629bb98a7d769ed6427b1dc67d725a1"
     },
     {
       "path": "readers/nietzsche/web-validation.json",
       "bytes": 5467,
-      "sha256": "6115e22cfd337035b93a8f93170b71e849dcfcf0691532debe95be72018862b1"
+      "sha256": "9e2a37a68f2ade3fc0111355a9368e77a7dceb94c5547c16e65f4d526b3c7b0d"
     },
     {
       "path": "readers/nietzsche/web/text-pages/001.html",
@@ -10505,8 +10530,8 @@
     },
     {
       "path": "readers/nietzsche/web/text-pages/007.html",
-      "bytes": 148947,
-      "sha256": "421144d6b82b0c07dc920d4f1e347f452785d299d9142b7e1c2ca430ee3c4d16"
+      "bytes": 153952,
+      "sha256": "cfc5459fc3fd91842469c33c71d89a29b7ef26f29d794edc225b70149a036353"
     },
     {
       "path": "readers/nietzsche/web/text-pages/008.html",
@@ -10645,13 +10670,13 @@
     },
     {
       "path": "readers/nietzsche/web/text-pages/035.html",
-      "bytes": 147852,
-      "sha256": "54824b0b46b35b770d21d8999080361e93f63f87573bea5817c8e8868f8ca56d"
+      "bytes": 154950,
+      "sha256": "76228dc1eaf439d1bd7ae5f732f941fc2c37329deb1cf1491f1fb6b7225af734"
     },
     {
       "path": "readers/nietzsche/web/text-pages/036.html",
-      "bytes": 154178,
-      "sha256": "eff75def7739dd5ba09f605e9a7054e3063d9713293d907f0ba666ece5741bc6"
+      "bytes": 157437,
+      "sha256": "34fec5d62334f8c4a282f0f7ed689a62e3948a3b6fd19805701ae1fe188d7d55"
     },
     {
       "path": "readers/nietzsche/web/text-pages/037.html",
@@ -10805,8 +10830,8 @@
     },
     {
       "path": "readers/nietzsche/尼采诗选_逐词译注读本.pdf",
-      "bytes": 854660,
-      "sha256": "9488f8d1810d6a0ffbb2a300f30b8456352c25a74429fd35b7237f469976d011"
+      "bytes": 855171,
+      "sha256": "9c4611935829b718aa8e6a999021119ce7978522d54db14ff9e697db5bc4c2d4"
     },
     {
       "path": "readers/rilke/ReaderSongBold-114b53083365.woff2",
@@ -12401,7 +12426,7 @@
     {
       "path": "release.json",
       "bytes": 6943,
-      "sha256": "6a364914ba04edd43fa07b9ac7fa50e65931b6910c79ba470eb086a5eea257f9"
+      "sha256": "15fa400b7f003c9fb31709520fafac219dd02e3d142a6eb497712f6a42773646"
     },
     {
       "path": "templates/语法手册项目模板.md",
@@ -12571,7 +12596,7 @@
       "author_recordings": 0,
       "path": "readers/nietzsche/index.html",
       "pdf": "readers/nietzsche/尼采诗选_逐词译注读本.pdf",
-      "pdf_sha256": "9488f8d1810d6a0ffbb2a300f30b8456352c25a74429fd35b7237f469976d011",
+      "pdf_sha256": "9c4611935829b718aa8e6a999021119ce7978522d54db14ff9e697db5bc4c2d4",
       "button_color": "#5E5D59",
       "page_main_color": "#4F4E49"
     },

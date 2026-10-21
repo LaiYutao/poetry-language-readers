@@ -202,7 +202,16 @@
       "original_id": "NIETZSCHE-02",
       "title": "Ecce homo",
       "title_zh": "看，这个人",
-      "title_words": [],
+      "title_words": [
+        [
+          "Ecce",
+          "看哪〔拉丁语〕"
+        ],
+        [
+          "homo",
+          "人〔拉丁语〕"
+        ]
+      ],
       "lines": [
         [
           [
@@ -384,7 +393,8 @@
         "layout": "PDF及对应网页逐项核验"
       },
       "layout_hint": {
-        "wrap_long_lines": true
+        "wrap_long_lines": true,
+        "row_height": 27
       }
     },
     {
@@ -5933,7 +5943,20 @@
       "original_id": "NIETZSCHE-12",
       "title": "Vademecum — Vadetecum",
       "title_zh": "随我来——随你自己去",
-      "title_words": [],
+      "title_words": [
+        [
+          "Vademecum",
+          "随我来〔拉丁语〕"
+        ],
+        [
+          "—",
+          ""
+        ],
+        [
+          "Vadetecum",
+          "随你自己去〔拟造拉丁语〕"
+        ]
+      ],
       "lines": [
         [
           [
@@ -6099,7 +6122,12 @@
       "original_id": "NIETZSCHE-13",
       "title": "Sternen-Moral",
       "title_zh": "星辰的道德",
-      "title_words": [],
+      "title_words": [
+        [
+          "Sternen-Moral",
+          "星辰的道德"
+        ]
+      ],
       "lines": [
         [
           [
