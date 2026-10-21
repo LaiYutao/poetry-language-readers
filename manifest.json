@@ -299,6 +299,11 @@
       "sha256": "cfb74e90f916389837f7eb1dc02b7630a4d161921b38f89599114446b519eef3"
     },
     {
+      "path": "assets/fonts/reader-ui-fifteen-1c59932e568a.woff2",
+      "bytes": 63396,
+      "sha256": "1c59932e568a74be2b1e2f76316431596edc0c6cc4a9dc4cd58c3d34239360a8"
+    },
+    {
       "path": "assets/fonts/reader-ui-fifteen-d52a0fb64a23.woff2",
       "bytes": 63396,
       "sha256": "d52a0fb64a23379d6f9a1b6d784c3a500e951b041b6cdbe0bbcff34a309adf7e"
@@ -2701,12 +2706,12 @@
     {
       "path": "readers/atemkristall/index.html",
       "bytes": 70875,
-      "sha256": "bdc9be6913d29ac79b7981cfc2908280fefc464ed25d0948373eac5e83723041"
+      "sha256": "92311069eac9dc0a72d576d266d157fac3ee84d3b4d8f100a60b744f17ab1572"
     },
     {
       "path": "readers/atemkristall/reader.css",
-      "bytes": 19853,
-      "sha256": "bc79518818636ec5b06f3b97b18b7e1d5cc0962823fba92499d56111bae0582b"
+      "bytes": 19864,
+      "sha256": "7e49bb8bc77cdb392f5b97ce6d525d1f8f685bba31192e9602106dfcbea1a093"
     },
     {
       "path": "readers/atemkristall/series.css",
@@ -3261,7 +3266,7 @@
     {
       "path": "readers/bachmann/index.html",
       "bytes": 90482,
-      "sha256": "0a7123c71df8fc7759ddb2322ff02d4aef3177d9851cca3561c31e95ac721275"
+      "sha256": "08916a46c6c4b3b97f9689dd003d4c3f401c793e9548aa1ce4547d1e43956ff5"
     },
     {
       "path": "readers/bachmann/layout.json",
@@ -3270,8 +3275,8 @@
     },
     {
       "path": "readers/bachmann/reader.css",
-      "bytes": 22327,
-      "sha256": "16665aad0cdde548bced5720ffebcbff274ed0f9b6971f56bb9c539ce976a5fb"
+      "bytes": 22338,
+      "sha256": "169a9f45217e87e74a09ea9d0af024798ce24b4319b72da3b8064f24b80c0cb5"
     },
     {
       "path": "readers/bachmann/series.css",
@@ -4146,7 +4151,7 @@
     {
       "path": "readers/benn/index.html",
       "bytes": 88318,
-      "sha256": "4fa25067474b47b4fe5631c21d5abe1f198a0788e6736e02eb932a4dc0b6cbdd"
+      "sha256": "9c0802ca07c4b45aa82fd55458f7df72beff9309a501229482989006631650aa"
     },
     {
       "path": "readers/benn/layout.json",
@@ -4155,8 +4160,8 @@
     },
     {
       "path": "readers/benn/reader.css",
-      "bytes": 20949,
-      "sha256": "b0986080657a4234ccc524eda892d52af38fc1fa2a3cbe0b1a33bdb29d884e6d"
+      "bytes": 20960,
+      "sha256": "f70042b165c63d9bfeee238884c57d1b59be5017c11192837b7efee488bb5ee9"
     },
     {
       "path": "readers/benn/series.css",
@@ -4941,7 +4946,7 @@
     {
       "path": "readers/brecht/index.html",
       "bytes": 83523,
-      "sha256": "1aa11d0aa1c1a558ccb90fe6d3c8a3f7c417ed27bc987bc67b1288fc4646417c"
+      "sha256": "25b0c9c5e1ce04c80c81e7801374e2ae29bc067a9d217b4fd69d0e3103e92e20"
     },
     {
       "path": "readers/brecht/layout.json",
@@ -4950,8 +4955,8 @@
     },
     {
       "path": "readers/brecht/reader.css",
-      "bytes": 20520,
-      "sha256": "3ff2185e97ff593209557c088b4c1e7d5e60d9d243e1b12858f915e084ffcef9"
+      "bytes": 20531,
+      "sha256": "f50b04dbb4cb738cf65585779e760b7a9d2d780dfd3888279afa7c6eaad5365e"
     },
     {
       "path": "readers/brecht/series.css",
@@ -5746,7 +5751,7 @@
     {
       "path": "readers/celan-new/index.html",
       "bytes": 98947,
-      "sha256": "5a574d80429b2df95d9f43d4d81f1d0730eb65b177bccbb39dd0a501912ac79f"
+      "sha256": "bcf8b287c1ce32d00259f91dfc9db1189aea39bb715a5ee46b7f444a83beb4c5"
     },
     {
       "path": "readers/celan-new/layout.json",
@@ -5755,8 +5760,8 @@
     },
     {
       "path": "readers/celan-new/reader.css",
-      "bytes": 20949,
-      "sha256": "cb24dfb9c6091aca47595bc3919a6180c238cdaa385a63140423ac18e4b46233"
+      "bytes": 20960,
+      "sha256": "2a9b78e93c881f0621db72ef144eae9ba61d26fd49f8214e2cb9674783fffe30"
     },
     {
       "path": "readers/celan-new/series.css",
@@ -6626,7 +6631,7 @@
     {
       "path": "readers/enzensberger-jandl/index.html",
       "bytes": 97468,
-      "sha256": "4e038e735d6b41e647aa1ee24c86712f259c13741a859d5949cb49820a7daa38"
+      "sha256": "1b57f044d39787c26055b2c8932635b0899e95e4876b55c962273bc57297bba8"
     },
     {
       "path": "readers/enzensberger-jandl/layout.json",
@@ -6635,8 +6640,8 @@
     },
     {
       "path": "readers/enzensberger-jandl/reader.css",
-      "bytes": 19428,
-      "sha256": "c3ea8abc40703306d2d005d5f67cfb37f7bfa439a89209d8c5cdcfbb6fd8ad0a"
+      "bytes": 19439,
+      "sha256": "8278f8d70009e113fd86350f6aeb97dfa6a1298c364365413aeb972dcbfb6d03"
     },
     {
       "path": "readers/enzensberger-jandl/web-validation.json",
@@ -7431,7 +7436,7 @@
     {
       "path": "readers/george-hofmannsthal/index.html",
       "bytes": 86907,
-      "sha256": "e47e49c423d21eb08a324f4781bb3d26c3c92697b8a05b7c2333e573481b47d4"
+      "sha256": "25e2838a51a008bf2d47b8b1c91ffc095e87fd3c97d2462f43b78080774c3089"
     },
     {
       "path": "readers/george-hofmannsthal/layout.json",
@@ -7440,8 +7445,8 @@
     },
     {
       "path": "readers/george-hofmannsthal/reader.css",
-      "bytes": 20520,
-      "sha256": "2cb2fc99119e151ad5885eeee6c7bae9662d728be6e5c06f81b50f0db171d4d5"
+      "bytes": 20531,
+      "sha256": "fad90f2f29c90613de4b9c5dd350cf1957b16c23423f48f5aecea014c9d0ac20"
     },
     {
       "path": "readers/george-hofmannsthal/series.css",
@@ -8001,7 +8006,7 @@
     {
       "path": "readers/gruenbein/index.html",
       "bytes": 63789,
-      "sha256": "5d72cbeb39666a8d645e8b4ddb41dc025a9c28a20c3fbae621eb97d896acb791"
+      "sha256": "a03aeca14409708998473a3e6569415c9af2aa6846577efe51c7f91b15b79acd"
     },
     {
       "path": "readers/gruenbein/layout.json",
@@ -8010,8 +8015,8 @@
     },
     {
       "path": "readers/gruenbein/reader.css",
-      "bytes": 19571,
-      "sha256": "28fd79b522a2436f24752f9c4f96e9a91e397652a4dc9cc44b824e52c247ff88"
+      "bytes": 19582,
+      "sha256": "fee5af7653137a70e58d569afaf20917d0caec08d0da8fcc811e8cb8d23fec3f"
     },
     {
       "path": "readers/gruenbein/web-validation.json",
@@ -8461,7 +8466,7 @@
     {
       "path": "readers/heine/index.html",
       "bytes": 79450,
-      "sha256": "2c46f339f923e9ca3d9d0eb51669f7515131207f52c68291a3e0321e9760793e"
+      "sha256": "55111cde9c9257566a05a6fe4c47bdeea5f59ad5bdedb0c0e9156717f78a6177"
     },
     {
       "path": "readers/heine/layout.json",
@@ -8470,8 +8475,8 @@
     },
     {
       "path": "readers/heine/reader.css",
-      "bytes": 19428,
-      "sha256": "dfbebeab50283733f0bc712be3827f8436c2d56081d2e4208477535d1f36b655"
+      "bytes": 19439,
+      "sha256": "4a54696f565e2a7b54cd886dec21df8a6b4788c262ab6eab5a0dc39539335d62"
     },
     {
       "path": "readers/heine/web-validation.json",
@@ -9006,7 +9011,7 @@
     {
       "path": "readers/hoelderlin/index.html",
       "bytes": 93452,
-      "sha256": "93561c432ff66cc240cbd83981daa0aaad4366d90d63253747a0b3069ae5d629"
+      "sha256": "9cf098a6c32d47951857050dee29f96be015b7b0beb59bb8f3de307b7e422903"
     },
     {
       "path": "readers/hoelderlin/layout.json",
@@ -9015,8 +9020,8 @@
     },
     {
       "path": "readers/hoelderlin/reader.css",
-      "bytes": 19428,
-      "sha256": "29012af9c0e522eb6fc8aa6c65f1b188a2ad20a56d7a0099a4d2f484d2b03d9f"
+      "bytes": 19439,
+      "sha256": "2d2c104cc15ccd8337962893e9b066adef2ca881c0c5d2aaaab724e7ba96ef14"
     },
     {
       "path": "readers/hoelderlin/web-validation.json",
@@ -9916,7 +9921,7 @@
     {
       "path": "readers/lasker/index.html",
       "bytes": 81492,
-      "sha256": "ecf09b5a25f1fa862b37aefefefdba0a6b81df0bd233936592944bab4856c91a"
+      "sha256": "017f7d37f0e89ebab4359ddc79ed316043a2c460ee8f326a5dd3188ca938d08c"
     },
     {
       "path": "readers/lasker/layout.json",
@@ -9925,8 +9930,8 @@
     },
     {
       "path": "readers/lasker/reader.css",
-      "bytes": 19974,
-      "sha256": "5ecbfec9db50c39ff4526577585efd7aed1796ee05f718bb5971b63c9a5e6b36"
+      "bytes": 19985,
+      "sha256": "adafd6ced9ef2c4a4bb281769a652de688f11ece025555dcdcca6767b57f2275"
     },
     {
       "path": "readers/lasker/series.css",
@@ -10451,7 +10456,7 @@
     {
       "path": "readers/nietzsche/index.html",
       "bytes": 68077,
-      "sha256": "49f4bb0869ba65550019f682449f3cd90f8cd8ea5732f74cd0bab892ec047f03"
+      "sha256": "32ba6802ba4ead66ad836112e3ab1c7d122e43e164bf7d5c8d841aef51c97e2a"
     },
     {
       "path": "readers/nietzsche/layout.json",
@@ -10460,8 +10465,8 @@
     },
     {
       "path": "readers/nietzsche/reader.css",
-      "bytes": 19428,
-      "sha256": "34b43561189a16254796d998ec72388c1ee4de72c8d66fa4e4e77121e8d15eff"
+      "bytes": 19439,
+      "sha256": "af500c95bfc2b9cb906ca857183de3b67c926ce1dffd84d252820231a4a82732"
     },
     {
       "path": "readers/nietzsche/web-validation.json",
@@ -10946,7 +10951,7 @@
     {
       "path": "readers/rilke/index.html",
       "bytes": 67832,
-      "sha256": "e62e919632ba6f2d9b274441eb197c2adc216693421c5f91db7ef0fc78c4717e"
+      "sha256": "61005f13f1a763569c7af402fb6ebab43d511803404ad8b4a01f14bcc596c0ef"
     },
     {
       "path": "readers/rilke/layout.json",
@@ -10955,8 +10960,8 @@
     },
     {
       "path": "readers/rilke/reader.css",
-      "bytes": 19428,
-      "sha256": "50b80928c17e704feee3d7a4311a04eff1d058b0185fb7157879e0f7764a2766"
+      "bytes": 19439,
+      "sha256": "6f5a3faef676910b2318d9524300eac61e31acbf538d64287c094f150a1ea577"
     },
     {
       "path": "readers/rilke/series.css",
@@ -11381,7 +11386,7 @@
     {
       "path": "readers/romantics/index.html",
       "bytes": 91936,
-      "sha256": "6dd2e1bf02e20d0b8dc1df39ed2d1ff8743737f0ab30d4bd0cbfa25bba1b04ed"
+      "sha256": "11a944871241792d1dc55f84f4270872af4dba7af0333fee53caca77770de378"
     },
     {
       "path": "readers/romantics/layout.json",
@@ -11390,8 +11395,8 @@
     },
     {
       "path": "readers/romantics/reader.css",
-      "bytes": 19428,
-      "sha256": "c12051ba5720e946263ee9a73e082f8f6813b983c0634e14c30aa941eedbec92"
+      "bytes": 19439,
+      "sha256": "604fac137947ef5c5da2aec625a73a86571a58267288402275ba1cb08b19d2ba"
     },
     {
       "path": "readers/romantics/web-validation.json",
@@ -12121,7 +12126,7 @@
     {
       "path": "readers/trakl/index.html",
       "bytes": 67507,
-      "sha256": "caf8e12f132e48b70ff986e0f1e0e6f45a6a0aee9e7dfcc18b18190500c7ebcd"
+      "sha256": "0e7e6925cfa7c8b12b242ca6e85a4665afe24727b32e7c83de49a703d90e82db"
     },
     {
       "path": "readers/trakl/layout.json",
@@ -12130,8 +12135,8 @@
     },
     {
       "path": "readers/trakl/reader.css",
-      "bytes": 20520,
-      "sha256": "d4ba9acd4d2d5ac57f5ec2ce8befcc4d3315ab885c3aadb6b0cf3784e3966602"
+      "bytes": 20531,
+      "sha256": "5ae6e6b4f59c5edce24aad3f5599e44e9d6804d85c9440c1502c12f3d8465dde"
     },
     {
       "path": "readers/trakl/series.css",
