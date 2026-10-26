@@ -6,7 +6,7 @@ Letter Lai 的德语诗歌逐词读本与语法阅读手册。
 
 ## 当前读本
 
-2026-10-21 更新。共十五册、401篇、1302页；353篇可直接播放，其中88篇为诗人原声。各篇标明文本来源、采用版本及校记；录音来源与朗读者在网页中列出。
+2026-10-27 更新。共十五册、402篇、1304页；353篇可直接播放，其中88篇为诗人原声。各篇标明文本来源、采用版本及校记；录音来源与朗读者在网页中列出。
 
 | 读本 | 篇数 | PDF | 网页 | 录音 |
 |---|---:|---|---|---:|
@@ -14,7 +14,7 @@ Letter Lai 的德语诗歌逐词读本与语法阅读手册。
 | 里尔克诗选 | 22 | [52 页](readers/rilke/里尔克诗选22首逐词译注读本.pdf) | [阅读](readers/rilke/index.html) | 22/22 |
 | 特拉克尔诗选 | 23 | [50 页](readers/trakl/特拉克尔诗选23首逐词译注读本.pdf) | [阅读](readers/trakl/index.html) | 23/23 |
 | 巴赫曼诗选 | 30 | [111 页](readers/bachmann/巴赫曼诗选30首逐词译注读本.pdf) | [阅读](readers/bachmann/index.html) | 24/30 |
-| 布莱希特诗选 | 28 | [86 页](readers/brecht/布莱希特诗选28首逐词译注读本.pdf) | [阅读](readers/brecht/index.html) | 27/28 |
+| 布莱希特诗选 | 29 | [88 页](readers/brecht/布莱希特诗选29首逐词译注读本.pdf) | [阅读](readers/brecht/index.html) | 27/29 |
 | 拉斯克－许勒／萨克斯诗选 | 28 | [80 页](readers/lasker/拉斯克－许勒／萨克斯28首逐词译注读本.pdf) | [阅读](readers/lasker/index.html) | 23/28 |
 | 策兰诗选 | 34 | [134 页](readers/celan-new/策兰诗选34首逐词译注读本.pdf) | [阅读](readers/celan-new/index.html) | 33/34 |
 | 贝恩诗选 | 32 | [98 页](readers/benn/贝恩诗选32首逐词译注读本.pdf) | [阅读](readers/benn/index.html) | 29/32 |

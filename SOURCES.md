@@ -38,3 +38,9 @@
 ## v0.2补充
 
 特拉克尔新增3首据Project Gutenberg 29006《Die Dichtungen》；Grodek另与Wikisource据1915年《Der Brenner》的转录对读。PG电子扉页未列年，不据此推定版年。北岛《时间的玫瑰》用于补选线索，署名文章与授权摘编的证据范围见 plans/时间的玫瑰短诗补选核查.md；未复制其译诗或赏析，未声称逐页核过该书纸本。里尔克有关核心短诗已经收录，本次不重复添加。
+
+## 2026-10-27 · 布莱希特《Sie stieg hinauf》
+
+本篇以用户提供的完整德文图片为工作底本，保留八行、四节及句点位置。另核对André Vallias于官网免费提供的《Bertolt Brecht: Poesia》数字补编（2019）：PDF第11页为布莱希特版本，第10页为Willy Keller译文；背景及改写说明见第9—12页。[译者官网](https://andrevallias.com/brecht/)
+
+此作为布莱希特据Keller所译Domingos Carvalho da Silva《Lirismo》所作的德文改写。德国国家图书馆提供的GBA第15卷目录将其列于正文315页、校注503页；本次仅据该目录核对题名及定位，不声称见到该卷正文或校注。

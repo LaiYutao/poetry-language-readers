@@ -1,6 +1,6 @@
 {
-  "pdf": "布莱希特诗选28首逐词译注读本.pdf",
-  "page_count": 87,
+  "pdf": "布莱希特诗选29首逐词译注读本.pdf",
+  "page_count": 88,
   "pages": [
     {
       "page": 1,
@@ -24,17 +24,17 @@
     },
     {
       "page": 5,
-      "characters": 123,
+      "characters": 153,
       "preserved": true
     },
     {
       "page": 6,
-      "characters": 1038,
+      "characters": 1225,
       "preserved": true
     },
     {
       "page": 7,
-      "characters": 1056,
+      "characters": 876,
       "preserved": true
     },
     {
@@ -59,12 +59,12 @@
     },
     {
       "page": 12,
-      "characters": 633,
+      "characters": 751,
       "preserved": true
     },
     {
       "page": 13,
-      "characters": 552,
+      "characters": 441,
       "preserved": true
     },
     {
@@ -89,12 +89,12 @@
     },
     {
       "page": 18,
-      "characters": 1073,
+      "characters": 1390,
       "preserved": true
     },
     {
       "page": 19,
-      "characters": 987,
+      "characters": 677,
       "preserved": true
     },
     {
@@ -154,12 +154,12 @@
     },
     {
       "page": 31,
-      "characters": 860,
+      "characters": 964,
       "preserved": true
     },
     {
       "page": 32,
-      "characters": 1403,
+      "characters": 1306,
       "preserved": true
     },
     {
@@ -274,12 +274,12 @@
     },
     {
       "page": 55,
-      "characters": 1182,
+      "characters": 1319,
       "preserved": true
     },
     {
       "page": 56,
-      "characters": 1559,
+      "characters": 1429,
       "preserved": true
     },
     {
@@ -324,22 +324,22 @@
     },
     {
       "page": 65,
-      "characters": 1070,
+      "characters": 1214,
       "preserved": true
     },
     {
       "page": 66,
-      "characters": 1170,
+      "characters": 1186,
       "preserved": true
     },
     {
       "page": 67,
-      "characters": 1012,
+      "characters": 1114,
       "preserved": true
     },
     {
       "page": 68,
-      "characters": 1027,
+      "characters": 786,
       "preserved": true
     },
     {
@@ -359,12 +359,12 @@
     },
     {
       "page": 72,
-      "characters": 865,
+      "characters": 966,
       "preserved": true
     },
     {
       "page": 73,
-      "characters": 929,
+      "characters": 835,
       "preserved": true
     },
     {
@@ -374,68 +374,78 @@
     },
     {
       "page": 75,
-      "characters": 915,
+      "characters": 1037,
       "preserved": true
     },
     {
       "page": 76,
-      "characters": 929,
+      "characters": 1235,
       "preserved": true
     },
     {
       "page": 77,
-      "characters": 481,
+      "characters": 963,
       "preserved": true
     },
     {
       "page": 78,
-      "characters": 824,
+      "characters": 806,
       "preserved": true
     },
     {
       "page": 79,
-      "characters": 938,
-      "preserved": true
-    },
-    {
-      "page": 80,
       "characters": 727,
       "preserved": true
     },
     {
+      "page": 80,
+      "characters": 772,
+      "preserved": true
+    },
+    {
       "page": 81,
-      "characters": 1194,
+      "characters": 1037,
       "preserved": true
     },
     {
       "page": 82,
-      "characters": 1411,
+      "characters": 1194,
       "preserved": true
     },
     {
       "page": 83,
-      "characters": 1291,
+      "characters": 1411,
       "preserved": true
     },
     {
       "page": 84,
-      "characters": 1670,
+      "characters": 1291,
       "preserved": true
     },
     {
       "page": 85,
-      "characters": 1676,
+      "characters": 1670,
       "preserved": true
     },
     {
       "page": 86,
-      "characters": 1543,
+      "characters": 1676,
       "preserved": true
     },
     {
       "page": 87,
+      "characters": 1936,
+      "preserved": true
+    },
+    {
+      "page": 88,
       "characters": 281,
       "preserved": true
     }
-  ]
+  ],
+  "audio": {
+    "total": 29,
+    "playable": 27,
+    "svg_text_untouched": true
+  }
 }

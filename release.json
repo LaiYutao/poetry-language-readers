@@ -1,17 +1,17 @@
 {
-  "version": "fifteen-readers-local-20261021",
-  "date": "2026-10-21",
+  "version": "fifteen-readers-20261027",
+  "date": "2026-10-27",
   "status": "release",
   "published": true,
-  "poems": 401,
-  "pages": 1302,
+  "poems": 402,
+  "pages": 1304,
   "recordings": 353,
   "author_recordings": 88,
   "new_six_recordings": 125,
   "new_six_missing": 28,
   "old_nine_poetic_rows_checked": 4682,
   "old_nine_continuation_notices": 63,
-  "old_nine_pdf_unchanged": true,
+  "old_nine_pdf_unchanged": false,
   "mobile_original_nine_geometry_unchanged": true,
   "browser_views": 30,
   "audio_metadata_checks": 706,
@@ -60,15 +60,15 @@
     },
     {
       "slug": "brecht",
-      "poems": 28,
-      "pages": 86,
+      "poems": 29,
+      "pages": 88,
       "playable": 27,
       "author_voice": 4,
       "contents_page": 4,
       "continuation_notices": 11,
-      "pdf": "布莱希特诗选28首逐词译注读本.pdf",
-      "pdf_sha256": "e766007d55b50c6fbde927c7d4798942385b63652dfd5fdf7944776327b5f3d0",
-      "old_pdf_preserved": true
+      "pdf": "布莱希特诗选29首逐词译注读本.pdf",
+      "pdf_sha256": "c26808f46c07ae2a692da14e54ed0741dba3156fc2bb4a6fde3d73df243ec672",
+      "old_pdf_preserved": false
     },
     {
       "slug": "celan-new",
@@ -229,5 +229,19 @@
   "index_right_edge_reference": "george-hofmannsthal",
   "manual_version": "v2.2",
   "manual_pages": 103,
-  "manual_path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.2.pdf"
+  "manual_path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.2.pdf",
+  "latest_revision": {
+    "reader": "brecht",
+    "poem": "Sie stieg hinauf",
+    "poem_number": 29,
+    "first_page": 80,
+    "old_28_poems_unchanged": true,
+    "old_28_pagination_unchanged": true,
+    "existing_recordings_unchanged": true,
+    "browser_viewports": [
+      1440,
+      390
+    ],
+    "new_poem_recording_available": false
+  }
 }

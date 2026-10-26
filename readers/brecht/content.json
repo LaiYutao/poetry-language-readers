@@ -1,5 +1,5 @@
 {
-  "title": "布莱希特诗选28首逐词译注读本",
+  "title": "布莱希特诗选29首逐词译注读本",
   "status": "twentyfive_complete_annotations_with_witness_limits",
   "original_file": "/Users/letter/Documents/Codex/2026-10-12/referenced-chatgpt-conversation-this-is-an/work/expansion/brecht/book.json",
   "original_sources": [
@@ -16822,12 +16822,274 @@
           "local_file": "outputs/剩余12首增补_原始材料_2026-10-19/原始文件/布莱希特_Ballade_Lyrikline原页.jpg"
         }
       ]
+    },
+    {
+      "n": 29,
+      "original_id": "BRECHT-SIE-STIEG-USER-20261026",
+      "author": "Bertolt Brecht",
+      "title": "Sie stieg hinauf",
+      "title_zh": "她登了上去",
+      "title_kind": "incipit",
+      "title_words": [],
+      "lines": [
+        [
+          [
+            "Sie",
+            "她·主"
+          ],
+          [
+            "stieg",
+            "登"
+          ],
+          [
+            "hinauf",
+            "上去"
+          ],
+          [
+            "in",
+            "进入(into)"
+          ],
+          [
+            "die",
+            "这·宾·复"
+          ],
+          [
+            "Berge",
+            "山·复"
+          ]
+        ],
+        [
+          [
+            "In",
+            "在(in)"
+          ],
+          [
+            "der",
+            "这·与"
+          ],
+          [
+            "Hand",
+            "手"
+          ],
+          [
+            "eine",
+            "一朵"
+          ],
+          [
+            "Rose.",
+            "玫瑰"
+          ]
+        ],
+        null,
+        [
+          [
+            "Besah",
+            "观看"
+          ],
+          [
+            "die",
+            "这·宾"
+          ],
+          [
+            "Welt",
+            "世界"
+          ],
+          [
+            "sich",
+            "自己·与"
+          ],
+          [
+            "von",
+            "从(from)"
+          ],
+          [
+            "weitem",
+            "远处"
+          ]
+        ],
+        [
+          [
+            "In",
+            "在(in)"
+          ],
+          [
+            "der",
+            "这·与"
+          ],
+          [
+            "Hand",
+            "手"
+          ],
+          [
+            "eine",
+            "一朵"
+          ],
+          [
+            "Rose",
+            "玫瑰"
+          ]
+        ],
+        null,
+        [
+          [
+            "Stürzte",
+            "投向"
+          ],
+          [
+            "sich",
+            "自己·宾"
+          ],
+          [
+            "in",
+            "进入(into)"
+          ],
+          [
+            "die",
+            "这·宾"
+          ],
+          [
+            "Tiefe",
+            "深处"
+          ]
+        ],
+        [
+          [
+            "In",
+            "在(in)"
+          ],
+          [
+            "der",
+            "这·与"
+          ],
+          [
+            "Hand",
+            "手"
+          ],
+          [
+            "eine",
+            "一朵"
+          ],
+          [
+            "Rose",
+            "玫瑰"
+          ]
+        ],
+        null,
+        [
+          [
+            "Wurde",
+            "被"
+          ],
+          [
+            "gestern",
+            "昨天"
+          ],
+          [
+            "begraben",
+            "埋葬"
+          ]
+        ],
+        [
+          [
+            "In",
+            "在(in)"
+          ],
+          [
+            "der",
+            "这·与"
+          ],
+          [
+            "Hand",
+            "手"
+          ],
+          [
+            "eine",
+            "一朵"
+          ],
+          [
+            "Rose.",
+            "玫瑰"
+          ]
+        ]
+      ],
+      "translation": "她登上群山，手里一朵玫瑰。\n\n她从远处望着世界，手里一朵玫瑰。\n\n她纵身投入深处，手里一朵玫瑰。\n\n昨天，她被埋葬了，手里一朵玫瑰。",
+      "links": [
+        [
+          "stieg … hinauf",
+          "可分动词",
+          "hinaufsteigen",
+          "stieg是steigen的过去时；hinauf置于句末方向成分之前。两者合读为“登上去”，不是两个独立动作。"
+        ],
+        [
+          "Besah … sich",
+          "反身与格",
+          "die Welt",
+          "这里按sich etwas besehen理解：“细看某物”。die Welt是宾格对象；sich是与格，回指承前省略的sie，词序为诗中的移位。"
+        ],
+        [
+          "Stürzte sich",
+          "反身宾格",
+          "in die Tiefe",
+          "sich in etwas stürzen表示“纵身投入……”。这里的sich为宾格，和上一节的反身与格不同。"
+        ],
+        [
+          "Wurde … begraben",
+          "过去时被动",
+          "sie〔承前省略〕",
+          "wurde是werden的过去时，和begraben组成过程被动：“她被埋葬了”；并未说明埋葬者是谁。"
+        ]
+      ],
+      "notes": [
+        [
+          "以起首语代题，首句仍须读全",
+          "本读本按全集目录的起首语Sie stieg hinauf识别这首诗。用户所供图片把这三个词加粗，但它们仍属于第一行；应连读到in die Berge。标题词义已在正文第1行逐词标出，不再另设一行重复的标题词注。"
+        ],
+        [
+          "反复句不是完整的有动词句",
+          "In der Hand eine Rose只给出位置短语和名词短语，未写限定动词。eine的形式在此不能区分主格、宾格，而诗又没有写出可据以判格的动词，词注因此只标“一朵”。译文保留“手里一朵玫瑰”的省略；若补成“她握着”或“手里有”，都是译者选定的补足方式，不反过来当成原诗的明文结构。"
+        ],
+        [
+          "方向宾格与位置与格",
+          "in die Berge与in die Tiefe都标出进入或投向的方向，用宾格；in der Hand标出玫瑰所在的位置，用与格。von weitem为“从远处”的固定表达；weitem在这里不是修饰某个明写的名词。"
+        ],
+        [
+          "省略、时间与未交代的原因",
+          "第2—4节的动作句承接第1节的sie，省去重复主语。gestern把埋葬放在叙述者说话的“昨天”；诗未交代她的身份、跃下的原因或玫瑰的来历，译文不补写这些情节。"
+        ],
+        [
+          "改写的来源",
+          "André Vallias的免费数字补编说明：此作是布莱希特据Willy Keller所译的巴西诗人Domingos Carvalho da Silva《Lirismo》所作的德文改写。补编PDF第10页列Keller译文，第11页列布莱希特版本，第9—12页交代背景与修改；本篇不把两个德文版本拼合。"
+        ]
+      ],
+      "source_ids": [
+        "BRECHT-SIE-STIEG-USER-20261026"
+      ],
+      "source_note": "工作底本：用户于2026-10-26提供的完整德文诗页图片，八行、四节。旁证：André Vallias，Bertolt Brecht: Poesia之免费Adenda Digital（2019），PDF第11页标作Versão de Brecht；官网https://andrevallias.com/brecht/。",
+      "collation": "逐字核对用户图片；第2、8行Rose.有句点，第4、6行Rose后无句点，四个双行节照录。首句前三词的加粗作为起首语标识说明，不拆出为独立诗行。德国国家图书馆所藏GBA第15卷目录列Sie stieg hinauf于正文315页、校注503页，置于1956年；此目录仅用于定位，不声称已见该卷正文或校注。",
+      "review_status": "按用户完整图片完成原文逐字核对；词注、译文及句法复校；保留明确的底本核验范围。",
+      "research_sources": [
+        {
+          "title": "用户提供的完整诗页图片",
+          "local_file": "work/brecht-sie-stieg-2026-10-26/source/user-supplied-poem.png",
+          "sha256": "34a353b87eeff0b6bf7f386a96b443bfdf8652385297f506a35fe9008963e25a"
+        },
+        {
+          "title": "André Vallias: Bertolt Brecht: Poesia, Adenda Digital",
+          "url": "https://andrevallias.com/brecht/",
+          "pdf_pages": "9–12；布莱希特版正文11"
+        },
+        {
+          "title": "GBA第15卷目录（德国国家图书馆）",
+          "url": "https://d-nb.info/931249368/04",
+          "scope": "目录中的题名、页码及年组定位"
+        }
+      ]
     }
   ],
   "author": "Bertolt Brecht",
   "author_zh": "布莱希特",
-  "version": "2026-10-19",
-  "selection_note": "收录28首诗作，保留原诗分行与分节；底本与录音的差异在各诗校注及收听说明中交代。",
+  "version": "2026-10-26",
+  "selection_note": "收录29首诗作，保留原诗分行与分节；底本与录音的差异在各诗校注及收听说明中交代。",
   "sources": [
     {
       "id": "B1",
@@ -17273,6 +17535,13 @@
       "edition": "Suhrkamp, Die Gedichte (2000), S.115; 页面注明与GBA一致；用户提供材料包中的完整Lyrikline截图，原页URL：https://www.lyrikline.org/de/gedichte/ballade-von-der-unzulaenglichkeit-menschlichen-planens-770",
       "scope": "按用户提供原页核对完整正文；具体异文另见校注。",
       "url": "https://www.lyrikline.org/de/gedichte/ballade-von-der-unzulaenglichkeit-menschlichen-planens-770"
+    },
+    {
+      "id": "BRECHT-SIE-STIEG-USER-20261026",
+      "title": "Sie stieg hinauf",
+      "edition": "工作底本：用户于2026-10-26提供的完整德文诗页图片，八行、四节。旁证：André Vallias，Bertolt Brecht: Poesia之免费Adenda Digital（2019），PDF第11页标作Versão de Brecht；官网https://andrevallias.com/brecht/。",
+      "scope": "逐字核对用户图片；第2、8行Rose.有句点，第4、6行Rose后无句点，四个双行节照录。首句前三词的加粗作为起首语标识说明，不拆出为独立诗行。德国国家图书馆所藏GBA第15卷目录列Sie stieg hinauf于正文315页、校注503页，置于1956年；此目录仅用于定位，不声称已见该卷正文或校注。",
+      "url": "https://andrevallias.com/brecht/"
     }
   ],
   "cover_title": "布莱希特诗选",

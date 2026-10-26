@@ -34,9 +34,9 @@
     },
     {
       "name": "布莱希特诗选",
-      "version": "2026-10-21",
-      "pdf_pages": 86,
-      "path": "readers/brecht/布莱希特诗选28首逐词译注读本.pdf"
+      "version": "2026-10-27",
+      "pdf_pages": 88,
+      "path": "readers/brecht/布莱希特诗选29首逐词译注读本.pdf"
     },
     {
       "name": "策兰诗选",
@@ -123,8 +123,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 9492,
-      "sha256": "0e236956ff6ff1b12b3686b2219f80198bc06daa33d5b974657a50ba07bc0c3a"
+      "bytes": 9925,
+      "sha256": "aae270656e762c85ae493a19fc5c35e6239c6916db1667c08b72a24a3a49abcf"
     },
     {
       "path": "COPYRIGHT.md",
@@ -134,12 +134,12 @@
     {
       "path": "README.md",
       "bytes": 4524,
-      "sha256": "456e87b67b0cab3d626fb968e7c8144e6eb12839bb584bca646f45359ffaf7ca"
+      "sha256": "081161e7f82b3c0778f7580cd29a29fccc9bf37a661c0fb1aab4fd596f02d36d"
     },
     {
       "path": "SOURCES.md",
-      "bytes": 3460,
-      "sha256": "ad2715684f1cd58e76c1671238b413ee846d82c8c22f77d820f7191cc3e9bdda"
+      "bytes": 4142,
+      "sha256": "7818a3909a4ad2e2a18553e3be585aeb0accd248eb9f44535ef3897eb11dbfe2"
     },
     {
       "path": "assets/branding/favicon-32.png",
@@ -348,8 +348,8 @@
     },
     {
       "path": "assets/homepage/assets/cover-brecht.svg",
-      "bytes": 19015,
-      "sha256": "02fe4d4c11dd833e7772ab4bc09e8dbcd8a226572dd9cc39a032029f9433ff42"
+      "bytes": 19264,
+      "sha256": "484668a6730bca8802eb5c888e5c5f2282f249bd51b9777dc1a4dd2f9f661a43"
     },
     {
       "path": "assets/homepage/assets/cover-celan-new.svg",
@@ -523,8 +523,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 36295,
-      "sha256": "5463c057168566f2b14a4a363ced9f7aee6633923985013bbf88cbf5bb057ebd"
+      "bytes": 36310,
+      "sha256": "3d6b31ae6abe170a1e3d2899a3e09cfd52d46feaf440cb5024d5b0c5c41493be"
     },
     {
       "path": "letter-lai.html",
@@ -4722,6 +4722,11 @@
       "sha256": "90d37f8c52356d0200fb1b39f2c7e8a0568d6005a495266ffc2cf69b6d0a27b1"
     },
     {
+      "path": "readers/brecht/ReaderSongBold-9e29a89cce8b.woff2",
+      "bytes": 62616,
+      "sha256": "9e29a89cce8bde2612b3c51c2d36a7229dd83de0ab31fec1cfc8a2e273234480"
+    },
+    {
       "path": "readers/brecht/ReaderSongBold-add47389f9ab.woff2",
       "bytes": 60440,
       "sha256": "add47389f9abc81f9acb24a5a414dca2b4bb62288e953721906afcaad06cb5a7"
@@ -4735,6 +4740,11 @@
       "path": "readers/brecht/ReaderSongLight-7eb08212cd9f.woff2",
       "bytes": 259788,
       "sha256": "7eb08212cd9f5d343674bd8fb817653314ad5caac970d789849cb8dcca81dc3c"
+    },
+    {
+      "path": "readers/brecht/ReaderSongLight-8b7dd0041656.woff2",
+      "bytes": 261108,
+      "sha256": "8b7dd0041656a2697cf57fc397b8324cd14f23fe72faec08f37a98380676d0a3"
     },
     {
       "path": "readers/brecht/ReaderSongLight-988c5281fa11.woff2",
@@ -4765,6 +4775,11 @@
       "path": "readers/brecht/ReaderTimes-33ada3dedaaa.woff2",
       "bytes": 35468,
       "sha256": "33ada3dedaaab253428616fae92515e679ff9adabee930f27e2f580aa1f334f1"
+    },
+    {
+      "path": "readers/brecht/ReaderTimes-3ea65bf5ec75.woff2",
+      "bytes": 35804,
+      "sha256": "3ea65bf5ec754fbb1143e2a91c769c6f4810021bef27300e6ae59ae53c5612a9"
     },
     {
       "path": "readers/brecht/ReaderTimes-c75683d8a547.woff2",
@@ -4802,14 +4817,19 @@
       "sha256": "9dac64de487f82589954278aa92fb24fa475dac5e4b5acb2cc346175f8aeadb3"
     },
     {
+      "path": "readers/brecht/ReaderTimesBold-af8758a15f4b.woff2",
+      "bytes": 27192,
+      "sha256": "af8758a15f4b0d0e277236bf81472ff7d11b4c56c70013c90068bed5e2e89bce"
+    },
+    {
       "path": "readers/brecht/ReaderTimesBold-cd98c2817c4b.woff2",
       "bytes": 27104,
       "sha256": "cd98c2817c4bc1b947d697714ece7f5341f68c37011dc0e0f4e0f3ef11bb8062"
     },
     {
       "path": "readers/brecht/audio-manifest.json",
-      "bytes": 32055,
-      "sha256": "927a9729d3bc247d4b89277b74657e8b2ef5bcc22897d8b1532deaba6bdb6507"
+      "bytes": 32368,
+      "sha256": "e51a9ea1e258f270d614f3806056b55f1c7fbf44ebc0f11787f2ace77ec3fe1e"
     },
     {
       "path": "readers/brecht/audio-player.css",
@@ -4958,23 +4978,23 @@
     },
     {
       "path": "readers/brecht/content.json",
-      "bytes": 403352,
-      "sha256": "51d18934d133b1b80d9b20158e9651dfceb7d06e57c19440e602d3bb9dee631d"
+      "bytes": 411910,
+      "sha256": "09ca4ee1abcf5c93fce6d655681959d2f298fcccc73aec3b37ef58e2e5dc695a"
     },
     {
       "path": "readers/brecht/index.html",
-      "bytes": 83523,
-      "sha256": "25b0c9c5e1ce04c80c81e7801374e2ae29bc067a9d217b4fd69d0e3103e92e20"
+      "bytes": 84713,
+      "sha256": "6732b896c446291cbeb295532c1426cd147d81a6b78feb6e4ecf4400853e8dd8"
     },
     {
       "path": "readers/brecht/layout.json",
-      "bytes": 8390,
-      "sha256": "367f22dac0c8f5d57db18ec05cc4ce09ea61034b75c0b0e058ace36494de3120"
+      "bytes": 8642,
+      "sha256": "671f22d40199f49e303ac819ca901b746eea604831194bb9693ca83e7c88ab54"
     },
     {
       "path": "readers/brecht/reader.css",
-      "bytes": 20531,
-      "sha256": "f50b04dbb4cb738cf65585779e760b7a9d2d780dfd3888279afa7c6eaad5365e"
+      "bytes": 21077,
+      "sha256": "fc17ef69171321fe10db1895a7eaec7b04579b910e7facd3ba22756ff6530484"
     },
     {
       "path": "readers/brecht/series.css",
@@ -4983,18 +5003,18 @@
     },
     {
       "path": "readers/brecht/web-validation.json",
-      "bytes": 7086,
-      "sha256": "0b37999c67401a2b6b5f611a78f8dec33b2168ed665dd3cc39a089bcf341b9ba"
+      "bytes": 7254,
+      "sha256": "5ec0eb5931b16cd09ab1db40c4b20d62d65b4c2bddf2556ab29c0e913da01216"
     },
     {
       "path": "readers/brecht/web/text-pages/001.html",
       "bytes": 21724,
-      "sha256": "fb504e33f4ba40520cc641cdb605699927a91527ca3980ece648b26f1332db80"
+      "sha256": "bbe3dede9e978869d600c817c0071d35a0716e248ac19aa504b181b1e6fa0196"
     },
     {
       "path": "readers/brecht/web/text-pages/002.html",
       "bytes": 30007,
-      "sha256": "a132d3b07ef06d6b1e5655270bdff37eb034a4aedf2a89e8994ed8997d7ce06c"
+      "sha256": "5724d95e39e219828188546f66e8bb3d66bc929238282f806d80374c0ad75e1b"
     },
     {
       "path": "readers/brecht/web/text-pages/003.html",
@@ -5003,13 +5023,13 @@
     },
     {
       "path": "readers/brecht/web/text-pages/004.html",
-      "bytes": 123818,
-      "sha256": "3641ced15670356b8abf7d331c6600d3727ec55ea5f3e34f6954219746e448ba"
+      "bytes": 124110,
+      "sha256": "3b5f0763b755304049ac2bf12266babd0e19f40cb5d37e68397e23d38599d381"
     },
     {
       "path": "readers/brecht/web/text-pages/005.html",
-      "bytes": 16534,
-      "sha256": "9ab0bd6ae2ef5caf4b06c310e498956326675bd99e7db85ad1f9ef84fe74e823"
+      "bytes": 20438,
+      "sha256": "7b239a24886223d4639e348ce8a614c045b5928aef39a82937b6f213497f68ff"
     },
     {
       "path": "readers/brecht/web/text-pages/006.html",
@@ -5383,43 +5403,48 @@
     },
     {
       "path": "readers/brecht/web/text-pages/080.html",
-      "bytes": 146924,
-      "sha256": "39fd8d2b38b9c6e081a7516ce2bd6e4fbde158f6abc856040b0cd4d5f49458b2"
+      "bytes": 142455,
+      "sha256": "1bcc1f83484c90b429dc19f5780e53fa9c1ca01720c6b9f9f35935ddd635a261"
     },
     {
       "path": "readers/brecht/web/text-pages/081.html",
-      "bytes": 171568,
-      "sha256": "ba0e8217cc66a2238a45f5a9f9a2807bb42969754770e5bc2efacae8d732b6e5"
+      "bytes": 143086,
+      "sha256": "c291a72071a57d57c54e11f0443680f5cfc3f55eddedac28e5cca2513f357062"
     },
     {
       "path": "readers/brecht/web/text-pages/082.html",
-      "bytes": 151918,
-      "sha256": "ac113f52be58215e8883ca32996c70c52b1f9e1b43a375222f8a6125e2c9f44f"
+      "bytes": 146924,
+      "sha256": "01d4dd94900e973b2c26f74741bb8d72bcbdcc129721cbec68aa0b43386af4d6"
     },
     {
       "path": "readers/brecht/web/text-pages/083.html",
-      "bytes": 196511,
-      "sha256": "09f952f53471488fc35dfc766881c57d69c86aa54c1fac3200184dec63fc7f90"
+      "bytes": 171568,
+      "sha256": "50a6686ee6b6e4453a2911b2b2fe29a8c8a06c707d08c98b0234a8adfd14f734"
     },
     {
       "path": "readers/brecht/web/text-pages/084.html",
-      "bytes": 194428,
-      "sha256": "8a890419bd91d3f29c75fd1ae69a10a4a7929143b9fec2eea4f8329e6a9faecd"
+      "bytes": 151845,
+      "sha256": "87e8b2497e41e80be748a30b82c6f652ddf547f2e1ce694510b056a5c67f3c06"
     },
     {
       "path": "readers/brecht/web/text-pages/085.html",
-      "bytes": 175160,
-      "sha256": "8916ebae19c7903fb648d41da309e564d03e18e557d4046c05ef8b65c1a2142e"
+      "bytes": 196584,
+      "sha256": "6320f5e4e334012c7ce310c3b01721b4c5cc020416b0ef40366b67d34a1fcfb0"
     },
     {
       "path": "readers/brecht/web/text-pages/086.html",
-      "bytes": 42996,
-      "sha256": "482f9a9bafb2fe023cfd39543089f97eaa5552b530f0be930b2db29868de5150"
+      "bytes": 194428,
+      "sha256": "a84845d812f7cd7be35e112abd1fd331f40b8e897032cffc69f536f713313be0"
     },
     {
       "path": "readers/brecht/web/text-pages/087.html",
+      "bytes": 226296,
+      "sha256": "2640d3644a7c86f094d168151d94bef32ce337730a757d156307215311fb2107"
+    },
+    {
+      "path": "readers/brecht/web/text-pages/088.html",
       "bytes": 42996,
-      "sha256": "2f9b020f20cc00f2bdbeed4cb1c8eb2d81417ccb5253475d786e8da5c3fc8193"
+      "sha256": "4aa589867b82d124bcf2f024ab1e1f987dc6b72d1971baea03063ddf67723ddf"
     },
     {
       "path": "readers/brecht/布莱希特诗选25首逐词译注读本.pdf",
@@ -5430,6 +5455,11 @@
       "path": "readers/brecht/布莱希特诗选28首逐词译注读本.pdf",
       "bytes": 2000349,
       "sha256": "e766007d55b50c6fbde927c7d4798942385b63652dfd5fdf7944776327b5f3d0"
+    },
+    {
+      "path": "readers/brecht/布莱希特诗选29首逐词译注读本.pdf",
+      "bytes": 1020568,
+      "sha256": "c26808f46c07ae2a692da14e54ed0741dba3156fc2bb4a6fde3d73df243ec672"
     },
     {
       "path": "readers/celan-new/ReaderSongBold-58a81559f2b8.woff2",
@@ -12443,8 +12473,8 @@
     },
     {
       "path": "release.json",
-      "bytes": 7107,
-      "sha256": "af534361284b14e1c4529602bd0e3174e4646358823127b499a760bfaefc8e44"
+      "bytes": 7450,
+      "sha256": "66a97b01d83c19258856cc08f1b5195a8e0a760191c1492ab37084d7f505a493"
     },
     {
       "path": "templates/语法手册项目模板.md",
@@ -12472,7 +12502,7 @@
       "sha256": "b43553460742dff618459da308cc9fa603e1575c86078a881cad2d42371e5b30"
     }
   ],
-  "updated": "2026-10-21",
+  "updated": "2026-10-27",
   "web_audio_readers": [
     {
       "name": "策兰《呼吸结晶》",
@@ -12512,13 +12542,13 @@
     },
     {
       "name": "布莱希特诗选",
-      "poems": 28,
-      "pdf_pages": 86,
+      "poems": 29,
+      "pdf_pages": 88,
       "recordings": 27,
       "author_recordings": 4,
       "path": "readers/brecht/index.html",
-      "pdf": "readers/brecht/布莱希特诗选28首逐词译注读本.pdf",
-      "pdf_sha256": "e766007d55b50c6fbde927c7d4798942385b63652dfd5fdf7944776327b5f3d0",
+      "pdf": "readers/brecht/布莱希特诗选29首逐词译注读本.pdf",
+      "pdf_sha256": "c26808f46c07ae2a692da14e54ed0741dba3156fc2bb4a6fde3d73df243ec672",
       "button_color": "#DE6262",
       "page_main_color": "#8B504E"
     },

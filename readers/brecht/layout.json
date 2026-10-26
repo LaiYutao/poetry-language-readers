@@ -1,6 +1,6 @@
 {
-  "pages": 86,
-  "poems": 28,
+  "pages": 88,
+  "poems": 29,
   "layout": [
     {
       "n": 1,
@@ -225,6 +225,14 @@
       "end": 79,
       "bottom": 380.69,
       "lines": 32
+    },
+    {
+      "n": 29,
+      "title": "Sie stieg hinauf",
+      "start": 80,
+      "end": 81,
+      "bottom": 325.29,
+      "lines": 8
     }
   ],
   "poem_pages": {
@@ -323,6 +331,9 @@
     "28": [
       77,
       78
+    ],
+    "29": [
+      80
     ]
   },
   "issues": [],
@@ -441,6 +452,10 @@
     "28": {
       "row_height": 29.0,
       "stanza_gap": 21.0
+    },
+    "29": {
+      "row_height": 29.0,
+      "stanza_gap": 21.0
     }
   },
   "line_styles": {
@@ -471,7 +486,8 @@
     "25": {},
     "26": {},
     "27": {},
-    "28": {}
+    "28": {},
+    "29": {}
   },
   "soft_wraps": {},
   "stanza_continuations": [

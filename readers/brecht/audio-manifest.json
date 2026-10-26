@@ -1,7 +1,7 @@
 {
-  "reader": "brecht-author-additions-local",
+  "reader": "brecht",
   "folder": "brecht-complete",
-  "date": "2026-10-19",
+  "date": "2026-10-26",
   "entries": [
     {
       "folder": "brecht-complete",
@@ -657,7 +657,7 @@
       "verification_limits": "原声可能采用不同于书面底本的唱词或读法，不能据自动转写反改原文。",
       "display_note": "诗人演唱原声；唱词与书面版本可能有个别异文。",
       "start_page": 75,
-      "end_page": 77
+      "end_page": 76
     },
     {
       "n": 28,
@@ -678,7 +678,21 @@
       "verification_limits": "原声可能采用不同于书面底本的唱词或读法，不能据自动转写反改原文。",
       "display_note": "诗人演唱原声；唱词与书面版本可能有个别异文。",
       "start_page": 77,
-      "end_page": 80
+      "end_page": 79
+    },
+    {
+      "n": 29,
+      "title": "Sie stieg hinauf",
+      "performer": "",
+      "kind": "",
+      "status": "not_found",
+      "playable": false,
+      "src": "",
+      "source_url": "",
+      "duration": 0,
+      "display_note": "尚未核实到本篇可用的真人录音。",
+      "start_page": 80,
+      "end_page": 81
     }
   ],
   "policy": "作者原声优先；未找到可靠录音时留缺，不使用合成语音。",
