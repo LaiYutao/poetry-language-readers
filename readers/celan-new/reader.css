@@ -51,3 +51,16 @@ header[data-layout="compact"] #playback{flex:0 0 100%;min-width:0;flex-wrap:wrap
 @font-face{font-family:"ReaderTimesBold";font-weight:700;src:url("ReaderTimesBold-e846f63a4ace.woff2") format("woff2");font-display:block}
 @font-face{font-family:"ReaderSongLight";font-weight:300;src:url("ReaderSongLight-6129f7f6ef0d.woff2") format("woff2");font-display:block}
 @font-face{font-family:"ReaderTimesItalic";font-weight:400;src:url("ReaderTimesItalic-7cdfc4a4665b.woff2") format("woff2");font-display:block}
+@font-face{font-family:"BracketReaderTimes";font-weight:400;src:url("ReaderTimes-9add6ac5e4b8.woff2") format("woff2");font-display:block}
+@font-face{font-family:"BracketReaderSongLight";font-weight:300;src:url("ReaderSongLight-9a2a0befee3e.woff2") format("woff2");font-display:block}
+@font-face{font-family:"BracketReaderSongBold";font-weight:700;src:url("ReaderSongBold-82660f691839.woff2") format("woff2");font-display:block}
+@font-face{font-family:"BracketReaderTimesBold";font-weight:700;src:url("ReaderTimesBold-1350f9c554cd.woff2") format("woff2");font-display:block}
+@font-face{font-family:"BracketReaderTimesItalic";font-weight:400;src:url("ReaderTimesItalic-3b5bf1fe46e4.woff2") format("woff2");font-display:block}
+
+@font-face{font-family:"ThatReaderTimes";font-weight:400;src:url("ReaderTimes-043c76f7eded.woff2") format("woff2");font-display:block}
+@font-face{font-family:"ThatReaderSongLight";font-weight:300;src:url("ReaderSongLight-d28f30ec015a.woff2") format("woff2");font-display:block}
+@font-face{font-family:"ThatReaderSongBold";font-weight:700;src:url("ReaderSongBold-e432852d00a3.woff2") format("woff2");font-display:block}
+@font-face{font-family:"ThatReaderTimesBold";font-weight:700;src:url("ReaderTimesBold-c36f9aa72629.woff2") format("woff2");font-display:block}
+
+@font-face{font-family:"ConnectorReaderTimes";font-weight:400;src:url("ReaderTimes-baa830e51412.woff2") format("woff2");font-display:block}
+@font-face{font-family:"ConnectorReaderSongLight";font-weight:300;src:url("ReaderSongLight-6cb51106d3b5.woff2") format("woff2");font-display:block}

@@ -40,3 +40,18 @@ header[data-layout="compact"] #playback{flex:0 0 100%;min-width:0;flex-wrap:wrap
 @font-face{font-family:"ReaderTimesItalic";font-weight:400;src:url("ReaderTimesItalic-08dd57cf037c.woff2") format("woff2");font-display:block}
 .sheet-vector{width:100%;height:auto;display:block}
 .audio-index{aspect-ratio:auto!important;min-height:400px;padding:40px;font:14px/1.7 system-ui,sans-serif}.audio-index h2{font-size:20px}.audio-index li{margin:18px 0}.audio-index a{color:#49617E}
+
+@font-face{font-family:"BracketReaderTimes";font-weight:400;src:url("ReaderTimes-81b2384fa2c1.woff2") format("woff2");font-display:block}
+@font-face{font-family:"BracketReaderSongLight";font-weight:300;src:url("ReaderSongLight-6f68dac82f2d.woff2") format("woff2");font-display:block}
+@font-face{font-family:"BracketReaderSongBold";font-weight:700;src:url("ReaderSongBold-7ff42c11d073.woff2") format("woff2");font-display:block}
+@font-face{font-family:"BracketReaderTimesBold";font-weight:700;src:url("ReaderTimesBold-9b21ef7d8afa.woff2") format("woff2");font-display:block}
+
+@font-face{font-family:"ThatReaderTimes";font-weight:400;src:url("ReaderTimes-7294367c16ce.woff2") format("woff2");font-display:block}
+@font-face{font-family:"ThatReaderTimesBold";font-weight:700;src:url("ReaderTimesBold-fca7468e2ee9.woff2") format("woff2");font-display:block}
+@font-face{font-family:"ThatReaderSongLight";font-weight:300;src:url("ReaderSongLight-0ef1eac8453b.woff2") format("woff2");font-display:block}
+@font-face{font-family:"ThatReaderSongBold";font-weight:700;src:url("ReaderSongBold-095b7f8ac2b5.woff2") format("woff2");font-display:block}
+
+@font-face{font-family:"ConnectorReaderTimes";font-weight:400;src:url("ReaderTimes-99514a77f3e0.woff2") format("woff2");font-display:block}
+@font-face{font-family:"ConnectorReaderSongLight";font-weight:300;src:url("ReaderSongLight-23be7e8acef4.woff2") format("woff2");font-display:block}
+@font-face{font-family:"ConnectorReaderSongBold";font-weight:700;src:url("ReaderSongBold-970d920ea9d4.woff2") format("woff2");font-display:block}
+@font-face{font-family:"ConnectorReaderTimesBold";font-weight:700;src:url("ReaderTimesBold-224da08c6d2b.woff2") format("woff2");font-display:block}

@@ -39,3 +39,13 @@ header[data-layout="compact"] #playback{flex:0 0 100%;min-width:0;flex-wrap:wrap
 @font-face{font-family:"ReaderSongLight";font-weight:300;src:url("ReaderSongLight-dadf67ee027a.woff2") format("woff2");font-display:block}
 .sheet-vector{width:100%;height:auto;display:block}
 .audio-index{aspect-ratio:auto!important;min-height:400px;padding:40px;font:14px/1.7 system-ui,sans-serif}.audio-index h2{font-size:20px}.audio-index li{margin:18px 0}.audio-index a{color:#915947}
+
+@font-face{font-family:"ThatReaderTimes";font-weight:400;src:url("ReaderTimes-65fa57a4bf47.woff2") format("woff2");font-display:block}
+@font-face{font-family:"ThatReaderSongLight";font-weight:300;src:url("ReaderSongLight-c8cc84035d98.woff2") format("woff2");font-display:block}
+@font-face{font-family:"ThatReaderSongBold";font-weight:700;src:url("ReaderSongBold-39384f568e9c.woff2") format("woff2");font-display:block}
+@font-face{font-family:"ThatReaderTimesBold";font-weight:700;src:url("ReaderTimesBold-a808575cd7ff.woff2") format("woff2");font-display:block}
+
+@font-face{font-family:"ConnectorReaderTimes";font-weight:400;src:url("ReaderTimes-44ce613a093e.woff2") format("woff2");font-display:block}
+@font-face{font-family:"ConnectorReaderSongLight";font-weight:300;src:url("ReaderSongLight-31046fc9b288.woff2") format("woff2");font-display:block}
+@font-face{font-family:"ConnectorReaderSongBold";font-weight:700;src:url("ReaderSongBold-d2202d85f390.woff2") format("woff2");font-display:block}
+@font-face{font-family:"ConnectorReaderTimesBold";font-weight:700;src:url("ReaderTimesBold-d45ada6cd96e.woff2") format("woff2");font-display:block}

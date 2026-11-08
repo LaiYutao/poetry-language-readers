@@ -1,6 +1,6 @@
 {
-  "version": "fifteen-readers-20261027",
-  "date": "2026-10-27",
+  "version": "fifteen-readers-20261108",
+  "date": "2026-11-08",
   "status": "release",
   "published": true,
   "poems": 402,
@@ -43,7 +43,7 @@
       "contents_page": 4,
       "continuation_notices": 13,
       "pdf": "巴赫曼诗选30首逐词译注读本.pdf",
-      "pdf_sha256": "a0ba131590729807c795980c91de141b53c68758fe4b4f1022c4ac904490990b",
+      "pdf_sha256": "24f69c1f81b389211b97b8811da4a4663d9d35dedbf8e8930538095879337411",
       "old_pdf_preserved": true
     },
     {
@@ -55,7 +55,7 @@
       "contents_page": 4,
       "continuation_notices": 13,
       "pdf": "贝恩诗选32首逐词译注读本.pdf",
-      "pdf_sha256": "d9ab36df79c13e86c8a6bbda798049755a2034c471d1ab5fa1b0bf11bf01e5b9",
+      "pdf_sha256": "d70c66ab00ff446b5a9e364da52a791e10a3b2383bac889fbd64d11d12ec743d",
       "old_pdf_preserved": true
     },
     {
@@ -67,7 +67,7 @@
       "contents_page": 4,
       "continuation_notices": 11,
       "pdf": "布莱希特诗选29首逐词译注读本.pdf",
-      "pdf_sha256": "c26808f46c07ae2a692da14e54ed0741dba3156fc2bb4a6fde3d73df243ec672",
+      "pdf_sha256": "c95608db989e4f7c361b8b65a65b07c9496becddcf5e1ec237dbcc98ddbdb68a",
       "old_pdf_preserved": false
     },
     {
@@ -79,7 +79,7 @@
       "contents_page": 4,
       "continuation_notices": 18,
       "pdf": "策兰诗选34首逐词译注读本.pdf",
-      "pdf_sha256": "c3c20f784c66b6c531f8ae6114198313d83f3703a7a36485dbe92a3df7ae55e5",
+      "pdf_sha256": "91b16965e5b7e33aa9cdb17ec77ea4d6d796cfd0ca9eb863adf9cbd117054b73",
       "old_pdf_preserved": true
     },
     {
@@ -91,7 +91,7 @@
       "contents_page": 4,
       "continuation_notices": 14,
       "pdf": "恩岑斯贝格尔_杨德尔诗选_逐词译注读本.pdf",
-      "pdf_sha256": "23a6de352ab45591fba1aa7c0670048c287374689a87b56b5849978184bd8009",
+      "pdf_sha256": "3e356b6b47551db5a14f419096cf639b4c5814ed0b6748c6fde6d9dac41a9f82",
       "old_pdf_preserved": false
     },
     {
@@ -103,7 +103,7 @@
       "contents_page": 4,
       "continuation_notices": 4,
       "pdf": "格奥尔格／荷夫曼斯塔尔30首逐词译注读本.pdf",
-      "pdf_sha256": "d70c49559e3328b3986cdaf96f72b4a94ac0c0b9a3694d4ec97447b1c5d4fe40",
+      "pdf_sha256": "96a87e5a47269428caa3710c4842ce2716635052b1240a968061c79da044beec",
       "old_pdf_preserved": true
     },
     {
@@ -115,7 +115,7 @@
       "contents_page": 4,
       "continuation_notices": 3,
       "pdf": "格林拜恩诗选_逐词译注读本.pdf",
-      "pdf_sha256": "42ef7dbae1a2222012d016459d2c46c95f691d7a4c9cfd4057c5217c217729a1",
+      "pdf_sha256": "10f1eae6cd812e80071840a409b339894b8c62bd9c69aa21055706a17a8e661c",
       "old_pdf_preserved": false
     },
     {
@@ -127,7 +127,7 @@
       "contents_page": 4,
       "continuation_notices": 11,
       "pdf": "海涅诗选_逐词译注读本.pdf",
-      "pdf_sha256": "4bf210b1482e1a7e3b42649469bbe518c5aa6c844bce0b6faacf2ed9f26a8817",
+      "pdf_sha256": "13e3ceee401dbb5d1c55b14581ae584f6815d55418798667210dbca6dededa7a",
       "old_pdf_preserved": false
     },
     {
@@ -139,7 +139,7 @@
       "contents_page": 4,
       "continuation_notices": 39,
       "pdf": "荷尔德林诗选_逐词译注读本.pdf",
-      "pdf_sha256": "059426805a60d66c620cf93ffe12b50e7933883bbb4ae021110a29a5b4be0b82",
+      "pdf_sha256": "8301bca9f9329e966b561b67d3bb95b9f64bb6f0cec25af81ccae8be3ee63bd2",
       "old_pdf_preserved": false
     },
     {
@@ -151,7 +151,7 @@
       "contents_page": 4,
       "continuation_notices": 4,
       "pdf": "拉斯克－许勒／萨克斯28首逐词译注读本.pdf",
-      "pdf_sha256": "d89d121f1c09138b54f179dd2e300933ea40d2a1abf0eccd48f7dbb5f1dc3265",
+      "pdf_sha256": "ebd46ee8ec0ae1a165caf5bb790e198a311616c706899750714f152531adef96",
       "old_pdf_preserved": true
     },
     {
@@ -163,7 +163,7 @@
       "contents_page": 4,
       "continuation_notices": 11,
       "pdf": "尼采诗选_逐词译注读本.pdf",
-      "pdf_sha256": "9c4611935829b718aa8e6a999021119ce7978522d54db14ff9e697db5bc4c2d4",
+      "pdf_sha256": "3bbdd02979a63aa465b4732b96fee5a1143c995cb81fa611346a9a7681885a52",
       "old_pdf_preserved": false
     },
     {
@@ -187,7 +187,7 @@
       "contents_page": 4,
       "continuation_notices": 22,
       "pdf": "诺瓦利斯_艾兴多夫_德罗斯特诗选_逐词译注读本.pdf",
-      "pdf_sha256": "5a95437774f4eb683fc977cf0f9b19bfbce6179a2f30834ffb31f28d39cee61c",
+      "pdf_sha256": "db4c43716adbf658c067553580e2bb3aab6caf761ee99e75d818bc1a5a252c2a",
       "old_pdf_preserved": false
     },
     {
@@ -243,5 +243,19 @@
       390
     ],
     "new_poem_recording_available": false
+  },
+  "gloss_revision": {
+    "readers": 12,
+    "poems": 109,
+    "changed_glosses": 387,
+    "changed_pages": 145,
+    "files": 316,
+    "themes": [
+      "可分动词配对",
+      "dass／daß",
+      "连词与从句引导词"
+    ],
+    "first_three_readers_unchanged": true,
+    "poem_text_translation_pagination_and_audio_unchanged": true
   }
 }
