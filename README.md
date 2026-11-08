@@ -32,9 +32,9 @@ PDF 与网页正文来自同一份版面；原文、逐词引线、语法辅助�
 
 ## 配套语法手册
 
-系列复用[《策兰〈呼吸结晶〉德语语法阅读手册》v2.3](publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.3.pdf)。
+系列复用[《策兰〈呼吸结晶〉德语语法阅读手册》v2.4](publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.4.pdf)。
 
-v2.3共104页。第4.8节（PDF第28页）用《Corona》及英语 It is time 讲解形式主语 es；第7.3节（PDF第36页）补充 dass／daß 和从句功能。第1章的标点说明保留，v2.1、v2.2仍可查阅。
+v2.4共107页。第7.6节（PDF第37–39页）新增连词的英德对照：wenn 的 if／when 两种读法、als／ob／wann、because／since／while，以及 that 和 so that 的不同用法。第4页速查、正文和附录 F.3 可跳转至该节。第4.8节的形式主语 es 与第7.3节的 dass／daß 说明保留，v2.1–v2.3仍可查阅。
 
 ## 编纂与设计
 

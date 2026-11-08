@@ -3,10 +3,15 @@
   "documents": [
     {
       "name": "策兰《呼吸结晶》德语语法阅读手册",
-      "version": "2.3",
-      "pdf_pages": 104,
-      "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.3.pdf",
+      "version": "2.4",
+      "pdf_pages": 107,
+      "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.4.pdf",
       "previous_versions": [
+        {
+          "version": "2.3",
+          "pdf_pages": 104,
+          "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.3.pdf"
+        },
         {
           "version": "2.2",
           "pdf_pages": 103,
@@ -128,8 +133,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 10800,
-      "sha256": "43531ae4bbbc13245b8bbd02df1c9c290647406089ecf9f122d03b644a6500c3"
+      "bytes": 11112,
+      "sha256": "87c06430ddc9322266d9659d4f8f95318c5c1f7143575a5f9ac3fa76adfe0373"
     },
     {
       "path": "COPYRIGHT.md",
@@ -138,8 +143,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4564,
-      "sha256": "211e260e1cbca334405fa806d740109a275abccd1506bfcc8035b4f23c7dc035"
+      "bytes": 4693,
+      "sha256": "04481468a413ff8726f4bfda4011da383f75b32cf7de66666ac7e4e8920fc9ab"
     },
     {
       "path": "SOURCES.md",
@@ -1255,6 +1260,16 @@
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.3.pdf",
       "bytes": 3136536,
       "sha256": "d17f3c8967558dae22d3dab55636944967ce60101fe942c5fb4dddd23d01b7cb"
+    },
+    {
+      "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.4.md",
+      "bytes": 275124,
+      "sha256": "dc1ed39fd7af0ab709898095ce402d902a148123ac01e8942d76b33eaeb32182"
+    },
+    {
+      "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.4.pdf",
+      "bytes": 3154053,
+      "sha256": "f7f7c5e7a6f4a104c58e0e5b3c3f9de1d2e71801b9aa50a4fe435293fdeb553c"
     },
     {
       "path": "publications/de/rilke-selected/alignment.json",
@@ -13114,7 +13129,7 @@
     {
       "path": "release.json",
       "bytes": 7799,
-      "sha256": "f25e6963a7b1224a04e9e3523d9a6711b309fae9df2d46ccb09d9d654e00aa7b"
+      "sha256": "04907201471710843ded4fef3f10652f92a6aa2cdfba61ee2ad21774ba2e5e65"
     },
     {
       "path": "templates/语法手册项目模板.md",
