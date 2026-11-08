@@ -3,10 +3,15 @@
   "documents": [
     {
       "name": "策兰《呼吸结晶》德语语法阅读手册",
-      "version": "2.2",
-      "pdf_pages": 103,
-      "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.2.pdf",
+      "version": "2.3",
+      "pdf_pages": 104,
+      "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.3.pdf",
       "previous_versions": [
+        {
+          "version": "2.2",
+          "pdf_pages": 103,
+          "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.2.pdf"
+        },
         {
           "version": "2.1",
           "pdf_pages": 98,
@@ -123,8 +128,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 9925,
-      "sha256": "aae270656e762c85ae493a19fc5c35e6239c6916db1667c08b72a24a3a49abcf"
+      "bytes": 10299,
+      "sha256": "ce798f040f4a729e8f571c8c09cc7a550adb850534adada6b96d1f2af75713e6"
     },
     {
       "path": "COPYRIGHT.md",
@@ -133,8 +138,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4524,
-      "sha256": "081161e7f82b3c0778f7580cd29a29fccc9bf37a661c0fb1aab4fd596f02d36d"
+      "bytes": 4564,
+      "sha256": "48add1e0ee9098386cd1175e4044326f187ae1443c046c82a287423931991de2"
     },
     {
       "path": "SOURCES.md",
@@ -1240,6 +1245,16 @@
       "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.2.pdf",
       "bytes": 3125936,
       "sha256": "d32954bd6119715195e17c37c87bb4b1ed06b449b6dca4750422821820cf29a8"
+    },
+    {
+      "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.3.md",
+      "bytes": 267209,
+      "sha256": "3c3559d01bb20ca71bd8eda458eededd328a39e86ec487bd60339ab6f84ce1cb"
+    },
+    {
+      "path": "publications/de/celan-atemkristall/策兰《呼吸结晶》德语语法阅读手册_v2.3.pdf",
+      "bytes": 3136536,
+      "sha256": "d17f3c8967558dae22d3dab55636944967ce60101fe942c5fb4dddd23d01b7cb"
     },
     {
       "path": "publications/de/rilke-selected/alignment.json",
@@ -12474,7 +12489,7 @@
     {
       "path": "release.json",
       "bytes": 7450,
-      "sha256": "66a97b01d83c19258856cc08f1b5195a8e0a760191c1492ab37084d7f505a493"
+      "sha256": "da7456e406b3e6fa6ec5ef2a0532956b4b30f42b2689363418ea1be0700a4a5f"
     },
     {
       "path": "templates/语法手册项目模板.md",
@@ -12502,7 +12517,7 @@
       "sha256": "b43553460742dff618459da308cc9fa603e1575c86078a881cad2d42371e5b30"
     }
   ],
-  "updated": "2026-10-27",
+  "updated": "2026-11-08",
   "web_audio_readers": [
     {
       "name": "策兰《呼吸结晶》",
