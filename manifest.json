@@ -133,8 +133,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 11112,
-      "sha256": "87c06430ddc9322266d9659d4f8f95318c5c1f7143575a5f9ac3fa76adfe0373"
+      "bytes": 11494,
+      "sha256": "b8f913874550d1c9c957ee961562894e939ed16087e7196119f4ffc252bf58fd"
     },
     {
       "path": "COPYRIGHT.md",
@@ -2607,14 +2607,29 @@
       "sha256": "38d6e419321a4f4e7ecd0373b2ee82d901d39cedb560dd95bda878de14ec1541"
     },
     {
+      "path": "readers/atemkristall/ReaderSongBold-3b985aac52e5.woff2",
+      "bytes": 3268,
+      "sha256": "3b985aac52e59f0cca4fae57840e8799deb94fe50b353163a99f4dbfb721aae7"
+    },
+    {
       "path": "readers/atemkristall/ReaderSongLight-94983f1799a1.woff2",
       "bytes": 176236,
       "sha256": "94983f1799a145a47449dcc2e0e8c9480e98bc33a10d600ed93c24fcb1da067b"
     },
     {
+      "path": "readers/atemkristall/ReaderSongLight-d03e3318b339.woff2",
+      "bytes": 15852,
+      "sha256": "d03e3318b33905e56588b39d9478614b280888cadad18bffeac796ed4eff3364"
+    },
+    {
       "path": "readers/atemkristall/ReaderSongLight-d42734830bed.woff2",
       "bytes": 176340,
       "sha256": "d42734830bed2e531125953bcd35023641706e8210368665c550b29c3973ad21"
+    },
+    {
+      "path": "readers/atemkristall/ReaderTimes-36699a4052c2.woff2",
+      "bytes": 26072,
+      "sha256": "36699a4052c2cbf2719bbc49fcaf086387385ebc24c60cea017e21acaf02b56a"
     },
     {
       "path": "readers/atemkristall/ReaderTimes-82a248cfd4e0.woff2",
@@ -2635,6 +2650,11 @@
       "path": "readers/atemkristall/ReaderTimesBold-2a360dcd3413.woff2",
       "bytes": 25464,
       "sha256": "2a360dcd34137a7b23a165c61d758e1978c1119903fb1e89fa43bd3372426d73"
+    },
+    {
+      "path": "readers/atemkristall/ReaderTimesBold-b66c53dd4bfc.woff2",
+      "bytes": 12172,
+      "sha256": "b66c53dd4bfc6a04c21f1ce87b58ae2a66afdba6b0c0967b0f20464b47f9ed92"
     },
     {
       "path": "readers/atemkristall/audio-player.css",
@@ -2753,13 +2773,13 @@
     },
     {
       "path": "readers/atemkristall/index.html",
-      "bytes": 70875,
-      "sha256": "92311069eac9dc0a72d576d266d157fac3ee84d3b4d8f100a60b744f17ab1572"
+      "bytes": 70890,
+      "sha256": "befc6f708341b1df3908a9e4d46f602b59cef4c45b19959dcdefe4ffe2f46d58"
     },
     {
       "path": "readers/atemkristall/reader.css",
-      "bytes": 19864,
-      "sha256": "7e49bb8bc77cdb392f5b97ce6d525d1f8f685bba31192e9602106dfcbea1a093"
+      "bytes": 20443,
+      "sha256": "b66260cfc389c7cbfa1e795e18b59a6e039d5d71348cddbd07111c680646100c"
     },
     {
       "path": "readers/atemkristall/series.css",
@@ -2928,8 +2948,8 @@
     },
     {
       "path": "readers/atemkristall/web/text-pages/033.html",
-      "bytes": 88631,
-      "sha256": "6fda98a313cd6ae6a1f7783f2b48c7a82fa3828a71f45ec8cf245762cc3b5250"
+      "bytes": 92409,
+      "sha256": "9022d9ac89a814c3b99b2dccf4bd4bcb38329a67bb66cf2313ec70b7ce9963aa"
     },
     {
       "path": "readers/atemkristall/web/text-pages/034.html",
@@ -3018,8 +3038,8 @@
     },
     {
       "path": "readers/atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0.pdf",
-      "bytes": 714405,
-      "sha256": "008bdd72e8e61ccafa1c9b1c6319b3640bdd15a034a1502dd58c5c963e4fc501"
+      "bytes": 800883,
+      "sha256": "53bd31bbc1fc4109c93057ba22230d51828fc8e82a7676208058e5cbe6b21ed6"
     },
     {
       "path": "readers/bachmann/ReaderSongBold-200fd95ee65b.woff2",
@@ -3040,6 +3060,11 @@
       "path": "readers/bachmann/ReaderSongBold-a30945074c64.woff2",
       "bytes": 64524,
       "sha256": "a30945074c64697b5cee8c368ebaf028f2ad569a6b14dfd454e6023b36198091"
+    },
+    {
+      "path": "readers/bachmann/ReaderSongBold-a39cfc827307.woff2",
+      "bytes": 1896,
+      "sha256": "a39cfc82730707eeb0cb7071d31f33d0e27f2ccf7d3e119eac956934421c4a40"
     },
     {
       "path": "readers/bachmann/ReaderSongBold-d8b9000555e9.woff2",
@@ -3097,6 +3122,11 @@
       "sha256": "855043c3baf4008c89e2f6a7d5d59d28ab26b4190fe727dae5fca81ccfbd0ac6"
     },
     {
+      "path": "readers/bachmann/ReaderSongLight-9088f7cfb664.woff2",
+      "bytes": 50020,
+      "sha256": "9088f7cfb664e9f4d6714ae8ae9929a352ca4eaf397b6cbf6e513f4a1d250e94"
+    },
+    {
       "path": "readers/bachmann/ReaderSongLight-c3c034e60efe.woff2",
       "bytes": 326060,
       "sha256": "c3c034e60efe4fa8672818da9dd998d9fc93262a19ee162cef8374ae0f673f92"
@@ -3137,6 +3167,11 @@
       "sha256": "db9cf90247753b58dfe12fd588a4c55c851a05ad4d61973a9ec8d4fadf9e1cd2"
     },
     {
+      "path": "readers/bachmann/ReaderTimes-f9a81cdfb60e.woff2",
+      "bytes": 30920,
+      "sha256": "f9a81cdfb60ec13e4d0170607eb73e469354ea4fb3451fc3fb096f5c023c66b3"
+    },
+    {
       "path": "readers/bachmann/ReaderTimes-fcb7e9c63178.woff2",
       "bytes": 36928,
       "sha256": "fcb7e9c631783bbbb146644b9762a31ad5f3cb5a1363265ebc1dff976cc36fca"
@@ -3155,6 +3190,11 @@
       "path": "readers/bachmann/ReaderTimesBold-76c1a205388b.woff2",
       "bytes": 10580,
       "sha256": "76c1a205388b7772987c3dd6d42b8c2d2d0eb2dd95067e00da52525af4d7000a"
+    },
+    {
+      "path": "readers/bachmann/ReaderTimesBold-9cb84387be02.woff2",
+      "bytes": 6584,
+      "sha256": "9cb84387be022a2861264b916d1cd03917d2ebe171698ddcdc40d9d9d3dfdcf2"
     },
     {
       "path": "readers/bachmann/ReaderTimesBold-a527dfa06149.woff2",
@@ -3348,13 +3388,13 @@
     },
     {
       "path": "readers/bachmann/content.json",
-      "bytes": 497187,
-      "sha256": "9ec3e9073319c63e8aaaa7ff0f8b61bbf2cff9e51c7905c839fed88bc8f4e084"
+      "bytes": 497204,
+      "sha256": "0ac2c1fd2d24afb432ed805c347fdb9d6ea76b8cc3f599a656ee7f34a001b69b"
     },
     {
       "path": "readers/bachmann/index.html",
       "bytes": 90482,
-      "sha256": "deb586955a9e372e9f96f1b92e03e015c45c46351cf59103b722754bd73729fa"
+      "sha256": "ab15990447f016a5dda6b6c910e20339df4e0db36828a67b1879867a88c9cf68"
     },
     {
       "path": "readers/bachmann/layout.json",
@@ -3363,8 +3403,8 @@
     },
     {
       "path": "readers/bachmann/reader.css",
-      "bytes": 23476,
-      "sha256": "c66c4f7271637b26dda7f46f87e3d6f17b615d259116c08b63632f46e4368648"
+      "bytes": 24055,
+      "sha256": "a8d3d9cb1ab493c1330e8569e19c3383b6dd9e167c7b1b15ecf3d9f8677016e1"
     },
     {
       "path": "readers/bachmann/series.css",
@@ -3374,7 +3414,7 @@
     {
       "path": "readers/bachmann/web-validation.json",
       "bytes": 9186,
-      "sha256": "52a1bd82b08b3e182c485585692a614f27cce3b8d684035840d18071977c2708"
+      "sha256": "0401f76cf1c450cd668b0cb0c8ac5b022e0f09e79ba9123da3132a8d1a92c144"
     },
     {
       "path": "readers/bachmann/web/text-pages/001.html",
@@ -3603,8 +3643,8 @@
     },
     {
       "path": "readers/bachmann/web/text-pages/046.html",
-      "bytes": 284437,
-      "sha256": "b9c4b23678aab415a24c24de7a9cbcc6e13a866c573e78f2093c9a030125ccf1"
+      "bytes": 286303,
+      "sha256": "945bfd3f8a840b5d4e80be67fa95ede85707ebe11b0b442fd2a78b8c999fd387"
     },
     {
       "path": "readers/bachmann/web/text-pages/047.html",
@@ -3628,8 +3668,8 @@
     },
     {
       "path": "readers/bachmann/web/text-pages/051.html",
-      "bytes": 246777,
-      "sha256": "09513e989acd0a34efdea8c777a2ef0e69864c8e5290ceb2643ee7d2a678d3e9"
+      "bytes": 256662,
+      "sha256": "b377ef3351fa86724375e4554d415b4eaf6a3814c9a018e0fce1203e80d4e212"
     },
     {
       "path": "readers/bachmann/web/text-pages/052.html",
@@ -3943,8 +3983,8 @@
     },
     {
       "path": "readers/bachmann/巴赫曼诗选30首逐词译注读本.pdf",
-      "bytes": 1916847,
-      "sha256": "24f69c1f81b389211b97b8811da4a4663d9d35dedbf8e8930538095879337411"
+      "bytes": 1929607,
+      "sha256": "4ac69d7744d7fc0098b617a395919e36ec9c9ba1c78203b377dc0b41e3185c26"
     },
     {
       "path": "readers/benn/ReaderSongBold-1fb554cb9be3.woff2",
@@ -4847,6 +4887,11 @@
       "sha256": "05b3ca473aefa4d629ca853091d0138d57c7800b1df4dc4c2c549444ac5eac09"
     },
     {
+      "path": "readers/brecht/ReaderSongBold-2ffb688629c4.woff2",
+      "bytes": 5768,
+      "sha256": "2ffb688629c452d679acb60479461a9d6dc609a4eb307704f8bcda92ea77a479"
+    },
+    {
       "path": "readers/brecht/ReaderSongBold-5438609619f2.woff2",
       "bytes": 60396,
       "sha256": "5438609619f2b12aba223ab5cd0e9a98e99ed3c39052fb14824038d27278d460"
@@ -4927,6 +4972,11 @@
       "sha256": "df2b209bfd2c335adb63bb20988ec9b78ad4837b544581bf1b9f2134a4e14f89"
     },
     {
+      "path": "readers/brecht/ReaderSongLight-e7787b9383bf.woff2",
+      "bytes": 38744,
+      "sha256": "e7787b9383bf2ecbc258a4ffcc1b76b08e037f5cba996ff19c3dc2208385fc84"
+    },
+    {
       "path": "readers/brecht/ReaderSongLight-ef035f17bfaa.woff2",
       "bytes": 259612,
       "sha256": "ef035f17bfaaa8f526a72a306c6171a0a16a16f4eb50dd5f18ea5433e128e547"
@@ -4955,6 +5005,11 @@
       "path": "readers/brecht/ReaderTimes-936721ddfd3d.woff2",
       "bytes": 33008,
       "sha256": "936721ddfd3dc1aa935af8ac9ab7eff1f5e89363f32f2c8c627327d26e63c622"
+    },
+    {
+      "path": "readers/brecht/ReaderTimes-9be3738e23a0.woff2",
+      "bytes": 28396,
+      "sha256": "9be3738e23a01e55a7630ac894341e404701ff5e5b03ce3bd0392b1b53c065ed"
     },
     {
       "path": "readers/brecht/ReaderTimes-c75683d8a547.woff2",
@@ -5020,6 +5075,11 @@
       "path": "readers/brecht/ReaderTimesBold-cd98c2817c4b.woff2",
       "bytes": 27104,
       "sha256": "cd98c2817c4bc1b947d697714ece7f5341f68c37011dc0e0f4e0f3ef11bb8062"
+    },
+    {
+      "path": "readers/brecht/ReaderTimesBold-f2d56b9dfd79.woff2",
+      "bytes": 16456,
+      "sha256": "f2d56b9dfd799c7f4aa5228e00052650788e121102b013845b41f2eb3edb0038"
     },
     {
       "path": "readers/brecht/audio-manifest.json",
@@ -5173,13 +5233,13 @@
     },
     {
       "path": "readers/brecht/content.json",
-      "bytes": 411553,
-      "sha256": "cdf9f16d3405b563b4977b7826f3fa643626f1a06ee156ea896bfd85732b7e35"
+      "bytes": 411560,
+      "sha256": "268f8f6958133d642e05b21bc591e3db86adab8e54bb7eee4ebaf167dcae7610"
     },
     {
       "path": "readers/brecht/index.html",
       "bytes": 84728,
-      "sha256": "42377c4d83baf471f7a7840c93b7ac7b17e6990d7d0bd7dde9b3986c470d4844"
+      "sha256": "89c65bb9837cbd19b1ea83d8457ccd5d0e878d7b42e6fa1774f7a6cec33ee5e6"
     },
     {
       "path": "readers/brecht/layout.json",
@@ -5188,8 +5248,8 @@
     },
     {
       "path": "readers/brecht/reader.css",
-      "bytes": 22798,
-      "sha256": "5b69dd4145a13e2051a3bda55946dfbd8cf37824f2bf43ff4244c459afc166e6"
+      "bytes": 23377,
+      "sha256": "158f1f6cc6ff4b07997cb8f79067924f75de092d21821b0c541334a7eb976155"
     },
     {
       "path": "readers/brecht/series.css",
@@ -5199,7 +5259,7 @@
     {
       "path": "readers/brecht/web-validation.json",
       "bytes": 7254,
-      "sha256": "bc4655a395caa68157a36cf6ce2718428fd16b9795e14e24504b920c4a428d3b"
+      "sha256": "1fd134a6d4bc53a6f96fc949f78070f394e2045e1663df3e01fc8d4e34e95083"
     },
     {
       "path": "readers/brecht/web/text-pages/001.html",
@@ -5578,8 +5638,8 @@
     },
     {
       "path": "readers/brecht/web/text-pages/076.html",
-      "bytes": 199983,
-      "sha256": "cac5d631919d6b02f917fb84711814642b0dee31d21aadc8d0fdf97bb97e4448"
+      "bytes": 210567,
+      "sha256": "549efd3ccd6f3df69bd1260943e3439629cf49a07ad62752b0d0c45bfe7e39bb"
     },
     {
       "path": "readers/brecht/web/text-pages/077.html",
@@ -5653,8 +5713,13 @@
     },
     {
       "path": "readers/brecht/布莱希特诗选29首逐词译注读本.pdf",
-      "bytes": 1199062,
-      "sha256": "c95608db989e4f7c361b8b65a65b07c9496becddcf5e1ec237dbcc98ddbdb68a"
+      "bytes": 1278261,
+      "sha256": "f3927d1b472b3f8511f36ee9c3e6bd11ed201cd64baf0e9b7d3f40a94a688c9c"
+    },
+    {
+      "path": "readers/celan-new/ReaderSongBold-02e9f1968c5d.woff2",
+      "bytes": 1900,
+      "sha256": "02e9f1968c5d173da4976fa9c285d5a92fe80c51778dcfd1b5a8854621a0da2c"
     },
     {
       "path": "readers/celan-new/ReaderSongBold-58a81559f2b8.woff2",
@@ -5717,6 +5782,11 @@
       "sha256": "7c1d440ae9d547a0c221bf80adabcb66144d57f097d2f6df1a54b6a1dc9acc72"
     },
     {
+      "path": "readers/celan-new/ReaderSongLight-7def123464f3.woff2",
+      "bytes": 44484,
+      "sha256": "7def123464f3b438b5cec426e87a88fe1ccac004f708465e92ee355f0b7b75f9"
+    },
+    {
       "path": "readers/celan-new/ReaderSongLight-9a2a0befee3e.woff2",
       "bytes": 141584,
       "sha256": "9a2a0befee3e64c588c7f659b06f4a6dc1180d95e8a52e1f8b5892db0f4a6275"
@@ -5750,6 +5820,11 @@
       "path": "readers/celan-new/ReaderTimes-4239582ff5ce.woff2",
       "bytes": 39316,
       "sha256": "4239582ff5ce73f4e2af9bb7523381c630fdf5b3dc68ce6738455441245cdd3d"
+    },
+    {
+      "path": "readers/celan-new/ReaderTimes-4f11c3185817.woff2",
+      "bytes": 31464,
+      "sha256": "4f11c3185817c546b2da78b7f0c1d0cbbf91f3ae2eaa4033400b0532f8cca7f1"
     },
     {
       "path": "readers/celan-new/ReaderTimes-5285ab128ff5.woff2",
@@ -5790,6 +5865,11 @@
       "path": "readers/celan-new/ReaderTimesBold-1350f9c554cd.woff2",
       "bytes": 17196,
       "sha256": "1350f9c554cdbd382543d6028447b250276dd3df954d0de5cf13c940ec604237"
+    },
+    {
+      "path": "readers/celan-new/ReaderTimesBold-2496ab3db859.woff2",
+      "bytes": 6584,
+      "sha256": "2496ab3db85922d078231c6cfd0805e6e50831ddc2217a799764027cce08843f"
     },
     {
       "path": "readers/celan-new/ReaderTimesBold-338e2ebeabe1.woff2",
@@ -5840,6 +5920,11 @@
       "path": "readers/celan-new/ReaderTimesItalic-2f76a74a3b07.woff2",
       "bytes": 10572,
       "sha256": "2f76a74a3b07011c6540cb9edfafe6124fb0fd30598683296f829348105e11b2"
+    },
+    {
+      "path": "readers/celan-new/ReaderTimesItalic-3100c1939ef7.woff2",
+      "bytes": 14564,
+      "sha256": "3100c1939ef77e3fde93e41310b062f82402e3c64a59c7858714fb1402dddd61"
     },
     {
       "path": "readers/celan-new/ReaderTimesItalic-3b5bf1fe46e4.woff2",
@@ -6043,13 +6128,13 @@
     },
     {
       "path": "readers/celan-new/content.json",
-      "bytes": 515889,
-      "sha256": "30d2cca97d1bbb8aad32780626597fea985a2230d823f00253b5a63932364f03"
+      "bytes": 515907,
+      "sha256": "d6823991a550bb5a1135744e4025feec8ed1462d9e5b185a024330014490fb51"
     },
     {
       "path": "readers/celan-new/index.html",
       "bytes": 98947,
-      "sha256": "9f6338495ede9eeb9d8aac7a55d02bc1e7b9a3bc83bd3c4125f4178da4f88c67"
+      "sha256": "918c0edf9f718da0385815222cafb0e8ab45310589741a4fe625333835da7fea"
     },
     {
       "path": "readers/celan-new/layout.json",
@@ -6058,8 +6143,8 @@
     },
     {
       "path": "readers/celan-new/reader.css",
-      "bytes": 22537,
-      "sha256": "142541ee9d2816248ca8b567125750ccfd9a60a7816d6fea069536b538bf672d"
+      "bytes": 23267,
+      "sha256": "aa83edcf507c6f4eb29157aff3462220dc1f2f9a625477f5370b7d1961c34f8f"
     },
     {
       "path": "readers/celan-new/series.css",
@@ -6069,7 +6154,7 @@
     {
       "path": "readers/celan-new/web-validation.json",
       "bytes": 11113,
-      "sha256": "737c326779552f7f6eef58c66bbf232cbe32959557062607921f1dd8fe1b47df"
+      "sha256": "7b1c5998fe15f6396e82a79c6fa6ba44f7aa08f2bbde800a9b7598aa965fba2c"
     },
     {
       "path": "readers/celan-new/web/text-pages/001.html",
@@ -6108,8 +6193,8 @@
     },
     {
       "path": "readers/celan-new/web/text-pages/008.html",
-      "bytes": 235550,
-      "sha256": "7d92a4d5124f36e94099ab3858ada7bbadf64faec13e842cc9383053448fb87d"
+      "bytes": 239930,
+      "sha256": "8b68aafee60b5d0e8aac7c3ba6455be0fcac4d9d6476afbf7c5f9f5ce34c6165"
     },
     {
       "path": "readers/celan-new/web/text-pages/009.html",
@@ -6343,8 +6428,8 @@
     },
     {
       "path": "readers/celan-new/web/text-pages/055.html",
-      "bytes": 147713,
-      "sha256": "0600dd98a12173e9d0d024d7b06db432a95ae74e7a30eeb14bb55835bd1807d7"
+      "bytes": 154029,
+      "sha256": "7be21e439b2ff5b56f919850a0501957db0cb26dfa77d50f815cb27bdb89d8f9"
     },
     {
       "path": "readers/celan-new/web/text-pages/056.html",
@@ -6618,8 +6703,8 @@
     },
     {
       "path": "readers/celan-new/web/text-pages/110.html",
-      "bytes": 145686,
-      "sha256": "ddb920e7ad06752ccc739868f26a89746df6e9e739f281fb9337eafd238250ce"
+      "bytes": 151943,
+      "sha256": "59402ec2d8849595015dbf3d0d587d404e4bd5018d2612cf1b5d13a80a7dee43"
     },
     {
       "path": "readers/celan-new/web/text-pages/111.html",
@@ -6763,13 +6848,18 @@
     },
     {
       "path": "readers/celan-new/策兰诗选34首逐词译注读本.pdf",
-      "bytes": 2007848,
-      "sha256": "91b16965e5b7e33aa9cdb17ec77ea4d6d796cfd0ca9eb863adf9cbd117054b73"
+      "bytes": 2016988,
+      "sha256": "733f5beb2a9726787745b5cbf70da99016c93db1aed403c698714bab709be0de"
     },
     {
       "path": "readers/enzensberger-jandl/ReaderSongBold-4d7d81b34a7c.woff2",
       "bytes": 3068,
       "sha256": "4d7d81b34a7c28ed6f1e2b5ef55e6a3550d82d161ab252978ea9d690bf32fce1"
+    },
+    {
+      "path": "readers/enzensberger-jandl/ReaderSongBold-82d03864af3d.woff2",
+      "bytes": 3076,
+      "sha256": "82d03864af3d358dab0462d0419bf3b17ed9f8b72e66c33a6d9a3a12c4cb3bac"
     },
     {
       "path": "readers/enzensberger-jandl/ReaderSongBold-a870a634dda8.woff2",
@@ -6807,9 +6897,19 @@
       "sha256": "94908b555e4270dd00eb619afe9b177836f65684f9f68c4c5e7589cec1582388"
     },
     {
+      "path": "readers/enzensberger-jandl/ReaderSongLight-f9cf11ec7240.woff2",
+      "bytes": 65008,
+      "sha256": "f9cf11ec724093ccfb212a92cd9bb13dbfbe7858700685a05f791a29a4ea1681"
+    },
+    {
       "path": "readers/enzensberger-jandl/ReaderTimes-2c78ba46ada3.woff2",
       "bytes": 31232,
       "sha256": "2c78ba46ada3dbca34f500c8f277769115849df32c2c003aae35c0c1d42e8264"
+    },
+    {
+      "path": "readers/enzensberger-jandl/ReaderTimes-2f69aeabc779.woff2",
+      "bytes": 29964,
+      "sha256": "2f69aeabc779766be314471dd403832d53e9538db96ae93820c12e74884b3db0"
     },
     {
       "path": "readers/enzensberger-jandl/ReaderTimes-8758938e1b28.woff2",
@@ -6830,6 +6930,11 @@
       "path": "readers/enzensberger-jandl/ReaderTimesBold-02b1f25c281b.woff2",
       "bytes": 12756,
       "sha256": "02b1f25c281bed4dee2a746a783b28e5c37a2e032e68921789cf9b4954eacb4d"
+    },
+    {
+      "path": "readers/enzensberger-jandl/ReaderTimesBold-08741ca7a4ba.woff2",
+      "bytes": 10504,
+      "sha256": "08741ca7a4ba0f82052a6c52acafe58b11814615ba41c55e27abea2f8b22f9ca"
     },
     {
       "path": "readers/enzensberger-jandl/ReaderTimesBold-3b1fd0fed421.woff2",
@@ -6983,13 +7088,13 @@
     },
     {
       "path": "readers/enzensberger-jandl/content.json",
-      "bytes": 426763,
-      "sha256": "587b5bf9be5be97788d0de7dc28d4b4251771c5f2c88f8358380bce2e9f267da"
+      "bytes": 426777,
+      "sha256": "e279e02bc2979fda7713317c8e381a70644c42a8da0e9c8125902ab7ba37396d"
     },
     {
       "path": "readers/enzensberger-jandl/index.html",
       "bytes": 97483,
-      "sha256": "5357a7add7a7d155c96f7c2a3003f50112fd08cfbbf51965975535c07f9f02b2"
+      "sha256": "efe6828e0a88f5967c776ec078fcf7565a9086f0f1cbfe23a22666bf7371fa34"
     },
     {
       "path": "readers/enzensberger-jandl/layout.json",
@@ -6998,13 +7103,13 @@
     },
     {
       "path": "readers/enzensberger-jandl/reader.css",
-      "bytes": 21160,
-      "sha256": "9cb46fcf6d34c6c69a936f7412a75bd4dba93604f153e4e6e78c7351578682f6"
+      "bytes": 21739,
+      "sha256": "b913fd39ad0b966730354e9208c4ae72ff408fcae087806c57ac17aace70c0c7"
     },
     {
       "path": "readers/enzensberger-jandl/web-validation.json",
       "bytes": 9204,
-      "sha256": "8041e15a6f79467660d6a55e02894addf55c7a9ab5d5ae87b96ce4c2bfb076ab"
+      "sha256": "589ab1aa032a4c1b3c1a54d1a5f028193bf9f9023fed16db088ae78b308610c2"
     },
     {
       "path": "readers/enzensberger-jandl/web/text-pages/001.html",
@@ -7028,8 +7133,8 @@
     },
     {
       "path": "readers/enzensberger-jandl/web/text-pages/005.html",
-      "bytes": 223709,
-      "sha256": "2674437263e60c3c6789ad8dbc6ef5a44d40b487322cf6d3893c54ee5315b709"
+      "bytes": 233128,
+      "sha256": "f887ae475c737650ccd29d74cfb64a9342e2d8f3c1cf6f2ad8552f13b7c2ad0a"
     },
     {
       "path": "readers/enzensberger-jandl/web/text-pages/006.html",
@@ -7048,8 +7153,8 @@
     },
     {
       "path": "readers/enzensberger-jandl/web/text-pages/009.html",
-      "bytes": 250139,
-      "sha256": "7cf0f0157a6b1f7b965a816252ff76be517c51048248ca91124efaa84fb5fa46"
+      "bytes": 251928,
+      "sha256": "524a79ea610151f3ddffb32471d9b700c69fec461dfef8228b260428138c70ef"
     },
     {
       "path": "readers/enzensberger-jandl/web/text-pages/010.html",
@@ -7568,8 +7673,8 @@
     },
     {
       "path": "readers/enzensberger-jandl/恩岑斯贝格尔_杨德尔诗选_逐词译注读本.pdf",
-      "bytes": 1498351,
-      "sha256": "3e356b6b47551db5a14f419096cf639b4c5814ed0b6748c6fde6d9dac41a9f82"
+      "bytes": 1856346,
+      "sha256": "26e4e94a0b8a35f175c37a799646ceb91bb6d02d401d22429771ca3b9c9c6b70"
     },
     {
       "path": "readers/george-hofmannsthal/ReaderSongBold-068172873bf1.woff2",
@@ -10302,6 +10407,11 @@
       "sha256": "9f58c7014f984133169bbb2f4262cf99bde796e996a85f374d8f069d00df2775"
     },
     {
+      "path": "readers/lasker/ReaderSongBold-ce4d7c4f2331.woff2",
+      "bytes": 2188,
+      "sha256": "ce4d7c4f233132f8c10fa4797982e86848db509d06adfb1dfc21c499675511b5"
+    },
+    {
       "path": "readers/lasker/ReaderSongBold-f7c9208f3f98.woff2",
       "bytes": 64848,
       "sha256": "f7c9208f3f9856602004ad4e192844da639372285d23acfb520e5a095089c375"
@@ -10322,6 +10432,11 @@
       "sha256": "7c3cab3d0fc5e4ab12dc53b0a8436556be6259b7f569f07535a8855e1a79c097"
     },
     {
+      "path": "readers/lasker/ReaderSongLight-83917446123d.woff2",
+      "bytes": 26564,
+      "sha256": "83917446123d6e5ee6ea33c7524495f22b026d8ecc5438be22fc142af956f334"
+    },
+    {
       "path": "readers/lasker/ReaderSongLight-bc1391cc7fba.woff2",
       "bytes": 259596,
       "sha256": "bc1391cc7fba24dc386adc25b4fe3854c20e03e8d993065fceb16e3ce2ae95ea"
@@ -10335,6 +10450,11 @@
       "path": "readers/lasker/ReaderSongLight-ecfa78100f51.woff2",
       "bytes": 35360,
       "sha256": "ecfa78100f51c35bbc0fd10d0b35b456391f01bc86f4cb58501b134c30800474"
+    },
+    {
+      "path": "readers/lasker/ReaderTimes-03cc175dd05c.woff2",
+      "bytes": 20176,
+      "sha256": "03cc175dd05c5a75b7e1bce7490054c1e000a616f748e79454029bc33d33d896"
     },
     {
       "path": "readers/lasker/ReaderTimes-33f14bfac300.woff2",
@@ -10390,6 +10510,11 @@
       "path": "readers/lasker/ReaderTimesBold-d613b7781294.woff2",
       "bytes": 26372,
       "sha256": "d613b778129463634e0463c151ab97c8fb5cd79e35dd452cdd0187edb5c28107"
+    },
+    {
+      "path": "readers/lasker/ReaderTimesBold-e540b068b74c.woff2",
+      "bytes": 15788,
+      "sha256": "e540b068b74cd22d6621dfe19b730a7a4459b4069830af196be94751c7a9c167"
     },
     {
       "path": "readers/lasker/audio-player.css",
@@ -10518,13 +10643,13 @@
     },
     {
       "path": "readers/lasker/content.json",
-      "bytes": 311436,
-      "sha256": "0b860adc4abace059503c843930f3d6455f36d6d2f1648d1cf3e22c44a265a76"
+      "bytes": 311443,
+      "sha256": "a5b87921b0a6d90e8dda0fee7a5cc65983d43eeb2b98ee5b99e5ad403c98386b"
     },
     {
       "path": "readers/lasker/index.html",
       "bytes": 81492,
-      "sha256": "307e003b0a7edf68643017a266538352ddac23be01db002ee1d01a284e993cd6"
+      "sha256": "710edacb19eb7540a290c8ea42e2801e63f9a777b4469e17f2ab393d7271c6ce"
     },
     {
       "path": "readers/lasker/layout.json",
@@ -10533,8 +10658,8 @@
     },
     {
       "path": "readers/lasker/reader.css",
-      "bytes": 21563,
-      "sha256": "e63e08d639d93ff3bb56ab18e6525dece92109479df51e0604e4add2950779d3"
+      "bytes": 22142,
+      "sha256": "eae1dfda72cb10480195d61b6d250425d0667c61fd0685c8bb36b61ae16d08a8"
     },
     {
       "path": "readers/lasker/series.css",
@@ -10638,8 +10763,8 @@
     },
     {
       "path": "readers/lasker/web/text-pages/020.html",
-      "bytes": 95608,
-      "sha256": "031e1178f07b34c4d5e2d93e5127987d6f0c810c5f1c395d4dde444cfed76ca8"
+      "bytes": 100545,
+      "sha256": "ab7c5911a9970ee49d0c628abb9e1926519c24488adaf0e1b42fd2d99c0a9d25"
     },
     {
       "path": "readers/lasker/web/text-pages/021.html",
@@ -10943,8 +11068,8 @@
     },
     {
       "path": "readers/lasker/拉斯克－许勒／萨克斯28首逐词译注读本.pdf",
-      "bytes": 1355907,
-      "sha256": "ebd46ee8ec0ae1a165caf5bb790e198a311616c706899750714f152531adef96"
+      "bytes": 1363040,
+      "sha256": "a13c7fb56b0ad1611e44884b8c3dd6ad4190d8a9a09827a7cc28d7e58e3f0027"
     },
     {
       "path": "readers/nietzsche/ReaderSongBold-65d556ea4ec8.woff2",
@@ -11477,6 +11602,11 @@
       "sha256": "3bbdd02979a63aa465b4732b96fee5a1143c995cb81fa611346a9a7681885a52"
     },
     {
+      "path": "readers/rilke/ReaderSongBold-00f54c656a94.woff2",
+      "bytes": 3340,
+      "sha256": "00f54c656a94a548f578f1ea9dd0c07d6e18624ccfb05432eac77147f60b05c8"
+    },
+    {
       "path": "readers/rilke/ReaderSongBold-114b53083365.woff2",
       "bytes": 42184,
       "sha256": "114b530833654782f46c1209507e9f27badd9bf91c53323ed8d2467c2ca6a8df"
@@ -11487,9 +11617,24 @@
       "sha256": "76b3967eb5fe117bcd96cb42aa073349e921086c020da94bcf0c271b1fc8f63b"
     },
     {
+      "path": "readers/rilke/ReaderSongLight-7da87fadef0a.woff2",
+      "bytes": 25568,
+      "sha256": "7da87fadef0a174837a7a915f7babc93d132fe47b00c171f61ce186f713d7a1d"
+    },
+    {
+      "path": "readers/rilke/ReaderTimes-441d632e8125.woff2",
+      "bytes": 29772,
+      "sha256": "441d632e812510bf5661025ee573d2562f96290a299c924b10c2669d74871b10"
+    },
+    {
       "path": "readers/rilke/ReaderTimes-848cfdcd303f.woff2",
       "bytes": 34844,
       "sha256": "848cfdcd303f9d4cb335c0bfebb24080b532a88b62d983f06921374b2c0e69b1"
+    },
+    {
+      "path": "readers/rilke/ReaderTimesBold-6cc0ac76b1eb.woff2",
+      "bytes": 12480,
+      "sha256": "6cc0ac76b1eb44cc789696c8f6a2830de0b54b9ff11550431dfb8a3d047447bf"
     },
     {
       "path": "readers/rilke/ReaderTimesBold-c8f4845545a9.woff2",
@@ -11618,8 +11763,8 @@
     },
     {
       "path": "readers/rilke/index.html",
-      "bytes": 67832,
-      "sha256": "61005f13f1a763569c7af402fb6ebab43d511803404ad8b4a01f14bcc596c0ef"
+      "bytes": 67847,
+      "sha256": "019b6e670d4d0a04f701aa500d5d1e2862312f15ccb6304bd06ea1b66b335915"
     },
     {
       "path": "readers/rilke/layout.json",
@@ -11628,8 +11773,8 @@
     },
     {
       "path": "readers/rilke/reader.css",
-      "bytes": 19439,
-      "sha256": "6f5a3faef676910b2318d9524300eac61e31acbf538d64287c094f150a1ea577"
+      "bytes": 20018,
+      "sha256": "c2fed039724be2db765bebbd250b167fbef862836a6f865b2244529bf08e342a"
     },
     {
       "path": "readers/rilke/series.css",
@@ -11753,8 +11898,8 @@
     },
     {
       "path": "readers/rilke/web/text-pages/024.html",
-      "bytes": 213361,
-      "sha256": "824ee3068edc936859344c00cfd2c9e57df74eac1033d9133558943dfba9a15c"
+      "bytes": 222288,
+      "sha256": "5391f6184a1f22ffae3e86f31165336e1e5903fb00b5c47f7770c97d9a4aff50"
     },
     {
       "path": "readers/rilke/web/text-pages/025.html",
@@ -11898,8 +12043,8 @@
     },
     {
       "path": "readers/rilke/里尔克诗选22首逐词译注读本.pdf",
-      "bytes": 1348109,
-      "sha256": "54b2a13adbd688466d9d5dcedeceb1afc1872954f0f0b589ddd47ebf0b5b9ade"
+      "bytes": 1178466,
+      "sha256": "762389797526aa078a59748c47f7946c15b80c5639aad912748da39365ec6b31"
     },
     {
       "path": "readers/romantics/ReaderSongBold-30a976eab0cd.woff2",
@@ -11917,9 +12062,19 @@
       "sha256": "9ff5ecbd02904ed9e5a2e980c8602cfb1381f276b539e1862baa81bb08d39e30"
     },
     {
+      "path": "readers/romantics/ReaderSongBold-c310050039f0.woff2",
+      "bytes": 1880,
+      "sha256": "c310050039f0778cad55a0e3da23ec6eb4dce6aa3121cc5fb04c32232415fe5d"
+    },
+    {
       "path": "readers/romantics/ReaderSongBold-f9e08c0dca66.woff2",
       "bytes": 66152,
       "sha256": "f9e08c0dca662ad46fbefce2e868c1625b041f706cb8ba676bdb4a4c0057419e"
+    },
+    {
+      "path": "readers/romantics/ReaderSongLight-20c3ed251523.woff2",
+      "bytes": 30984,
+      "sha256": "20c3ed251523538828105048f28c50ddf4148048d47640d634d1345ab9cf7eb4"
     },
     {
       "path": "readers/romantics/ReaderSongLight-4967e06e597c.woff2",
@@ -11947,6 +12102,11 @@
       "sha256": "7747f65dccd1a8eecb76c97bed5e75e6dfea1eebba4fd2ed21ce627e8b152fc4"
     },
     {
+      "path": "readers/romantics/ReaderTimes-90f190964455.woff2",
+      "bytes": 30048,
+      "sha256": "90f19096445541d0a2e6c82b16f7f2015d4ea6c012d52cb50af630702eb6cb9c"
+    },
+    {
       "path": "readers/romantics/ReaderTimes-bd3540404d2a.woff2",
       "bytes": 32084,
       "sha256": "bd3540404d2a22cff7f2314cb3803daf530da7975a6ae96493a3e31fb357c4e5"
@@ -11965,6 +12125,11 @@
       "path": "readers/romantics/ReaderTimesBold-035d791ad370.woff2",
       "bytes": 16368,
       "sha256": "035d791ad370000067ef5101235399f6db259e28c2b7bb9866e255be2708b7c9"
+    },
+    {
+      "path": "readers/romantics/ReaderTimesBold-1b100486628a.woff2",
+      "bytes": 6580,
+      "sha256": "1b100486628a07a4c401d6f70f7a151888bb630eb580d0bd97545714ab658463"
     },
     {
       "path": "readers/romantics/ReaderTimesBold-31f4b4f8ed88.woff2",
@@ -12108,13 +12273,13 @@
     },
     {
       "path": "readers/romantics/content.json",
-      "bytes": 528321,
-      "sha256": "90e00c72568b1650d54fd0482cc3c6c385cc4ad1ec390b8f3f2807a06cf3140a"
+      "bytes": 528325,
+      "sha256": "9f75c167ef97886046d4d912618ad2fd2ab5b75993505840f8ee11b886915dd1"
     },
     {
       "path": "readers/romantics/index.html",
       "bytes": 91951,
-      "sha256": "8aaa41bc050013633ba224d20bc708684abf029dd69f9ff7f0fb6ce0e4d9a6c1"
+      "sha256": "db000164bac3df75bb33d85c3f47c97a03e7b00059228ceb5d456568e78760dc"
     },
     {
       "path": "readers/romantics/layout.json",
@@ -12123,13 +12288,13 @@
     },
     {
       "path": "readers/romantics/reader.css",
-      "bytes": 21160,
-      "sha256": "3ea70ea0fa0a46f7ca4c7a8cd6444926d5043f50585e83e743a6e61dc3ebd022"
+      "bytes": 21739,
+      "sha256": "8e276f1f7004c47387cb44cb579de13af4ee64530b5068874fe97f28626ec589"
     },
     {
       "path": "readers/romantics/web-validation.json",
       "bytes": 8415,
-      "sha256": "65c38420597ae3043682474bfb53906087d74109827e3754d0154b7f9ea24934"
+      "sha256": "7d7ac9f2224da867706c2e35984e5e9d422616745d5c4e444a26382e1c164acb"
     },
     {
       "path": "readers/romantics/web/text-pages/001.html",
@@ -12163,8 +12328,8 @@
     },
     {
       "path": "readers/romantics/web/text-pages/007.html",
-      "bytes": 299744,
-      "sha256": "7d47f311ee9c772fc7db1706c20eedfd1392dbd3ff02caf42406144db4534fda"
+      "bytes": 311265,
+      "sha256": "e20fbfb88d4d3b7a3733d10a3cda7032bc49953b54bd186a6bb5a3908815c762"
     },
     {
       "path": "readers/romantics/web/text-pages/008.html",
@@ -12643,8 +12808,8 @@
     },
     {
       "path": "readers/romantics/诺瓦利斯_艾兴多夫_德罗斯特诗选_逐词译注读本.pdf",
-      "bytes": 1475312,
-      "sha256": "db4c43716adbf658c067553580e2bb3aab6caf761ee99e75d818bc1a5a252c2a"
+      "bytes": 1547655,
+      "sha256": "e83645d31ded77e2202762aeb8ec784a5f603d5dff721e3b3af4e5fdbb9bfbc9"
     },
     {
       "path": "readers/trakl/ReaderSongBold-38dc57e0510f.woff2",
@@ -12667,6 +12832,11 @@
       "sha256": "ec3fe8a0f2ccc875097c6ce5079fea1472cecc696d6dc47be8e5ce42547ccf86"
     },
     {
+      "path": "readers/trakl/ReaderSongBold-fbfdd3ce81ed.woff2",
+      "bytes": 3264,
+      "sha256": "fbfdd3ce81ed6d01bbd48a7a490920b23a434f7d066d60f501c2d843a43d8866"
+    },
+    {
       "path": "readers/trakl/ReaderSongLight-0d65e796ab45.woff2",
       "bytes": 203056,
       "sha256": "0d65e796ab452e54f1d9d92edf7a42cd1469c2da9a2695f2d982f851c01127ca"
@@ -12677,6 +12847,11 @@
       "sha256": "2ec5f952b0fe03bb6bbf451efe5439fb8a1e4c1e7162a318be7a659afae86f3d"
     },
     {
+      "path": "readers/trakl/ReaderSongLight-713c75fa671e.woff2",
+      "bytes": 20556,
+      "sha256": "713c75fa671e0b8189e9eccb059c2f956b6b4e0727431dd8442993eca05a7469"
+    },
+    {
       "path": "readers/trakl/ReaderSongLight-a2c174c9016d.woff2",
       "bytes": 203160,
       "sha256": "a2c174c9016d0df2edca77c068f27129a510fe598a20e8fec2c1c34b0d1960c0"
@@ -12685,6 +12860,11 @@
       "path": "readers/trakl/ReaderSongLight-ae7d236c2c0f.woff2",
       "bytes": 203036,
       "sha256": "ae7d236c2c0f4e57f86daebad5b8e07b546b5aa23d61884862ec9c620e98dedd"
+    },
+    {
+      "path": "readers/trakl/ReaderTimes-17eafe85572b.woff2",
+      "bytes": 28412,
+      "sha256": "17eafe85572b05202b1b98c8e1b312700cdeffe53d0e5f39383d49aac1096fb2"
     },
     {
       "path": "readers/trakl/ReaderTimes-495dc3d87e69.woff2",
@@ -12705,6 +12885,11 @@
       "path": "readers/trakl/ReaderTimes-d67521d2332b.woff2",
       "bytes": 33620,
       "sha256": "d67521d2332ba8fed46e3621cd019e7a4b02f9c0e5db15d63aa630abd41812db"
+    },
+    {
+      "path": "readers/trakl/ReaderTimesBold-45365163bc82.woff2",
+      "bytes": 12424,
+      "sha256": "45365163bc827031015eea45615d26f183a7da89dc1a5ce8160f8ef40ba95630"
     },
     {
       "path": "readers/trakl/ReaderTimesBold-5f66e1785953.woff2",
@@ -12854,7 +13039,7 @@
     {
       "path": "readers/trakl/index.html",
       "bytes": 67507,
-      "sha256": "0e7e6925cfa7c8b12b242ca6e85a4665afe24727b32e7c83de49a703d90e82db"
+      "sha256": "a1920f95897b0b2cee668800690e16c0298c70b7825cdaab4ce01158b0415e6c"
     },
     {
       "path": "readers/trakl/layout.json",
@@ -12863,8 +13048,8 @@
     },
     {
       "path": "readers/trakl/reader.css",
-      "bytes": 20531,
-      "sha256": "5ae6e6b4f59c5edce24aad3f5599e44e9d6804d85c9440c1502c12f3d8465dde"
+      "bytes": 21110,
+      "sha256": "387a86ea4fe5458606dddc72a55716031ba29fc1f5934fd306987df3461bb8ec"
     },
     {
       "path": "readers/trakl/series.css",
@@ -13083,8 +13268,8 @@
     },
     {
       "path": "readers/trakl/web/text-pages/043.html",
-      "bytes": 151966,
-      "sha256": "3fc601980496da4b1a748168acfc575c9df1fd2b533714c58e47c53f13c044af"
+      "bytes": 158616,
+      "sha256": "cd3161be7cd07a04bc2ed721d3ab663e4889ebe082572f158f04f483b573cc31"
     },
     {
       "path": "readers/trakl/web/text-pages/044.html",
@@ -13123,13 +13308,13 @@
     },
     {
       "path": "readers/trakl/特拉克尔诗选23首逐词译注读本.pdf",
-      "bytes": 2194656,
-      "sha256": "8b16029d9d0562e906617609c9bca18e68365a9f9f95b49310a8fe08e53e8286"
+      "bytes": 1119678,
+      "sha256": "58121f97bc0dfb134b175500466ab391c4c590f019e0f2afcb0f9595a7536a4a"
     },
     {
       "path": "release.json",
-      "bytes": 7799,
-      "sha256": "04907201471710843ded4fef3f10652f92a6aa2cdfba61ee2ad21774ba2e5e65"
+      "bytes": 8158,
+      "sha256": "ee033119cc6a0349c621e98a6decf09e5400d833a6cb72c368d6f910ed095ebd"
     },
     {
       "path": "templates/语法手册项目模板.md",
@@ -13167,7 +13352,7 @@
       "author_recordings": 8,
       "path": "readers/atemkristall/index.html",
       "pdf": "readers/atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0.pdf",
-      "pdf_sha256": "008bdd72e8e61ccafa1c9b1c6319b3640bdd15a034a1502dd58c5c963e4fc501",
+      "pdf_sha256": "53bd31bbc1fc4109c93057ba22230d51828fc8e82a7676208058e5cbe6b21ed6",
       "button_color": "#629987",
       "page_main_color": "#2A7775"
     },
@@ -13179,7 +13364,7 @@
       "author_recordings": 12,
       "path": "readers/bachmann/index.html",
       "pdf": "readers/bachmann/巴赫曼诗选30首逐词译注读本.pdf",
-      "pdf_sha256": "24f69c1f81b389211b97b8811da4a4663d9d35dedbf8e8930538095879337411",
+      "pdf_sha256": "4ac69d7744d7fc0098b617a395919e36ec9c9ba1c78203b377dc0b41e3185c26",
       "button_color": "#D4A27F",
       "page_main_color": "#85644D"
     },
@@ -13203,7 +13388,7 @@
       "author_recordings": 4,
       "path": "readers/brecht/index.html",
       "pdf": "readers/brecht/布莱希特诗选29首逐词译注读本.pdf",
-      "pdf_sha256": "c95608db989e4f7c361b8b65a65b07c9496becddcf5e1ec237dbcc98ddbdb68a",
+      "pdf_sha256": "f3927d1b472b3f8511f36ee9c3e6bd11ed201cd64baf0e9b7d3f40a94a688c9c",
       "button_color": "#DE6262",
       "page_main_color": "#8B504E"
     },
@@ -13215,7 +13400,7 @@
       "author_recordings": 15,
       "path": "readers/celan-new/index.html",
       "pdf": "readers/celan-new/策兰诗选34首逐词译注读本.pdf",
-      "pdf_sha256": "91b16965e5b7e33aa9cdb17ec77ea4d6d796cfd0ca9eb863adf9cbd117054b73",
+      "pdf_sha256": "733f5beb2a9726787745b5cbf70da99016c93db1aed403c698714bab709be0de",
       "button_color": "#788C5D",
       "page_main_color": "#52613F"
     },
@@ -13227,7 +13412,7 @@
       "author_recordings": 21,
       "path": "readers/enzensberger-jandl/index.html",
       "pdf": "readers/enzensberger-jandl/恩岑斯贝格尔_杨德尔诗选_逐词译注读本.pdf",
-      "pdf_sha256": "3e356b6b47551db5a14f419096cf639b4c5814ed0b6748c6fde6d9dac41a9f82",
+      "pdf_sha256": "26e4e94a0b8a35f175c37a799646ceb91bb6d02d401d22429771ca3b9c9c6b70",
       "button_color": "#559C9D",
       "page_main_color": "#396C6D"
     },
@@ -13287,7 +13472,7 @@
       "author_recordings": 5,
       "path": "readers/lasker/index.html",
       "pdf": "readers/lasker/拉斯克－许勒／萨克斯28首逐词译注读本.pdf",
-      "pdf_sha256": "ebd46ee8ec0ae1a165caf5bb790e198a311616c706899750714f152531adef96",
+      "pdf_sha256": "a13c7fb56b0ad1611e44884b8c3dd6ad4190d8a9a09827a7cc28d7e58e3f0027",
       "button_color": "#827DBD",
       "page_main_color": "#58557F"
     },
@@ -13311,7 +13496,7 @@
       "author_recordings": 0,
       "path": "readers/rilke/index.html",
       "pdf": "readers/rilke/里尔克诗选22首逐词译注读本.pdf",
-      "pdf_sha256": "54b2a13adbd688466d9d5dcedeceb1afc1872954f0f0b589ddd47ebf0b5b9ade",
+      "pdf_sha256": "762389797526aa078a59748c47f7946c15b80c5639aad912748da39365ec6b31",
       "button_color": "#C46849",
       "page_main_color": "#8B6041"
     },
@@ -13323,7 +13508,7 @@
       "author_recordings": 0,
       "path": "readers/romantics/index.html",
       "pdf": "readers/romantics/诺瓦利斯_艾兴多夫_德罗斯特诗选_逐词译注读本.pdf",
-      "pdf_sha256": "db4c43716adbf658c067553580e2bb3aab6caf761ee99e75d818bc1a5a252c2a",
+      "pdf_sha256": "e83645d31ded77e2202762aeb8ec784a5f603d5dff721e3b3af4e5fdbb9bfbc9",
       "button_color": "#9B88AA",
       "page_main_color": "#6E5C7D"
     },
@@ -13335,13 +13520,13 @@
       "author_recordings": 0,
       "path": "readers/trakl/index.html",
       "pdf": "readers/trakl/特拉克尔诗选23首逐词译注读本.pdf",
-      "pdf_sha256": "8b16029d9d0562e906617609c9bca18e68365a9f9f95b49310a8fe08e53e8286",
+      "pdf_sha256": "58121f97bc0dfb134b175500466ab391c4c590f019e0f2afcb0f9595a7536a4a",
       "button_color": "#6A9BCC",
       "page_main_color": "#355570"
     }
   ],
   "website": "https://laiyutao.github.io/poetry-language-readers/",
   "web_format": "fifteen-readers-selectable-svg",
-  "current_release": "release.json",
+  "current_release": "fifteen-readers-polysemy-20261108",
   "preview_only": false
 }

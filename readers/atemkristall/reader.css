@@ -42,3 +42,8 @@ header[data-layout="compact"] #playback{flex:0 0 100%;min-width:0;flex-wrap:wrap
 @font-face{font-family:"ReaderBaskerville";font-weight:400;src:url("ReaderBaskerville-9f428d2f27e5.woff2") format("woff2");font-display:block}
 .sheet-vector{width:100%;height:auto;display:block}
 .audio-index{aspect-ratio:auto!important;min-height:400px;padding:40px;font:14px/1.7 system-ui,sans-serif}.audio-index h2{font-size:20px}.audio-index li{margin:18px 0}.audio-index a{color:#2A7775}
+
+@font-face{font-family:"PolysemyReaderTimes";font-weight:400;src:url("ReaderTimes-36699a4052c2.woff2") format("woff2");font-display:block}
+@font-face{font-family:"PolysemyReaderSongLight";font-weight:300;src:url("ReaderSongLight-d03e3318b339.woff2") format("woff2");font-display:block}
+@font-face{font-family:"PolysemyReaderSongBold";font-weight:700;src:url("ReaderSongBold-3b985aac52e5.woff2") format("woff2");font-display:block}
+@font-face{font-family:"PolysemyReaderTimesBold";font-weight:700;src:url("ReaderTimesBold-b66c53dd4bfc.woff2") format("woff2");font-display:block}

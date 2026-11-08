@@ -1,5 +1,5 @@
 {
-  "version": "fifteen-readers-20261108",
+  "version": "fifteen-readers-polysemy-20261108",
   "date": "2026-11-08",
   "status": "release",
   "published": true,
@@ -31,8 +31,8 @@
       "contents_page": 4,
       "continuation_notices": 0,
       "pdf": "策兰《呼吸结晶》21首逐词译注读本_v2.0.pdf",
-      "pdf_sha256": "008bdd72e8e61ccafa1c9b1c6319b3640bdd15a034a1502dd58c5c963e4fc501",
-      "old_pdf_preserved": true
+      "pdf_sha256": "53bd31bbc1fc4109c93057ba22230d51828fc8e82a7676208058e5cbe6b21ed6",
+      "old_pdf_preserved": false
     },
     {
       "slug": "bachmann",
@@ -43,8 +43,8 @@
       "contents_page": 4,
       "continuation_notices": 13,
       "pdf": "巴赫曼诗选30首逐词译注读本.pdf",
-      "pdf_sha256": "24f69c1f81b389211b97b8811da4a4663d9d35dedbf8e8930538095879337411",
-      "old_pdf_preserved": true
+      "pdf_sha256": "4ac69d7744d7fc0098b617a395919e36ec9c9ba1c78203b377dc0b41e3185c26",
+      "old_pdf_preserved": false
     },
     {
       "slug": "benn",
@@ -67,7 +67,7 @@
       "contents_page": 4,
       "continuation_notices": 11,
       "pdf": "布莱希特诗选29首逐词译注读本.pdf",
-      "pdf_sha256": "c95608db989e4f7c361b8b65a65b07c9496becddcf5e1ec237dbcc98ddbdb68a",
+      "pdf_sha256": "f3927d1b472b3f8511f36ee9c3e6bd11ed201cd64baf0e9b7d3f40a94a688c9c",
       "old_pdf_preserved": false
     },
     {
@@ -79,8 +79,8 @@
       "contents_page": 4,
       "continuation_notices": 18,
       "pdf": "策兰诗选34首逐词译注读本.pdf",
-      "pdf_sha256": "91b16965e5b7e33aa9cdb17ec77ea4d6d796cfd0ca9eb863adf9cbd117054b73",
-      "old_pdf_preserved": true
+      "pdf_sha256": "733f5beb2a9726787745b5cbf70da99016c93db1aed403c698714bab709be0de",
+      "old_pdf_preserved": false
     },
     {
       "slug": "enzensberger-jandl",
@@ -91,7 +91,7 @@
       "contents_page": 4,
       "continuation_notices": 14,
       "pdf": "恩岑斯贝格尔_杨德尔诗选_逐词译注读本.pdf",
-      "pdf_sha256": "3e356b6b47551db5a14f419096cf639b4c5814ed0b6748c6fde6d9dac41a9f82",
+      "pdf_sha256": "26e4e94a0b8a35f175c37a799646ceb91bb6d02d401d22429771ca3b9c9c6b70",
       "old_pdf_preserved": false
     },
     {
@@ -151,8 +151,8 @@
       "contents_page": 4,
       "continuation_notices": 4,
       "pdf": "拉斯克－许勒／萨克斯28首逐词译注读本.pdf",
-      "pdf_sha256": "ebd46ee8ec0ae1a165caf5bb790e198a311616c706899750714f152531adef96",
-      "old_pdf_preserved": true
+      "pdf_sha256": "a13c7fb56b0ad1611e44884b8c3dd6ad4190d8a9a09827a7cc28d7e58e3f0027",
+      "old_pdf_preserved": false
     },
     {
       "slug": "nietzsche",
@@ -175,8 +175,8 @@
       "contents_page": 4,
       "continuation_notices": 0,
       "pdf": "里尔克诗选22首逐词译注读本.pdf",
-      "pdf_sha256": "54b2a13adbd688466d9d5dcedeceb1afc1872954f0f0b589ddd47ebf0b5b9ade",
-      "old_pdf_preserved": true
+      "pdf_sha256": "762389797526aa078a59748c47f7946c15b80c5639aad912748da39365ec6b31",
+      "old_pdf_preserved": false
     },
     {
       "slug": "romantics",
@@ -187,7 +187,7 @@
       "contents_page": 4,
       "continuation_notices": 22,
       "pdf": "诺瓦利斯_艾兴多夫_德罗斯特诗选_逐词译注读本.pdf",
-      "pdf_sha256": "db4c43716adbf658c067553580e2bb3aab6caf761ee99e75d818bc1a5a252c2a",
+      "pdf_sha256": "e83645d31ded77e2202762aeb8ec784a5f603d5dff721e3b3af4e5fdbb9bfbc9",
       "old_pdf_preserved": false
     },
     {
@@ -199,8 +199,8 @@
       "contents_page": 4,
       "continuation_notices": 0,
       "pdf": "特拉克尔诗选23首逐词译注读本.pdf",
-      "pdf_sha256": "8b16029d9d0562e906617609c9bca18e68365a9f9f95b49310a8fe08e53e8286",
-      "old_pdf_preserved": true
+      "pdf_sha256": "58121f97bc0dfb134b175500466ab391c4c590f019e0f2afcb0f9595a7536a4a",
+      "old_pdf_preserved": false
     }
   ],
   "homepage_order": [
@@ -257,5 +257,22 @@
     ],
     "first_three_readers_unchanged": true,
     "poem_text_translation_pagination_and_audio_unchanged": true
+  },
+  "polysemy_revision": {
+    "date": "2026-11-08",
+    "changed_glosses": 13,
+    "changed_pages": 13,
+    "affected_volumes": [
+      "celan-new",
+      "bachmann",
+      "brecht",
+      "enzensberger-jandl",
+      "lasker",
+      "romantics",
+      "atemkristall",
+      "rilke",
+      "trakl"
+    ],
+    "original_three_reviewed": true
   }
 }
