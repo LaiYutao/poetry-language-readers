@@ -1,6 +1,6 @@
 {
-  "version": "fifteen-readers-polysemy-20261108",
-  "date": "2026-11-08",
+  "version": "fifteen-readers-lichtton-20261109",
+  "date": "2026-11-09",
   "status": "release",
   "published": true,
   "poems": 402,
@@ -31,7 +31,7 @@
       "contents_page": 4,
       "continuation_notices": 0,
       "pdf": "策兰《呼吸结晶》21首逐词译注读本_v2.0.pdf",
-      "pdf_sha256": "53bd31bbc1fc4109c93057ba22230d51828fc8e82a7676208058e5cbe6b21ed6",
+      "pdf_sha256": "ea3348fcfc80d9bfcb70ddecc5e50d4dc6831d9444fea75f67be7823b75c39b9",
       "old_pdf_preserved": false
     },
     {
@@ -274,5 +274,12 @@
       "trakl"
     ],
     "original_three_reviewed": true
+  },
+  "lichtton_revision": {
+    "date": "2026-11-09",
+    "reader": "atemkristall",
+    "page": 33,
+    "word": "Lichtton",
+    "gloss": "光学声道"
   }
 }

@@ -47,3 +47,8 @@ header[data-layout="compact"] #playback{flex:0 0 100%;min-width:0;flex-wrap:wrap
 @font-face{font-family:"PolysemyReaderSongLight";font-weight:300;src:url("ReaderSongLight-d03e3318b339.woff2") format("woff2");font-display:block}
 @font-face{font-family:"PolysemyReaderSongBold";font-weight:700;src:url("ReaderSongBold-3b985aac52e5.woff2") format("woff2");font-display:block}
 @font-face{font-family:"PolysemyReaderTimesBold";font-weight:700;src:url("ReaderTimesBold-b66c53dd4bfc.woff2") format("woff2");font-display:block}
+
+@font-face{font-family:"LichttonReaderTimes";font-weight:400;src:url("ReaderTimes-8c514e48477f.woff2") format("woff2");font-display:block}
+@font-face{font-family:"LichttonReaderSongLight";font-weight:300;src:url("ReaderSongLight-80e87fe4a2c3.woff2") format("woff2");font-display:block}
+@font-face{font-family:"LichttonReaderSongBold";font-weight:700;src:url("ReaderSongBold-7dc6a58f6530.woff2") format("woff2");font-display:block}
+@font-face{font-family:"LichttonReaderTimesBold";font-weight:700;src:url("ReaderTimesBold-1b389c591ab9.woff2") format("woff2");font-display:block}

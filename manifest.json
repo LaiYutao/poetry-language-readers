@@ -133,8 +133,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 11494,
-      "sha256": "b8f913874550d1c9c957ee961562894e939ed16087e7196119f4ffc252bf58fd"
+      "bytes": 11676,
+      "sha256": "b99bbe07a40d81512c4c956581f6215ed948965b079031726b66b1ed5f713992"
     },
     {
       "path": "COPYRIGHT.md",
@@ -2612,6 +2612,16 @@
       "sha256": "3b985aac52e59f0cca4fae57840e8799deb94fe50b353163a99f4dbfb721aae7"
     },
     {
+      "path": "readers/atemkristall/ReaderSongBold-7dc6a58f6530.woff2",
+      "bytes": 3268,
+      "sha256": "7dc6a58f65307c1eee70eeddd55287d7b0fa0b2a511938b74a14eb04e4dd0087"
+    },
+    {
+      "path": "readers/atemkristall/ReaderSongLight-80e87fe4a2c3.woff2",
+      "bytes": 16464,
+      "sha256": "80e87fe4a2c3ee1173bd807863205dd90effbf4b150cbee4371ad79d1602fec6"
+    },
+    {
       "path": "readers/atemkristall/ReaderSongLight-94983f1799a1.woff2",
       "bytes": 176236,
       "sha256": "94983f1799a145a47449dcc2e0e8c9480e98bc33a10d600ed93c24fcb1da067b"
@@ -2637,6 +2647,11 @@
       "sha256": "82a248cfd4e066ba2f90977b4c53a6152c61515d1bc9a3f81ecf6399732b03e2"
     },
     {
+      "path": "readers/atemkristall/ReaderTimes-8c514e48477f.woff2",
+      "bytes": 26072,
+      "sha256": "8c514e48477f609e0f2e8bb8cae0250718e1ec8a6b79d86c46c900f4bf7ad050"
+    },
+    {
       "path": "readers/atemkristall/ReaderTimes-e83b98a70b63.woff2",
       "bytes": 33944,
       "sha256": "e83b98a70b6394665bbb5d361289914bbedaa228b71deaf2e3a4b5a610b04369"
@@ -2645,6 +2660,11 @@
       "path": "readers/atemkristall/ReaderTimesBold-043284104ce2.woff2",
       "bytes": 25460,
       "sha256": "043284104ce249fe7217b5b4c2c55d0c6f56631ab1a64c0179bc9eed09cc0930"
+    },
+    {
+      "path": "readers/atemkristall/ReaderTimesBold-1b389c591ab9.woff2",
+      "bytes": 12160,
+      "sha256": "1b389c591ab91f0e48118e81902d13f78aa77cfcb580003b99545c0d915a5ac9"
     },
     {
       "path": "readers/atemkristall/ReaderTimesBold-2a360dcd3413.woff2",
@@ -2774,12 +2794,12 @@
     {
       "path": "readers/atemkristall/index.html",
       "bytes": 70890,
-      "sha256": "befc6f708341b1df3908a9e4d46f602b59cef4c45b19959dcdefe4ffe2f46d58"
+      "sha256": "a5db525f6552791b60addc60f66707a7ac2a78b2044a6c71d6d4159b7c59d039"
     },
     {
       "path": "readers/atemkristall/reader.css",
-      "bytes": 20443,
-      "sha256": "b66260cfc389c7cbfa1e795e18b59a6e039d5d71348cddbd07111c680646100c"
+      "bytes": 21022,
+      "sha256": "cbb0705f171777acbfa3debf4f361abb681a4f579b420aa0e00983fc6f01a8d6"
     },
     {
       "path": "readers/atemkristall/series.css",
@@ -2948,8 +2968,8 @@
     },
     {
       "path": "readers/atemkristall/web/text-pages/033.html",
-      "bytes": 92409,
-      "sha256": "9022d9ac89a814c3b99b2dccf4bd4bcb38329a67bb66cf2313ec70b7ce9963aa"
+      "bytes": 92037,
+      "sha256": "b7ead7a0f3ba2ff3de3c439927bd69f44568f865644223c42db816649d3a8961"
     },
     {
       "path": "readers/atemkristall/web/text-pages/034.html",
@@ -3038,8 +3058,8 @@
     },
     {
       "path": "readers/atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0.pdf",
-      "bytes": 800883,
-      "sha256": "53bd31bbc1fc4109c93057ba22230d51828fc8e82a7676208058e5cbe6b21ed6"
+      "bytes": 819267,
+      "sha256": "ea3348fcfc80d9bfcb70ddecc5e50d4dc6831d9444fea75f67be7823b75c39b9"
     },
     {
       "path": "readers/bachmann/ReaderSongBold-200fd95ee65b.woff2",
@@ -13313,8 +13333,8 @@
     },
     {
       "path": "release.json",
-      "bytes": 8158,
-      "sha256": "ee033119cc6a0349c621e98a6decf09e5400d833a6cb72c368d6f910ed095ebd"
+      "bytes": 8312,
+      "sha256": "ab5d947c1fa98070baddd1ba8623b7abbea6b3a3103774b3d9a190421bb6b04a"
     },
     {
       "path": "templates/语法手册项目模板.md",
@@ -13342,7 +13362,7 @@
       "sha256": "b43553460742dff618459da308cc9fa603e1575c86078a881cad2d42371e5b30"
     }
   ],
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "web_audio_readers": [
     {
       "name": "策兰《呼吸结晶》",
@@ -13352,7 +13372,7 @@
       "author_recordings": 8,
       "path": "readers/atemkristall/index.html",
       "pdf": "readers/atemkristall/策兰《呼吸结晶》21首逐词译注读本_v2.0.pdf",
-      "pdf_sha256": "53bd31bbc1fc4109c93057ba22230d51828fc8e82a7676208058e5cbe6b21ed6",
+      "pdf_sha256": "ea3348fcfc80d9bfcb70ddecc5e50d4dc6831d9444fea75f67be7823b75c39b9",
       "button_color": "#629987",
       "page_main_color": "#2A7775"
     },
@@ -13527,6 +13547,6 @@
   ],
   "website": "https://laiyutao.github.io/poetry-language-readers/",
   "web_format": "fifteen-readers-selectable-svg",
-  "current_release": "fifteen-readers-polysemy-20261108",
+  "current_release": "fifteen-readers-lichtton-20261109",
   "preview_only": false
 }
